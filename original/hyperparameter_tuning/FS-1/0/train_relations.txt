@@ -1,0 +1,25 @@
+author
+cast member
+conflict
+continent
+country
+creator
+director
+father
+inception
+located in the administrative territorial entity
+military branch
+mouth of the watercourse
+named after
+native language
+parent taxon
+participant of
+performer
+place of birth
+place of death
+present in work
+publication date
+publisher
+series
+sport
+spouse

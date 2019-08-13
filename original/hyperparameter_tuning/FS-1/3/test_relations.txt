@@ -1,0 +1,10 @@
+author
+continent
+country
+date of birth
+educated at
+founder
+licensed to broadcast to
+mouth of the watercourse
+performer
+taxon rank

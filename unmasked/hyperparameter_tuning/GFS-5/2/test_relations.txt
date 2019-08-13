@@ -1,0 +1,10 @@
+country of citizenship
+employer
+father
+headquarters location
+named after
+narrative location
+original network
+position held
+present in work
+spouse

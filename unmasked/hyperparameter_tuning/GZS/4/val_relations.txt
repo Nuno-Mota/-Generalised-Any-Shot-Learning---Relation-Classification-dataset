@@ -1,0 +1,10 @@
+author
+conflict
+date of death
+father
+participant of
+position held
+publication date
+sport
+taxon rank
+voice type

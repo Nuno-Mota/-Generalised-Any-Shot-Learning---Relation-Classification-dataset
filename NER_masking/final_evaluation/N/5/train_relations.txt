@@ -1,0 +1,120 @@
+IUCN conservation status
+airline hub
+architect
+architectural style
+author
+award received
+based on
+brother
+canonization status
+cast member
+cause of death
+chairperson
+characters
+child
+chromosome
+collection
+conferred by
+conflict
+connecting line
+constellation
+continent
+convicted of
+country
+country of citizenship
+country of origin
+creator
+crosses
+date of birth
+date of death
+date of official opening
+designer
+developer
+director
+discoverer or inventor
+dissolved or abolished
+distributor
+drafted by
+editor
+educated at
+employer
+end time
+father
+film editor
+found in taxon
+founder
+from fictional universe
+head of government
+headquarters location
+home venue
+illustrator
+inception
+industry
+instrument
+instrumentation
+language of work or name
+languages spoken or written
+league
+license
+licensed to broadcast to
+located in the administrative territorial entity
+located next to body of water
+located on astronomical body
+location of formation
+lyrics by
+manner of death
+manufacturer
+material used
+medical condition
+member of political party
+member of sports team
+military branch
+military rank
+mother
+mouth of the watercourse
+named after
+narrative location
+native language
+noble family
+noble title
+nominated for
+occupant
+occupation
+operating system
+original network
+parent company
+parent taxon
+participant of
+performer
+place of birth
+place of burial
+place of death
+point in time
+position held
+position played on team / speciality
+present in work
+product
+production company
+programming language
+publication date
+publisher
+record label
+religious order
+replaced by
+residence
+screenwriter
+series
+service entry
+sex or gender
+sister
+site of astronomical discovery
+sport
+spouse
+standards body
+start time
+stock exchange
+taxon rank
+time of discovery
+time of spacecraft launch
+vessel class
+voice type

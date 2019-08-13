@@ -1,0 +1,10 @@
+child
+country of citizenship
+creator
+employer
+instrument
+languages spoken or written
+licensed to broadcast to
+member of political party
+position played on team / speciality
+sport

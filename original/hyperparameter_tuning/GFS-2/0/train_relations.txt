@@ -1,0 +1,25 @@
+award received
+cast member
+child
+conflict
+constellation
+country of citizenship
+creator
+date of birth
+date of death
+developer
+educated at
+instrument
+languages spoken or written
+located in the administrative territorial entity
+member of political party
+military branch
+mother
+occupation
+performer
+place of birth
+publisher
+record label
+spouse
+taxon rank
+voice type

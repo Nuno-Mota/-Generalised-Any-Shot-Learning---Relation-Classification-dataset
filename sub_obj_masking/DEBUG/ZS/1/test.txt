@@ -1,0 +1,10 @@
+SUBJECT_ENTITY is a historic church located on Stirling Highway in Magalia , OBJECT_ENTITY .
+SUBJECT_ENTITY is a regional park located in OBJECT_ENTITY Springs , OBJECT_ENTITY that has trails for hiking , horseback riding , running and cycling .
+The SUBJECT_ENTITY is a boarding school for students grades 9 - 12 , located in the mountains in Haverhill , OBJECT_ENTITY .
+SUBJECT_ENTITY ( ˈpɲɛvjɛ ) is a village in the administrative district of OBJECT_ENTITY , within Nysa County , Opole Voivodeship , in south - western Poland .
+SUBJECT_ENTITY ( ˈmilɛf ) is a village in the administrative district of OBJECT_ENTITY , within Mińsk County , Masovian Voivodeship , in east - central Poland .
+SUBJECT_ENTITY ( Scottish Gaelic : Cille Bhrìghde an Ear ) is the largest town in OBJECT_ENTITY in Scotland .
+SUBJECT_ENTITY ( Portuguese pronunciation : ( oðiˈvɛlɐʃ ) or ( ɔðiˈvɛlɐʃ ) ) is a city and a municipality in Lisbon Metropolitan Area , Portugal , in the OBJECT_ENTITY and the historical and cultural Estremadura Province .
+SUBJECT_ENTITY ( Persian : له گاوي دالون‎ , also Romanized as Lah Gāvī Dālūn ) is a village in OBJECT_ENTITY , Margown District , Boyer - Ahmad County , Kohgiluyeh and Boyer - Ahmad Province , Iran .
+SUBJECT_ENTITY ( Kannada : ಗೌಡ್ರು ) is a OBJECT_ENTITY Kannada drama film directed by S. Mahendar .
+SUBJECT_ENTITY of Hobart Boulevard Elementary School is a OBJECT_ENTITY documentary film that tells the story of the inspirational inner - city Los Angeles school teacher Rafe Esquith whose rigorous fifth - grade curriculum includes English , mathematics , geography , and literature .

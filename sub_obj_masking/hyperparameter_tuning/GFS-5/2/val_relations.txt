@@ -1,0 +1,10 @@
+author
+award received
+child
+conflict
+date of birth
+developer
+founder
+position played on team / speciality
+record label
+screenwriter

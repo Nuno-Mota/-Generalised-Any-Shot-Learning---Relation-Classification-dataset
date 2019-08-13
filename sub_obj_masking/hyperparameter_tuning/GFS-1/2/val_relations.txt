@@ -1,0 +1,10 @@
+child
+country
+director
+father
+manufacturer
+native language
+place of death
+present in work
+screenwriter
+spouse

@@ -1,0 +1,500 @@
+author	The Celebrity (An Episode) (1897) is the first novel that was published by American author Winston Churchill.	The Celebrity	Winston Churchill
+author	Restoree (1967) is a science fiction novel by Anne McCaffrey and her first book published.	Restoree	Anne McCaffrey
+author	The Forgotten Realms Campaign Guide was written by Philip Athans, Bruce R. Cordell, Ed Greenwood, and Chris Sims, and published in 2008.	Forgotten Realms Campaign Guide	Philip Athans	Ed Greenwood
+author	The Linguistics Wars is a colloquial term for a protracted academic dispute in American generative linguistics, stemming from a falling-out between Noam Chomsky and some of his early students and colleagues, which took place mostly in the 1960s and 1970s.	Linguistics Wars	Noam Chomsky
+author	Adventures in Time and Space was an anthology of science fiction stories edited by Raymond J. Healy and J. Francis McComas and published in 1946.	Adventures in Time and Space	Raymond J. Healy	J. Francis McComas
+author	La vita agra, known in English-speaking countries as It's a Hard Life, is a novel by Luciano Bianciardi published in 1962 by Rizzoli.	La vita agra	Luciano Bianciardi
+author	The America 2040 series (1986-1988) is a science fiction series by Evan Innes, a pen name for Hugh Zachary.	America 2040	Hugh Zachary
+author	Flight of Eagles is a novel by Jack Higgins, set in World War II.	Flight of Eagles	Jack Higgins
+author	Aurora's Whole Realms Catalogue was written by Anne Brown and J. Robert King, and published by TSR, Inc.	Aurora's Whole Realms Catalog	J. Robert King
+author	East of the Mediterranean or Sharq al-Mutawassit is a 1975 novel by Saudi Arabian writer Abdul Rahman Munif.	East of the Mediterranean	Abdul Rahman Munif
+author	Alastalon salissa (``In the Parlour at Alastalo'') (1933) is a landmark Finnish novel by Volter Kilpi.	Alastalon salissa	Volter Kilpi
+author	When Eight Bells Toll is a first-person narrative novel written by Scottish author Alistair MacLean and published in 1966.	When Eight Bells Toll	Alistair MacLean
+author	An Essay on the Nature and Immutability of Truth is a 1771 book by the Scottish philosopher and poet James Beattie, his major work.	An Essay on the Nature and Immutability of Truth	James Beattie
+author	The Opus Majus (Latin for ``Greater Work'') is the most important work of Roger Bacon.	Opus Majus	Roger Bacon
+author	Three Chinese Poets is a book of poetry by the titular poets Wang Wei, Li Bai and Du Fu translated into English by Vikram Seth.	Three Chinese Poets	Wang Wei	Li Bai	Du Fu	Vikram Seth
+author	Deadly Web is a 2005 novel by English crime-writer Barbara Nadel.	Deadly Web	Barbara Nadel
+author	Lovers Are Never Losers (French: Un de Baumugnes) is a 1929 novel by the French writer Jean Giono.	Lovers Are Never Losers	Jean Giono
+author	On the Aesthetic Education of Man (Über die ästhetische Erziehung des Menschen) is a treatise by the German author Friedrich Schiller in the form of a collection of letters.	On the Aesthetic Education of Man	Friedrich Schiller
+author	The Mysteries of Udolpho, by Ann Radcliffe, was published in four volumes on 8 May 1794 by G. G. and J. Robinson of London.	The Mysteries of Udolpho	Ann Radcliffe
+author	We Almost Lost Detroit, a 1975 Reader's Digest book by John G. Fuller, presents a history of Fermi 1, America's first commercial breeder reactor, with emphasis on the 1966 partial nuclear meltdown.	We Almost Lost Detroit	John G. Fuller
+author	A Number is a 2002 play by English playwright Caryl Churchill which addresses the subject of human cloning and identity, especially nature versus nurture.	A Number	Caryl Churchill
+author	Stalking the Nightmare is a 1982 collection of short stories and nonfiction pieces by Harlan Ellison.	Stalking the Nightmare	Harlan Ellison
+author	The Quincunx of Time is a short science fiction novel by James Blish.	The Quincunx of Time	James Blish
+author	The Dark Abode is a collage presentation of South Asian feminist novelist Sarojini Sahoo's novel and American poet and painter Ed Baker's 23 sketches, which deal with terrorism that people often face from micro- to macrosphere.	The Dark Abode	Sarojini Sahoo
+author	The Solitude of Compassion (French: Solitude de la pitié) is a 1932 short story collection by the French writer Jean Giono.	The Solitude of Compassion	Jean Giono
+author	This River Awakens is the first novel by Canadian author Steve Lundin, best known by his pseudonym Steven Erikson.	This River Awakens	Steven Erikson
+author	Second Heaven is a novel written by Judith Guest, published in 1983.	Second Heaven	Judith Guest
+author	Private Lives is a 1930 comedy of manners in three acts by Noël Coward.	Private Lives	Noël Coward
+author	When She Was Good (1967) is Philip Roth's only novel with a female protagonist, Lucy Nelson.	When She Was Good	Philip Roth
+author	Richard and Samuel is an unfinished novel by Max Brod and Franz Kafka.	Richard and Samuel	Max Brod	Franz Kafka
+author	Silverlock is a novel by John Myers Myers published in 1949.	Silverlock	John Myers Myers
+author	A Fisherman of the Inland Sea is a 1994 collection of short stories and novellas by Ursula K. Le Guin.	A Fisherman of the Inland Sea	Ursula K. Le Guin
+author	Journey to Portugal is a non-fiction book on Portugal by Nobel Prize-winning author José Saramago.	Journey to Portugal	José Saramago
+author	The Life Eaters is a 2003 science fiction graphic novel written by David Brin and art by Scott Hampton.	The Life Eaters	David Brin
+author	War for the Oaks (1987) is a fantasy novel by Emma Bull.	War for the Oaks	Emma Bull
+author	The Screaming Staircase is a young adult thriller novel by Jonathan Stroud.	The Screaming Staircase	Jonathan Stroud
+author	Handy Mandy in Oz (1937) is the thirty-first of the Oz books created by L. Frank Baum and his successors, and the seventeenth written by Ruth Plumly Thompson.	Handy Mandy in Oz	Ruth Plumly Thompson
+author	A Blink of the Screen is a 2012 short fiction anthology by Terry Pratchett.	A Blink of the Screen	Terry Pratchett
+author	The Tiger's Daughter (1971) is the first novel by noted Indian-born American author Bharati Mukherjee.	The Tiger's Daughter	Bharati Mukherjee
+author	The Bacchae (/ˈbækiː/; Greek: Βάκχαι, Bakchai; also known as The Bacchantes /ˈbækənts, bəˈkænts, -ˈkɑːnts/) is an ancient Greek tragedy, written by the Athenian playwright Euripides during his final years in Macedonia, at the court of Archelaus I of Macedon.	The Bacchae	Euripides
+author	Letters from a Father to His Daughter is a collection of 30 letters written by Jawaharlal Nehru in 1928 to his daughter Indira Gandhi when she was 10 years old, teaching about natural history and the story of civilisations.	Letters from a Father to His Daughter	Jawaharlal Nehru
+author	Andromaque is a tragedy in five acts by the French playwright Jean Racine written in alexandrine verse.	Andromaque	Jean Racine
+author	The Correlation between Relatives on the Supposition of Mendelian Inheritance is a scientific paper by Ronald Fisher which was published in the Philosophical Transactions of the Royal Society of Edinburgh in 1918, (volume 52, pages 399--433).	The Correlation between Relatives on the Supposition of Mendelian Inheritance	Ronald Fisher
+author	Tours of the Black Clock is the third novel by author Steve Erickson, published in 1989.	Tours of the Black Clock	Steve Erickson
+child	Robert Darwin of Elston (12 August 1682 -- 20 November 1754) was the father of Erasmus Darwin, an English physician and an ancestor of the famous English naturalist and geologist, best known for his contributions to evolution, Charles Robert Darwin.	Robert Darwin of Elston	Erasmus Darwin
+child	Marilyn Wilson-Rutherford (née Rovell; born February 6, 1947) is an American singer best known as the first wife of Beach Boy Brian Wilson, and as the mother of singers Carnie Wilson and Wendy Wilson of Wilson Phillips.	Marilyn Wilson-Rutherford	Carnie Wilson	Wendy Wilson
+child	According to Gallus' account and historical research, Siemomysł has been credited with leaving the lands of Polans, Goplans and Masovians to his son Mieszko I, who further expanded them during his reign.	Siemomysł	Mieszko I
+child	Catherine Scorsese (née Cappa; April 16, 1912 -- January 6, 1997) was an American actress, and the mother of director Martin Scorsese.	Catherine Scorsese	Martin Scorsese
+child	In his will, Molson named John Molson junior, Thomas Molson, William Molson, George Moffatt and Peter McGill executors.	John Molson	William Molson
+conflict	The SCR-108 Radio Truck was a mobile Signal Corps Radio used by the U.S. Army during and after World War I, for short range air to ground communications,	SCR-108	World War I
+conflict	Heinz Krey (31 December 1921 in Wiesbaden -- 23 May 1943 in the North Atlantic) was a German chief engineer on a U-boat in World War II and a posthumous recipient of the Knight's Cross of the Iron Cross (German: Ritterkreuz des Eisernen Kreuzes).	Heinz Krey	World War II
+conflict	John Arnold Austin (30 August 1905 -- 7 December 1941) was a United States Navy sailor in World War II, who received the Navy Cross (awarded posthumously) for his actions during the Japanese attack on Pearl Harbor.	John Arnold Austin	World War II
+conflict	George J. Peters (1924 -- March 24, 1945) was a soldier of the United States Army and a recipient of the highest decoration of the United States Armed Forces--the Medal of Honor--for his actions in the final stages of World War II during Operation Varsity.	George J. Peters	World War II
+conflict	Major General Muhammad Abul Manzoor (1940--1981) was a Bangladesh army general who was a war hero as a freedom fighter and Sector Commander of Mukti Bahini Sector 8 during the Bangladesh Liberation War in 1971.	Abul Manzoor	Bangladesh Liberation War
+constellation	39 Cygni (39 Cyg) is a star in the constellation Cygnus, approximately 260 light years away from Earth.	39 Cygni	Cygnus
+constellation	Theta Ophiuchi (θ Oph, θ Ophiuchi) is a multiple star system in the equatorial constellation of Ophiuchus.	Theta Ophiuchi	Ophiuchus
+constellation	Messier 88 (also known as M88 or NGC 4501) is a spiral galaxy about 50 to 60 million light-years away in the constellation Coma Berenices.	Messier 88	Coma Berenices
+constellation	HD 131664 is an 8th magnitude G-type main sequence star located approximately 181 light-years away in the constellation of Apus.	HD 131664	Apus
+constellation	39 Tauri is the Flamsteed designation for an unresolved binary star in the northern constellation of Taurus.	39 Tauri	Taurus
+country	Finspång Castle is situated in Finspång, the province of Östergötland, Sweden.	Finspång Castle	Sweden
+country	Quinta do Lago is a golf resort and residential estate located to the west of Faro Airport in the Algarve region of Portugal.	Quinta do Lago	Portugal
+country	Mazraeh-ye Bangalu Zardaval (Persian: مزرعه بنگلوزرداول‎, also Romanized as Mazra``eh-ye Bangalū Zardāval) is a village in Anarestan Rural District, Chenar Shahijan District, Kazerun County, Fars Province, Iran. At the 2006 census, its population was 21, in 4 families.	Mazraeh-ye Bangalu Zardaval	Iran
+country	Nordwind Airlines primarily links airports in Russia with holiday destinations around the Mediterranean Sea and the Indian Ocean.	Nordwind Airlines	Russia
+country	The population of Sahajanpur was 2000 as per 2011 census of India which has increased to 3000 in 2011.	Sahajanpur	India
+country	Bratkowice (bratkɔˈvit͡sɛ) is a village in the administrative district of Gmina Świlcza, within Rzeszów County, Subcarpathian Voivodeship, in south-eastern Poland.	Bratkowice	Poland
+country	Štangarske Poljane (pronounced (ˈʃtaːŋɡaɾskɛ pɔˈljaːnɛ); German: Stangenpolane) is a small settlement in the Municipality of Šmartno pri Litiji in central Slovenia.	Štangarske Poljane	Slovenia
+country	Tureh (Persian: توره‎, also Romanized as Tūreh; also known as Tīleh and Tūleh) is a city in and the capital of Zalian District, in Shazand County, Markazi Province, Iran.	Tureh	Iran
+country	Ubon Ratchathani (often shortened to Ubon, Thai: อุบลราชธานี) is one of the northeastern provinces (changwat) of Thailand, and the country's easternmost.	Ubon Ratchathani	Thailand
+country	Saroleh Rural District (Persian: دهستان سرله‎) is a rural district (dehestan) in Meydavud District, Bagh-e Malek County, Khuzestan Province, Iran.	Saroleh Rural District	Iran
+country	Dadin Rural District (Persian: دهستان دادين‎) is a rural district (dehestan) in Jereh and Baladeh District, Kazerun County, Fars Province, Iran.	Dadin Rural District	Iran
+country	Īve parish (Latvian: Īves pagasts) is an administrative unit of the Talsi Municipality, Latvia.	Īve parish	Latvia
+country	Hussainiwala (Punjabi: ਹੁਸੈਨੀਵਾਲਾ)is a village in Firozpur district in Punjab state, India.	Hussainiwala	India
+country	The Niccoline Chapel (Italian: Cappella Niccolina) is a chapel in the Apostolic Palace in Vatican City.	Niccoline Chapel	Vatican City
+country	Saint-Cyr-l'École is a commune in the western suburbs of Paris, France.	Saint-Cyr-l'École	France
+country	Bergerac Dordogne Périgord Airport (French: Aéroport de Bergerac Dordogne Périgord) (IATA: EGC, ICAO: LFBE) is an airport serving Bergerac, a commune of the Dordogne department (formerly the Périgord province) in the Aquitaine region of France.	Bergerac Dordogne Périgord Airport	France
+country	Water polo at the 2008 Summer Olympics was held from 10 August to 24 August 2008 at the Ying Tung Natatorium in Beijing, People's Republic of China.	Water polo at the 2008 Summer Olympics	People's Republic of China
+country	Brocéliande is the name of a legendary forest in France that first appears in literature in 1160, in the Roman de Rou, a verse chronicle written by Wace.	Brocéliande	France
+country	Bad Pirawarth is a town in the district of Gänserndorf in Lower Austria in Austria.	Bad Pirawarth	Austria
+country	Nkqubela Chest Hospital is a specialised TB hospital situated in Mdantsane near East London, Eastern Cape in South Africa.	Nkqubela Chest Hospital	South Africa
+country	Salib al-Turkman (Arabic: صليب التركمان‎) is a town in northwestern Syria, administratively part of the Latakia Governorate, located north of Latakia.	Salib al-Turkman	Syria
+country	Owiny Ki-Bul (Acholi: ``sound of the drums'') is a village in the state of East Equatoria in South Sudan.	Owiny Ki-Bul	South Sudan
+country	Neue Osnabrücker Zeitung (meaning New Newspaper of Osnabrück in English; also known as Neue OZ) is a German language regional daily newspaper published in Osnabrück, Germany.	Neue Osnabrücker Zeitung	Germany
+country	Khurasan University (Pashto: خراسان پوهنتون‎) is a private university based in Jalalabad, Afghanistan.	Khurasan University	Afghanistan
+country	Urrugne (Basque Urruña) is a village in the traditional Basque province of Labourd, now a commune in the Pyrénées-Atlantiques department in south-western France.	Urrugne	France
+country	Šiatorská Bukovinka (Hungarian: Sátorosbánya) is a village and municipality in the Lučenec District in the Banská Bystrica Region of Slovakia.	Šiatorská Bukovinka	Slovakia
+country	Kureh Chi (Persian: كوره چي‎, also Romanized as Kūreh Chī, Gūreh Chī, and Gūrchī; also known as Gūrchīn, Gurachhin, Gūrāchīn, and Gūrehchīn) is a village in Khomeh Rural District, in the Central District of Aligudarz County, Lorestan Province, Iran.	Kureh Chi	Iran
+country	Along with the Kien bridge construction project on Highway 10, Bính Bridge played an important part in connection with the Quảng Ninh, Hai Phong, creating favorable conditions for the development of the transport network and the North economy of coastal areas in northern Vietnam.	Bính Bridge	Vietnam
+country	The Arboretum de la Foux (10 hectares), also known as the Arboretum de Saint-Sauveur-des-Pourcils, is an arboretum located within the Forêt de l'Aigoual near Saint-Sauveur-Camprieu, northwest of Le Vigan, Gard, Languedoc-Roussillon, France.	Arboretum de la Foux	France
+country	Potasie (pɔˈtaɕe) is a village in the administrative district of Gmina Turośl, within Kolno County, Podlaskie Voivodeship, in north-eastern Poland.	Potasie	Poland
+country	The Gänseschnabel is a natural monument north of Ilfeld in Thuringia, Germany.	Gänseschnabel	Germany
+country	Grunets (Russian: Грунец) is a village in Korsakovsky District of Oryol Oblast, Russia.	Grunets	Russia
+country	Dundee (i/dʌnˈdiː/; Scottish Gaelic: Dùn Dè (ˈt̪uːn tʲeː)), officially the City of Dundee, is Scotland's fourth largest city and the 51st most populous built-up area in the United Kingdom.	Dundee	United Kingdom
+country	The Mortuary Temple of Seti I is the memorial temple (or mortuary temple) of the New Kingdom Pharaoh Seti I. Located in the Theban necropolis of Upper Egypt, across the River Nile from the modern city of Luxor, it resides near the modern town of Qurna.	Mortuary Temple of Seti I	Egypt
+country	Lyambirsky District (Russian: Ля́мбирский райо́н; Erzya: Лямбирьбуе; Moksha: Лямбирень аймак) is an administrative and municipal district (raion), one of the twenty-two in the Republic of Mordovia, Russia.	Lyambirsky District	Russia
+country	The Argentine Grand Prix (Spanish: Gran Premio de Argentina) was a round of the Formula One championship, held intermittently from 1953 to 1998, all at the same autodrome in the Argentine national capital of Buenos Aires.	Argentine Grand Prix	Argentina
+country	Ginestra (Arbërisht: Zhura) is an Arbëreshë town and comune in the Province of Potenza, Basilicata, Italy.	Ginestra	Italy
+country	CEU Cardinal Herrera University (in Spanish language Universidad CEU Cardenal Herrera) is a private university in Valencia, Spain.	CEU Cardinal Herrera University	Spain
+country	It is a commune of France located in the Alpes-Maritimes department, and host city of the annual Cannes Film Festival, Midem, and Cannes Lions International Festival of Creativity.	Cannes	France
+country	Suan Pakkad Palace or Suan Pakkard Palace (Thai: สวนผักกาด; rtgs: Suan Phak Kat) is a museum in Bangkok, Thailand.	Suan Pakkad Palace	Thailand
+country	The Parc botanique Deau (2 hectares) is a private botanical garden and arboretum located on the grounds of the Domaine du Chaillaud, Saint-André-de-Lidon, Charente-Maritime, Poitou-Charentes, France.	Parc botanique Deau	France
+country of citizenship	Pedro Duro Benito (1810--1886) was an important Spanish businessman of the 19th century, founder of current industrial group Duro Felguera and impeller of the siderurgy in Spain.	Pedro Duro	Spain
+country of citizenship	Meriam George (Egyptian Arabic: مريم چورچ, IPA: (ˈmeɾjæm ˈʒoɾʒ); born 1987 in Cairo, Egypt) is an Egyptian beauty pageant titleholder.	Meriam George	Egypt
+country of citizenship	Élisa Lemonnier (24 March 1805 -- 5 June 1865) was a French educationist who is considered the founder of vocational education for women in France.	Élisa Lemonnier	France
+country of citizenship	Vello Helk (23 September 1923, Varstu, Estonia -- 14 March 2014) was an eminent Danish historian of Estonian origin.	Vello Helk	Estonia
+country of citizenship	Eugène Diomi Ndongala (born 1960) was a candidate in the 2006 election in the Democratic Republic of the Congo.	Eugène Diomi Ndongala	Democratic Republic of the Congo
+country of citizenship	Stephan Paßlack (born 24 August 1970 in Moers, West Germany) is a former football defender and German international player, playing four games and scoring one goal for his country.	Stephan Paßlack	Germany
+country of citizenship	Ivo Trumbić (born April 2, 1935 in Split, Croatia) is a former Croatian water polo player and Olympic medallist.	Ivo Trumbić	Croatia
+country of citizenship	Yasmani Copello Escobar (born 15 April 1987) is a Cuban-born track and field hurdler who represents Turkey internationally.	Yasmani Copello	Turkey
+country of citizenship	Seyni Oumarou (born August 9, 1951) is a Nigerien politician who was Prime Minister of Niger from June 2007 to September 2009 and President of the National Assembly of Niger from November 2009 to February 2010.	Seyni Oumarou	Niger
+country of citizenship	Ernesto Garrido is a paralympic swimmer from Cuba competing mainly in category S10 events.	Ernesto Garrido	Cuba
+country of citizenship	José Walter Gavito (born January 4, 1935 in La Plata city, Provincia of Buenos Aires, Argentina) is an Argentine sculptor of international fame.	José Walter Gavito	Argentina
+country of citizenship	Muhammad Kazim Khan (Urdu: محمد کاظم خان) is a Pakistani Politician and Member of Senate of Pakistan, currently serving as Chairperson- Senate Committee on Law and Justice.	Muhammad Kazim Khan	Pakistan
+country of citizenship	Since January 2003, Clodoveo Ferri has been a Professor of Rheumatology, Chief of the Chair of Rheumatology and director of the Postgraduate School of Rheumatology at the University of Modena and Reggio Emilia in Modena, Italy.	Clodoveo Ferri	Italy
+country of citizenship	Dharam Singh Hayatpur (or Hiatpur) (1884 -- 27 February 1926) was a prominent member of the Sikh political and religious group the Babbar Akali Movement in India.	Dharam Singh Hayatpur	India
+country of citizenship	Thomas Müller-Pering (born 1958 in Cologne) is a classical guitarist from Germany.	Thomas Müller-Pering	Germany
+country of citizenship	Jere Ölander (born October 2, 1989 in Helsinki, Finland) is a professional ice hockey defenseman.	Jere Ölander	Finland
+country of citizenship	Professor Humphrey Nwosu (born 2 October 1941) was chairman of the National Electoral Commission of Nigeria (NECON) appointed by President Ibrahim Babangida, holding office from 1989 to 1993.	Humphrey Nwosu	Nigeria
+creator	Oral Fixation, Vol. 1 & 2 is the first box set by Colombian singer-songwriter Shakira, released on December 5, 2006, by Epic Records.	Oral Fixation, Vol. 1 & 2	Shakira
+creator	The Sandbaggers was created by Ian Mackintosh, a Scottish former naval officer turned television writer, who had previously achieved success with the acclaimed Warship BBC television series.	The Sandbaggers	Ian Mackintosh
+creator	The Singing Butler is an oil-on-canvas painting made by Scottish artist Jack Vettriano in 1992.	The Singing Butler	Jack Vettriano
+creator	Kasamh Se (English: The Promise) is an Indian soap opera produced by Ekta Kapoor of Balaji Telefilms which aired on Zee TV from 16 January 2006 through 12 March 2009 on Monday through Thursday.	Kasamh Se	Balaji Telefilms
+creator	Crazy Cottage is a children's game show created by Paul Zenon, produced by Action Time for Carlton and broadcast on ITV from 4 April 1996 to 29 May 1998.	Crazy Cottage	Paul Zenon
+creator	The Street Enters the House (La Strada Entra Nella Casa) is an oil on canvas painting by Italian artist Umberto Boccioni.	The Street Enters the House	Umberto Boccioni
+creator	Three Studies of the Male Back is a 1970 oil-on-canvas triptych by the British painter Francis Bacon.	Three Studies of the Male Back	Francis Bacon
+date of death	Harry DeBoer (1903--1992) was an American labor militant and Trotskyist.	Harry DeBoer	1992
+date of death	John Langalibalele Dube (11 February 1871 -- 11 February 1946) was a South African essayist, philosopher, educator, politician, publisher, editor, novelist and poet.	John Langalibalele Dube	11 February 1946
+date of death	Mirza Raja Ram Singh I was the elder son Mirza Raja Jai Singh I and was ruler of Amber (now part of the Jaipur Municipal Corporation), and head of the Kachwaha Rajput clan, from 1667 to 1688.	Ram Singh I	1688
+date of death	John Casimir, Count of Erbach-Breuberg (10 August 1584 -- 14 January 1627), was a German prince member of the House of Erbach and ruler over Breuberg, Wildenstein and Fürstenau.	John Casimir, Count of Erbach-Breuberg	14 January 1627
+date of death	Steve Sinnott (24 June 1951 -- 5 April 2008) was the General Secretary of the National Union of Teachers from 2004 until his death in 2008.	Steve Sinnott	5 April 2008
+date of death	Arthur Blackburne Poynton (1867--1944) was a classical scholar.	Arthur Blackburne Poynton	1944
+date of death	Jack Weaver (1 November 1928 - 7 April 2009) was a Los Angeles County Deputy Sheriff and the developer of the Weaver stance; a popular shooting stance for firing handguns.	Jack Weaver	7 April 2009
+date of death	Ritchie Green (17 September 1925 -- 19 March 1999) was an Australian rules footballer who played for Carlton and South Melbourne in the Victorian Football League (VFL).	Ritchie Green	19 March 1999
+date of death	Sir Boshan Wei Yuk, CBE (1849 -- 16 December 1921) was a prominent Hong Kong businessman and member of the Legislative Council of Hong Kong.	Wei Yuk	16 December 1921
+date of death	Abraham Tucker (September 2, 1705 -- November 20, 1774) was an English country gentleman, who devoted himself to the study of philosophy.	Abraham Tucker	1774
+date of death	William Pleydell-Bouverie, 5th Earl of Radnor PC (19 June 1841 -- 3 June 1900), styled Viscount Folkestone from 1869 to 1889, was a British Conservative politician.	William Pleydell-Bouverie, 5th Earl of Radnor	3 June 1900
+date of death	Paul Shelving (1888--1968) was a British theatre designer.	Paul Shelving	1968
+date of death	Jatindra Nath Banerjee (Niralamba Swami) (19 November 1877 -- 5 September 1930) was one of two great Indian nationalists and freedom fighters -- along with Aurobindo Ghosh (Sri Aurobindo) -- who dramatically rose to prominence between 1871 and 1910.	Niralamba Swami	5 September 1930
+date of death	Li Dequan (Chinese: 李德全; 1896--1972) was the first Minister of Health of the People's Republic of China.	Li Dequan	1972
+date of death	Costache Ioanid ((3 December 1912 - 26 November 1987)) is a Romanian poet and songwriter (composer) of Romanian poems and songs.	Costache Ioanid	26 November 1987
+director	Batman Dracula is a 1964 black and white American film produced and directed by Andy Warhol, without the permission of DC Comics, publishers of comics about the character Batman.	Batman Dracula	Andy Warhol
+director	Silence of the Heart is a 1984 television family drama film written by Phil Penningroth and directed by Richard Michaels for CBS Television.	Silence of the Heart	Richard Michaels
+director	Vallinam (Tamil: வல்லினம்; English: Hardness) is a 2014 Tamil sports drama film directed by Arivazhagan Venkatachalam and produced by Aascar Ravichandran.	Vallinam	Arivazhagan Venkatachalam
+director	Amuck! (Italian: Alla ricerca del piacere, also known as Maniac Mansion, Leather and Whips and Hot Bed of Sex) is a 1972 Italian giallo film directed by Silvio Amadio.	Amuck!	Silvio Amadio
+director	The Outlaw Deputy is a 1935 American western film, directed by Otto Brower.	The Outlaw Deputy	Otto Brower
+director	Embun (Indonesian for Dewdrop) is a 1952 film directed by D. Djajakusuma for Perfini in his directorial debut.	Embun	D. Djajakusuma
+educated at	George Karreman studied physics and mathematics at Leiden University.	George Karreman	Leiden University
+educated at	Gunnar von Heijne graduated 1975 with a Master of Science degree in chemistry and chemical engineering from the Royal Institute of Technology (KTH).	Gunnar von Heijne	Royal Institute of Technology
+educated at	Susan Wise Bauer (born 1968) is an American author, English instructor of writing and American literature at The College of William and Mary, and founder of Peace Hill Press.	Susan Wise Bauer	College of William and Mary
+educated at	Ward Melville attended college at Columbia University, where he was active in the Columbia Daily Spectator and the Philolexian Society.	Ward Melville	Columbia University
+educated at	Ira Rubinoff attended Queens College, graduating in 1959, and went onto Harvard University.	Ira Rubinoff	Harvard University
+employer	Dragomir R. Radev is a University of Michigan computer science professor and Columbia University computer science adjunct professor working on natural language processing and information retrieval.	Dragomir R. Radev	University of Michigan
+employer	Martin Long (born 26 August 1950) is a businessman and founder of the Churchill Insurance Company.	Martin Long	Churchill Insurance Company
+employer	Colin G. DeYoung, Ph.D., is a professor of psychology at the University of Minnesota (Minneapolis, Minnesota).	Colin G. DeYoung	University of Minnesota
+employer	Claire Bolderson is a former BBC journalist and radio broadcaster who presented The World Tonight for BBC Radio 4.	Claire Bolderson	BBC
+employer	Andrew Feenberg (born 1943) holds the Canada Research Chair in the Philosophy of Technology in the School of Communication at Simon Fraser University in Vancouver.	Andrew Feenberg	Simon Fraser University
+founder	British Youth Opera was started by Denis Coe, MP in 1987, who believed at the time that there was a lack of experience on offer for opera singers who were completing their vocal training to actually perform.	British Youth Opera	Denis Coe
+founder	The Université populaire de Caen (Popular University of Caen) is a free university created in October 2002 by Michel Onfray in the north-western French city of Caen.	Université populaire de Caen	Michel Onfray
+founder	The Dresdner Kammerchor (Dresden Chamber Choir) is a mixed chamber choir which was founded in 1985 by Hans-Christoph Rademann in Dresden and is still conducted by him.	Dresdner Kammerchor	Hans-Christoph Rademann
+founder	Ensemble Elyma is an early music ensemble specialising in the baroque musical heritage of Latin America, led by Gabriel Garrido.	Ensemble Elyma	Gabriel Garrido
+founder	The first product to carry the Minox name was a subminiature camera, conceived in 1922, and finally invented and produced in 1936, by Baltic German Walter Zapp.	Minox	Walter Zapp
+instrument	Leonard Ware (December 28, 1909 - March 30, 1974) was an American jazz guitar player and composer, who was one of the early electric guitarists in jazz.	Leonard Ware	guitar
+instrument	A detailed gear diagram of Neil Halstead's 1993 Slowdive guitar rig is well-documented.	Neil Halstead	guitar
+instrument	Billy Faier (December 21, 1930 -- January 29, 2016) was an American banjo player.	Billy Faier	banjo
+instrument	Dan Terry (December 22, 1924 -- December 27, 2011) was an American big band leader, arranger, and trumpet and flugelhorn player, who appeared in Birdland with Dinah Washington, Sarah Vaughan, Chris Connor, Johnny Smith, and other jazz luminaries.	Dan Terry	trumpet
+instrument	Henry Lazarus (1 January 1815 -- 6 March 1895) was the leading British clarinet virtuoso of the 19th century.	Henry Lazarus	clarinet
+licensed to broadcast to	WIXE (branded as The Mighty 1190) in Monroe, North Carolina is a radio station at 1190 AM.	WIXE	Monroe, North Carolina
+licensed to broadcast to	CHCD-FM is a Canadian radio station, broadcasting at 98.9 FM in Simcoe, Ontario, Canada.	CHCD-FM	Simcoe
+licensed to broadcast to	1503 2BS Gold is a local radio station located in Bathurst, New South Wales, Australia, broadcasting on 1503 kHz.	1503 2BS Gold	Bathurst
+licensed to broadcast to	CKRM is an AM radio station in Regina, Saskatchewan, broadcasting at 620 kHz and owned by Harvard Broadcasting.	CKRM	Regina
+licensed to broadcast to	WFGA (106.7 FM) is an American FM radio station licensed to Hicksville, Ohio, United States, with studios in Auburn, Indiana.	WFGA	Hicksville, Ohio
+licensed to broadcast to	KQWB-FM (105.1 FM, ``Q105.1'') is an Active rock radio station located in Fargo, North Dakota (licensed by the Federal Communications Commission (FCC) to Breckenridge, Minnesota), owned by Jim Ingstad's Radio FM Media.	KQWB-FM	Breckenridge
+licensed to broadcast to	WJYD is an FM radio station in Circleville, Ohio, located at 107.1 MHz, branded as ``Joy 107.1''.	WJYD	Circleville
+licensed to broadcast to	CICF-FM is a radio station in Vernon, British Columbia, Canada airing a contemporary hit radio format at 105.7 FM, using the on-air branding as 105.7 Sun FM.	CICF-FM	Vernon
+licensed to broadcast to	KNGA (90.5 FM) is a radio station licensed to St. Peter, Minnesota, serving the St. Peter, Mankato, New Ulm area.	KNGA	St. Peter
+located in the administrative territorial entity	Yapak is a village near Koloriang in Kurung Kumey district in Arunachal Pradesh	Yapak	Arunachal Pradesh
+located in the administrative territorial entity	Cedar Bayou is a salt water channel on the Texas coast that separates San Jose Island from Matagorda Island.	Cedar Bayou	Texas
+located in the administrative territorial entity	The Lincoln-Herndon Law Offices State Historic Site is a historic brick building built in 1841 in the U.S. state of Illinois.	Lincoln-Herndon Law Offices State Historic Site	Illinois
+located in the administrative territorial entity	Jharpokharia (also known as Bombay Chowk among the locals) is a small town in Mayurbhanj district of the Indian state of Odisha and located on Junction of National Highway 6 & National Highway 5.	Jharpokharia	Mayurbhanj district
+located in the administrative territorial entity	St. Mary's Church Kadaplamattom Diocese of Palai is Located in the backdrop of kidangoor and Elackadu villages in Kottayam district.	Kadaplamattom	Kottayam district
+located in the administrative territorial entity	Rosiejów (rɔˈɕejuf) is a village in the administrative district of Gmina Skalbmierz, within Kazimierza County, Świętokrzyskie Voivodeship, in south-central Poland.	Rosiejów	Gmina Skalbmierz
+located in the administrative territorial entity	Tell Majdaloun is an archaeological site 1.5 km northwest of the village of the same name and 10 km southwest of Baalbek in the Beqaa Mohafazat (Governorate).	Tell Majdaloun	Baalbek
+located in the administrative territorial entity	The Museum of Avilés Urban History (Museo de la Historia Urbana de Avilés in Spanish), is located in the medieval town center of Avilés, Asturias.	Museum of Avilés Urban History	Asturias
+located in the administrative territorial entity	Dingxi (Chinese: 定西; pinyin: Dìngxī) is a prefecture-level city in the southeast of Gansu province, People's Republic of China.	Dingxi	Gansu
+located in the administrative territorial entity	John B. Myers House and Barn in Florissant, Missouri is listed on the National Register of Historic Places in Missouri.	John B. Myers House and Barn	Missouri
+located in the administrative territorial entity	Second Ward Negro Elementary School, also known as the Second Ward Annex, is a historic school building located at Morgantown, Monongalia County, West Virginia.	Second Ward Negro Elementary School	West Virginia
+located in the administrative territorial entity	Abbasabad-e Kabutar Khan (Persian: عباس آبادكبوترخان‎, also Romanized as ``Abbāsābād-e Kabūtar Khān) is a village in Kabutar Khan Rural District, in the Central District of Rafsanjan County, Kerman Province, Iran. At the 2006 census, its existence was noted, but its population was not reported.	Abbasabad-e Kabutar Khan	Central District
+located in the administrative territorial entity	Bono's Restaurant and Deli is a historic restaurant located at 15395 Foothill Boulevard in Fontana, California.	Bono's Restaurant and Deli	Fontana
+located in the administrative territorial entity	Escowbeck House a country manor house on Caton Lane in Quernmore near Lancaster, Lancashire was constructed in 1842 in extensive parkland and countryside.	Escowbeck	Quernmore
+located in the administrative territorial entity	The Cedar Breaks Archeological District, in Cimarron County, Oklahoma near Felt, is a 160-acre (65 ha) archeological site that was listed on the U.S. National Register of Historic Places in 1978.	Cedar Breaks Archeological District	Cimarron County
+located in the administrative territorial entity	Keshavardeh-ye Sofla (Persian: كشورده سفلي‎‎, also Romanized as Keshavardeh-ye Soflá; also known as Keshavarzeh-ye Soflá) is a village in Honam Rural District, in the Central District of Selseleh County, Lorestan Province, Iran.	Keshavardeh-ye Sofla	Honam Rural District
+located in the administrative territorial entity	The Tour de Capu Neru (Corsican: Torra di Capu Neru) is a Genoese tower located in the commune of Coti-Chiavari (Corse-du-Sud) on the west coast of the French island of Corsica.	Tour de Capu Neru	Coti-Chiavari
+located in the administrative territorial entity	Lac La Biche County is a municipal district in Division No. 12 in the northern Alberta, Canada.	Lac La Biche County	Alberta
+located in the administrative territorial entity	The ENP Bridge over Green River is a historic bridge located near Daniel, Wyoming, which carries Sublette County Road CN23-145 across the Green River.	ENP Bridge over Green River	Wyoming
+located in the administrative territorial entity	Przedlesie (pʂɛˈdlɛɕɛ) is a settlement in the administrative district of Gmina Międzychód, within Międzychód County, Greater Poland Voivodeship, in west-central Poland.	Przedlesie	Gmina Międzychód
+located in the administrative territorial entity	Bellingwolde (Dutch pronunciation: (ˌbɛlɪŋˈʋɔldə)) is a village with a population of 2,400 people in the municipality Bellingwedde in the Netherlands.	Bellingwolde	Bellingwedde
+located in the administrative territorial entity	Cox Field (IATA: PRX, ICAO: KPRX, FAA LID: PRX) is an airport seven miles east of Paris, in Lamar County, Texas.	Cox Field	Texas
+located in the administrative territorial entity	Pretty Sally or Pretty Sally Hill is a dormant volcanic cone located between Wallan and Kilmore in Victoria, Australia.	Pretty Sally	Victoria
+located in the administrative territorial entity	The Yale Bridge or Lewis River Bridge spans the Lewis River near Yale, Washington.	Yale Bridge	Washington
+located in the administrative territorial entity	Bagijan (Persian: بگيجان‎, also Romanized as Bagījān; also known as Gījān, Ganjān, Giniān, and Ginjān) is a village in Chenaran Rural District, in the Central District of Chenaran County, Razavi Khorasan Province, Iran.	Bagijan	Chenaran Rural District
+located in the administrative territorial entity	The Scotsman Hotel Edinburgh opened in 2001 in the Edwardian (1905) building which had housed The Scotsman newspaper for nearly a century.	The Scotsman Hotel	Edinburgh
+located in the administrative territorial entity	Szczytniki-Kolonia (ʂt͡ʂɨtˈniki kɔˈlɔɲa) is a village in the administrative district of Gmina Proszowice, within Proszowice County, Lesser Poland Voivodeship, in southern Poland.	Szczytniki-Kolonia	Gmina Proszowice
+located in the administrative territorial entity	Gemeinlebarn is an Austrian village in the community of Traismauer in the district of St. Pölten, Lower Austria.	Gemeinlebarn	Lower Austria
+located in the administrative territorial entity	16 Collyer Quay, formerly Hitachi Tower is a 37-storey, 166 m (545 ft), skyscraper in the central business district of Singapore.	16 Collyer Quay	Singapore
+located in the administrative territorial entity	Soheyl Beygi (Persian: سهيل بيگي‎‎, also Romanized as Soheyl Beygī; also known as Asīlbāki) is a village in Koregah-e Gharbi Rural District, in the Central District of Khorramabad County, Lorestan Province, Iran.	Soheyl Beygi	Koregah-e Gharbi Rural District
+located in the administrative territorial entity	Seyfabad-e Muqufeh (Persian: سيف ابادموقوفه‎, also Romanized as Seyfābād-e Mūqūfeh; also known as Seyfābād) is a village in Gevar Rural District, Sarduiyeh District, Jiroft County, Kerman Province, Iran.	Seyfabad-e Muqufeh	Sarduiyeh District
+located in the administrative territorial entity	Mian Melk (Persian: ميان ملك‎, also Romanized as Mīān Melk, Mīān Molk, and , Meyān Molk; also known as Chapak Rūd) is a village in Chapakrud Rural District, Gil Khuran District, Juybar County, Mazandaran Province, Iran.	Mian Melk	Chapakrud Rural District
+located in the administrative territorial entity	Interstate 469 (I-469) is an Interstate Highway in the northeastern portion of the midwestern US state of Indiana.	Interstate 469	Indiana
+located in the administrative territorial entity	Nowa Kubra (ˈnɔva ˈkubra) is a village in the administrative district of Gmina Przytuły, within Łomża County, Podlaskie Voivodeship, in north-eastern Poland.	Nowa Kubra	Gmina Przytuły
+located in the administrative territorial entity	Bigherd (Persian: بيغرد‎, also Romanized as Bīgherd; also known as Bakhard and Bīqerd) is a village in Tang-e Narak Rural District, in the Central District of Khonj County, Fars Province, Iran.	Bigherd	Tang-e Narak Rural District
+located in the administrative territorial entity	Goat Rocks Wilderness is a U.S. wilderness area in Washington, United States, consisting of 108,096 acres (43,745 ha) of Mount Baker-Snoqualmie National Forest and Gifford Pinchot National Forest on the crest of the Cascade Range south of U.S. Highway 12.	Goat Rocks Wilderness	Washington
+located in the administrative territorial entity	The Protestant Kaiser Wilhelm Memorial Cemetery (German: Der evangelische Kaiser-Wilhelm-Gedächtnis-Friedhof) is a burial ground in the Westend district of Berlin with a size of 3.7 hectares.	Kaiser Wilhelm Memorial Cemetery	Berlin
+located in the administrative territorial entity	Poradzew (pɔˈrad͡zɛf) is a village in the administrative district of Gmina Goszczanów, within Sieradz County, Łódź Voivodeship, in central Poland.	Poradzew	Gmina Goszczanów
+located in the administrative territorial entity	Kaki-Mroczki (ˈkaki ˈmrɔt͡ʂki) is a village in the administrative district of Gmina Krzynowłoga Mała, within Przasnysz County, Masovian Voivodeship, in east-central Poland.	Kaki-Mroczki	Gmina Krzynowłoga Mała
+located in the administrative territorial entity	Karszówek (karˈʂuvɛk) is a village in the administrative district of Gmina Strzelin, within Strzelin County, Lower Silesian Voivodeship, in south-western Poland.	Karszówek	Gmina Strzelin
+located in the administrative territorial entity	Spreyton is a small rural village just north of Dartmoor in Devon.	Spreyton	Devon
+located in the administrative territorial entity	The Airmount Grave Shelter, also known as the Hope Family Grave Shelter is a brick grave shelter, or grave house, located in the Airmount Cemetery near Thomasville, Alabama.	Airmount Grave Shelter	Alabama
+located in the administrative territorial entity	Opawica (ɔpaˈvit͡sa) (Czech: Opavice, German: Tropplowitz, Silesian: Troplowice) is a village located in Poland, in the Opole Voivodeship, Głubczyce County and Gmina Głubczyce, near the border with the Czech Republic.	Opawica	Gmina Głubczyce
+manufacturer	The Westland Wyvern was a British single-seat carrier-based multi-role strike aircraft built by Westland Aircraft that served in the 1950s, seeing active service in the 1956 Suez Crisis.	Westland Wyvern	Westland Aircraft
+manufacturer	The Acura RL was a full-size luxury sedan produced by the Acura division of Honda for the 1996--2012 model years over two generations.	Acura RL	Honda
+manufacturer	The Aero Commander 500 family is a series of light-twin piston-engined and turboprop aircraft originally built by the Aero Design and Engineering Company in the late 1940s, renamed the Aero Commander company in 1950, and a division of Rockwell International from 1965.	Aero Commander 500 family	Rockwell International
+manufacturer	The I-Suit is a spacesuit model constructed by ILC Dover.	I-Suit	ILC Dover
+manufacturer	Castle Technology acquire the rights to continue to market and produce the RiscPC during the breakup of Acorn Computers.	RiscPC	Castle Technology
+military branch	Lieutenant General Sir Henry Merrick Lawson KCB (30 January 1859 -- 2 November 1933) was a British Army General during World War I.	Henry Merrick Lawson	British Army
+military branch	Lewis Sayre Van Duzer (1861 -- March 28, 1936) was a United States Navy officer.	Lewis Sayre Van Duzer	United States Navy
+military branch	Anton Heinemann (born 29 January 1921) was a highly decorated Leutnant in the Luftwaffe during World War II. He was also a recipient of the Knight's Cross of the Iron Cross.	Anton Heinemann	Luftwaffe
+military branch	General Sir William Gerald Hugh Beach GBE, KCB, MC (born 20 May 1923) is a former British Army officer who, in retirement, researches and advises on defence policy, arms control and disarmament, with an active interest in promoting concerns about ethical issues of peace and war.	Hugh Beach	British Army
+military branch	Edward Francis Winslow (September 28, 1837 - October 22, 1914) was an officer in the Union Army during the American Civil War and later railroad executive.	Edward Francis Winslow	Union Army
+mouth of the watercourse	Willowemoc Creek is a tributary of Beaver Kill that is a popular trout fishing stream near the Catskill Park in Sullivan County, New York.	Willowemoc Creek	Beaver Kill
+mouth of the watercourse	Massachusetts Bay is a bay on the Atlantic Ocean that forms part of the coastline of the Commonwealth of Massachusetts.	Massachusetts Bay	Atlantic Ocean
+mouth of the watercourse	The Tar River becomes the tidal Pamlico River once it underpasses the U.S. Highway 17 Bridge in Washington, North Carolina.	Tar River	Pamlico River
+mouth of the watercourse	The Yobe River, also known as the Komadougou Yobe or the Komadougou-Yobe (French: Komadougou Yobé), is a river in West Africa that flows into Lake Chad through Nigeria and Niger.	Yobe River	Lake Chad
+mouth of the watercourse	The Clerve (Luxembourgish: Klierf) is a river flowing through Luxembourg, joining the Wiltz at Kautenbach.	Clerve	Wiltz
+named after	Gaullism (French: Gaullisme) is a French political stance based on the thought and action of World War II French Resistance leader General Charles de Gaulle, who would become the founding President of the Fifth French Republic.	Gaullism	Charles de Gaulle
+named after	The Mayroubian (from the type site Mayrouba) is a culture of the Lebanese Stone Age.	Mayroubian	Mayrouba
+named after	Raman spectroscopy (/ˈrɑːmən/; named after Sir C. V. Raman) is a spectroscopic technique used to observe vibrational, rotational, and other low-frequency modes in a system.	Raman spectroscopy	C. V. Raman
+named after	In number theory, Hilbert's irreducibility theorem, conceived by David Hilbert, states that every finite number of irreducible polynomials in a finite number of variables and having rational number coefficients admit a common specialization of a proper subset of the variables to rational numbers such that all the polynomials remain irreducible.	Hilbert's irreducibility theorem	David Hilbert
+named after	Hovet (formerly known as Johanneshovs Isstadion) is an arena located in the Johanneshov district of Stockholm (Stockholm Globe City) which is mainly used for ice hockey, concerts and corporate events.	Hovet	Johanneshov
+narrative location	The title refers to the Brazilian city of Rio de Janeiro, where the first film was set and Rio 2 begins, though most of its plot occurs in the Amazon rainforest.	Rio 2	Rio de Janeiro
+narrative location	UnReal World is a roguelike survival freeware (shareware before 2013) computer game set in Iron Age Finland.	UnReal World	Finland
+narrative location	Eat a Bowl of Tea begins by describing newlyweds Ben Loy and Mei Oi sleeping peacefully in their bed in New York City.	Eat a Bowl of Tea	New York City
+narrative location	Just the Ten of Us is an American sitcom starring stand-up comedian Bill Kirchenbauer as Coach Graham Lubbock, a teacher and the head of a large Catholic family with eight children living in Eureka, California.	Just the Ten of Us	California
+narrative location	There are six mountains in Shaun White Snowboarding, including Alaska, Park City, Europe and Japan.	Shaun White Snowboarding	Japan
+native language	Maurice Étienne Legrand, who published under the pseudonym Franc-Nohain (25 October 1872 -- 18 October 1934), was a French librettist and poet.	Franc-Nohain	French
+native language	Alfred Loritz (born 24 April 1902 in Munich - died 14 April 1979 in Vienna) was a German lawyer and politician who briefly rose to prominence in the immediate of the Second World War.	Alfred Loritz	German
+native language	Jacqueline Charlotte Dufresnoy (23 August 1931 -- 9 October 2006), known professionally as Coccinelle, was a French actress and entertainer.	Coccinelle	French
+native language	Charles-Marie-Esprit Espinasse (2 April 1815 -- 4 June 1859) was a French military officer who was briefly Minister of the Interior and Public Security in 1858.	Charles-Marie-Esprit Espinasse	French
+native language	Patrick Alexandroni (1962--2008) was a French actor, rapper, and television producer.	Patrick Alexandroni	French
+native language	Maria Dermoût (June 15, 1888 -- June 27, 1962), was an Indo novelist, considered one of the greats of Dutch literature and as such an important proponent of Dutch Indies literature.	Maria Dermoût	Dutch
+native language	Yacine Diallo (born October 18, 1897 in Labé, Guinea, and died April 14, 1954 in Conakry) was a politician from Guinea who served in the French National Assembly from 1946-1954.	Yacine Diallo	French
+native language	Lothar de Maizière (German pronunciation: (də mɛˈzi̯ɛːɐ̯); born 2 March 1940) is a German Christian Democratic politician.	Lothar de Maizière	German
+native language	William Wycherley (c. 1641 -- 1 January 1716) was an English dramatist of the Restoration period, best known for the plays The Country Wife and The Plain Dealer.	William Wycherley	English
+native language	Edmund Waller, FRS (3 March 1606 -- 21 October 1687) was an English poet and politician who sat in the House of Commons at various times between 1624 and 1679.	Edmund Waller	English
+native language	Pierre Daninos (26 May 1913, Paris -- 7 January 2005, Paris) was a French writer and humorist.	Pierre Daninos	French
+native language	Narcisse-Achille de Salvandy (French pronunciation: ​(naʁsis aʃil də salvɑ̃di); 11 June 1795 -- 16 December 1856) was a French politician.	Narcisse-Achille de Salvandy	French
+native language	Henri-Cardin-Jean-Baptiste d'Aguesseau, Marquis d'Aguesseau (23 August 1747, Paris -- 22 January 1826), grandson of the French chancellor Henri François d'Aguesseau, was advocate-general in the parlement of Paris and deputy in the Estates-General.	Henri-Cardin-Jean-Baptiste d'Aguesseau	French
+native language	Thierry Meyssan (French: (tjɛʁi mɛsɑ̃); born 18 May 1957) is a French journalist and political activist.	Thierry Meyssan	French
+native language	Michael Schumann (born 24 September 1946) is a retired German Philosophy Professor who became an East German advocate for reform and a Politician during the build-up to German reunification.	Michael Schumann	German
+native language	André de Richaud (April 6, 1907, Perpignan - September 29, 1968, Montpellier) was a French poet and writer.	André de Richaud	French
+native language	Christian Morin (born 2 March 1945) is a French television and radio presenter, musician (clarinetist) and comedian.	Christian Morin	French
+native language	Jacques Bialski (October 3, 1929 -- June 10, 2013) was a French politician, who was a member of the Senate for Nord (1979--1997).	Jacques Bialski	French
+original network	Running the Halls is an American television sitcom that aired on NBC's TNBC Saturday morning lineup.	Running the Halls	NBC
+original network	Operation Grand Canyon with Dan Snow is a British factual television series that was first broadcast on BBC Two on 5 January 2014.	Operation Grand Canyon with Dan Snow	BBC Two
+original network	Pyar Zindagi Hai is an Indian television comedy series that premiered on Zee TV on 30 March 2003.	Pyar Zindagi Hai	Zee TV
+original network	DuMont Royal Theater (also known as Royal Playhouse) was an American anthology television series which ran on the now-defunct DuMont Television Network from 1951 to 1952.	DuMont Royal Theater	DuMont Television Network
+original network	Cain's Hundred is an American crime drama series that aired on NBC from 1961 to 1962.	Cain's Hundred	NBC
+participant of	Ranulfo Cortés is a Mexican football forward who played for Mexico national team in the 1954 FIFA World Cup.	Ranulfo Cortés	1954 FIFA World Cup
+participant of	Aksel Bonde Hansen, née Bonde (May 29, 1918 -- May 27, 1996) was a Danish rower who competed in the 1948 Summer Olympics.	Aksel Bonde Hansen	1948 Summer Olympics
+participant of	Philippe Van Volckxsom (1897 -- 24 December 1938) was a Belgian athlete who competed at the 1920 and 1928 Summer Olympics and at the first Winter Olympics in 1924.	Philippe Van Volckxsom	1928 Summer Olympics
+participant of	Jessica Ashwood (born 28 April 1993) is an Australian competitive swimmer who was selected to represent Australia at the 2012 Summer Olympics in the 800-metre freestyle event.	Jessica Ashwood	2012 Summer Olympics
+participant of	Maleka Parvin (Bengali: মালেকা পারভীন) is a Bangladeshi national women Kabaddi player who was part of the team that won the bronze medal at the 2010 Asian Games.	Maleka Parvin	2010 Asian Games
+participant of	Herbert Bauch (born May 18, 1957 in Berlin) is a retired boxer, who represented East Germany at the 1980 Summer Olympics in Moscow, Soviet Union.	Herbert Bauch	1980 Summer Olympics
+participant of	Torben Grimmel (born 23 November 1975 in Odder) is a Danish sport shooter who competed in the 1996 Summer Olympics, the 2000 Summer Olympics, the 2004 Summer Olympics and the 2012 Summer Olympics.	Torben Grimmel	1996 Summer Olympics	2000 Summer Olympics	2004 Summer Olympics	2012 Summer Olympics
+participant of	Paweł Jakubiak (born December 28, 1974 in Poznań, Wielkopolskie) is a field hockey defender from Poland, who was a member of the Men's National Team that ended up in twelfth and last place at the 2000 Summer Olympics in Sydney.	Paweł Jakubiak	2000 Summer Olympics
+participant of	Wolfgang Bartels (14 July 1940 -- 6 February 2007) was a German alpine skier who competed for the Unified Team of Germany in the 1964 Winter Olympics.	Wolfgang Bartels	1964 Winter Olympics
+participant of	Dimitrios Miteloudis (born 11 February 1982) is a Greek water polo player who competed in the 2008 Summer Olympics.	Dimitrios Miteloudis	2008 Summer Olympics
+participant of	On 12 February 2011 Witloof Bay won the rights to represent Belgium in the Eurovision Song Contest 2011.	Witloof Bay	Eurovision Song Contest 2011
+participant of	Max Breunig (November 12, 1888 near Karlsruhe -- July 4, 1961 in Pforzheim) was a German amateur football player who competed in the 1912 Summer Olympics.	Max Breunig	1912 Summer Olympics
+participant of	Mohammad Sattarpour (Persian: محمد ستارپور‎, born May 22, 1988 in Tehran) is an amateur boxer from Iran who competed in the Welterweight (-69 kg) division at the 2006 Asian Games winning the bronze medal in a lost bout in the semifinals against Thailand's eventual silver medalist Angkhan Chomphuphuang 18-36.	Mohammad Sattarpour	2006 Asian Games
+participant of	Jia Delong (simplified Chinese: 贾德龙; traditional Chinese: 賈德龍; pinyin: Jiǎ Délóng; born 4 July 1985 in Dalian, Liaoning, China) is a Chinese baseball player who was a member of Team China at the 2008 Summer Olympics.	Jia Delong	2008 Summer Olympics
+participant of	Dino Bruni (born 13 April 1932) was a road racing cyclist from Italy, who won the silver medal in the men's team road race at the 1952 Summer Olympics, alongside Vincenzo Zucconelli and Gianni Ghidini.	Dino Bruni	1952 Summer Olympics
+participant of	Georg Kunisch (April 21, 1893 -- 1936) was a German freestyle swimmer who competed in the 1912 Summer Olympics.	Georg Kunisch	1912 Summer Olympics
+place of birth	Sadhu Meher (born in Odisha) is an Indian actor, director, and producer .	Sadhu Meher	Odisha
+place of birth	Julya Rabinowich (Russian: Юля Борисовна Рабинович; born 1970 in Leningrad, USSR (now Saint Petersburg, Russia) ) is an Austrian author, playwright, painter and translator .	Julya Rabinowich	Saint Petersburg
+place of birth	Mika Lahtinen (born 30 April 1985 in Tampere) is a Finnish footballer who currently plays for Veikkausliiga side Ilves as a Forward.	Mika Lahtinen	Tampere
+place of birth	Loro Boriçi (also known as Lorenzo Borici) (born in Shkodër, 4 August 1922 -- 25 April 1984) was an Albanian football (soccer) player most famous in 1940s and 1950s.	Loro Boriçi	Shkodër
+place of birth	William Wadsworth Hodkinson (August 16, 1881 -- June 2, 1971), known more commonly as W. W. Hodkinson, was born in Pueblo, Colorado.	William Wadsworth Hodkinson	Pueblo
+place of birth	Lee Remick was born in Quincy, Massachusetts, the daughter of Gertrude Margaret (two sources say Patricia) (née Waldo), an actress, and Francis Edwin ``Frank'' Remick, who owned a department store.	Lee Remick	Quincy
+place of birth	Ben Sombogaart (born 8 August 1947 in Amsterdam) is a Dutch film and TV director.	Ben Sombogaart	Amsterdam
+place of birth	The militant condition of craft painter comes to Pedro Cuni-Bravo of family traditions: formed in the workshop of his father, the muralist José Cuní, but then graduated from the Faculty of Fine Arts of Madrid.	Pedro Cuni-Bravo	Madrid
+place of birth	Anne Casimir Pyrame de Candolle (20 February 1836, Geneva -- 3 October 1918, Chêne-Bougeries) was a Swiss botanist, the son of Alphonse Pyrame de Candolle.	Anne Casimir Pyrame de Candolle	Geneva
+place of birth	Rayo de Jalisco Jr. was born on January 1, 1960, in Guadalajara, Jalisco, Mexico, son of legendary wrestler Rayo de Jalisco, Sr. and the nephew of wrestlers Tony Sugar and Black Sugar.	Rayo de Jalisco Jr.	Guadalajara
+place of birth	Enrico Morello (born January 11, 1977 in Palermo) is a former Italian professional footballer He played 2 seasons (18 games, no goals) in the Serie A for Parma F.C. and A.C.R. Messina.	Enrico Morello	Palermo
+place of birth	Robert Desmond Meikle (born 18 May 1923 in Newtownards, County Down, Northern Ireland) is an Irish botanist from the Royal Botanic Gardens, Kew.	Robert Desmond Meikle	County Down
+place of birth	Mykola Porsh was born on October 19, 1879 in Lubny in a German-Jewish noble family.	Mykola Porsh	Lubny
+place of birth	Serhiy Yesin (born 2 April 1975 in Kharkiv) is a former Ukrainian footballer and current coach who currently manages Ukrainian First League club FC Helios Kharkiv.	Serhiy Yesin	Kharkiv
+place of birth	Kyra Sundance (born July 20, 1970 in Orange County, California) is a dog trainer, performer, and author.	Kyra Sundance	Orange County
+place of birth	Dean Phoenix (born April 25, 1974 in Mexicali, Baja California, Mexico) is a pornographic actor.	Dean Phoenix	Mexicali
+place of birth	Dennis Wolf (born October 30, 1978, in Tokmok, Kyrgyzstan) is a German IFBB professional bodybuilder, and the 2014 Arnold Classic champion.	Dennis Wolf	Tokmok
+place of birth	Eduard Toll was born on 14 March (O.S. 2 March) 1858, in Reval, Russia (now Tallinn, Estonia) and he died in 1902 in an unknown location in the Arctic Ocean.	Eduard Toll	Tallinn
+place of birth	Vladimir Abramovich Rokhlin was born in Baku, Azerbaijan, to a wealthy Russian Jewish family.	Vladimir Abramovich Rokhlin	Baku
+place of birth	Tala Madani (born 1981 in Tehran) is an artist based in Los Angeles, California, USA.	Tala Madani	Tehran
+place of birth	Alfred Kirwa Yego (born 28 November 1986 in Eldoret) is a Kenyan middle distance runner who specializes in the 800 metres.	Alfred Kirwa Yego	Eldoret
+place of birth	Franco Ariel Sosa Portela (born on 12 August 1983 in Tacuarembó) is a Uruguayan footballer.	Franco Ariel Sosa	Tacuarembó
+place of birth	Douglas Miles grew up in Phoenix, Arizona, then moved back to the San Carlos Apache Indian Reservation in Arizona.	Douglas Miles	Phoenix
+place of birth	He Yan was born in Nanyang, Henan.	He Yan	Nanyang
+place of birth	Jens Riewa (born 2 July 1963 in Lübbenau, Brandenburg) is a German television presenter and broadcast news analyst for the Tagesschau, a programme produced by the German broadcaster ARD.	Jens Riewa	Lübbenau
+place of birth	Sanna Bråding (born 5 March 1980, in Saltsjö-Boo, Nacka, Stockholm County) is a Swedish actress.	Sanna Bråding	Boo
+place of birth	Born in 1817 and raised in Dublin, Ireland, George Victor Du Noyer, he was the son of Louis Victor Du Noyer (1782--1868) and Margaret Du Bédat (1794--1876), both of Huguenot descent.	George Victor Du Noyer	Dublin
+place of birth	Gilberto Pereira dos Santos, usually known as Gilberto Pereira (born 9 May 1965 in Mirandópolis), is a Brazilian football manager.	Gilberto Pereira	Mirandópolis
+place of birth	Tania Boteva-Malo (Bulgarian: Таня Ботева-Мало; Sofia, 1950) is a Bulgarian French language writer who currently lives in Brussels.	Tania Boteva-Malo	Sofia
+place of birth	Henry Martyn Dexter (August 13, 1821 -- November 13, 1890), American clergyman and author, was born in Plympton, Massachusetts.	Henry Martyn Dexter	Plympton
+place of birth	Curley Culp (born March 10, 1946, in Yuma, Arizona) is a former professional American football player.	Curley Culp	Yuma
+place of birth	Rufus Emory Holloway (March 16, 1885 in Marshall, Missouri -- July 30, 1977 in Bethlehem, Pennsylvania) is an American literary scholar-educator most known for his books and studies of Walt Whitman.	Emory Holloway	Missouri
+place of birth	He was born as Bernabé Martínez Remacha, the sixth and last child of his family, in Villarroya de la Sierra in the Province of Zaragoza, Aragon.	Bernabé Martí	Villarroya de la Sierra
+place of birth	Samuel Farber (born in Marianao, Havana, Cuba) is an American writer born and raised in Cuba.	Samuel Farber	Marianao
+place of birth	John Hartson was born on 5 April 1975 in Swansea, as the third of four children to Cyril and Diana Hartson.	John Hartson	Swansea
+place of birth	Abraham Mintchine (4 April 1898, in Kiev - 25 April 1931, in La Garde), was a Ukrainian painter.	Abraham Mintchine	Kiev
+place of birth	Craig Barnett was born in East Fremantle, Western Australia and was raised in the suburb of Kardinya.	Craig Barnett	East Fremantle
+place of birth	Ann Gillis (born Alma Mabel Conner; February 12, 1927, in Little Rock, Arkansas), sometimes credited as Anne Gillis or Ann Gilles, is a retired American actress.	Ann Gillis	Little Rock
+place of birth	Lai-Sheng Wang (simplified Chinese: 王来生; traditional Chinese: 王來生; pinyin: wang laisheng, born 1961, Henan, China) is an experimental physical chemist currently teaching at Brown University.	Lai-Sheng Wang	Henan
+place of birth	Javier Torres Gómez (born 9 October 1970 in Madrid) is a Spanish retired footballer who played mainly as a right back.	Javier Torres Gómez	Madrid
+place of birth	Beinir Sigmundsson (10th century, Skúvoy, Faroes - 970 Dímun, Faroes) was together with his brother Brestir Sigmundsson ruler over half of the Faroe Islands.	Beinir Sigmundsson	Skúvoy
+place of birth	Katy Livingston (born 10 January 1984 in Guisborough, England) is a British modern pentathlete who has competed at the Olympic Games.	Katy Livingston	Guisborough
+place of birth	Tulsi Ghimire was born in Sindeybong, Kalimpong, Darjeeling district, India to Nepali parents Dhojman Ghimire and Narbada Ghimire.	Tulsi Ghimire	Kalimpong
+place of birth	Fikret Alomerović (Macedonian: Фикрет Аломеровиќ; born 3 December 1970 in Skopje) is a former Macedonian football player.	Fikret Alomerović	Skopje
+place of birth	Daniel Langrand is a French footballer and coach born in Tourcoing (Nord).	Daniel Langrand	Tourcoing
+place of birth	Leah Bracknell (born Alison Rosalind Bracknell 12 July 1964 in Westminster, London) is an English actress, best known for her role as Zoe Tate in Emmerdale.	Leah Bracknell	London
+place of birth	Maxim Lykov (Russian: Максим Лыков, born September 21, 1987 in Balashikha, Russia, Soviet Union) is a professional poker player from Moscow, Russia.	Maxim Lykov	Balashikha
+place of birth	Leung Tsz Chun (Chinese: 梁子駿; Jyutping: loeng4 zi2 zeon3, born 19 May 1985 in Hong Kong) is a Hong Kong footballer playing for the Hong Kong First Division club Eastern Salon as a striker and right-winger.	Leung Tsz Chun	Hong Kong
+place of birth	Aurelio Vidmar (born 3 February 1967 in Adelaide) is an Australian retired football (soccer) player, former captain of the Australian national team and current coach of the Young Socceroos.	Aurelio Vidmar	Adelaide
+place of birth	Gabriele Bongiorni (born 16 May 1959 in Chignolo Po) was a left-footed Italian footballer.	Gabriele Bongiorni	Chignolo Po
+place of birth	Sarah F. Maclaren (born June 4, 1964, London, UK) is an Anglo-Italian cultural theorist, sociologist and anthropologist.	Sarah F. Maclaren	London
+place of birth	Ugo Bardi (born May 23, 1952 in Florence) is a professor in Physical Chemistry at the University of Florence.	Ugo Bardi	Florence
+place of birth	Travis Lane Stork (born March 9, 1972 in Fort Collins, Colorado) is an American emergency physician and television personality, best known for appearing on The Bachelor, and as the host of the syndicated daytime talk show The Doctors.	Travis Lane Stork	Fort Collins
+place of birth	Lindsay Parker (born March 30, 1980 in Los Angeles, California) is an American actress who got her start as Little Girl on an episode of MacGyver.	Lindsay Parker	Los Angeles
+place of birth	Christophe Laporte (born on 11 December 1992 in La Seyne-sur-Mer) is a French cyclist.	Christophe Laporte	La Seyne-sur-Mer
+place of birth	Theodoros Pakaltsis (Greek: Θεόδωρος Πακάλτσης; born 9 May 1978 in Ptolemaida) is a Greek former footballer who last played for Kavala F.C. in the Beta Ethniki.	Theodoros Pakaltsis	Ptolemaida
+place of birth	Samuel Osgood (February 3, 1747 -- August 12, 1813) was an American merchant and statesman born in North Andover, Massachusetts, parent town of the Andovers.	Samuel Osgood	Andover
+place of birth	Ma Haide (simplified Chinese: 马海德; traditional Chinese: 馬海德; pinyin: Mǎ Hǎidé; September 26, 1910 -- October 3, 1988), born Shafick George Hatem (Arabic: جورج شفيق حاتم‎) in Buffalo, New York, USA, was a Chinese doctor.	Ma Haide	Buffalo
+place of birth	Younes Sarmasti (Persian: یونس سرمستی‎‎, was born 1994 in Malekan, East Azerbaijan) is an Iranian wrestler.	Younes Sarmasti	Malekan
+place of birth	Chung Ju-yung was born in Kangwŏn province (now located in North Korea), during a time when Korea was under Japanese rule.	Chung Ju-yung	North Korea
+place of birth	Jef Nys' father Hendrik moved to Antwerp after World War I, and worked in the port.	Jef Nys	Antwerp
+place of birth	Nicola Cassio (born 9 July 1985 in Trieste) is an Italian freestyle swimmer.	Nicola Cassio	Trieste
+place of birth	Jenny Jay (born Jenny Bolton; November 18, 1967, Birmingham), is a British actress, who played Carmen in Carla Lane's television series Bread.	Jenny Jay	Birmingham
+place of birth	James Kanoa Leahey, known as Kanoa Leahey, is a sports reporter for KHON-TV, the Honolulu Fox affiliate.	Kanoa Leahey	Honolulu
+place of birth	Tim Wylton (born 27 February 1940 in Bangor-on-Dee, Flintshire, Wales) is a British actor best known for his television roles Stanley Dawkins in My Hero and Lol Ferris in As Time Goes By.	Tim Wylton	Bangor-on-Dee
+place of birth	Juhi Parmar (born 14 December 1980 in Ujjain) is an Indian TV personality and an anchor, actress, television presenter, singer and dancer.	Juhi Parmar	Ujjain
+place of birth	Willibert Kremer (born 15 October 1939 in Hochneukirch) is a German football coach and a former player who currently works as a scout with Bayer 04 Leverkusen.	Willibert Kremer	Hochneukirch
+place of birth	Dancker Danckerts (baptized 5 February 1634 in Amsterdam -- buried 8 December 1666 in Amsterdam ) was a well known Dutch engraver and publisher.	Dancker Danckerts	Amsterdam
+place of birth	Francesco Antonio Broccu (1797--1882), was an Italian artisan and inventor, born in Gadoni, Sardinia, regarded as the first developer of Revolver, realised by him in 1833.	Francesco Antonio Broccu	Gadoni
+place of birth	Jiang Tingting (simplified Chinese: 蒋婷婷; traditional Chinese: 蔣婷婷; pinyin: Jiǎng Tíngtíng; born 25 September 1986 in Chengdu, Sichuan) is a Chinese synchronized swimmer.	Jiang Tingting	Chengdu
+place of birth	Born in Rutland, Ohio, the grandson of Rutland's founder Brewster Higley IV, Higley VI began studying medicine at La Porte Medical College in La Porte, Indiana at the age of eighteen.	Brewster Higley	Rutland
+place of birth	Mikhail Devyatyarov, Jr. (born 11 November 1985 in Chusovoy, Perm Krai) is a Russian cross-country skier who has competed since 2003.	Mikhail Devyatyarov, Jr.	Chusovoy
+place of birth	According to Fredegar, ``Samo (was) a Frank by birth (or nation) from the Senon(ag)ian province'', which could be present-day Soignies in Belgium or present-day Sens in France.	Samo	Soignies
+place of birth	Yuya Yamamoto was born in Takasu, Onomichi in Hiroshima, Japan on July 15, 1984.	Yuya Yamamoto	Onomichi
+place of birth	Virginia Henley, née Virginia Syddall (born 5 December 1935 in Bolton, England), is a British successful writer of historical-romance novels.	Virginia Henley	Bolton
+place of birth	João Carlos Santos do Amaral known as Cacaio (born 25 August 1967 in Florianópolis), is a Brazilian football manager and former Forward.	Cacaio	Florianópolis
+place of birth	Vincent Scotto was born on April 21, 1874 in Marseille and the latest addition to Pasquale Scotto d'Aniello and Antonia Intartaglia, from the island of Procida, located north of the Gulf of Naples.	Vincent Scotto	Marseille
+place of birth	Madeleine Schickedanz (born 20 October 1943 in Nuremberg) is a German heiress and former philanthropist.	Madeleine Schickedanz	Nuremberg
+place of birth	Michael Sanderling (born 21 February 1967 in Berlin) is a German conductor and violoncellist.	Michael Sanderling	Berlin
+place of birth	Bruce Drennan (born May 1, 1950 in Chicago, Illinois) is an American sportscaster based in Cleveland, Ohio.	Bruce Drennan	Chicago
+place of birth	Born on July 23, 1969, at Almaty Zoo, Batyr lived his entire life in the Karaganda Zoo at Karaganda in Kazakhstan.	Batyr	Almaty Zoo
+place of birth	Simon Gjoni (Shkodër, 1925--1991) was an Albanian conductor, and composer of many popular pieces for piano and orchestra.	Simon Gjoni	Shkodër
+place of birth	Giuseppe Abbagnale (born July 24, 1959 in Pompei) is an Italian rower who won multiple coxed pair world and Olympic championships with his brother Carmine Abbagnale.	Giuseppe Abbagnale	Pompei
+place of birth	Gwen Welles was born in Chattanooga, Tennessee, as Gwen Goldberg.	Gwen Welles	Chattanooga
+place of birth	C. W. McCall is the pseudonym of William Dale Fries, Jr. (born November 15, 1928, Audubon, Iowa, United States), an American singer, activist and politician known for his truck-themed outlaw country songs.	C. W. McCall	Audubon	Iowa
+place of birth	Leandro Depetris (born 24 January 1988 in Rafaela) is an Argentine--	Leandro Depetris	Rafaela
+place of birth	Lars Hjortsberg was born in Stockholm, and first appeared as a child actor at the Royal Swedish Opera in 1778, at the age of six, when he played an angel with a couple of lines at the celebration of the birth of the Crown Prince in Athalie.	Lars Hjortsberg	Stockholm
+place of birth	Sarma Melngailis (10 September 1972) was the owner and co-founder of Pure Food and Wine, a Raw foodism restaurant in New York City, and the founder and CEO of One Lucky Duck.	Sarma Melngailis	New York City
+place of birth	John Barth, called ``Jack'', was born in Cambridge, Maryland.	John Barth	Cambridge
+place of birth	Song Long (Chinese: 宋龙; pinyin: Sòng Lóng; born 20 August 1989 in Qingdao, Shandong) is a Chinese footballer who currently plays for Qingdao Jonoon in the China League One.	Song Long	Qingdao
+place of birth	Gary Paulsen was born in Minneapolis, Minnesota, where his extended family resided, to Oscar and Eunice H. (née Moen), Paulsen has two siblings: a full sister, Paulette, and a half brother Bill who was born to his father from a previous marriage.	Gary Paulsen	Minneapolis
+place of birth	Chris Bettney (born 27 October 1977) is an English former professional footballer Born in Chesterfield, England, Bettney can also play up front and scored his first league goal for Harrogate Town with a volley against Farsley Celtic in a 1-0 home win on Tuesday 7 February 2007.	Chris Bettney	Chesterfield
+place of birth	R. Barri Flowers (born in Detroit, Michigan) is an American mystery novelist, non-fiction author and criminologist.	R. Barri Flowers	Detroit
+place of birth	Branislav Stanić (Serbian Cyrillic: Бpaниcлaв Cтaнић ;born July 30, 1988 in Belgrade) is a Serbian footballer, who last played for Rad in the Serbian SuperLiga.	Branislav Stanić	Belgrade
+place of birth	Elisabeth Moore was born on March 5, 1876 in Brooklyn, the daughter of George Edward Moore (1840--1911), an affluent cotton broker, and Sarah Z. Orr (1857--1942).	Elisabeth Moore	Brooklyn
+place of birth	Ange Mancini (born June 15, 1944, Beausoleil, Alpes-Maritimes) is the French intelligence national coordinator.	Ange Mancini	Beausoleil
+place of birth	Wang Yue was born in Taiyuan, Shanxi Province, where he learned to play chess at the age of four.	Wang Yue	Taiyuan
+place of birth	Marco Amenta (Palermo, 11 August 1970) is an Italian director, producer, and photojournalist.	Marco Amenta	Palermo
+place of birth	Marion Keisker MacInnes (September 23, 1917 -- December 29, 1989), born in Memphis, Tennessee, was a radio show host, station manager, U.S. Air Force officer, and assistant to Sam Phillips at Sun Records.	Marion Keisker	Memphis
+place of birth	Pasquale Foresi (5 July 1929, Livorno -- 14 June 2015, Rocca di Papa) was an Italian priest and theologian.	Pasquale Foresi	Livorno
+place of birth	Shin Jung-hyeon (born January 4, 1938 in Seoul) is a South Korean rock guitarist and singer-songwriter.	Shin Jung-hyeon	Seoul
+place of birth	Mortimer L. Neinken (1896--1984) of New York City, was a collector and student of classic United States postage stamps.	Mortimer L. Neinken	New York City
+place of birth	Christian Obrist (born November 20, 1980 in Brixen) is an Italian middle distance runner, who specializes in the 1500 m.	Christian Obrist	Brixen
+place of birth	Jacqueline Pang (nickname - Pang Ching) Traditional Chinese - 彭晴 (born 27 August 1974) is a Hong Kong live television compère/host, interviewer, and a radio announcer on RTHK since 1998.	Jacqueline Pang	Hong Kong
+place of birth	Laurent Gané (born 7 March 1973 in Nouméa, New Caledonia) is a former French professional track cyclist.	Laurent Gané	Nouméa
+place of birth	Dinesh Lamba was born in Jambuda, a small village near Jamnagar in Gujarat in 1976.	Dinesh Lamba	Jambuda
+place of birth	Thanasit Siriphala was born in Khemarat District, Ubon Ratchathani, Thailand.He regularly played football as a child,and moved to Bangkok for studied and played football at Pensmith School.In this school he played in tournament Asian schools football U-15 championship 2010 at indonesia	Thanasit Siriphala	Khemarat
+place of birth	Michel Murr was born to an Greek Orthodox Christian family in the Matn District village of Bteghrine in 1932.	Michel Murr	Matn District
+place of birth	Wolfram Kuschke (born April 9, 1950 in Menden (Sauerland), North Rhine-Westphalia) is a politician.	Wolfram Kuschke	Menden (Sauerland
+place of birth	DeRay Davis (born Antoine DeRay Davis in Chicago, Illinois) is an American stand-up comedian and actor.	DeRay Davis	Chicago
+place of birth	Izhar Elias (born in Amsterdam, 1977) was the first guitarist to win the Dutch Music Prize.	Izhar Elias	Amsterdam
+place of birth	Louise Groody was born on March 27, 1897 at Waco, Texas, the first of three girls and a boy raised by Thomas and Irene Groody.	Louise Groody	Waco
+place of birth	Bollée founded the company Léon Bollée Automobiles in 1895 in Le Mans.	Léon Bollée	Le Mans
+place of birth	Frida Giannini (born in Rome, 1972) is an Italian fashion designer.	Frida Giannini	Rome
+place of birth	James Mercer Langston Hughes (February 1, 1902 -- May 22, 1967) was an American poet, social activist, novelist, playwright, and columnist from Joplin, Missouri.	Langston Hughes	Joplin
+place of birth	Mary Roberts Rinehart was born Mary Ella Roberts in Allegheny City, Pennsylvania, now a part of Pittsburgh.	Mary Roberts Rinehart	Pittsburgh
+place of birth	An Sung-hun (Hangul: 안성훈; born 11 September 1982) is a South Korean footballer who played as a Midfielder for FC Seoul (then known as Anyang LG Cheetahs) and Incheon United in the K League.	An Sung-hun	Incheon
+place of birth	Phil Vischer was born June 16, 1966 in Muscatine, Iowa, United States, and grew-up in Chicago, Illinois.	Phil Vischer	Muscatine
+place of birth	Stanisław Aronson (nom de guerre ``Rysiek'') (born 1925 in Warsaw) is a Polish Jew and an Israeli citizen, as well as a former officer of the Polish Home Army (AK) with a rank of Lieutenant.	Stanisław Aronson	Warsaw
+place of birth	Theresa Rose Bajt was born April 5, 1956 to Catholic parents in Joliet, Illinois.	Theresa Rose Bajt	Joliet
+place of birth	Sebastian Finsterwalder was born 4 October 1862 in Rosenheim, son of Joh.	Sebastian Finsterwalder	Rosenheim
+place of birth	Pierino Gelmini was born Pietro Gelmini in 1925 in Pozzuolo Martesana, a small community in the Province of Milan, and grew up and studied in his native Lombardy.	Pierino Gelmini	Pozzuolo Martesana
+place of birth	Joaquín Escolán y Balibrera (b. San Salvador) was a nineteenth-century Salvadoran politician.	Joaquín Escolán y Balibrera	San Salvador
+place of birth	Clyde Carson (born June 2, 1982), is an American rapper from Oakland, California.	Clyde Carson	Oakland
+place of birth	Bari Morgan (born 13 August 1980 in Carmarthen) is a Welsh footballer currently playing for Welsh Premier League side Aberystwyth Town where he is the club captain.	Bari Morgan	Carmarthen
+place of birth	Gil Hibben (born September 4, 1935) is an American custom knifemaker from Wyoming who is based in La Grange, Kentucky.	Gil Hibben	Wyoming
+place of birth	Adam Kossowski (5 December 1905 -- 31 March 1986) was a Polish artist, born in Nowy Sącz, notable for his works for the Catholic Church in England, where he arrived in 1943 as a refugee from Soviet labour camps and was invited in 1944 to join the Guild of Catholic Artists and Craftsmen.	Adam Kossowski	Nowy Sącz
+place of birth	Leandro Henrique do Nascimento (born 10 November 1998 in Ribeirão Claro), known as Leandrinho, is a Brazilian professional footballer who plays for Brazilian club Ponte Preta as a striker.	Leandro Henrique do Nascimento	Ribeirão Claro
+place of death	Otto Bonsema (3 November 1909 in Groningen -- 27 March 1994 in Groningen) is an association football player manager from the Netherlands.	Otto Bonsema	Groningen
+place of death	Johan Arnold Smellekamp (Amsterdam, Netherlands, 16 January 1812 -- Bloemfontein, Orange Free State, 25 May 1866) was a Dutchman who pioneered trade with the Boer Voortrekker states in South Africa and later became a civil servant, politician and law agent in the Orange Free State.	Johan Arnold Smellekamp	Bloemfontein
+place of death	Baron Caspar Wrede af Elimä (or Casper Wrede) (8 February 1929, Viipuri, Finland -- 25 September 1998, Helsinki, Finland) was a Finnish theatre and film director.	Caspar Wrede	Helsinki
+place of death	Pedro de Ribera (Madrid 4 August 1681 - Madrid, 1742) was a Spanish architect of the Baroque period.	Pedro de Ribera	Madrid
+place of death	Nicolai Wilhelm Marstrand (24 December 1810 -- 25 March 1873), painter and illustrator, was born in Copenhagen, Denmark, to Nicolai Jacob Marstrand, instrument maker and inventor, and Petra Othilia Smith.	Wilhelm Marstrand	Copenhagen
+place of death	Ursula Cain (April 24, 1927 in Dresden -- October 16, 2011 in Leipzig) was a German dancer and dance teacher.	Ursula Cain	Leipzig
+place of death	Karel Lodewijk Ledeganck (Eeklo, 9 November 1805 -- Ghent, 19 March 1847) was a Flemish writer.	Karel Lodewijk Ledeganck	Ghent
+position held	Vladimír Mečiar (Slovak pronunciation: (ˈʋlaɟimiːr ˈmetʃiar); born 26 July 1942) is a former Slovak politician who served three times as Prime Minister of Slovakia serving from 1990 to 1991, from 1992 to 1994, and from 1994 to 1998.	Vladimír Mečiar	Prime Minister of Slovakia
+position held	Mike Haridopolos was a Republican member of the Florida State Senate, representing the 20th District, which included Brevard, Indian River, Osceola, and St. Lucie Counties, from 2003-2012.	Mike Haridopolos	member of the Florida State Senate
+position held	Cedd was appointed as abbot of the monastery of Lastingham in his native Northumbria at the request of Ethelwald, the sub-king of Deira.	Cedd	abbot
+position held	Raymond Edward Garofalo, Jr., known as Ray Garofalo (born September 1958), is a lawyer and commercial developer from St. Bernard Parish, Louisiana, who is a Republican member of the Louisiana House of Representatives from District 103, which encompasses primarily St. Bernard Parish and four precincts each from Orleans and Plaquemines parishes.	Ray Garofalo	member of the Louisiana House of Representatives
+position held	Pierre Jubinville (born August 5, 1960 in Ottawa, Ontario) is a Canadian-born Paraguaian Roman Catholic bishop.	Pierre Jubinville	bishop
+present in work	Cristina Yang, M.D., Ph.D., is a fictional character from the medical drama television series Grey's Anatomy, which airs on the American Broadcasting Company (ABC) in the United States.	Cristina Yang	Grey's Anatomy
+present in work	Zoe Davis is a fictional character from the Australia soap opera Neighbours, portrayed by Ally Fowler.	Zoe Davis	Neighbours
+present in work	Donna Windsor (previously Windsor-Dingle) is a fictional character from the British ITV soap opera Emmerdale.	Donna Windsor	Emmerdale
+present in work	Jimmy Kudo, known originally as Shinichi Kudo (工藤 新一 Kudō Shin'ichi), is the protagonist of Gosho Aoyama's series Case Closed, which is known in Japan as Meitantei Conan (名探偵コナン, lit. Great Detective Conan, officially translated as Detective Conan).	Jimmy Kudo	Detective Conan
+present in work	Dr. Melinda Warner is a fictional character on the show Law & Order: Special Victims Unit, played by Tamara Tunie.	Melinda Warner	Law & Order: Special Victims Unit
+present in work	During the Mahabharata war, as a sixteen-year-old, Abhimanyu had equaled supreme warriors like Bhishma and Karna, and vanquished many other great warriors such as Drona, Salya, and Kripa, Aswatthama, Duryodhana, Dussasana, Alamvusha and Kritavarma.	Abhimanyu	Mahabharata
+publication date	A Dog's Breakfast is a Canadian comedy independent film produced in 2006.	A Dog's Breakfast	2006
+publication date	Brett Hull Hockey '95 is a traditional ice hockey simulation video game released on January 1995 for multiple platforms; including the Super Nintendo Entertainment System, Sega Genesis, and personal computers running MS-DOS.	Brett Hull Hockey '95	1995
+publication date	Attack in the Pacific (also known by the American series title: Armed Forces Information Film: A.F.I.F. Number 3) is a 1944 American war documentary film.	Attack in the Pacific	1944
+publication date	Jammin' the Blues is a 1944 American short film in which several prominent jazz musicians got together for a rare filmed jam session.	Jammin' the Blues	1944
+publication date	The Mad Empress is a 1939 American historical drama film depicting the 3-year reign of Maximilian I of Mexico (Nagel) and his struggles against Benito Juarez (Robards).	The Mad Empress	1939
+publication date	Departmental is a 1980 Australian TV movie based on a play by Mervyn Rutherford.	Departmental	1980
+publisher	Strategic Command WWII Pacific Theater is a grand strategy computer game developed by Fury Software, and published by Battlefront.com in 2008.	Strategic Command WWII Pacific Theater	Battlefront.com
+publisher	The Albatross is a novella written by Susan Hill, first appearing in the collection The Albatross and Other Stories published by Hamish Hamilton in 1971.	The Albatross	Hamish Hamilton
+publisher	Milo's Astro Lanes is a 1998 Nintendo 64 game developed by Player 1 and published by Crave Entertainment.	Milo's Astro Lanes	Crave Entertainment
+publisher	The Hardy Boys Detective Handbook is a special volume in the original Hardy Boys book series published by Grosset & Dunlap.	The Hardy Boys Detective Handbook	Grosset & Dunlap
+publisher	The Jordan Medical Journal is a peer-reviewed medical journal that is published by the University of Jordan Deanship of Scientific Research and the Ministry of Higher Education and Scientific Research in Jordan.	Jordan Medical Journal	University of Jordan
+publisher	GTR Evolution is an expansion pack to Race 07 developed by SimBin, published by Atari in Europe and Viva Media in the United States.	GTR Evolution	Atari
+record label	East of Midnight is Canadian musician Gordon Lightfoot's 17th original album, released in 1986 on the Warner Bros. Records label.	East of Midnight	Warner Bros. Records
+record label	The Dawn of My Death is the second studio album by Before Their Eyes, released in 2008 under the label Rise Records.	The Dawn of My Death	Rise Records
+record label	Prana Dance is a studio album by American jazz musician Tom Harrell, released in January 27, 2009, by HighNote Records and recorded in May 29, 2008, and June 10, 2008.	Prana Dance	HighNote Records
+record label	Child of the Future is the name of the thirteenth full length studio album by the Norwegian band Motorpsycho that was released on August 7, 2009, via Rune Grammofon and Stickman Records.	Child of the Future	Rune Grammofon
+record label	``Down That Road'' is the debut single from Shara Nelson's first solo album What Silence Knows released in 1993 on Cooltempo Records.	Down That Road	Cooltempo Records
+record label	Tail Swallower and Dove is the third and final album by Seattle-based post-hardcore band These Arms Are Snakes, released on October 7, 2008 on Suicide Squeeze Records.	Tail Swallower and Dove	Suicide Squeeze Records
+record label	Runaway Sunday is the sixth studio album by Altan, released in July 1997 on the Virgin Records label.	Runaway Sunday	Virgin Records
+record label	Gospel Nights is a 1980 live album by Maria Muldaur released on Takoma Records.	Gospel Nights	Takoma Records
+record label	``Urban Mermaid'' is the 9th single of Japanese artist Yuna Ito released on October 24, 2007 under Studioseven Recordings.	Urban Mermaid	Studioseven Recordings
+record label	S.I.O.S.O.S., also called S.I.O.S.O.S., Volume 1, is an album by The Spooks released in 2000 by Antra/Artemis/Sony.	S.I.O.S.O.S.	Sony
+record label	Scream Dream is the sixth studio album by American hard rock guitarist and singer-songwriter Ted Nugent, released by Epic Records in 1980.	Scream Dream	Epic Records
+screenwriter	How Much Do You Love Me? (French: Combien tu m'aimes ?) is a 2005 French romantic comedy film written and directed by Bertrand Blier.	How Much Do You Love Me?	Bertrand Blier
+screenwriter	Kansas City Confidential is a 1952 film noir crime film directed by Phil Karlson and starring John Payne, Coleen Gray, Preston Foster, Neville Brand, Lee Van Cleef and Jack Elam.	Kansas City Confidential	Phil Karlson	John Payne
+screenwriter	Disaster Movie is a 2008 American parody film written and directed by Jason Friedberg and Aaron Seltzer, and stars Matt Lanter, Vanessa Minnillo, Gary ``G Thang'' Johnson, Crista Flanagan, Ike Barinholtz, Carmen Electra, Tony Cox, and Kim Kardashian in her feature film acting debut.	Disaster Movie	Jason Friedberg	Aaron Seltzer
+screenwriter	Sökarna (literally ``The Searchers'') is a 1993 Swedish crime film directed by Daniel Fridell and Peter Cartriers.	Sökarna	Daniel Fridell
+screenwriter	Itinerary of a Spoiled Child or Itinéraire d'un enfant gâté is a French film directed by Claude Lelouch in 1988.	Itinerary of a Spoiled Child	Claude Lelouch
+series	Bridge of Souls is the third book in The Quickening written by Fiona McIntosh.	Bridge of Souls	The Quickening
+series	The Real Story (or officially The Gap into Conflict: The Real Story) is the first book of The Gap Cycle by Stephen R. Donaldson, a science fiction series.	The Real Story	The Gap Cycle
+series	The Pontiac Sunfire is an automobile that was introduced for the 1995 model year by Pontiac as the compact car to replace the Sunbird.	Pontiac Sunfire	compact car
+series	Professor Tom is a 1948 one-reel animated cartoon and is the 37th Tom and Jerry cartoon released, directed by the duo's creators William Hanna and Joseph Barbera, produced by Fred Quimby, and animated by Ray Patterson, Irven Spence, Kenneth Muse and Ed Barge.	Professor Tom	Tom and Jerry
+series	Steel Beach takes place (as does The Golden Globe) in a universe similar to (but distinct from) Varley's ``Eight Worlds'' universe: in each, the solar system has been colonized by human refugees fleeing aliens (known simply as ``the Invaders'') invading the Earth.	Steel Beach	Eight Worlds
+sport	Andrew Sweat (born April 11, 1989) is a former American football linebacker who played college football for the Ohio State Buckeyes from 2008 to 2011.	Andrew Sweat	American football
+sport	Patrick Stephen Johns, known as Paddy Johns (born 19 February 1968, in Portadown) was an Irish rugby union player from 1990 to 2000.	Paddy Johns	rugby union
+sport	Olga Govortsova (Belarusian: Вольга Аляксееўна Гаварцова (Volha Havartsova); Russian: Ольга Алексеевна Говорцова; born 23 August 1988) is a professional Belarusian tennis player.	Olga Govortsova	tennis
+sport	Born into great wealth, Evelyn de Rothschild became one of England's most eligible bachelors, spending his youth travelling, socialising, driving exotic sports cars, enjoying thoroughbred horse racing and playing polo.	Evelyn de Rothschild	polo
+sport	The Palestine national under-17 football team, represents Palestine in association football at an under-17 age level and is controlled by the Palestinian Football Association, the governing body for football in Palestine.	Palestine national under-17 football team	association football
+taxon rank	Paratriacanthodes is a genus of spikefishes found in the Indian and Pacific Oceans.	Paratriacanthodes	genus
+taxon rank	Leucodynerus is a Nearctic genus of small sized potter wasps distributed in south western United States and northern Mexico.	Leucodynerus	genus
+taxon rank	Caryota urens is a species of flowering plant in the palm family from the Indian Subcontinent and Southeast Asia where they grow in fields and rainforest clearings.	Caryota urens	species
+taxon rank	Eucalyptus porosa is a species of eucalypt or gum tree, native to southern Australia.	Eucalyptus porosa	species
+taxon rank	The Thick-border Kite Swallowtaill, Protographium dioxippus lacandones, is a subspecies of butterfly of the family Papilionidae.	Protographium dioxippus lacandones	subspecies
+taxon rank	Torquigener andersonae, commonly known as Anderson's toadfish, is a species of fish in the family Tetraodontidae.	Torquigener andersonae	species
+taxon rank	Chorthopodisma cobellii is a species of insect in the family Acrididae.	Chorthopodisma cobellii	species
+taxon rank	Planktothrix is a genus of filamentous cyanobacteria (often called blue-green algae).	Planktothrix	genus
+taxon rank	Govenia floridana (tropical govenia) is a very rare species of orchid endemic to Everglades National Park in Florida.	Govenia floridana	species
+taxon rank	†Gastrocopta chichijimana was a species of very small air-breathing land snail, a terrestrial pulmonate gastropod mollusks in the family Vertiginidae, the whorl snails.	Gastrocopta chichijimana	species
+taxon rank	Buddleja lojensis is a species endemic to the Loja region of southern Ecuador, and Piura in Peru, where it grows on mountains, savannahs and scrub, notably near streams, at elevations of 1,600 -- 2,550 m. The species was first identified and described by Norman in 1982.	Buddleja lojensis	species
+taxon rank	Eriogonum latens is a species of wild buckwheat known by the common name Inyo buckwheat.	Eriogonum latens	species
+taxon rank	Oreolalax liangbeiensis (Liangbei toothed toad) is a species of amphibian in the Megophryidae family endemic to China: it is only known from the vicinity of its type locality, Puxiong in the Yuexi County, Sichuan.	Oreolalax liangbeiensis	species
+taxon rank	Aequispirella is a genus of sea snails, marine gastropod mollusks, unassigned in the superfamily Seguenzioidea.	Aequispirella	genus
+taxon rank	Amphilochidae is a family of amphipod crustaceans, containing the following genera:	Amphilochidae	family
+taxon rank	Galium corsicum, the Corsican bedstraw, is a plant species in the Rubiaceae.	Galium corsicum	species
+taxon rank	Squalius irideus or Ladigesocypris irideus is a species of freshwater fish in the Cyprinidae family.	Squalius irideus	species
+taxon rank	Trigonopterus aeneomicans is a species of flightless weevil in the genus Trigonopterus from Indonesia.	Trigonopterus aeneomicans	species
+taxon rank	It contains only one species, Acritotilpha siliginella, which is found in Morocco.	Acritotilpha	species
+taxon rank	Dryophthorini is a tribe of weevil within the family Dryophthoridae.	Dryophthorini	tribe
+taxon rank	Eysenhardtia orthocarpa is a species of small flowering tree, (a kidneywood) in the legume family, Fabaceae.	Eysenhardtia orthocarpa	species
+taxon rank	Sphaeramia orbicularis (the orbiculate cardinalfish, chubby cardinal or polka-dot cardinalfish) is a species of cardinalfish.	Sphaeramia orbicularis	species
+taxon rank	Arachnoididae is a family of echinoderms of the order Clypeasteroida.	Arachnoididae	family
+taxon rank	Tetrapleura tetraptera is a species of flowering plant in the pea family native to Western Africa.	Tetrapleura tetraptera	species
+taxon rank	Notobatrachus is an extinct genus of frog from the middle Jurassic Cañadon Asfalto Formation of Argentina.	Notobatrachus	genus
+taxon rank	Banksia littoralis appears most closely related to the other species of the series Spicigerae such as B. seminuda and B. occidentalis.	Banksia littoralis	species
+taxon rank	Alsodes hugoi is a species of frog in the Alsodidae family endemic to Chile.	Alsodes hugoi	species
+taxon rank	Rhacophorus georgii (common name: Tuwa flying frog) is a species of frog in the Rhacophoridae family endemic to Sulawesi, Indonesia.	Rhacophorus georgii	species
+taxon rank	Paramispilopsis indica is a species of beetle in the family Cerambycidae, and the only species in the genus Paramispilopsis.	Paramispilopsis indica	species
+taxon rank	Prionotus is a genus of searobins found in the Atlantic and Pacific oceans.	Prionotus	genus
+voice type	Percy Heming (6 September 1883 -- 11 January 1956) was an English operatic baritone singer and actor.	Percy Heming	baritone
+voice type	Georg Poplutz is a German tenor, a soloist in Baroque music, opera and oratorio, and a Lied singer.	Georg Poplutz	tenor
+voice type	Elīna Garanča (born 16 September 1976) is a Latvian operatic lyric mezzo-soprano.	Elīna Garanča	mezzo-soprano
+voice type	Adriana Guerrini (September 22, 1907 in Florence -- April 24, 1970 in Milan) was an Italian operatic soprano, particularly associated with the Italian repertory.	Adriana Guerrini	soprano
+voice type	Phillip Joll is a Welsh operatic baritone known for his portrayal of Wotan in Wagner's Der Ring des Nibelungen.	Phillip Joll	baritone

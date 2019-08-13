@@ -1,0 +1,10 @@
+country of citizenship
+developer
+dissolved or abolished
+manufacturer
+military branch
+narrative location
+parent taxon
+place of death
+publisher
+voice type

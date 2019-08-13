@@ -1,0 +1,1000 @@
+manufacturer	The Infiniti Q45 is a full-size luxury car which was sold by Nissan's Infiniti marque from 1989 until 2006.	Infiniti Q45	Nissan
+manufacturer	The Spyker C8 is a sports car produced by the Dutch automaker Spyker Cars.	Spyker C8	Spyker Cars
+manufacturer	The Kia Opirus was an executive car manufactured and marketed by Kia Motors that was launched in April 2003 and was marketed globally under various nameplates, prominently as the Amanti.	Kia Opirus	Kia Motors
+manufacturer	Gulden Draak (Dutch for Golden Dragon) is a dark Belgian beer with high alcohol by volume (10.5%), brewed by Brouwerij Van Steenberge in Ertvelde, East Flanders.	Gulden Draak	Brouwerij Van Steenberge
+manufacturer	The Acorn System 1, initially called the Acorn Microcomputer (Micro-Computer), was an early 8-bit microcomputer for hobbyists, based on the MOS 6502 CPU, and produced by British company Acorn Computers from 1979.	Acorn System 1	Acorn Computers
+manufacturer	German submarine U-338 was a Type VIIC U-boat of Nazi Germany's Kriegsmarine during World War II. The submarine was laid down on 4 April 1941 at the Nordseewerke yard at Emden, launched on 20 April 1942, and commissioned on 25 June 1942 under the command of Oberleutnant zur See Manfred Kinzel.	German submarine U-338	Nordseewerke
+manufacturer	The GE U25B was General Electric's first independent entry into the United States domestic Diesel-electric locomotive railroad market for heavy production road locomotives since 1936.	GE U25B	General Electric
+manufacturer	The Buick GL8 is a minivan produced and sold in China under the Buick brand name by Shanghai GM (SGM), the joint-venture of SAIC Motor with the US-American company General Motors.	Buick GL8	General Motors
+manufacturer	The Boeing 787 Dreamliner is a long-range, mid-size wide-body, twin-engine jet airliner developed by Boeing Commercial Airplanes.	Boeing 787 Dreamliner	Boeing Commercial Airplanes
+manufacturer	The 521 ROD 2-8-0s were built as follows: 369 by the North British Locomotive Company, 82 by Robert Stephenson and Company, 32 by Nasmyth, Wilson and Company, 32 by Kitson and Company and six by the Great Central Railway's Gorton Works.	ROD 2-8-0	North British Locomotive Company	Robert Stephenson and Company	Nasmyth, Wilson and Company	Kitson and Company	Gorton Works
+military branch	Shahid Iqbal, Born: 15 July 1953, HI(M), SI, is a retired 3-star rank naval officer and the former Chief of Staff (COS) of Pakistan Navy who served as the former Commander of Combined Task Force 150.	Shahid Iqbal	Pakistan Navy
+military branch	John Russell Young Blakely was a Rear Admiral of the United States Navy.	John Russell Young Blakely	United States Navy
+military branch	Brigadier General Alberto A. Nido (1 March 1919 -- 27 October 1991) is a former United States Air Force officer who during World War II served in the Royal Canadian Air Force, the British Royal Air Force and in the United States Army Air Forces.	Alberto A. Nido	United States Air Force	Royal Air Force
+military branch	Captain Richard Bogue (24 October 1782 -- 18 October 1813) was an officer of the British Army, who commanded the Rocket Brigade at the Battle of Leipzig, where he was killed.	Richard Bogue	British Army
+military branch	Rear Admiral (Upper Half) Charles H. Johnston, United States Navy, was appointed Vice Commander of the Naval Air Systems Command, (NAVAIR) at NAS Patuxent River, Maryland in December 2001.	Charles H. Johnston	United States Navy
+military branch	George Blagdon Westcott (fl. 24 April 1753 -- 1 August 1798) was an officer of the Royal Navy.	George Blagdon Westcott	Royal Navy
+military branch	829 Naval Air Squadron is a squadron of the Royal Navy Fleet Air Arm.	829 Naval Air Squadron	Royal Navy
+military branch	John Percival known as Mad Jack Percival (3 April 1779 -- 7 September 1862) was a celebrated officer in the United States Navy during the Quasi-War with France, the War of 1812, the campaign against West Indies pirates, and the Mexican-American War.	John Percival	United States Navy
+military branch	The Norfolk County Division was an infantry division of the British Army formed during the Second World War named after the County of Norfolk.	Norfolk County Division	British Army
+military branch	1st Anti-Aircraft Brigade (1 AA Bde) was an Air Defence formation of the British Army in World War II that served in the Battle of France and The Blitz.	1st Anti-Aircraft Brigade	British Army
+military branch	Rear Admiral John Saumarez Dumaresq CB, CVO (/dʉˈmɛərɨk/ duu-MAIR-ik; 26 October 1873 -- 22 July 1922) was an officer in the Royal Navy.	John Saumarez Dumaresq	Royal Navy
+military branch	Willard Warner (September 4, 1826 -- November 23, 1906) was a brevet brigadier general in the Union Army during the American Civil War.	Willard Warner	Union Army
+military branch	The 2da Escuadrilla Aeronaval de Caza y Ataque (EA32) ( English: Second Naval Fighter/Strike squadron ) is the main strike unit of the Argentine Naval Aviation, the air branch of the Argentine Navy.	2da Escuadrilla Aeronaval de Caza y Ataque	Argentine Naval Aviation
+military branch	James R. Stark (b. ca. 1943) is a retired rear admiral of the United States Navy who served during the Cold War and in the Vietnam War and oversaw operations related to the Yugoslav Wars of the 1990s.	James R. Stark	United States Navy
+military branch	James Roche Verling (1787--1858) was a British Army surgeon who became personal surgeon to Napoleon Bonaparte on St Helena.	James Roche Verling	British Army
+military branch	Hans Johnsen (January 3, 1865 -- June 17, 1920) was a chief machinist serving in the United States Navy during the Spanish--	Hans Johnsen	United States Navy
+military branch	In 1916, following many losses among the original naval volunteers, the division was transferred to the British Army as the 63rd (Royal Naval) Division, re-using the number from the disbanded second-line 63rd (2nd Northumbrian) Division Territorial Force.	63rd (Royal Naval) Division	British Army
+military branch	Rudolf Schoenert (27 July 1911 -- 30 November 1985) was the seventh highest scoring night fighter flying ace in the German Luftwaffe during World War II. He was also a recipient of the Knight's Cross of the Iron Cross with Oak Leaves (German: Ritterkreuz des Eisernen Kreuzes mit Eichenlaub).	Rudolf Schoenert	Luftwaffe
+military branch	Arthur Fleming Morrell (10 November 1788 -- 13 September 1880) was British officer of the Royal Navy, an explorer, and a colonial administrator of Ascension Island, who saw service spanning the end of the Napoleonic era and well into the Victorian era.	Arthur Fleming Morrell	Royal Navy
+military branch	Admiral Sir Benjamin Caldwell, GCB (31 January 1739 - November 1820) was a senior and experienced British Royal Navy officer of the eighteenth century.	Benjamin Caldwell	Royal Navy
+military branch	George Reade (1687 -- 28 March 1756) was a British Army officer, fourth son of Sir Edward Reade, 2nd Baronet.	George Reade	British Army
+military branch	The Royal Regiment of Wales (24th/41st Foot) was an infantry regiment of the British Army, part of the Prince of Wales' Division.	Royal Regiment of Wales	British Army
+military branch	Major-General Stephen Cornwallis (23 December 1703 -- 12 May 1743) was a British Army officer who served as Member of Parliament for Eye from 1727 to his death.	Stephen Cornwallis	British Army
+military branch	The 126th (East Lancashire) Brigade was an infantry brigade of the British Army during the First World War and the Second World War.	126th (East Lancashire) Brigade	British Army
+military branch	John Woodward Philip (26 August 1840 -- 30 June 1900) was an officer in the United States Navy during the Civil War and Spanish--	John Woodward Philip	United States Navy
+military branch	Force Troops Command is a combat support and combat service support command of the British Army.	Force Troops Command	British Army
+performer	These Things Move in Threes is the first album from indie rock band Mumm-Ra, released on 28 May 2007, and leaked onto the internet on the 17 May.	These Things Move in Threes	Mumm-Ra
+performer	``Dead and Gone'' is a song by American hip hop recording artist T.I., featuring American singer-songwriter Justin Timberlake.	Dead and Gone	T.I.	Justin Timberlake
+performer	Diminuendo, Crescendo and Blues is an album recorded in 1958 by the C Jam All-Stars led by Paul Gonsalves.	Diminuendo, Crescendo and Blues	Paul Gonsalves
+performer	``Always the Love Songs'' is a song co-written by David Lee Murphy and George Ducas, and recorded by American country music group Eli Young Band.	Always the Love Songs	Eli Young Band
+performer	``Live to Rise'' is a song recorded by American rock band Soundgarden for the 2012 film, The Avengers.	Live to Rise	Soundgarden
+performer	This Is Not the Target Market is the second album by New Zealand punk band Steriogram.	This Is Not the Target Market	Steriogram
+performer	Gift of Screws is the fifth solo album by American musician and Fleetwood Mac vocalist/guitarist Lindsey Buckingham, and was released on September 15, 2008.	Gift of Screws	Lindsey Buckingham
+performer	Crowd Scene is an album by jazz pianist Mal Waldron recorded in 1989 and released on the Italian Soul Note label.	Crowd Scene	Mal Waldron
+performer	Live on the Black Hand Side is a double-disc live album from Danzig.	Live on the Black Hand Side	Danzig
+performer	``Handle This'' is the fourth and final single from the album All Killer No Filler by the Canadian pop punk band Sum 41.	Handle This	Sum 41
+performer	``En El Jardín'' (At The Garden) is a single released by Mexican singer Alejandro Fernández featuring American singer Gloria Estefan.	En El Jardín	Alejandro Fernández	Gloria Estefan
+performer	``Hello Beloved'' was the final single from Angela Winbush's solo debut, Sharp.	Hello Beloved	Angela Winbush
+performer	Acid Monkey is the fourth album from the glam metal band BulletBoys, released in 1995.	Acid Monkey	BulletBoys
+performer	``Gravity of Love'' is a song by the musical group Enigma.	Gravity of Love	Enigma
+performer	``King of Sorrow'' is the second single from the English group Sade's fifth studio album, Lovers Rock (2000).	King of Sorrow	Sade
+performer	Workbench Songs is an album by American singer-songwriter Guy Clark, released on 10 July 2006.	Workbench Songs	Guy Clark
+performer	Dronevil is the eighth studio album by the Japanese experimental band Boris.	Dronevil	Boris
+performer	Au nom des rois is the fifth studio album by French pop singer Jeanne Mas, released in 1992.	Au nom des rois	Jeanne Mas
+performer	Don't Stand Me Down is the third studio album by Dexys Midnight Runners, released in September 1985.	Don't Stand Me Down	Dexys Midnight Runners
+performer	Frosting on the Beater is the third album by the Seattle rock group The Posies, released in 1993.	Frosting on the Beater	The Posies
+performer	Zindagi Ek Safar Hai Suhana (translation: Life is a wonderful journey) is a song from the Hindi film Andaz, composed by the duo of Shankar Jaikishan, written by Hasrat Jaipuri and sung by Kishore Kumar.	Zindagi Ek Safar Hai Suhana	Kishore Kumar
+performer	V-sit is the second album by Masami Okui, released on September 21, 1996.	V-sit	Masami Okui
+performer	Flux + Mutability is the second collaboration between David Sylvian and Holger Czukay.	Flux + Mutability	David Sylvian
+performer	A Horse Called Music is a 1989 album by country singer Willie Nelson.	A Horse Called Music	Willie Nelson
+performer	Get Big is the second studio album by American rapper Dorrough, released on September 7, 2010.	Get Big	Dorrough
+performer	``Love Struck'' is an electropop song by American boy band V Factory.	Love Struck	V Factory
+performer	Story: 25 Years of Hits is a compilation album released by the UK electronic music group Pet Shop Boys.	Story: 25 Years of Hits	Pet Shop Boys
+performer	``The Dull Flame of Desire'' is a song recorded by Icelandic singer Björk featuring Antony Hegarty from the band Antony and the Johnsons.	The Dull Flame of Desire	Björk	Antony Hegarty
+performer	``Most of All'' is the fifth and final single from Jody Watley's eponymous debut album.	Most of All	Jody Watley
+performer	``Private Joy'' is a song by American musician Prince from his 1981 album Controversy, released as the B-side of the single ``Do Me, Baby''.	Private Joy	Prince
+performer	``Drops of Jupiter (Tell Me)'' (simply ``Drops of Jupiter'' on the album) is a Grammy Award-winning song written and recorded by American rock band Train.	Drops of Jupiter (Tell Me)	Train
+performer	Ana Rita Joana Iracema e Carolina is the second studio album from Brazilian singer Ana Carolina, available in 2001, has the participation of Alcione (Violão e Voz) and Claudia Raia (Dadivosa).	Ana Rita Joana Iracema e Carolina	Ana Carolina
+performer	Skalleluia!, also called The Insyderz Present Skalleluia!, is the second album by the Christian third-wave ska band, The Insyderz.	Skalleluia!	The Insyderz
+performer	Pazl (Greek: Παζλ, pronounced (puˈzel); English: Puzzle) is the 17th studio album by Greek recording artist Katy Garbi and 18th album overall.	Pazl	Katy Garbi
+performer	What Planet You On? is a 2008 single by Bodyrox the name for English DJs Jon Pearn and Nick Bridges.	What Planet You On?	Bodyrox
+performer	``We're Not Making Love No More'' is a song performed by American contemporary R&B group Dru Hill, released as a single from the soundtrack to the film Soul Food.	We're Not Making Love No More	Dru Hill
+performer	``Por Debajo de la Mesa'' (``Underneath the Table'') is a song written by Armando Manzanero and performed by Mexican recording artist Luis Miguel.	Por Debajo de la Mesa	Luis Miguel
+performer	Special Kiss was the first album by Gumball, a band formed by Don Fleming and Jay Spiegel following the breakup of B.A.L.L., and recruited Eric Vermillion soon after.	Special Kiss	Gumball
+performer	``Mississippi Goddam'' is a song written and performed by American singer and pianist Nina Simone.	Mississippi Goddam	Nina Simone
+performer	Puzzles Like You is the fifth album by the British country rock-folk group Mojave 3, released on 19 June 2006.	Puzzles Like You	Mojave 3
+performer	Sleep It Off is the second album from No Wave pop singer Cristina.	Sleep It Off	Cristina
+performer	Burning the Ballroom Down is the fourth album by American country rock group the Amazing Rhythm Aces, released in 1978 on the ABC label.	Burning the Ballroom Down	Amazing Rhythm Aces
+performer	The Expedition is the live album by the American metal band Kamelot, released in October 2000 through Noise Records.	The Expedition	Kamelot
+performer	Horkstow Grange is an album by the English electric folk band Steeleye Span.	Horkstow Grange	Steeleye Span
+performer	Skeleton Skeletron is the 1999 album release by Swedish band Tiamat.	Skeleton Skeletron	Tiamat
+performer	``My Culture'' is a song by British trip hop duo 1 Giant Leap released as the first single from their debut album, 1 Giant Leap in the spring of 2002.	My Culture	1 Giant Leap
+performer	``Trapped in a Box'' is a 1992 song by American rock band No Doubt.	Trapped in a Box	No Doubt
+performer	``Pinocchio (Danger)'' (피노키오; Pinokio) is a song and lead single by South Korean girl group f(x) from their first studio album Pinocchio.	Pinocchio (Danger)	f(x
+performer	Flutter By, Butterfly is an album by the Kenny Wheeler Quintet recorded in 1987 and released on the Soul Note label.	Flutter By, Butterfly	Kenny Wheeler
+performer	``Dazzling Girl'' is the fifth Japanese single of South Korean boy group, Shinee, released on October 10, 2012.	Dazzling Girl	Shinee
+performer	``Whataya Want from Me'' (abbreviation for What Do You Want From Me) is a song by American recording artist and American Idol eighth season runner-up Adam Lambert from his debut studio album, For Your Entertainment.	Whataya Want from Me	Adam Lambert
+performer	The Beautiful Experience is an EP by American musician Prince (his stage name at that time being an unpronounceable symbol, see cover art), his second commercial release under the symbolic moniker.	The Beautiful Experience	Prince
+performer	``Bubbles in My Beer'' is a Western swing song that was originally recorded by Bob Wills and His Texas Playboys in 1947.	Bubbles in My Beer	Bob Wills
+performer	Songs from a Parent to a Child is the eighth solo album by Art Garfunkel and his first release since Lefty nine years earlier.	Songs from a Parent to a Child	Art Garfunkel
+performer	Gloss Drop is the second studio album by American experimental rock band Battles.	Gloss Drop	Battles
+performer	Italian Platinum is the eighth full-length album released by indie rock band Silkworm.	Italian Platinum	Silkworm
+performer	``Nami Nori Pirates'' (波乗りパイレーツ, lit. ``Surfing pirates'') is the 13th single by Pink Lady.	Nami Nori Pirates	Pink Lady
+performer	Wake the Dead is the second album released on Victory Records by Canadian hardcore punk band Comeback Kid.	Wake the Dead	Comeback Kid
+performer	Dagsedlar åt kapitalismen is an album by the Swedish folk singer-songwriter and guitar player Fred Åkerström.	Dagsedlar åt kapitalismen	Fred Åkerström
+performer	``(Every Day Is) Halloween'' is a 1984 single by Ministry, re-released in 2010.	(Every Day Is) Halloween	Ministry
+performer	Something Awesome is the first solo album by the New Zealander rapper David Dallas, released on September 19, 2009 after his work with Frontline and their album Borrowed Time.	Something Awesome	David Dallas
+performer	Maybe Today, Maybe Tomorrow is the third full-length album by English rock band We Are the Ocean.	Maybe Today, Maybe Tomorrow	We Are the Ocean
+performer	In certi momenti (At Certain Times) is the third album by Italian pop/rock singer Eros Ramazzotti, produced by Piero Cassano and released in 1987 on the BMG label.	In certi momenti	Eros Ramazzotti
+performer	Flip Your Wig is the fourth album by American band Hüsker Dü, released in September 1985.	Flip Your Wig	Hüsker Dü
+performer	10,000 Towns is the fifth studio album by American country music group Eli Young Band.	10,000 Towns	Eli Young Band
+performer	Other Roads is an album by Boz Scaggs, released in 1988.	Other Roads	Boz Scaggs
+performer	``Two Piña Coladas'' is a song recorded by American country pop artist Garth Brooks.	Two Piña Coladas	Garth Brooks
+performer	Lyfe Change is an album by Lyfe Jennings, released on April 29, 2008.	Lyfe Change	Lyfe Jennings
+performer	Letter from Egypt is the fourth studio album by Norwegian singer Morten Harket, released on May 19, 2008.	Letter from Egypt	Morten Harket
+performer	Sodomizing the Archedangel is an EP by the French symphonic black metal band Anorexia Nervosa.	Sodomizing the Archedangel	Anorexia Nervosa
+performer	O Rio, A Cidade, A Árvore (English: The River, The City, The Tree) is the second album from the Brazilian rock band Fresno, released in 2004, through the RCT and Antídoto.	O Rio, A Cidade, A Árvore	Fresno
+performer	Pentanine is an album by Pierre Moerlen's Gong, issued in 2004.	Pentanine	Pierre Moerlen's Gong
+performer	Journal October is the debut album by cellist David Darling recorded in 1979 and released on the ECM label.	Journal October	David Darling
+performer	Scribble Mural Comic Journal is the first full-length album from A Sunny Day in Glasgow, released on compact disc format on February 13, 2007 by Notenuf Records, and on vinyl in 2008 by Ruined Potential Records.	Scribble Mural Comic Journal	A Sunny Day in Glasgow
+performer	Primavera in anticipo and Primavera anticipada (English: Early Spring) are the Italian language and the Spanish-language versions of the tenth studio album by Italian singer-songwriter Laura Pausini, released by Warner Music on 11 November 2008.	Primavera in anticipo	Laura Pausini
+performer	Lavirint (trans. Labyrinth) is the eighth studio album by Serbian rock band Van Gogh.	Lavirint	Van Gogh
+performer	The Art of the Theremin is the first official album by theremin virtuoso Clara Rockmore, and the only one released in her lifetime.	The Art of the Theremin	Clara Rockmore
+performer	``Boogie Child'' is the third hit single from the Bee Gees' 1976 platinum album Children of the World, released in the US in early 1977.	Boogie Child	Bee Gees
+performer	``Sissyneck'' is a single by Beck, taken from the album Odelay.	Sissyneck	Beck
+performer	Cause I Sez So is the fourth studio album (and second since the reunion) by the New York Dolls.	Cause I Sez So	New York Dolls
+performer	God, Time and Causality is an album by American fingerstyle guitarist and composer John Fahey, released in 1989.	God, Time and Causality	John Fahey
+performer	``The Yeah Yeah Yeah Song (With All Your Power)'' is a song by The Flaming Lips, released as the second single from their 2006 album At War with the Mystics.	The Yeah Yeah Yeah Song (With All Your Power)	The Flaming Lips
+performer	The Crystal Axis is the second album from Australian electronic band Midnight Juggernauts.	The Crystal Axis	Midnight Juggernauts
+performer	The Brendan Voyage was Shaun Davey's first major orchestral suite, composed for uilleann pipes played by Liam O'Flynn.	The Brendan Voyage	Shaun Davey	Liam O'Flynn
+performer	Smothered, Covered & Chunked is the thirteenth studio album by American hip hop group Insane Clown Posse.	Smothered, Covered & Chunked	Insane Clown Posse
+performer	Fancies is a cycle of six choral settings by John Rutter, created around whimsical themes and based on text from poets such as Shakespeare, Thomas Campion (1567--1620), Edward Lear (1812--1888) and others.	Fancies	John Rutter
+performer	The Breaks is a critically acclaimed 1980 hit single by Kurtis Blow from his self-titled debut album.	The Breaks	Kurtis Blow
+performer	The Fiddle Collection (subtitled Volume One) is a studio album with tracks from various British fiddle players produced by Phil Beer.	The Fiddle Collection	Phil Beer
+performer	It's All in the Movies is the 22nd studio album by American country singer Merle Haggard, released in 1976.	It's All in the Movies	Merle Haggard
+performer	The Blues and the Abstract Truth is a jazz album by American jazz saxophonist Oliver Nelson recorded in February 1961.	The Blues and the Abstract Truth	Oliver Nelson
+performer	Seven Tears is an album by Dutch rock band Golden Earring, released in 1971.	Seven Tears	Golden Earring
+performer	Black and Brown! is a collaborative EP by Detroit-based rappers Black Milk and Danny Brown.	Black and Brown!	Black Milk
+performer	Someday World is a collaboration album by British musician Brian Eno and Karl Hyde, of British electronic group Underworld released on May 5, 2014.	Someday World	Brian Eno	Karl Hyde
+performer	Schöner fremder Mann is the fourth German single recorded by U. S. entertainer Connie Francis.	Schöner fremder Mann	Connie Francis
+performer	The Party Ain't Over is the thirtieth studio album by American singer Wanda Jackson and a collaborative album with Jack White, the lead vocalist of The White Stripes.	The Party Ain't Over	Wanda Jackson
+performer	Farstucker is the fourth studio album from Belgian electronic band Lords of Acid.	Farstucker	Lords of Acid
+performer	Don't Say We Didn't Warn You is the second studio album by dance-punk band Does It Offend You, Yeah?.	Don't Say We Didn't Warn You	Does It Offend You, Yeah
+performer	Singin' with Feelin' is a 1967 album by American country singer-songwriter, Loretta Lynn.	Singin' with Feelin'	Loretta Lynn
+performer	Observations in Time is the 1969 debut album recorded by the Ohio Players and released on the Capitol label.	Observations in Time	Ohio Players
+performer	Swan Songs B-Sides is an EP by Hollywood Undead, that was released on June 23, 2009, and consists of 4 B-side songs that were recorded during the sessions of the album Swan Songs but didn't make the album.	Swan Songs B-Sides	Hollywood Undead
+performer	Pass Me The Mic Wǒ de màikèfēng ``My microphone'' (Chinese: 我的麥克風) is Taiwanese Mandopop artist Wilber Pan's (Chinese: 潘瑋柏) second Mandarin studio album.	Pass Me The Mic	Wilber Pan
+performer	``Hey Boys and Girls (Truth of the World pt.2)'' is the second single by Evermore, from their third studio album Truth of the World:	Hey Boys and Girls (Truth of the World pt.2)	Evermore
+performer	Chasing Hamburg, released on September 8, 2009, through Bridge Nine Records, is the second full-length studio album and fourth official release from the upstate New York-based post-hardcore/indie rock band Polar Bear Club.	Chasing Hamburg	Polar Bear Club
+performer	``Dear Lie'' is a song by American R&B recording group TLC.	Dear Lie	TLC
+performer	El Sexto Sentido (English: The Sixth Sense) is the ninth studio album (and thirteenth album) by Mexican latin pop singer Thalía.	El Sexto Sentido	Thalía
+performer	Maths + English is the third studio album by British rapper Dizzee Rascal.	Maths + English	Dizzee Rascal
+performer	Vremya reka (Russian: Время Река) is an album by Dima Bilan released in 2006.	Vremya reka	Dima Bilan
+performer	``The King of Rock 'n' Roll'' is a single by the British rock group Prefab Sprout, released in 1988.	The King of Rock 'n' Roll	Prefab Sprout
+performer	Rattlesnake! is the fourth studio album by post-hardcore band A Static Lullaby.	Rattlesnake!	A Static Lullaby
+performer	See That No One Else Escapes is the second album by Dave House (formerly of the band Lucky Thirteen).	See That No One Else Escapes	Dave House
+performer	``What I Really Meant to Say'' is a debut song written by Cyndi Thomson, Tommy Lee James and Chris Waters.	What I Really Meant to Say	Cyndi Thomson
+performer	How to Be Shy is the debut studio album by Israeli indie rock artist Shy Nobleman, released on June 6, 2001.	How to Be Shy	Shy Nobleman
+performer	Cavalcade of Glee and Dadaist Happy Hardcore Pom Poms is a 2006 breakcore album by Venetian Snares.	Cavalcade of Glee and Dadaist Happy Hardcore Pom Poms	Venetian Snares
+performer	``I.G.Y. (What a Beautiful World)'' is a song written and performed by American songwriter, singer and musician Donald Fagen.	I.G.Y. (What a Beautiful World)	Donald Fagen
+performer	Much of the print ads for ``Korean Bodega'' pointed out that ``You Look So Fine'' and the Fun Lovin Criminals remix would be released the next month, and details of Garbage's single was sent out to fans on both artists mailing lists.	Korean Bodega	Fun Lovin Criminals
+performer	I Sayd I Look Away! is a single CD by the Italian singer-songwriter Perseo Miranda.	I Sayd I Look Away!	Perseo Miranda
+performer	``Could've Been'' is the third single released from Tiffany, the debut album of American teen-pop singer Tiffany.	Could've Been	Tiffany
+performer	``Brand New Low'' is the second single from Treble Charger's fourth album, Wide Awake Bored.	Brand New Low	Treble Charger
+performer	``We're Coming Home'' is the fourth and final single released by Rogue Traders from their second studio album Here Come the Drums.	We're Coming Home	Rogue Traders
+performer	Here's to Future Days is the fifth album by the British pop group Thompson Twins.	Here's to Future Days	Thompson Twins
+performer	Stardust We Are is the third studio album by the progressive rock band The Flower Kings, which was released in 1997.	Stardust We Are	The Flower Kings
+performer	``Piece of My Heart'' is a romantic love song written by Jerry Ragovoy and Bert Berns and originally recorded by Erma Franklin in 1967.	Piece of My Heart	Erma Franklin
+performer	``New Fang'' is the debut single by Los Angeles-based rock supergroup Them Crooked Vultures.	New Fang	Them Crooked Vultures
+performer	``Not for All the Love in the World'' is the second single from the album Let's Bottle Bohemia by Irish Alternative Rock band The Thrills.	Not for All the Love in the World	The Thrills
+performer	Pristine Smut is the second studio album released by American alternative pop band The Murmurs; it was released in 1997 on MCA.	Pristine Smut	The Murmurs
+performer	``Everybody's Someone'' is the second single taken from American singer LeAnn Rimes' album Whatever We Wanna.	Everybody's Someone	LeAnn Rimes
+performer	Welcome to the Wrecking Ball! is Grace Slick's 1981 follow-up to her solo album Dreams (1980).	Welcome to the Wrecking Ball!	Grace Slick
+performer	``Tomorrow Waltz'' is a song recorded by Japanese musician/singer Toshinobu Kubota.	Tomorrow Waltz	Toshinobu Kubota
+performer	Entre a Mi Mundo (English: Enter My World) is the third studio album by American Tejano pop singer Selena.	Entre a Mi Mundo	Selena
+performer	``Lollipop (Candyman)'' is a song recorded by Danish dance-pop group Aqua.	Lollipop (Candyman)	Aqua
+performer	Cherry Marmalade is the first solo album by Kay Hanley, released in 2002 (see 2002 in music).	Cherry Marmalade	Kay Hanley
+performer	``Holla at Me'' is the first single from DJ Khaled's debut album, Listennn... the Album, featuring Lil Wayne, Paul Wall, Fat Joe, Rick Ross and Pitbull.	Holla at Me	DJ Khaled	Lil Wayne	Paul Wall	Fat Joe	Rick Ross	Pitbull
+performer	The Song Is Paris is an album by American jazz vocalist and guitarist Jackie Paris recorded in 1962 for the Impulse! label.	The Song Is Paris	Jackie Paris
+performer	Achirana is an album by Greek composer and pianist Vassilis Tsabropoulos with bassist Arild Andersen and drummer John Marshall recorded in 1999 and released on the ECM label.	Achirana	Vassilis Tsabropoulos
+performer	``Your Decision'' is a song by Alice in Chains, featured on their fourth studio album Black Gives Way to Blue (2009).	Your Decision	Alice in Chains
+performer	Alone at Last is a solo album by vibraphonist Gary Burton recorded in 1971 featuring three performances from the Montreux Jazz Festival and four studio performances released on the Atlantic label.	Alone at Last	Gary Burton
+performer	Don't Fall in Love with Everyone You See is the first full-length album from alternative folk-rock group, Okkervil River.	Don't Fall in Love with Everyone You See	Okkervil River
+performer	Broken Shadows is an album by the American jazz saxophonist and composer Ornette Coleman recorded in 1971, at the same sessions that produced Science Fiction, but not released on the Columbia label until 1982.	Broken Shadows	Ornette Coleman
+performer	Low Estate is the second full-length album by 16 Horsepower.	Low Estate	16 Horsepower
+performer	``Things That Never Cross a Man's Mind'' is a song written by Tim Johnson, Don Poythress and Wynn Varble, and recorded by American country artist Kellie Pickler.	Things That Never Cross a Man's Mind	Kellie Pickler
+performer	``1, 2, 3, 4 (Sumpin' New)'' is a 1995 song recorded by American rapper Coolio.	1, 2, 3, 4 (Sumpin' New)	Coolio
+performer	``Love Will Never Do (Without You)'' is a song by American singer-songwriter Janet Jackson, recorded for her fourth studio album, Janet Jackson's Rhythm Nation 1814 (1989).	Love Will Never Do (Without You)	Janet Jackson
+performer	Quand on n'a que l'amour (English: When love is all you have) is the second studio album by Jacques Brel.	Quand on n'a que l'amour	Jacques Brel
+performer	Hurricane Eyes is the seventh studio album by Japanese heavy metal band Loudness.	Hurricane Eyes	Loudness
+performer	``Fatherhood/Motherhood'' is the debut single of progressive rock band Ox.Eagle.Lion.Man.	Fatherhood/Motherhood	Ox.Eagle.Lion.Man
+performer	The Ego Has Landed is a compilation album by English singer Robbie Williams.	The Ego Has Landed	Robbie Williams
+performer	``Side of a Bullet'' is Nickelback's seventh and final single from the album All The Right Reasons.	Side of a Bullet	Nickelback
+performer	Sticker Happy is the Eraserheads' fifth album, released by Sony BMG Music Philippines Inc. (formerly BMG Records Pilipinas, Inc.) in 1997.	Sticker Happy	Eraserheads
+performer	Underground Album is the 21st studio album by American country musician David Allan Coe.	Underground Album	David Allan Coe
+performer	The Repulsion Box is the second album released by Sons and Daughters under Domino Recording on June 6, 2005 on CD and LP format.	The Repulsion Box	Sons and Daughters
+performer	The Fish People Tapes is a 1984 comedy album by Alexei Sayle.	The Fish People Tapes	Alexei Sayle
+performer	Sweet Reggae Mix is the third and last remix album that was released on September 10, 2008 by Sweetbox.	Sweet Reggae Mix	Sweetbox
+performer	Bei meiner Seele (German: Upon My Soul) is the fifth studio album by German recording artist Xavier Naidoo, released on his Naidoo Records label on May 31, 2013 in German-speaking Europe.	Bei meiner Seele	Xavier Naidoo
+performer	Christmas, with Love is a Christmas album and the fourth studio album by British recording artist Leona Lewis.	Christmas, with Love	Leona Lewis
+performer	The Absolute Game is the third studio album by Scottish punk rock and new wave band Skids.	The Absolute Game	Skids
+performer	``King of New Orleans'' is the lead single from the 1996 Better Than Ezra studio album, Friction, Baby.	King of New Orleans	Better Than Ezra
+performer	Prehistoricisms is the second full-length studio album by the American progressive metal band Intronaut.	Prehistoricisms	Intronaut
+performer	``Futari de iijanai'' is a collaboration single of Hitomi Shimatani and Masayuki Suzuki under Sony, used as the drama Kekkonshiki e Ikō!'s theme song.	Futari de iijanai	Hitomi Shimatani	Masayuki Suzuki
+performer	``Nesrećnice nije te sramota'' is a single from Serbian and former Yugoslav rock band Riblja Čorba.	Nesrećnice nije te sramota	Riblja Čorba
+performer	``Song to Woody'' is one of the first ever songs written by American singer-songwriter Bob Dylan, released on his eponymous debut album Bob Dylan in 1962.	Song to Woody	Bob Dylan
+performer	Of Sculptured Ivy and Stone Flowers is the second full-length studio album by the American death-doom band Novembers Doom, which was released in 1999.	Of Sculptured Ivy and Stone Flowers	Novembers Doom
+performer	In due is the fifth studio album by Italian singer-songwriter Nek.	In due	Nek
+performer	Arvin Sloane is a fictional character played by Ron Rifkin.	Arvin Sloane	Ron Rifkin
+performer	Somewhere in Afrika is an album released in 1983 by Manfred Mann's Earth Band.	Somewhere in Afrika	Manfred Mann's Earth Band
+performer	Dynamite Steps is the fifth full-length album by Greg Dulli's The Twilight Singers.	Dynamite Steps	The Twilight Singers
+performer	``Troubled Wine'' is a song by Pride & Glory, released as the third and final promotional single from their self-titled debut album, Pride & Glory.	Troubled Wine	Pride & Glory
+performer	``Hole in the Head'' is a song performed by British girl group Sugababes, released on October 13, 2003 as the lead single from their third studio album, Three.	Hole in the Head	Sugababes
+performer	Ise Mia Thiella (Greek: Είσαι μια θύελλα; English: You're a storm) is the name of a studio album by popular Greek singer Marinella.	Ise Mia Thiella	Marinella
+performer	Piston Whipped is the second album by the Pittsburgh heavy rock band Motorpsychos.	Piston Whipped	Motorpsychos
+performer	``Eh Hee'' is a song written and recorded by Dave Matthews that was released as a digital single on September 4, 2007.	Eh Hee	Dave Matthews
+performer	SHERO (Gorgeous Edition) (華麗絢爛版) with a bonus DVD of nine music videos from 2008 to 2009 and SHERO (Avant-garde Edition) (前衛時尚版) with a bonus DVD of S.H.E's FM S.H.E Taipei Concert.	SHERO	S.H.E
+performer	Melody and the Tyranny is an EP released by Velvet Revolver as a precursor to their album Libertad.	Melody and the Tyranny	Velvet Revolver
+performer	Blue Sky and the Devil is the second studio release of Duluth, Minnesota group Trampled by Turtles.	Blue Sky and the Devil	Trampled by Turtles
+performer	``Unknown Song'' is an instrumental track written and recorded by the British progressive rock group Pink Floyd.	Unknown Song	Pink Floyd
+performer	``Shape of You (Reshaped)'' was the fourth and final single from Beverley Knight's album, Who I Am.	Shape of You (Reshaped)	Beverley Knight
+performer	``Horror Head'' is the second single from the debut studio album Doppelgänger by alternative rock band Curve.	Horror Head	Curve
+performer	Tons of Friends is the debut album by Italian electronic duo Crookers.	Tons of Friends	Crookers
+performer	``Your Swaying Arms'' was the first single from the album Fellow Hoodlums by the Scottish rock band Deacon Blue.	Your Swaying Arms	Deacon Blue
+performer	``Who the Hell Are You'' is a song by Australian house music band Madison Avenue, released as a single from their only studio album, The Polyester Embassy, in 2000.	Who the Hell Are You	Madison Avenue
+performer	A Força Verde is the fifth solo album by Brazilian singer/guitarist Zé Ramalho.	A Força Verde	Zé Ramalho
+performer	Camouflage Heart is the debut album from Cindytalk released by Midnight Music in 1984.	Camouflage Heart	Cindytalk
+performer	The Last Album was the last studio album Albert Ayler recorded before his death in 1970.	The Last Album	Albert Ayler
+performer	``Machucando'' (English: ``Crushing'') is the third single by Daddy Yankee from his album Barrio Fino en Directo.	Machucando	Daddy Yankee
+performer	Fillmore West 1969 is a three-CD album composed of selections from four concerts by the Grateful Dead.	Fillmore West 1969	Grateful Dead
+performer	Is Is is Yeah Yeah Yeahs' third EP released on July 24, 2007.	Is Is	Yeah Yeah
+performer	``Out the Blue'' is a song written by John Lennon and originally released on his 1973 album Mind Games.	Out the Blue	John Lennon
+performer	``Can You Give It?'' is a song from English Indie Rock band The Maccabees, released as the second single from their second album Wall of Arms on 5 July 2009.	Can You Give It?	The Maccabees
+performer	T.H.U.G.S. (Trues Humbly United Gatherin' Souls) is the debut solo album by rapper Flesh-n-Bone from the hip hop group Bone Thugs-n-Harmony.	T.H.U.G.S.	Flesh-n-Bone
+performer	Intrauterine Cannibalism is the first studio album by American death metal band Malignancy.	Intrauterine Cannibalism	Malignancy
+performer	Me, I'm All Smiles is a live compilation of Echo & the Bunnymen songs recorded in London in 2005, released on September 2006.	Me, I'm All Smiles	Echo & the Bunnymen
+performer	Get Sharp is the debut album by electropop group The Limousines.	Get Sharp	The Limousines
+position held	George Howard Ferguson, PC (June 18, 1870 -- February 21, 1946) was the ninth Premier of Ontario, Canada from 1923 to 1930.	Howard Ferguson	Premier of Ontario
+position held	Ricardo Antonio Suriñach Carreras (born 1 April 1928) was bishop for the Roman Catholic Diocese of Ponce.	Ricardo Antonio Suriñach Carreras	bishop
+position held	Josephus Tethool (1 April 1934 -- 18 January 2010) was the Roman Catholic titular bishop of Apisa Maius and the auxiliary bishop of the Roman Catholic Diocese of Amboina, Indonesia.	Josephus Tethool	bishop
+position held	John Albert Vasa (Jan Albert Waza) (25 June 1612 -- 29 December 1634) was a Polish cardinal, and a Prince-Bishop of Warmia and Kraków.	John Albert Vasa	cardinal
+position held	W. Thomas Andrews is a former member of the Pennsylvania State Senate, serving from 1973 to 1980.	W. Thomas Andrews	member of the Pennsylvania State Senate
+position held	Craig Dally was a Republican member of the Pennsylvania House of Representatives for the 138th District.	Craig Dally	member of the Pennsylvania House of Representatives
+position held	Jean-Pierre Cantegrit (born 2 July 1933) is a member of the Senate of France, representing French citizens living abroad.	Jean-Pierre Cantegrit	member of the Senate of France
+position held	Metropolitan Michael Staikos (Greek: Μιχαήλ Στάικος) (22 November 1946 -- 18 October 2011) was the second Eastern Orthodox metropolitan bishop of Austria; he held the position from 1991 until his death.	Michael Staikos	metropolitan bishop
+position held	Aldegisel, Aldegisl, Aldgillis, Aldgisl, Aldgils or Eadgils (fl. c. 678) was the ruler of Frisia (as king or duke) in the late seventh century contemporarily with Dagobert II and a very obscure figure.	Aldgisl	king
+position held	Carlos Enrique Díaz de León (1915--2014) was the provisional President of Guatemala from 27 June 1954 to 28 June 1954.	Carlos Enrique Díaz de León	President of Guatemala
+position held	Tiit Vähi (born 10 January 1947) is an Estonian politician who was Prime Minister of Estonia from 1995 to 1997.	Tiit Vähi	Prime Minister of Estonia
+position held	Waldo of Reichenau (sometimes Walto) (c. 740 - 814, Paris) was a Carolingian abbot and bishop.	Waldo of Reichenau	abbot
+position held	Jenő Gerbovits (13 May 1925 -- 24 August 2011) was a Hungarian politician and member of the National Assembly of Hungary between 1990 and 1994.	Jenő Gerbovits	member of the National Assembly of Hungary
+position held	Shakira is a UNICEF Goodwill Ambassador and is one of their global representatives.	Shakira	UNICEF Goodwill Ambassador
+position held	Atinolfo was staying in Florence when he was appointed bishop by the Emperor Conrad II in February or March 1038.	Atinolfo	bishop
+position held	Takieddin el-Solh (also ``Takieddin Solh'', ``Takieddin as-Solh'') (1908 in Sidon, Lebanon -- 27 November 1988 in Paris) was a Lebanese politician who served as Prime Minister of Lebanon from 1973 to 1974, and again briefly in 1980.	Takieddin el-Solh	Prime Minister of Lebanon
+position held	Bishop Ivo Gugić (1920--1996) was a Croatian Roman Catholic priest who served as a bishop in the diocese of Kotor in Montenegro.	Ivo Gugić	bishop
+position held	Phyllis Mundy (born January 31, 1948) is a former Democratic member of the Pennsylvania House of Representatives and former minority chairman of the House Finance Committee.	Phyllis Mundy	member of the Pennsylvania House of Representatives
+position held	Daniel R. Martiny, known as Danny Martiny (born June 27, 1951), is a politician and attorney from Jefferson Parish, Louisiana, who has served since January 14, 2008, as a Republican member of the Louisiana State Senate from District 10, based in the New Orleans suburbs.	Danny Martiny	member of the Louisiana State Senate
+position held	Quintus Minucius Rufus was a consul of the Roman Republic in 197 BC.	Quintus Minucius Rufus	consul of the Roman Republic
+position held	Horemheb (sometimes spelled Horemhab or Haremhab and meaning Horus is in Jubilation) was the last pharaoh of the 18th Dynasty of Egypt.	Horemheb	pharaoh
+position held	Nallari Kiran Kumar Reddy (born 13 September 1960 in Hyderabad) is an Indian politician who served as the Chief Minister of Andhra Pradesh.	Nallari Kiran Kumar Reddy	Chief Minister of Andhra Pradesh
+position held	Francesco Carbone Tomacelli (died 18 June 1405) was Italian cardinal at the time of the Great Western Schism.	Francesco Carbone Tomacelli	cardinal
+position held	Later Erkembode was elected by the clergy and people as bishop of Thérouanne, while remaining abbot of his abbey.	Erkembode	bishop
+position held	Gregory Bar Hebraeus (1226 -- 30 July 1286), previously known by his Latin name Abulpharagius, was a catholicos (bishop) of the Syriac Orthodox Church in the 13th century.	Bar Hebraeus	bishop
+position held	The Right Reverend Ian Harland (born on 19 December 1932 - 27 December 2008) was a Church of England cleric, serving as Anglican Bishop of Lancaster then Bishop of Carlisle.	Ian Harland	Bishop of Lancaster	Bishop of Carlisle
+position held	Lorenzo Crounse (January 27, 1834 -- May 13, 1909) was a Nebraska Republican politician and the eighth Governor of Nebraska.	Lorenzo Crounse	Governor of Nebraska
+position held	Māris Kučinskis (born November 28, 1961, Valmiera) is a Latvian politician and the 13th and current Prime Minister of Latvia.	Māris Kučinskis	Prime Minister of Latvia
+position held	Gérard Laprise (19 April 1925 -- 14 November 2000) was a Social Credit Party and Ralliement créditiste member of the House of Commons of Canada.	Gérard Laprise	member of the House of Commons of Canada
+position held	Patrick Henry Jones (November 20, 1830 -- July 23, 1900) was an American lawyer, public servant and Postmaster of New York City during the mid-to late 19th century.	Patrick Henry Jones	Postmaster of New York City
+position held	Lee Ocran is a Ghanaian politician and a former Minister for Education of Ghana.	Lee Ocran	Minister for Education
+position held	Count Gyula Szapáry de Szapár, Muraszombat et Széchy-Sziget (1 November 1832 -- 20 January 1905) was a Hungarian politician who served as Prime Minister of Hungary from 1890 to 1892.	Gyula Szapáry	Prime Minister of Hungary
+position held	Basil of Caesarea, also called Saint Basil the Great (Greek: Ἅγιος Βασίλειος ὁ Μέγας, Ágios Basíleios o Mégas; 329 or 330 -- January 1 or 2, 379), was the Greek bishop of Caesarea Mazaca in Cappadocia, Asia Minor (modern-day Turkey).	Basil of Caesarea	bishop
+position held	Lawrence P. Kelly (December 18, 1913 -- August 23, 1999) was an American accountant and business manager from Cudahy, Wisconsin who served one term (1963-1964) as a Democratic member of the Wisconsin State Assembly from Milwaukee County's 24th district.	Lawrence P. Kelly	member of the Wisconsin State Assembly
+position held	Steven W. Cappelli was a Republican member of the Pennsylvania House of Representatives, representing the 83rd District for four terms from 2001 to 2009.	Steven W. Cappelli	member of the Pennsylvania House of Representatives
+position held	Nebkaure Khety was a pharaoh of the 9th or 10th dynasty of Egypt, during the First Intermediate Period.	Nebkaure Khety	pharaoh
+position held	Philibert Hugonet (died 1484) (called the Cardinal of Mâcon) was a French Roman Catholic bishop and cardinal.	Philibert Hugonet	bishop
+position held	Gloria Macapagal Arroyo (born April 5, 1947) is a politician who served as the 14th President of the Philippines from 2001 until 2010, as the 12th Vice President of the Philippines from 1998 to 2001, and as member of the House of Representatives representing the 2nd District of Pampanga since 2010.	Gloria Macapagal Arroyo	President of the Philippines	Vice President of the Philippines
+position played on team / speciality	Pio Marchi (born 1895) was an Italian professional footballer who played as a midfielder for Juventus.	Pio Marchi	midfielder
+position played on team / speciality	Lukáš Galvas (born March 28, 1979 in Opava) is a Czech professional ice hockey defenceman.	Lukáš Galvas	defenceman
+position played on team / speciality	Ayman Taher Kandil (Arabic: ایمن طاهر‎; born January 7, 1966) is a former Egyptian goalkeeper, who played for Zamalek and Egypt.	Ayman Taher	goalkeeper
+position played on team / speciality	Christofer Gonzáles Crespo (born 12 October 1992) is a Peruvian footballer that currently plays for Primera División club Colo-Colo as a central midfielder.	Christofer Gonzáles	midfielder
+position played on team / speciality	Miloš Vesić (Serbian Cyrillic: Милош Весић; born 23 July 1989) is a Serbian professional footballer, whose position is goalkeeper.	Miloš Vesić	goalkeeper
+position played on team / speciality	Henrique Ben David (born 5 December 1926 - deceased 4 December 1978) was a Portuguese footballer who played for Atlético, as a forward.	Henrique Ben David	forward
+position played on team / speciality	Stoyan Kolev (Bulgarian: Стоян Колев; born 3 February 1976 in Sliven) is a Bulgarian football goalkeeper, and former goalkeeping coach at CSKA Sofia.	Stoyan Kolev	goalkeeper
+position played on team / speciality	Kuanysh Karakulov (Kazakh: Қуаныш Қарақұлов, 20 June 1977) is a Kazakhstani professional footballer who played as a midfielder for FC Atyrau and FC Ordabasy.	Kuanysh Karakulov	midfielder
+position played on team / speciality	Abdelkarim Hassan (Arabic: عبد الكريم حسن; born 28 August 1993) is a Qatari footballer who currently plays for Al Sadd as a defender.	Abdelkarim Hassan	defender
+position played on team / speciality	Goran Šaula (Serbian Cyrillic: Гopaн Шaулa; born 1 September 1970 in Novi Sad, Socialist Federal Republic of Yugoslavia) is a Serbian retired footballer who played as a central defender.	Goran Šaula	defender
+position played on team / speciality	Altin Masati is an Albanian retired footballer who played in his career as a left-sided defender for a series of Romanian clubs in the '90s.	Altin Masati	defender
+position played on team / speciality	Miguel Marcos Madera (born 8 November 1985), commonly known as Míchel, is a Spanish professional footballer who plays as a central midfielder for Qarabağ.	Miguel Marcos Madera	midfielder
+position played on team / speciality	Sean Gagnon (born September 11, 1973) is a Canadian retired professional ice hockey defenceman who played in the National Hockey League for the Phoenix Coyotes and the Ottawa Senators.	Sean Gagnon	defenceman
+position played on team / speciality	Richard Baird (20 February 1892 -- 27 February 1977) was an English professional association footballer who played as a winger.	Richard Baird	winger
+position played on team / speciality	Masoud Zeraei (born 31 March 1979) is a Qatari footballer of Iranian descent who currently plays for Al Arabi as a goalkeeper.	Masoud Zeraei	goalkeeper
+position played on team / speciality	Ronnie Moore was born in Liverpool, beginning his playing career with local side Tranmere Rovers initially as a centre-half, before making a successful switch to centre-forward.	Ronnie Moore	forward
+position played on team / speciality	Valeria Kleiner (born 27 March 1991) is a German football player who plays as defender for Bayer Leverkusen in the Women Bundesliga and for the Germany Women's National U-20.	Valeria Kleiner	defender
+position played on team / speciality	João Paulo da Silva Gouveia Morais (born 31 August 1978 in Setúbal), known as João Paulo, is a Portuguese retired footballer who played as a goalkeeper.	João Paulo da Silva Gouveia Morais	goalkeeper
+position played on team / speciality	Karen Israelyan (Armenian: Կարեն Իսրայելյան, born on 26 March 1992 in Yerevan, Armenia) is an Armeniann professional football goalkeeper.	Karen Israelyan	goalkeeper
+position played on team / speciality	Zakeer Mundampara is an Indian football player playing for Chennaiyin in the ISL as a midfielder.	Zakeer Mundampara	midfielder
+position played on team / speciality	Vladimir Ostroushko (Russian: Владимир Остроушко)(born 30 September 1986) is a Russian rugby union footballer who plays on the wing.	Vladimir Ostroushko	wing
+position played on team / speciality	François Sermon (31 March 1923 -- 17 March 2013) was a Belgian footballer who played as a midfielder for Anderlecht and the Belgian national team.	François Sermon	midfielder
+position played on team / speciality	Marko Dević (Serbian Cyrillic: Марко Девић, Ukrainian: Марко Девiч, also romanized as Marko Devich; born 27 October 1983) is a Serbian-born Ukrainian international footballer who plays for FC Rubin Kazan as an attacking midfielder or a second striker.	Marko Dević	midfielder
+position played on team / speciality	Panagiotis Ladas (Greek: Παναγιώτης Λαδάς, Greek pronunciation: (pana'ʝotis la'ðas) born 26 August 1994 in Pyrgos) is a Greek footballer who plays for Iraklis in the Greek Football League, as a goalkeeper.	Panagiotis Ladas	goalkeeper
+position played on team / speciality	John Hamel (born January 31, 1967) is a retired American soccer midfielder who played three seasons in the Western Soccer Alliance, one in the American Professional Soccer League, one in the Continental Indoor Soccer League and at least one in the Major Indoor Soccer League.	John Hamel	midfielder
+position played on team / speciality	Trevor Koenig (born 10 December 1974 in Edmonton, Alberta) is a professional ice hockey goaltender.	Trevor Koenig	goaltender
+position played on team / speciality	Valerio Amoroso (born September 26, 1980) is an Italian professional basketball player who plays as power forward or center.	Valerio Amoroso	power forward
+position played on team / speciality	Mario Zorzan (15 February 1912 -- 28 January 1973) was an Italian professional footballer, who played as a goalkeeper.	Mario Zorzan	goalkeeper
+position played on team / speciality	Michael Jefferson Nascimento or simply Michael (born January 21, 1982), is a Brazilian midfielder who plays for Santo André.	Michael Jefferson Nascimento	midfielder
+position played on team / speciality	Luca Mazzitelli (born 12 January 1995) is an Italian footballer who currently plays as a defender for Serie B side Brescia on loan from Serie A club Sassuolo.	Luca Mazzitelli	defender
+position played on team / speciality	Daniel Heuer Fernandes (born 13 November 1992) is a German-Portuguese football goalkeeper who plays for SC Paderborn 07.	Daniel Heuer Fernandes	goalkeeper
+position played on team / speciality	Giannis Gianniotas (Greek: Γιάννης Γιαννιώτας; born on 29 April 1993 in Neochori, Greece), is a Greek forward who plays for APOEL FC in the Cypriot First Division, on loan from Olympiacos.	Giannis Gianniotas	forward
+position played on team / speciality	Hrayr Mkoyan (Armenian: Հրայր Մկոյան, born on 2 September 1986 in Leninakan, Armenian SSR, Soviet Union) is an Armenian football player who currently plays defender for the Armenian national team and for Iran Pro League club Esteghlal.	Hrayr Mkoyan	defender
+position played on team / speciality	Danildo José São Pedro Accioly Filho (born 30 March 1981 in Salvador), commonly known as Accioly, is a Brazilian football defender who plays for Santa Clara in the Segunda Liga.	Danildo José São Pedro Accioly Filho	defender
+position played on team / speciality	Martin Wille (born 29 May 1986) is an international footballer from Liechtenstein who plays as a defender and midfielder.	Martin Wille	defender
+position played on team / speciality	Gustavo de Souza Caiche aka Gustavo Caiche (born June 4, 1976 in São José do Rio Preto), is a Brazilian central defender.	Gustavo de Souza Caiche	defender
+position played on team / speciality	Martin Škrtel (Slovak pronunciation: (ˈmartɪn ˈʃkr̩cɛl); born 15 December 1984) is a Slovak professional footballer who plays as a centre back for English club Liverpool and captains the Slovakia national team.	Martin Škrtel	centre back
+position played on team / speciality	Geraldo Moreira da Silva Júnior, better known as Geraldo (Duque de Caxias, 6 February 1974) is a Brazilian footballer who acts as the attacking midfielder.	Geraldo Moreira da Silva Júnior	midfielder
+position played on team / speciality	Sylvain Rodrigue (born June 27, 1973) is a Canadian former ice hockey and roller hockey goaltender who is currently the goaltender coach for the HC Fribourg-Gottéron in Switzerland's National League A.	Sylvain Rodrigue	goaltender
+position played on team / speciality	Renzo Saravia (born 16 June 1993) is an Argentine footballer who plays as defender for Belgrano.	Renzo Saravia	defender
+position played on team / speciality	Davie Mathie (1919 -- 1954) was a Scottish footballer, who played as a centre forward.	Davie Mathie	forward
+position played on team / speciality	Risto Vidaković Savić (Serbian Cyrillic: Pиcтo Bидaкoвић; born 5 January 1969), known as Vidaković, is a Serbian retired footballer who played as a central defender, and a current manager.	Risto Vidaković	defender
+position played on team / speciality	Percy Austin (1 July 1903 -- 15 August 1961) was an English professional footballer who played for Farnham United Breweries and Tottenham Hotspur, as a centre forward.	Percy Austin	forward
+position played on team / speciality	Khamis Mcha Khamis (born 1 October 1989) is a Tanzanian footballer from Zanzibar who plays as a midfielder for Azam FC.	Khamis Mcha Khamis	midfielder
+position played on team / speciality	Nikos Ziabaris (Greek: Νίκος Ζιαμπάρης, born 18 February 1991) is a Greek footballer who plays for Iraklis in the Greek Football League, as a defender.	Nikos Ziabaris	defender
+position played on team / speciality	Yam Bahadur Ghale (Nepali: याम बहादुर घले) (or YB Ghale) is a former forward of the Nepal national football team, as well as a former executive and technical director of the All Nepal Football Association (ANFA).	Yam Bahadur Ghale	forward
+position played on team / speciality	Allan Ferguson (born 21 March 1969 in Lanark) is a Scottish former professional goalkeeper.	Allan Ferguson	goalkeeper
+position played on team / speciality	Rahamim Saban, (born February 17, 1980 in Netanya), commonly known as Klemi Saban, is an Israeli football defender.	Klemi Saban	defender
+position played on team / speciality	Daniel Ernemann (born 18 February 1976 in Amberg) is a German footballer who played as a defender.	Daniel Ernemann	defender
+position played on team / speciality	Magnus Åkerlund (born April 25, 1986) is a Swedish professional ice hockey goaltender, currently playing with IF Sundsvall in the HockeyAllsvenskan.	Magnus Åkerlund	goaltender
+position played on team / speciality	Eduard Reizvikh (Russian: Эдуард Рейзвих; born March 30, 1991 in Omsk) is a Russian professional ice hockey goaltender.	Eduard Reizvikh	goaltender
+position played on team / speciality	Carlos Robston Ludgero Junior, Robston (Brasilia, October 20, 1979) is a Brazilian footballer who plays as a defensive midfielder.	Robston	midfielder
+position played on team / speciality	Conor Newton (born 17 October 1991) is an English professional footballer who plays as a central midfielder for Cambridge United.	Conor Newton	midfielder
+position played on team / speciality	Andrejs Šeļakovs (born November 8, 1988) is a Latvian basketball player, who plays the center position.	Andrejs Šeļakovs	center
+position played on team / speciality	Ladislav Novák (5 December 1931 -- 21 March 2011) was a Czech football defender and later a football manager.	Ladislav Novák	defender
+position played on team / speciality	Albert Beech (24 September 1912 -- 20 June 1985) was a footballer who played as a defender.	Albert Beech	defender
+position played on team / speciality	Gökhan Değirmenci (born 21 March 1989 in Karşıyaka, İzmir, Turkey) is a Turkish professional footballer who plays as a goalkeeper for Göztepe.	Gökhan Değirmenci	goalkeeper
+position played on team / speciality	Artak Aleksanyan (Armenian: Արտակ Ալեքսանյան, Russian: Артак Левонович Алексанян; born on 10 March 1991 in Yerevan, Armenia) is an Armenian football player who currently plays midfielder for the Armenian national team.	Artak Aleksanyan	midfielder
+position played on team / speciality	Mario Pizziolo (7 December 1909 -- 30 April 1990) was an Italian football (soccer) player who played as a midfielder.	Mario Pizziolo	midfielder
+position played on team / speciality	José Romero Jiménez (born 23 January 1985 in Zalamea la Real, Huelva), commonly known as Joselito, is a Spanish footballer who plays for CD Guijuelo as a forward.	José Romero Jiménez	forward
+position played on team / speciality	Dimo Bakalov (Bulgarian: Димо Бакалов; born 19 December 1988) is a Bulgarian footballer currently playing for Lokomotiv Plovdiv as a midfielder.	Dimo Bakalov	midfielder
+position played on team / speciality	John McGarrity (1925 -- 2006) was a Scottish footballer, who played as a goalkeeper for East Fife, Arbroath and Cowdenbeath.	John McGarrity	goalkeeper
+position played on team / speciality	Aaron Sorochan (born April 17, 1984) is a Canadian professional ice hockey goaltender who has played for the Springfield Falcons of the American Hockey league (AHL).	Aaron Sorochan	goaltender
+position played on team / speciality	Dino Djiba (born 20 December 1985 in Dakar) is a Senegalese-French football (soccer) midfielder who last played for Thionville FC.	Dino Djiba	midfielder
+position played on team / speciality	Fabrizio Ficini (born 11 October 1973 in Empoli) is an Italian football (soccer) midfielder.	Fabrizio Ficini	midfielder
+position played on team / speciality	Chick Musson (8 October 1920 -- 1955) was an English professional footballer who played as a wing half.	Chick Musson	wing half
+position played on team / speciality	Hernán Fernández (born 14 June 1984 in Río Tercero, Córdoba) is an Argentine football defender.	Hernán Fernández	defender
+position played on team / speciality	Anthony Tokpah (born on July 26, 1977) is a retired Liberian football goalkeeper.	Anthony Tokpah	goalkeeper
+position played on team / speciality	Liam Hurst (born 2 September 1994) is an English professional footballer who plays as a forward, currently signed to King's Lynn Town FC.	Liam Hurst	forward
+position played on team / speciality	Anas Makhlouf (Arabic: أنس مخلوف ‎) (born on 12 June 1973 in Damascus, Syria) is a retired Syrian international football forward, and current coach of Al-Jaish.	Anas Makhlouf	forward
+position played on team / speciality	Olivier Tia Tokbe (born 22 December 1982) is an Ivorian footballer who plays as forward for Sudanese side Al-Merrikh.	Olivier Tia	forward
+position played on team / speciality	Maurizio Anastasi is a former Italian footballer who plays midfielder.	Maurizio Anastasi	midfielder
+position played on team / speciality	Dennis Windross (12 May 1938 -- 9 October 1989) was an English footballer who scored 11 goals from 98 appearances in the Football League playing as a forward or wing half for Middlesbrough, Brighton & Hove Albion, Darlington and Doncaster Rovers.	Dennis Windross	wing half
+position played on team / speciality	Ozan Tufan (born 23 March 1995) is a Turkish professional footballer who plays as a midfielder for Süper Lig club Fenerbahçe in Süper Lig and Turkey national team.	Ozan Tufan	midfielder
+position played on team / speciality	Robert Markovac (born 21 June 1967) is a retired Croatian Australian soccer midfielder.	Robert Markovac	midfielder
+position played on team / speciality	Marino Magrin (born September 13, 1959 in Borso del Grappa) is a retired Italian professional football player who played as an attacking midfielder.	Marino Magrin	midfielder
+position played on team / speciality	Dalibor Pešterac (Serbian Cyrillic: Далибор Пештерац; born 14 January 1976) is a former Serbian professional footballer who played as a defender.	Dalibor Pešterac	defender
+position played on team / speciality	Luís Miguel Vieira Silva (born 8 October 1990 in Amarante) simply Miguel Vieira, is a Portuguese footballer who plays for Paços de Ferreira as a defender.	Miguel Vieira	defender
+position played on team / speciality	Arnold Badjou (Laken, 26 June 1909 -- 17 September 1994) was a Belgian football (soccer) goalkeeper.	Arnold Badjou	goalkeeper
+publication date	Silent Bloodnight is a 2006 horror film written, directed and produced by Stefan Peczelt and Elmar Weihsmann.	Silent Bloodnight	2006
+publication date	Pick Up the Mic is a documentary film, released in 2006, which profiles the underground homo hop scene, which is a subgenre of hip hop that includes gay, lesbian, bisexual and transgender artists.	Pick Up the Mic	2006
+publication date	A Thousand Little Kisses (Hebrew: אלף נשיקות קטנות‎, translit. Elef Nishikot K'tanot) is a 1981 Israeli drama film written and directed by Mira Recanati.	A Thousand Little Kisses	1981
+publication date	The Johnson-Jeffries Fight is a 1910 American film report on the heavyweight championship boxing fight between Jack Johnson and James J. Jeffries in Reno, Nevada.	The Johnson-Jeffries Fight	1910
+publication date	The Golden Louis is a 1909 American short drama film, written and directed by D.W. Griffith	The Golden Louis	1909
+publication date	Here Come the Marines is a 1952 comedy film starring The Bowery Boys.	Here Come the Marines	1952
+publication date	One Terrible Day is a 1922 American silent short film, the first entry in Hal Roach's Our Gang (Little Rascals) series to be released.	One Terrible Day	1922
+publication date	Doghat Tisra Aata Sagala Visara is a 2008 Marathi film produced and directed by Kaanchan Adhikkari.	Doghat Tisra Aata Sagala Visara	2008
+publication date	``Samsara 2015'' is a 2014 song by the Norwegian and Swedish dance music producer duo Tungevaag & Raaban.	Samsara 2015	2014
+publication date	Blood Trails is a 2006 German horror film written and directed by Robert Krause, and co-written by Florian Puchert.	Blood Trails	2006
+publication date	Puddle Cruiser is a 1996 comedy film, the first full-length film created by the Broken Lizard comedy group.	Puddle Cruiser	1996
+publication date	Population: 2 is a 2012 American film directed by Gil Luna.	Population: 2	2012
+publication date	It Couldn't Happen Here is a 1988 musical film starring the British pop duo Pet Shop Boys and based on their music.	It Couldn't Happen Here	1988
+publication date	Wedding in Bessarabia (Romanian: Nuntă în Basarabia) is a comedy made in 2009 by director Napoleon Helmis.	Wedding in Bessarabia	2009
+publication date	Space Station 13 (or SS13) is a top-down role-playing multiplayer video game on the BYOND game engine, originally released in 2003.	Space Station 13	2003
+publication date	Farewells (also titled Lydia Ate the Apple and Partings in the United States) is the English title for Pożegnania, a film released in 1958, directed by Wojciech Has.	Farewells	1958
+publication date	Yesterday's Wine is a 1971 concept album by country singer Willie Nelson.	Yesterday's Wine	1971
+publication date	Do Chattane is a 1974 Bollywood action film directed by G. H. Sarin.	Do Chattane	1974
+publication date	Zapitalism is a business simulation game for Windows released in 1997.	Zapitalism	1997
+publication date	Potash and Perlmutter (1923) is an American silent comedy film.	Potash and Perlmutter	1923
+publication date	Kaamannana Makkalu is a 2008 Kannada action-comedy-drama film directed by Chi.Gurudutt and produced by N.S. Rajkumar featuring Sudeep, Rockline Venkatesh, Deepu and Vaibhavi in the lead roles.	Kaamannana Makkalu	2008
+publication date	Summer's Tail (Chinese: 夏天的尾巴) is a 2007 Taiwanese film directed by Cheng Wen-Tang.	Summer's Tail	2007
+publication date	The Company of Strangers (US release title: Strangers in Good Company; French title: Le Fabuleux gang des sept) is a Canadian film, released in 1990.	The Company of Strangers	1990
+publication date	I, Pet Goat II is a 2012 Canadian animated short film written, directed, produced and edited by Louis Lefebvre.	I, Pet Goat II	2012
+publication date	A Novela das 8 (English: Prime Time Soap) is a 2012 Brazilian drama film released on 2011 produced by João Queiroz and directed by Odilon Rocha.	A Novela das 8	2012
+publication date	Dear Cardholder is a 1987 Australian film about a man who gets in debt on his credit cards.	Dear Cardholder	1987
+publication date	Fun with Mr. Future is a 1982 live-action/animated short film from Walt Disney Productions.	Fun with Mr. Future	1982
+publication date	The Search for General Tso is a documentary film that premiered at the 2014 Tribeca Film Festival.	The Search for General Tso	2014
+publication date	Punkt is a studio album by Canadian Québécois Pierre Lapointe, released by Audiogram on 26 February 2013.	Punkt	26 February 2013
+publication date	Love Is Not Blind (Chinese: 失恋33天) is a 2011 Chinese romantic comedy film directed by Teng Huatao.	Love Is Not Blind	2011
+publication date	Heißer Sommer, aka Hot Summer (USA), is a 1968 East German musical film.	Heißer Sommer	1968
+publication date	Remedial Reading Comprehension is an experimental short film by Owen Land, produced in 1970.	Remedial Reading Comprehension	1970
+publication date	In early November 1982 PiL announced the imminent release of a new single, Blue Water, and a six-track mini album, You Are Now Entering A Commercial Zone, on their new label, which was supposed to release the unused music for Copkiller.	Copkiller	1982
+publication date	The Wonderful Country (aka The Wonderful Country, A Novel) is a 1952 Western novel written by Tom Lea.	The Wonderful Country	1952
+publication date	Bolden! is a 2015 American biographical drama film about the New Orleans trumpeter Buddy Bolden.	Bolden!	2015
+publication date	God Forbid a Worse Thing Should Happen (Ne dao Bog većeg zla) is a 2002 Croatian film directed by Snježana Tribuson.	God Forbid a Worse Thing Should Happen	2002
+publication date	The Dag Hammarskjöld invert is a 4 cent value postage stamp error issued on 23 October 1962 by the United States Postal Service (then known as the Post Office Department) one year after the death of Dag Hammarskjöld, Secretary-General of the United Nations, in an airplane crash.	Dag Hammarskjöld invert	23 October 1962
+publication date	Nasty Old People is a 2009 Swedish film directed by Hanna Sköld, Tangram Film.	Nasty Old People	2009
+publication date	The Dirtwater Dynasty is a five-part Australian drama miniseries, first screened on Network Ten in 1988.	The Dirtwater Dynasty	1988
+publication date	Zombie Honeymoon is a 2004 independent horror film produced by Hooligan Pictures.	Zombie Honeymoon	2004
+publication date	Divine Action and Modern Science (2002) is a book written by Nicholas Saunders.	Divine Action and Modern Science	2002
+publication date	Aao Wish Karein (English: ``Come, Make a Wish'') is a 2009 Bollywood fantasy drama film directed by Glen Barreto.	Aao Wish Karein	2009
+publication date	Her Painted Hero is a short 1915 American film directed by F.Richard Jones and written by Mack Sennett.	Her Painted Hero	1915
+publication date	Rodencia y el Diente de la Princesa (Portuguese: Rodência e o Dente da Princesa) is a 2012 Peruvian-Argentine animated adventure film, directed by David Bisbano and produced by Red Post Studio.	Rodencia y el Diente de la Princesa	2012
+publication date	Android Re-Enactment is a 2011 Canadian science fiction film directed by Darryl Shaw and starring Jeff Sinasac, Adam Buller, and Sarah Silverthorne.	Android Re-Enactment	2011
+publication date	RealAudio is a proprietary audio format developed by RealNetworks and first released in April 1995.	RealAudio	April 1995
+publication date	Pancha Bhoothalu is a 1979 Telugu-language Indian feature film directed by P.C.Reddy, starring Chandramohan.	Pancha Bhoothalu	1979
+publication date	They'll Come Back (Portuguese: Eles Voltam) is a 2012 Brazilian drama film directed by Marcelo Lordello.	They'll Come Back	2012
+publication date	Greeku Veerudu is a 2013 Telugu romantic family drama film produced by D. Sivaprasad Reddy on Kamakshi Movies banner, directed by Dasarath.	Greeku Veerudu	2013
+publication date	Fotografiks is a book by David Carson published in 1999.	Fotografiks	1999
+publication date	The Painted Desert is a 1931 American Pre-Code film released by RKO Radio Pictures.	The Painted Desert	1931
+publication date	Instant Mommy is a 2013 Filipino drama-comedy film written and directed by Leo Abaya.	Instant Mommy	2013
+publication date	International Lady is a 1941 American wartime spy-drama film.	International Lady	1941
+publication date	``Will You Be There'' is a song by Michael Jackson which was released in 1993.	Will You Be There	1993
+publication date	Malibu Spring Break is a 2003 comedy starring Playboy Bunny Pilar Lastra.	Malibu Spring Break	2003
+publication date	Black Soul (French: Âme noire) is a 2002 animated short by Haitian Canadian filmmaker Martine Chartrand that uses paint-on-glass animation and music to portray defining moments of Black history.	Black Soul	2002
+publication date	Closet Cases of the Nerd Kind (1980) is an award-winning short film spoof of the classic science fiction film Close Encounters of the Third Kind.	Closet Cases of the Nerd Kind	1980
+publication date	Cicak Man (pronounced (ˈtʃitʃaʔ ˈman)) is a 2006 Malaysian comedy-superhero film.	Cicak Man	2006
+publication date	Scream Blacula Scream is a 1973 blaxploitation horror film, made under the working titles Blacula Is Beautiful and Blacula Lives Again!.	Scream Blacula Scream	1973
+publication date	Mahakavi Kalidasu (Telugu: మహాకవి కాళిదాసు) is a 1960 Telugu biographical film based on the life of the great Sanskrit poet Kalidas.	Mahakavi Kalidasu	1960
+publication date	A Bullet for Sandoval (also known as Those Desperate Men Who Smell of Dirt and Death and Desperate Men) is a 1969 spaghetti western film.	A Bullet for Sandoval	1969
+publication date	Al-Tareeq al-Masdood (Arabic: الطريق المسدود‎, English: The Barred Road) is a 1958 Egyptian drama/romance film.	Al-Tareeq al-Masdood	1958
+publication date	The Soviet Story is a 2008 documentary film about Soviet Communism and Soviet--	The Soviet Story	2008
+publication date	No Longer 17 (Hebrew: לא בת 17) is a 2003 Israeli drama written and directed by Itzhak Zepel Yeshurun.	No Longer 17	2003
+publication date	Godforsaken (Dutch: Van God Los) is a 2003 Dutch drama film.	Godforsaken	2003
+publication date	Rodney Steps In is a 1931 British comedy film directed by Guy Newall and starring Richard Cooper, Elizabeth Allan, Walter Piers and Leo Sheffield.	Rodney Steps In	1931
+publication date	Paris Pranaya (Kannada: ಪ್ಯಾರಿಸ್ ಪ್ರಣಯ) is a 2003 Indian Kannada romantic drama film directed and written by Nagathihalli Chandrashekar.	Paris Pranaya	2003
+publication date	Argumentation and Debate was a long-running series of educational books about debating published by Macmillan from 1904 to 1969.	Argumentation and Debate	1904
+publication date	Imagining Indians is a 1992 documentary film produced and directed by Native American filmmaker, Victor Masayesva, Jr. (Hopi).	Imagining Indians	1992
+publication date	Dear Dead Delilah is a 1972 horror movie.	Dear Dead Delilah	1972
+publication date	Topper Returns (1941) is the third and final entry in the initial series of supernatural comedy films inspired by the novels of Thorne Smith.	Topper Returns	1941
+publication date	Reviving Vincent is a 2002 film directed by David Scheinberg.	Reviving Vincent	2002
+publication date	The first two episodes of Dinosaur Revolution aired on Discovery Channel on 4 September 2011.	Dinosaur Revolution	2011
+publication date	Marion's Triumph is a 2003 documentary that tells the story of Marion Blumenthal Lazan, a child Holocaust survivor, who recounts her painful childhood memories in order to preserve history.	Marion's Triumph	2003
+publication date	Phoring is a 2013 Bengali feature drama film directed by Indranil Roychowdhury.	Phoring	2013
+publication date	Sicilian Vampire is a 2015 Canadian horror drama film written, directed by and starring Frank D'Angelo.	Sicilian Vampire	2015
+publication date	Parola di ladro (internationally released as Honor Among Thieves) is a 1957 Italian comedy film.	Parola di ladro	1957
+publication date	Ormacheppu is a 1998 Indian Malayalam film directed by Lohithadas and starring Lal and Dileep in the lead roles.	Ormacheppu	1998
+publisher	Future Primitive and Other Essays is a collection of essays by anarcho-primitivist philosopher John Zerzan published by Autonomedia in 1994.	Future Primitive and Other Essays	Autonomedia
+publisher	The Last Juror is a 2004 legal thriller novel by John Grisham, first published by Doubleday on February 3, 2004.	The Last Juror	Doubleday
+publisher	ATV Simulator (also known as All Terrain Vehicle Simulation) is a computer game released for the ZX Spectrum, Commodore 64 and Amstrad CPC by Codemasters.	ATV Simulator	Codemasters
+publisher	Calcified Tissue International is a peer-reviewed medical journal published by Springer Science+Business Media and first launched in 1967.	Calcified Tissue International	Springer Science+Business Media
+publisher	The Oregon Blue Book is the official directory and fact book for the U.S. state of Oregon prepared by the Oregon Secretary of State and published by the Office of the Secretary's Archives Division.	Oregon Blue Book	Oregon Secretary of State
+publisher	The Journal of Avian Biology is a bimonthly peer-reviewed scientific journal of ornithology published by Wiley-Blackwell on behalf of the Nordic Society Oikos.	Journal of Avian Biology	Wiley-Blackwell
+publisher	Formal Aspects of Computing (FAC) is a peer-reviewed scientific journal published by Springer Science+Business Media, covering the area of formal methods and associated topics in computer science.	Formal Aspects of Computing	Springer Science+Business Media
+publisher	The South Carolina Review is a literary journal published by Clemson University.	The South Carolina Review	Clemson University
+publisher	Vulcan's Hammer was first published as a novel by Ace Books as one half of Ace Double D-457, bound dos-à-dos with John Brunner's The Skynappers.	Vulcan's Hammer	Ace Books
+publisher	The Harvard Law and Policy Review is a law journal and the official journal of the American Constitution Society, a progressive legal organization.	Harvard Law and Policy Review	American Constitution Society
+publisher	National Weather Digest is a scientific journal published quarterly by the National Weather Association and is devoted to peer-reviewed articles, technical notes, correspondence, and official news of the Association.	National Weather Digest	National Weather Association
+publisher	Mathematical Models and Methods in Applied Sciences is a journal founded in 1991 and published by World Scientific.	Mathematical Models and Methods in Applied Sciences	World Scientific
+publisher	No Boats on Bannermere (Heinemann) (1949) Under Black Banner (Heinemann) (1951) Black Banner Players (Heinemann) (1952) Black Banner Abroad (Heinemann) (1954) The Gates of Bannerdale (Heinemann) (1956)	No Boats on Bannermere	Heinemann
+publisher	The Universe Maker is a science fiction novel by American author A.E. van Vogt, published in 1953 by Ace Books.	The Universe Maker	Ace Books
+publisher	Born of the Sea was first published in Australia in 2003 by Viking Press in paperback format.	Born of the Sea	Viking Press
+publisher	The Thomas Aquinas Dictionary was published by the Philosophical Library in 1965, with a British edition published the same year by Vision.	Thomas Aquinas Dictionary	Philosophical Library
+publisher	The Journal of Modern History is a quarterly peer-reviewed academic journal covering European intellectual, political, and cultural history, published by the University of Chicago Press in cooperation with the Modern European History Section of the American Historical Association.	The Journal of Modern History	University of Chicago Press
+publisher	BattleSport is a futuristic sports video game developed by Cyclone Studios and published by Acclaim Entertainment.	BattleSport	Acclaim Entertainment
+publisher	Extreme Pinball is a 1995 pinball video game published by Electronic Arts for DOS and PlayStation.	Extreme Pinball	Electronic Arts
+publisher	The Journal of Men's Studies (abbreviated JMS) is a peer-reviewed journal established in 1992 as the first published by Men's Studies Press.	The Journal of Men's Studies	Men's Studies Press
+publisher	Watchmen is an American comic-book limited series published by DC Comics in 1986 and 1987, and collected in 1987.	Watchmen	DC Comics
+publisher	Paris to the Moon (2000, ISBN 0-375-75823-2, Random House) is a book of essays by The New Yorker writer Adam Gopnik.	Paris to the Moon	Random House
+series	Daffy Duck in Hollywood is a 1938 Merrie Melodies animated short starring Daffy Duck (in his similar design from Daffy Duck & Egghead).	Daffy Duck in Hollywood	Merrie Melodies
+series	``Near-Death Wish'' is the tenth episode of the seventh season of the animated sitcom Futurama.	Near-Death Wish	Futurama
+series	``A Little Peace and Quiet'' is the second segment of the first episode of the first season (1985--86) of the television series The Twilight Zone.	A Little Peace and Quiet	The Twilight Zone
+series	``Out Where the Buses Don't Run'' is the third episode of the second season of the American crime drama television series Miami Vice.	Out Where the Buses Don't Run	Miami Vice
+series	``Krusty Gets Busted'' is the twelfth episode of The Simpsons' first season, and originally aired on April 29, 1990.	Krusty Gets Busted	The Simpsons
+series	``New Boss'' is the twentieth episode of the fifth season of the television series The Office, and the 92nd overall episode of the series.	New Boss	The Office
+series	``A.A.R.M.'' is the collective name for the twenty-second and twenty-third episodes of the ninth season of the American comedy television series The Office, as well as the 198th and 199th episode overall.	A.A.R.M.	The Office
+series	``The C Word'' is the fourteenth episode of the first season of the American television comedy series 30 Rock.	The C Word	30 Rock
+series	``A Night Out in London'' is the fourth episode of the second series of The Inbetweeners.	A Night Out in London	The Inbetweeners
+series	``Why Must I Be a Crustacean in Love?'' is the fifth episode in second production season of Futurama.	Why Must I Be a Crustacean in Love?	Futurama
+series	The Flame Knife is a 1955 fantasy novella written by Robert E. Howard and L. Sprague de Camp featuring Howard's seminal sword and sorcery hero Conan the Barbarian.	The Flame Knife	Conan the Barbarian
+series	``If I'm Dyin', I'm Lyin''' is the ninth episode of the second season of the FOX animated series Family Guy.	If I'm Dyin', I'm Lyin'	Family Guy
+series	``Devil's Triad'' is the tenth episode of the eleventh season of the American police procedural drama NCIS, and the 244th episode overall.	Devil's Triad	NCIS
+series	``Robots Versus Wrestlers '' is the 22nd episode of the fifth season of the CBS situation comedy How I Met Your Mother and 110th episode overall.	Robots Versus Wrestlers	How I Met Your Mother
+series	``Christian Rock Hard'' is the ninth episode of the seventh season and the 105th overall episode of the American animated series South Park.	Christian Rock Hard	South Park
+series	``How About a Friendly Shrink?'' is the thirteenth episode of the sixth season of the American comedy-drama series, Desperate Housewives, and the 124th overall episode of the series.	How About a Friendly Shrink?	Desperate Housewives
+series	Jerry's Diary is a 1949 one-reel animated cartoon and is the 45th Tom and Jerry short released by Metro-Goldwyn-Mayer, directed by William Hanna and Joseph Barbera, produced by Fred Quimby, scored by Scott Bradley, and animated by Kenneth Muse and Ed Barge.	Jerry's Diary	Tom and Jerry
+series	``Midnight on the Firing Line'' is the first regular episode of the science fiction television series Babylon 5.	Midnight on the Firing Line	Babylon 5
+series	The Bride of Lammermoor and A Legend of Montrose were published together as the third of Scott's Tales of My Landlord series.	The Bride of Lammermoor	Tales of My Landlord
+series	The Summer Tree (1984) is the first novel of The Fionavar Tapestry trilogy by Guy Gavriel Kay.	The Summer Tree	The Fionavar Tapestry
+series	``Stuck Together, Torn Apart'' is the 19th episode of the third season of the American animated series Family Guy, guest starring Jennifer Love Hewitt as herself.	Stuck Together, Torn Apart	Family Guy
+series	``Going Native'' is the eleventh episode of the sixteenth season of the American animated sitcom South Park, and the 234th episode of the series overall.	Going Native	South Park
+series	``Luca$'' (pronounced ``Luca-dollar'') is the seventeenth episode of the 25th season of the American animated sitcom The Simpsons, and the 547th episode of the series.	Luca$	The Simpsons
+series	The Yellow Admiral is the eighteenth naval historical novel in the Aubrey-Maturin series by English author Patrick O'Brian, first published in 1996.	The Yellow Admiral	Aubrey-Maturin series
+sport	The World Professional Basketball Tournament was an invitational tournament for professional basketball teams in the United States held in Chicago, Illinois by the Chicago Herald American.	World Professional Basketball Tournament	basketball
+sport	The 1996 Kroger St. Jude International was a men's tennis tournament played on indoor hard courts at the Racquet Club of Memphis in Memphis, Tennessee in the United States and was part of the Championship Series of the 1996 ATP Tour.	1996 Kroger St. Jude International	tennis
+sport	Udarata Rulers (formly known as Kandurata Maroons) is a franchise cricket team that takes part in the Super 4's T20 tournament which is a temporary installment of the Sri Lanka Premier League.	Kandurata Maroons	cricket
+sport	Lietuvos krepšinio lyga (LKL) (English: Lithuanian Basketball League) is the premier professional men's basketball league in Lithuania, composed of 10 teams, and a member of the Lithuanian Basketball Federation.	Lietuvos krepšinio lyga	basketball
+sport	Bjørn Maaseide (born 7 March 1968, in Stavanger) is a former beach volleyball player from Norway, who represented his native country in three consecutive Summer Olympics: 1996, 2000 and 2004.	Bjørn Maaseide	beach volleyball
+sport	FC Lida is a Belarusian association football club based in Lida, Hrodna Voblast.	FC Lida	association football
+sport	The 1991 Australian Men's Hardcourt Championships was a men's tennis tournament played on indoor hard courts in Adelaide, Australia and was part of the ATP World Series of the 1991 ATP Tour.	1991 Australian Men's Hardcourt Championships	tennis
+sport	Rufus Harris is a retired American professional basketball player.	Rufus Harris	basketball
+sport	Marty Roebuck (born 10 January 1965 in Lithgow, New South Wales) is a former Australian rugby union footballer who represented New South Wales Waratahs and the Australian Wallabies, playing as a fullback.	Marty Roebuck	rugby union
+sport	The 1995 AXA Equity & Law League was the twenty-seventh competing of English cricket's Sunday League.	1995 AXA Equity & Law League	cricket
+sport	IF Boltic was for a number of years the most successful bandy team in Sweden and also one of the best in the world.	IF Boltic	bandy
+sport	Fero Lasagavibau (born May 27, 1976) is a former Fijian rugby union player.	Fero Lasagavibau	rugby union
+sport	The Arab Chess Federation (ArabFide) (Arabic: الاتحاد العربي للشطرنج‎) is a non-profit organization that promotes chess within the Arab world.	Arab Chess Federation	chess
+sport	DSC Wanne-Eickel is a German association football club that plays in Herne, North Rhine-Westphalia.	DSC Wanne-Eickel	association football
+sport	SCHC is the acronym of the field hockey club Stichtse Cricket en Hockey Club, which is located in Bilthoven, Utrecht.	Stichtse Cricket en Hockey Club	field hockey
+sport	The Tel Aviv Open is an ATP World Tour affiliated tennis tournament.	Tel Aviv Open	tennis
+sport	The Gauliga Bayern was the highest association football league in the German state of Bavaria from 1933 to 1945.	Gauliga Bayern	association football
+sport	Accrington Cricket Club is a cricket club in the Lancashire League, which play their home games at Thorneyholme Road in Accrington.	Accrington Cricket Club	cricket
+sport	The Tata Steel Chess Tournament, formerly called the Corus chess tournament, takes place every year, usually in January, in a small town called Wijk aan Zee, part of the larger Beverwijk in the province of North Holland in the Netherlands.	Tata Steel Chess Tournament	chess
+sport	The Original Celtics were a barnstorming professional basketball team in the 1920s.	Original Celtics	basketball
+sport	Azerrail Baku is an Azerbaijani women's volleyball club which plays its home matches at the Sports Games Palace in Baku.	Azerrail Baku	volleyball
+sport	Simon Petrov (born January 27, 1976) is a Slovenian basketball coach and former professional basketball player.	Simon Petrov	basketball
+sport	The Chicago Griffins RFC rugby union team was founded in 1973.	Chicago Griffins RFC	rugby union
+sport	Marte Alexander Martinelli (born March 1, 1976) is an American born Italian basketball player.	Marte Alexander	basketball
+sport	Danya Abrams (born September 24, 1974) is a former basketball player who played for the Boston College Eagles during his time in the NCAA.	Danya Abrams	basketball
+sport	Manny Pacquiao vs. Juan Manuel Márquez IV, billed as Fight of the Decade, was a professional boxing match.	Manny Pacquiao vs. Juan Manuel Márquez IV	boxing
+sport	The Toto Japan Classic is an annual women's professional golf tournament in Japan, jointly sanctioned by the two richest women's professional tours: the U.S.-based LPGA Tour and the LPGA of Japan Tour.	Toto Japan Classic	golf
+sport	The Cape Breton Oilers were a professional ice hockey team in the American Hockey League.	Cape Breton Oilers	ice hockey
+sport	The Asian Junior Volleyball Championship is a sport competition for national teams under 20 years, currently held biannually and organized by the Asian Volleyball Confederation, the Asia volleyball federation.	Asian Junior Volleyball Championship	volleyball
+sport	Seiko Kawamura (河村 聖子 Kawamura Seiko, born 23 May 1984) is a Japanese volleyball player who plays for Toyota Auto Body Queenseis.	Seiko Kawamura	volleyball
+sport	Marit Breivik (born 10 April 1955) is a former Norwegian team handball player, and former head coach for the Norwegian women's national handball team.	Marit Breivik	handball
+sport	Raphaëlle Tervel (born 21 April 1979) is a French handball player who plays for the Hungariah club Győri Audi ETO KC.	Raphaëlle Tervel	handball
+sport	The 2007 Missouri Valley Conference Men's Basketball Tournament, known for sponsorship reasons as the 2007 State Farm Missouri Valley Conference Men's Basketball Tournament, or informally as Arch Madness 2007, is the championship tournament for men's basketball teams of the Missouri Valley Conference.	2007 Missouri Valley Conference Men's Basketball Tournament	basketball
+sport	Philip Cezar (born December 1, 1951) is a retired Filipino professional basketball player in the Philippine Basketball Association.	Philip Cezar	basketball
+sport	The 1972 Anglo-Italian Cup was the third staging of the Anglo-Italian Cup, an annual association football tournament between clubs from England and Italy.	1972 Anglo-Italian Cup	association football
+sport	Péter Rusorán (11 April 1940 -- 14 February 2012) was a Hungarian swimmer, water polo player and later water polo coach.	Péter Rusorán	water polo
+sport	The National Rugby League (NRL) is the top league of professional rugby league clubs in Australasia.	National Rugby League	rugby league
+sport	The 1999 Vaahteraliiga season was the 20th season of the highest level of American football in Finland.	1999 Vaahteraliiga season	American football
+sport	The International Ribbon Tag Team Championship is a professional wrestling tag team championship owned by the Ice Ribbon promotion.	International Ribbon Tag Team Championship	professional wrestling
+sport	Luciano Orquera (born Córdoba, 12 October 1981) is an Argentine-Italian rugby union player.	Luciano Orquera	rugby union
+sport	Ibon Navarro Pérez de Albéniz (born April 30, 1976, Vitoria-Gasteiz, Álava) is a Spanish basketball coach.	Ibon Navarro	basketball
+sport	Mike Tyson vs. Tony Tubbs was a professional boxing match contested on March 21, 1988 for the WBA, WBC and IBF Heavyweight Championships.	Mike Tyson vs. Tony Tubbs	boxing
+sport	Peter Hewat (born 17 March 1978 in Inverell, New South Wales) is an Australian rugby union player now playing in Japan's Top League for Suntory Sungoliath.	Peter Hewat	rugby union
+sport	The ACT and Southern NSW Rugby Union is the governing body for rugby union in the Australian Capital Territory and southern regions of New South Wales.	ACT and Southern NSW Rugby Union	rugby union
+sport	The African U-20 Cup of Nations for Women is association football tournament for the under 20 teams, that is held every two years, and serves as a qualifying tournament for the FIFA U-20 Women's World Cup.	African U-20 Cup of Nations for Women	association football
+sport	The NWA Western States Heavyweight Championshipis a professional wrestling title in the National Wrestling Alliance's Amarillo, Texas territory, NWA Western States Sports.	NWA Western States Heavyweight Championship	professional wrestling
+sport	Ghasem Amir Yavarkandi (Persian: قاسم امیر یاورکندی, born December 5, 1931 Tehran) also known as Amir Yavari, was a member of the Iranian senior national boxing team.	Amir Yavari	boxing
+sport	The 1989 Virginia Slims of Houston was a tennis tournament played on outdoor clay courts at the Westside Tennis Club in Houston, Texas in the United States that was part of Tier III of the 1989 WTA Tour.	1989 Virginia Slims of Houston	tennis
+sport	Butch Beard played college basketball at the University of Louisville.	Butch Beard	basketball
+sport	James Gordon Beckham III (born September 16, 1986) is an American professional baseball third baseman for the Atlanta Braves of Major League Baseball (MLB).	Gordon Beckham	baseball
+sport	Waqar Mehboob (Urdu: وقار محبوب‎; born November 15, 1991 in Peshawar) is a professional squash player who represented Pakistan.	Waqar Mehboob	squash
+sport	Kristian Ipsen (born October 20, 1992 in Walnut Creek, California) is an American diver, who has been diving competitively since 1998.	Kristian Ipsen	diving
+sport	Nelson Barrera Romellón (October 17, 1957 in Ciudad del Carmen -- July 14, 2002 in San Francisco de Campeche) was a Mexican professional baseball player, who at the time of his death led the Mexican League in career home runs (455) and RBIs (1,927).	Nelson Barrera	baseball
+sport	The British Heavyweight Championship is a professional wrestling championship contested for in the XWA.	British Heavyweight Championship	professional wrestling
+sport	Lala Abdul Rashid (June 1, 1922 -- March 8, 1989) was a member of Pakistan's gold medal winning 1960 Olympic field hockey team.	Lala Abdul Rashid	field hockey
+sport	J. Collis Jones (born July 3, 1949) is a former college and professional basketball player.	Collis Jones	basketball
+sport	The FIBA Asia Women's Championship is an international basketball tournament for women's national team organised by FIBA Asia.	FIBA Asia Women's Championship	basketball
+sport	The 2013 FIBA Africa Under-16 Championship for Women was the 3rd FIBA Africa U16 Championship for Women, played under the rules of FIBA, the world governing body for basketball, and the FIBA Africa thereof.	2013 FIBA Africa Under-16 Championship for Women	basketball
+sport	The Liga Nacional de Básquetbol de Chile, is the top national basketball leagues in Chile, it is a professional league, organized by the Federación de Básquetbol de Chile.	Liga Nacional de Básquetbol de Chile	basketball
+sport	The US Open Series is the seven-week summer tennis season linking twelve ATP World Tour and WTA Tour tournaments together.	US Open Series	tennis
+sport	Miloslav Hamr was a Czechoslovakian table tennis player, who was world champion in mixed doubles and team table tennis.	Miloslav Hamr	table tennis
+sport	Annabel Breuer (born 23 October 1992) is a wheelchair fencer and 1.5 point wheelchair basketball player.	Annabel Breuer	basketball
+sport	Esteban Lozada (born January 8, 1982 in Belgium) is a former Argentine rugby union player who last played for English team London Wasps in the Aviva Premiership.	Esteban Lozada	rugby union
+sport	Gilad Bloom (Hebrew: גלעד בלום‎, born 1 March 1967) is a former professional tennis player from Israel.	Gilad Bloom	tennis
+sport	Jordon Dizon (born January 16, 1986) is a retired American football linebacker who last played for the Detroit Lions of the National Football League (NFL).	Jordon Dizon	American football
+sport	The Troy Haymakers were an American professional baseball team.	Troy Haymakers	baseball
+sport	The President's Overseas XV was a 1971 rugby union squad, chosen to celebrate the centenary of the English Rugby Football Union, the oldest national rugby organisation in existence.	President's Overseas XV	rugby union
+sport	The Zambia national football team represents the country of Zambia in the sport of association football and is governed by the Football Association of Zambia.	Zambia national football team	association football
+sport	Lenka Bartáková (Czech pronunciation: (ˈlɛŋka ˈbartaːkovaː); born 17 May 1991) is a Czech professional basketball player.	Lenka Bartáková	basketball
+sport	Niall Cameron (born December 1979) is a Scottish table tennis player from Elgin.	Niall Cameron	table tennis
+sport	The 2015 ABN AMRO World Tennis Tournament (or Rotterdam Open) was a men's tennis tournament played on indoor hard courts.	2015 ABN AMRO World Tennis Tournament	tennis
+sport	Bob Neufeld (born September 1, 1949 in Souris, Manitoba) is a Canadian former professional ice hockey Defenceman.	Bob Neufeld	ice hockey
+sport	Kenneth Michael Goodall, better known as Mike Goodall, (born January 13, 1946 in Denver, Colorado; died October 5, 2010 in Marinwood, California) was until his death the most active chess tournament organizer in Northern California.	Mike Goodall	chess
+sport	Adas Juškevičius (born January 3, 1989) is a professional Lithuanian basketball who plays for BC Lietuvos rytas.	Adas Juškevičius	basketball
+sport	The Old Leightonians Cricket Club is a cricket club for former pupils of Leighton Park School, Reading, Berkshire.	Old Leightonians Cricket Club	cricket
+sport	The Pericos de Puebla (English: Puebla Parakeets) are a baseball team that has been a member of the Liga Mexicana de Béisbol since 2000.	Pericos de Puebla	baseball
+sport	Mark McCall (born 29 November 1967 in Bangor, County Down, Northern Ireland) is an Irish former rugby union player and former coach of Ulster.	Mark McCall	rugby union
+sport	Arnaud Clément (born 17 December 1977) is a retired professional tennis player and the current captain of the France Davis Cup team.	Arnaud Clément	tennis
+sport	Ethel Bliss Platt was an American tennis player and art collector.	Ethel Bliss Platt	tennis
+sport	Since the 2007 season, the National Football League (NFL) has hosted regular season American football games outside of the United States every year in a series known as the NFL International Series.	NFL International Series	American football
+sport	The Austrian Judo Federation (German: Österreichischer Judoverband - ÖJV) is the national organisation for judo in Austria.	Austrian Judo Federation	judo
+sport	The 2006 FFSA Premier League was the first edition of the FFSA Premier League as the second level domestic association football competition in South Australia.	2006 FFSA Premier League	association football
+sport	The Symmetrical Defense (or Austrian Defense) is a chess opening that begins with the moves: 1.	Symmetrical Defense	chess
+sport	Ioannis Georgallis (alternate spellings: Giannis, Georgalis) (born May 17, 1983) is a Greek professional basketball player.	Ioannis Georgallis	basketball
+sport	Kevin McClelland (born July 4, 1962 in Oshawa, Ontario) is a Canadian retired professional ice hockey player.	Kevin McClelland	ice hockey
+sport	Gjøvik Hockey is an ice hockey team based in Gjøvik, Norway.	Gjøvik Hockey	ice hockey
+sport	Khalil Greene played high school baseball at Key West High school.	Khalil Greene	baseball
+sport	MacGuyver Dean Greyling (born 1 January 1986) is a rugby union footballer who represents South Africa in international rugby, and the Blue Bulls in the Currie Cup and Super Rugby.	Dean Greyling	rugby union
+sport	Joan Curry was an English squash player who won the British Open three times in a row from 1947-49.	Joan Curry	squash
+sport	División de Plata de Balonmano, is the second level handball league in Spain.	División de Plata de Balonmano	handball
+sport	Alex Wesby (born July 5, 1980) is an American professional basketball player from Philadelphia.	Alex Wesby	basketball
+sport	Slottsbrons IF is a sports club in Slottsbron, Sweden, playing bandy and association football.	Slottsbrons IF	bandy
+sport	The 1983 Borden Classic was a tennis tournament played on outdoor hard courts in Tokyo, Japan.	1983 Borden Classic	tennis
+sport	The Allen Americans are an ice hockey team headquartered at the Allen Event Center in Allen, Texas, which currently plays in the ECHL.	Allen Americans	ice hockey
+sport	Andre Pärn (born 21 September 1977) is an Estonian basketball player.	Andre Pärn	basketball
+sport	Élodie Godin (born in Cherbourg, 5 July 1985) is a French basketball center currently playing for Famila Basket Schio in Italy's Serie A and the Euroleague.	Élodie Godin	basketball
+sport	Kazan Arrows, sometimes called Strela Kazan, are a rugby league and rugby union club from Kazan, Tatarstan in Russia.	Kazan Arrows	rugby league
+sport	The Utica Devils were an ice hockey team of the American Hockey League.	Utica Devils	ice hockey
+sport	Elvin Mims (born December 23, 1979) is an American professional basketball player and the assistant coach for the London Lightning of the NBL Canada.	Elvin Mims	basketball
+sport	On-base plus slugging (OPS) is a sabermetric baseball statistic calculated as the sum of a player's on-base percentage and slugging average.	On-base plus slugging	baseball
+sport	Steve Bates (born 4 March 1963) is a rugby coach and retired from former rugby union player.	Steve Bates	rugby union
+sport	Yaroslav Alshevsky (born in May 9, 1991) is a Russian professional ice hockey forward.	Yaroslav Alshevsky	ice hockey
+sport	The African Badminton Championships is a tournament organized by the Badminton Confederation of Africa (BCA) to crown the best badminton players in Africa.	African Badminton Championships	badminton
+sport	Chapel Town F.C. is an English association football club based in Chapel-en-le-Frith, Derbyshire.	Chapel Town F.C.	association football
+sport	The 2001 Brasil Open was a tennis tournament played on outdoor hard courts in Salvador, Bahia in Brazil that was part of the International Series of the 2001 ATP Tour and of Tier II of the 2001 WTA Tour.	2001 Brasil Open	tennis
+sport	The 2011 Swiss Figure Skating Championships were the Swiss Figure Skating Championships of the 2010-2011 figure skating season.	2011 Swiss Figure Skating Championships	figure skating
+sport	The Women's Africa Volleyball Championship U20 is a sport competition for national teams with women players under 20 years, currently held biannually and organized by the African Volleyball Confederation, the Africa volleyball federation.	Women's Africa Volleyball Championship U20	volleyball
+sport	Coventry Blaze are an ice hockey team based in Coventry, England.	Coventry Blaze	ice hockey
+sport	The 2004 ICC Intercontinental Cup was the inaugural edition of the ICC Intercontinental Cup first class cricket tournament, an international cricket tournament between nations who have not been awarded Test status by the International Cricket Council.	2004 ICC Intercontinental Cup	cricket
+sport	Armen Bagdasarov was a member of the Uzbekistan national judo team from 1993 to 2001.	Armen Bagdasarov	judo
+sport	William George Ballsom (30 October 1912 -- 1983) was a Welsh professional association football player of the 1930s.	George Ballsom	association football
+sport	Evander Holyfield vs. Mike Tyson II, billed as ``The Sound and the Fury'' and afterwards infamously referred to as ``The Bite Fight'', was a professional boxing match contested on June 28, 1997 for the WBA Heavyweight Championship.	Evander Holyfield vs. Mike Tyson II	boxing
+sport	The Kapa o Pango is a special prematch challenge called a haka unique to the New Zealand national rugby union team.	Kapa o Pango	rugby union
+sport	Tony Yates (born September 15, 1937) is a retired American college basketball player and coach.	Tony Yates	basketball
+sport	The Portland Trail Blazers, commonly known as the Blazers, are an American professional basketball team based in Portland, Oregon.	Portland Trail Blazers	basketball
+sport	BSV Kickers Emden is a German association football club, located in Emden, Lower Saxony.	Kickers Emden	association football
+sport	The 1988 Virginia Slims of Indianapolis was a tennis tournament played on indoor hard courts in Indianapolis, Indiana in the United States and was part of Tier V of the 1988 WTA Tour.	1988 Virginia Slims of Indianapolis	tennis
+sport	Riccardo Lione (born 13 April 1972 in Rome), is a beach volleyball player from Italy.	Riccardo Lione	beach volleyball
+taxon rank	Spurius is a small genus of passalid beetles from Mesoamerica.	Spurius	genus
+taxon rank	Pholiota communis is a species of fungus in the Strophariaceae family.	Pholiota communis	species
+taxon rank	Moropus (meaning ``slow foot'') is an extinct genus of perissodactyl (``odd-toed'') mammal that belonged to the group called chalicotheres, which were endemic to North America during the Miocene from ~23.0--13.6 Mya, existing for approximately 9.4 million years.	Moropus	genus
+taxon rank	The Mongolian five-toed jerboa or Siberian jerboa (Allactaga sibirica) is a species of rodent in the family Dipodidae.	Mongolian five-toed jerboa	species
+taxon rank	Congosaurus is an extinct genus of dyrosaurid mesoeucrocodylian.	Congosaurus	genus
+taxon rank	Croton triacros is a species of plants of the genus Croton and the family of Euphorbiaceae, found in north-east Queensland.	Croton triacros	species
+taxon rank	Alstroemeria achirae is a phanerogam, herbaceous, perennial and rhizomatous species belong to the family of the Alstroemeriaceae.	Alstroemeria achirae	species
+taxon rank	Trichomycterus pirabitira is a species of pencil catfish described from tributaries of the upper rio Grande, rio Paraná basin, southeastern Brazil.	Trichomycterus pirabitira	species
+taxon rank	Opistognathus whitehurstii, the Dusky jawfish, is a species of jawfish native to the western Atlantic Ocean including the Gulf of Mexico and the Caribbean Sea where it is an inhabitant of reefs at depths of from 1 to 12 metres (3.3 to 39.4 ft).	Opistognathus whitehurstii	species
+taxon rank	Tachina subcinerea is a species of fly in the genus Tachina of the family Tachinidae that can be found in India and Nepal.	Tachina subcinerea	species
+taxon rank	Amblyomma hebraeum, commonly known as the South African bont tick, is a species of hard tick that is native to southern Africa.	Amblyomma hebraeum	species
+taxon rank	Clanculus atricatena, common name the black-chained topshell, is a species of sea snail, a marine gastropod mollusk in the family Trochidae, the top snails.	Clanculus atricatena	species
+taxon rank	Staphylaea limacina, common name Slug-like Cowry, is a species of sea snail, a cowry, a marine gastropod mollusk in the family Cypraeidae, the cowries.	Staphylaea limacina	species
+taxon rank	Leiostyla abbreviata is an extinct species of small air-breathing land snail, a terrestrial pulmonate gastropod mollusk in the family Lauriidae.	Leiostyla abbreviata	species
+taxon rank	Pseudoscilla babylonia, common name the Babylon pyram, is a species of small sea snail, a marine gastropod mollusk in the family Pyramidellidae, the pyrams and their allies.	Pseudoscilla babylonia	species
+taxon rank	Cyrenoida floridana, or the Florida marsh clam, is a species of bivalve mollusc in the family Cyrenoididae.	Cyrenoida floridana	species
+taxon rank	Ficus thonningii is a species of Ficus.	Ficus thonningii	species
+taxon rank	Arum maculatum is a common woodland plant species of the Araceae family.	Arum maculatum	species
+taxon rank	Ceratocystis adiposa is a species of fungus in the family Ceratocystidaceae.	Ceratocystis adiposa	species
+taxon rank	Eisenbergiella tayi is a species of bacteria first isolated from human blood.	Eisenbergiella tayi	species
+taxon rank	Atys naucum, common names the ``white nut sheath bubble''' and the ``Pacific nut sheath bubble'', is a species of small tropical sea snail, a bubble snail, a marine opisthobranch gastropod mollusk in the family Haminoeidae, the haminoea bubble snails.	Atys naucum	species
+taxon rank	Aliciella leptomeria (formerly Gilia leptomeria) is a species of flowering plant in the phlox family known by the common names Sand gilia and Great Basin gilia.	Aliciella leptomeria	species
+taxon rank	Lady's slipper orchids (also known as lady slipper orchids or slipper orchids) are orchids in the subfamily Cypripedioideae, which comprises the genera Cypripedium, Mexipedium, Paphiopedilum, Phragmipedium and Selenipedium.	Cypripedioideae	subfamily
+taxon rank	Derbesia is a genus of green algae, specifically of the Derbesiaceae.	Derbesia	genus
+taxon rank	Parcoblatta bolliana, the Boll's wood cockroach or Boll's wood roach, is a small species of wood cockroach native to the United States, measuring around 11 mm (0.43 in) long.	Parcoblatta bolliana	species
+taxon rank	Bonipogonius fujitai is a species of beetle in the family Cerambycidae, and the only species in the genus Bonipogonius.	Bonipogonius fujitai	species
+taxon rank	The Primulaceae are a family of herbaceous flowering plants with about 24 genera, including some favorite garden plants and wildflowers, commonly known as the primrose family.	Primulaceae	family
+taxon rank	Coralliophila sertata is a species of medium-sized sea snail, a marine gastropod mollusk in the subfamily Coralliophilinae the coral snails, within the family Muricidae the rock snails.	Coralliophila sertata	species
+taxon rank	Atractocarpus chartaceus (Narrow-leaved Gardenia or Thin-leaved Gardenia) is a species of flowering plant in the Rubiaceae family from eastern Australia.	Atractocarpus chartaceus	species
+taxon rank	Lenzites betulina, sometimes known by common names gilled polypore, birch mazegill or multicolor gill polypore, is a species of fungus.	Lenzites betulina	species
+taxon rank	Ciliopagurus alcocki is a species of hermit crab native to New Caledonia.	Ciliopagurus alcocki	species
+taxon rank	Erythrina lysistemon is a species of deciduous tree in the pea family, Fabaceae, that is native to South Africa.	Erythrina lysistemon	species
+taxon rank	Cheiracanthium abbreviatum is a spider species found in France and Denmark.	Cheiracanthium abbreviatum	species
+taxon rank	Nylonala infidelis is a species of snout moth, and the only species in the genus Nylonala.	Nylonala infidelis	species
+taxon rank	Coladenia similis is a species of spread-winged skipper butterflies endemic to the Philippines.	Coladenia similis	species
+taxon rank	Ramoceros was a prehistoric relative of modern pronghorn (Antilocapra americana), which is a species of artiodactyl mammal indigenous to interior western and central North America; modern pronghorn are the second-fastest mammal in the world.	Ramoceros	species
+taxon rank	Dosina zelandica zelandica is a subspecies of sea snail, a marine bivalve mollusc in the family Veneridae.	Dosina zelandica zelandica	subspecies
+taxon rank	Staphylaea staphylaea (common name : the stippled cowry) is a species of sea snail, a cowry, a marine gastropod mollusk in the family Cypraeidae, the cowries.	Staphylaea staphylaea	species
+taxon rank	The Dendyae is a genus of Dendyidae.	Dendya	genus
+taxon rank	Neopibanga brescoviti is a species of beetle in the family Cerambycidae, and the only species in the genus Neopibanga.	Neopibanga brescoviti	species
+taxon rank	Variimorda ragusai is a species of tumbling flower beetles belonging to the family Mordellidae subfamily Mordellinae.	Variimorda ragusai	species
+taxon rank	Zizhongosaurus (meaning ``Zizhong lizard'') is a genus of basal herbivorous sauropod dinosaur which lived in the Early Jurassic Period of China.	Zizhongosaurus	genus
+taxon rank	Plemmyradytes is an extinct genus of dissorophoid temnospondyl from the early Permian (early Asselian stage).	Plemmyradytes	genus
+taxon rank	A monotypic genus, it contains a single species, Cobana guatemalensis, distributed in Honduras and Guatemala.	Cobana	species
+taxon rank	Jolyellus albomaculatus is a species of beetle in the family Cerambycidae, and the only species in the genus Jolyellus.	Jolyellus albomaculatus	species
+taxon rank	Pedicularis semibarbata, known by the common name pinewoods lousewort, is a species of flowering plant in the broomrape family.	Pedicularis semibarbata	species
+taxon rank	Bolitoglossa flaviventris (Spanish: Salamandra De Panza Amarilla) is a species of salamander in the family Plethodontidae.	Bolitoglossa flaviventris	species
+taxon rank	Acinocheirodon melanogramma is a species of characin endemic to Brazil, where it is found in the São Francisco and Jequitinhonha Rivers.	Acinocheirodon melanogramma	species
+taxon rank	Acromyrmex ambiguus is a species of New World ants of the subfamily Myrmicinae found in the wild naturally in southern Brazil, Paraguay and Uruguay.	Acromyrmex ambiguus	species
+taxon rank	Anerastia stramineipennis is a species of snout moth in the genus Anerastia.	Anerastia stramineipennis	species
+taxon rank	Shastasauridae is an extinct family of Triassic ichthyosaurs that includes the genera Shastasaurus and Shonisaurus.	Shastasauridae	family
+taxon rank	Elleanthus robustus is a species of flowering plant from the orchid family, Orchidaceae.	Elleanthus robustus	species
+taxon rank	Schivereckia doerfleri is a plant species in the botanical family Brassicaceae, native to Macedonia, Albania, Bulgaria, and Turkey.	Schivereckia doerfleri	species
+taxon rank	Iheringichthys labrosus is a species of long-whiskered catfish native to the Paraná River basin and Uruguay River basin in Argentina, Brazil, Paraguay and Uruguay.	Iheringichthys labrosus	species
+taxon rank	Hastula hastata is a species of sea snail in the family Terebridae, the auger snails.	Hastula hastata	species
+taxon rank	Meliola is a genus of fungi in the Meliolaceae family.	Meliola	genus
+taxon rank	It contains only one species, Probatostola ochromalla, which is found in Namibia.	Probatostola	species
+taxon rank	Planorbidae, common name the ramshorn snails or ram's horn snails, is a family of air-breathing freshwater snails, aquatic pulmonate gastropod mollusks.	Planorbidae	family
+taxon rank	Species in the genus Arganiella include:	Arganiella	genus
+taxon rank	Aploactisoma milesii, the Southern velvetfish, is a species of velvetfish native to the waters around southern and western Australia where it occurs at depths of from 0 to 6 metres (0 to 20 ft).	Aploactisoma milesii	species
+taxon rank	Schoutenia cornerii is a species of plant in the family Tiliaceae.	Schoutenia cornerii	species
+taxon rank	Limnonectes fragilis (common names: fragile large-headed frog, fragile wart frog) is a species of frog in the Dicroglossidae family.	Limnonectes fragilis	species
+taxon rank	Chlamys australis, common name the ``austral scallop'', is a species of scallop, a marine bivalve mollusc in the family Pectinidae, the scallops.	Chlamys australis	species
+taxon rank	Neomariania partinicensis is a species of moth of the Stathmopodidae family.	Neomariania partinicensis	species
+taxon rank	Neocrepidodera impressa is a species of flea beetle from Chrysomelidae family that can be found everywhere in Europe except for Andorra, Austria, Baltic states, Czech Republic, Hungary, Liechtenstein, Macedonia, Moldova, Monaco, Poland, Romania, San Marino, Vatican City, and eastern Europe.	Neocrepidodera impressa	species
+taxon rank	The order Afrosoricida (a Latin-Greek compound name which means ``looking like African shrews'') contains the golden moles of southern Africa and the tenrecs of Madagascar and Africa.	Afrosoricida	order
+taxon rank	Afrapia is an extinct genus of wasp which existed in Botswana during the late Cretaceous period.	Afrapia	genus
+taxon rank	Callionymus pleurostictus is a species of dragonet native to the Pacific Ocean where it is found from the Ryukyus south to Australia.	Callionymus pleurostictus	species
+taxon rank	Metastelma is a genus of plant in family Apocynaceae first described in 1810.	Metastelma	genus
+taxon rank	Massicus pascoei is a species of round-necked longhorn beetles of the subfamily Cerambycinae.	Massicus pascoei	species
+taxon rank	Cyclosa sierrae is an orb-weaver spider species found in Europe to Georgia.	Cyclosa sierrae	species
+taxon rank	Cryptogramma acrostichoides is a fern species in the Cryptogrammoideae subfamily of the Pteridaceae.	Cryptogramma acrostichoides	species
+taxon rank	Gastrophryne, the narrowmouth toads (also American narrowmouth toads, North American narrow-mouthed toads), is a genus of microhylid frogs found in the Americas between Honduras and southern United States.	Gastrophryne	genus
+taxon rank	Homarus gammarus, known as the European lobster or common lobster, is a species of clawed lobster from the eastern Atlantic Ocean, Mediterranean Sea and parts of the Black Sea.	Homarus gammarus	species
+taxon rank	Rhodactis is genus of ``mushroom corals'', which are characterized by large individual polyps that are often reminiscent of a mushroom.	Rhodactis	genus
+taxon rank	Kumlienia is a small genus of flowering plants in the buttercup family known generally as false buttercups.	Kumlienia	genus
+taxon rank	Banffia is a genus of animals described from Middle Cambrian fossils.	Banffia	genus
+taxon rank	Phreatosaurus is an extinct genus of basal dinocephalian therapsid.	Phreatosaurus	genus
+taxon rank	Liocheles australasiae, the Dwarf Wood Scorpion, is a species of scorpions belonging to the family Hemiscorpiidae.	Liocheles australasiae	species
+taxon rank	Zhongyuansaurus is an extinct genus of ankylosaurid ankylosaurian dinosaur from the Cretaceous of Ruyang, Henan, China.	Zhongyuansaurus	genus
+taxon rank	Postia tephroleuca is a species of fungus in the family Fomitopsidaceae infecting plane trees.	Postia tephroleuca	species
+taxon rank	Marisba undulifera is a species of snout moth, and the only species in the genus Marisba.	Marisba undulifera	species
+taxon rank	Mahonia breviracema is a shrub in the Berberidaceae described as a species in 1985.	Mahonia breviracema	species
+taxon rank	Callianassa subterranea is a species of burrowing ghost shrimp.	Callianassa subterranea	species
+taxon rank	Cautleya is a small genus of perennial plants of the family Zingiberaceae (the ginger family), found in the eastern Himalayas through to China and Vietnam.	Cautleya	genus
+taxon rank	The only species recognised by the World Register of Marine Species is Schizoculina fissipara, found in the eastern Atlantic Ocean on the west coast of Africa.	Schizoculina fissipara	species
+taxon rank	Lankascincus deignani, commonly known as Deignan's Lanka skink, is a species of skink endemic to the island of Sri Lanka.	Lankascincus deignani	species
+taxon rank	Sorbus latifolia (the broad-leaved whitebeam or service tree of Fontainebleau; French: alisier de Fontainebleau) is a species of whitebeam that is endemic to the area around Fontainebleau, south of Paris in France, where it has been known since the early eighteenth century.	Sorbus latifolia	species
+taxon rank	Diorocetus is an extinct genus of baleen whale, belonging to the family Pelocetidae.	Diorocetus	genus
+taxon rank	Thorius papaloae (common name: Papalo minute salamander) is a species of salamander in the family Plethodontidae.	Thorius papaloae	species
+taxon rank	Molossops is a genus of bat in the family Molossidae.	Molossops	genus
+taxon rank	Vitula lugubrella is a species of snout moth in the genus Vitula.	Vitula lugubrella	species
+taxon rank	Byblis guehoi is a species of carnivorous plant in the genus Byblis.	Byblis guehoi	species
+taxon rank	Crocus scharojanii is a species of flowering plant in the genus Crocus of the family Iridaceae, found from Northeastern Turkey to Caucasus.	Crocus scharojanii	species
+taxon rank	The Malayan field rat, Malaysian field rat or Malaysian wood rat, (Rattus tiomanicus) is a species of rodent in the family Muridae.	Malayan field rat	species
+taxon rank	Stenotosauridae is an extinct family of mastodonsauroid temnospondyls.	Stenotosauridae	family
+taxon rank	Pseudovertagus nobilis is a species of sea snail, a marine gastropod mollusk in the family Cerithiidae, the ceriths.	Pseudovertagus nobilis	species
+taxon rank	Samoana diaphana, one of several species also known as the Moorean viviparous tree snail or the Polynesian tree snail, is a species of tropical, air-breathing land snail, a terrestrial, pulmonate, gastropod mollusk in the family Partulidae.	Samoana diaphana	species
+taxon rank	Erigeron utahensis is a North American species of flowering plant in the daisy family known by the common name Utah fleabane.	Erigeron utahensis	species
+taxon rank	Assiminea grayana, common name the ``dun sentinel'', is a species of very small (4-6 mm.) salt marsh snail, a terrestrial (or marine gastropod mollusk in the family Assimineidae.	Assiminea grayana	species
+taxon rank	Xantho poressa is a species of crab from the Black Sea, Mediterranean Sea and parts of the eastern Atlantic Ocean.	Xantho poressa	species
+taxon rank	Heliamphora sarracenioides (Latin: Sarracenia = genus of North American pitcher plants, -oides = resembling) is a species of marsh pitcher plant endemic to Ptari Tepui in Bolívar state, Venezuela.	Heliamphora sarracenioides	species
+taxon rank	Hermophyllon anceps is a moth in the Cossidae family, and the only species in the genus Hermophyllon.	Hermophyllon anceps	species
+taxon rank	Dominickus is an extinct genus of moth in the butterfly-moth family Castniidae containing a single species Dominickus castnioides.	Dominickus	species
+taxon rank	Calligonum bakuense is a species of Calligonum shrub, endemic to Azerbaijan.	Calligonum bakuense	species
+taxon rank	Ophiclinops pardalis, the Spotted snakeblenny, is a species of clinid native to the coastal waters of southern Australia in seagrass beds.	Ophiclinops pardalis	species
+taxon rank	Heuglin's lemniscomys or Heuglin's striped grass mouse (Lemniscomys zebra) is a species of rodent in the family Muridae.	Heuglin's striped grass mouse	species
+taxon rank	Bathycrinus is a genus of crinoid.	Bathycrinus	genus
+taxon rank	Leucosceptrum is a genus of flowering plant in the Lamiaceae family, first described in 1806.	Leucosceptrum	genus
+taxon rank	Leptodactylus podicipinus (common name: pointedbelly frog) is a species of frog in the Leptodactylidae family.	Leptodactylus podicipinus	species
+taxon rank	Lycodon zoosvictoriae is a species of wolf snake.	Lycodon zoosvictoriae	species
+taxon rank	Puelia is a genus of African grasses, the only genus in the tribe Atractocarpeae (syn. Puelieae).	Puelia	genus
+taxon rank	Apoderus coryli, common name hazel-leaf roller weevil, is a species of leaf-rolling beetles belonging to the family Attelabidae subfamily Attelaninae.	Apoderus coryli	species
+taxon rank	Odontopyxis trispinosa, the Pygmy poacher, is a species of poacher that is native to the eastern Pacific Ocean along the North American coast from southern Alaska to northern Mexico.	Odontopyxis trispinosa	species
+taxon rank	Odontamblyopus is a genus of gobies native to mud bottomed coastal and estuarine habitats from Pakistan eastward to Japan.	Odontamblyopus	genus
+taxon rank	Diapensia lapponica (pincushion plant) is a plant in the family Diapensiaceae, the only circumpolar species in the genus Diapensia, the others being mainly in the Himalaya and on mountains in southwestern China (the evolutionary heartland).	Diapensia lapponica	species
+taxon rank	Fagonia cretica (Spanish: Manto de la Virgen, Virgin's Mantle) is a species of plant in the Zygophyllaceae, the Caltrop family, specifically the fagonbushes.	Fagonia cretica	species
+taxon rank	Agrobacterium is a genus of Gram-negative bacteria established by H. J. Conn that uses horizontal gene transfer to cause tumors in plants.	Agrobacterium	genus
+taxon rank	Aganisia cyanea (formerly Acacallis cyanea) is a showy species of orchid native to Colombia, Venezuela, Peru and Brazil and widely cultivated elsewhere as an ornamental.	Aganisia cyanea	species
+taxon rank	Hypomyces is a genus of parasitic Ascomycete fungi found in Europe, North America, Australia, and parts of China.	Hypomyces	genus
+taxon rank	Trichorhina mulaiki is a species of woodlouse in the family Platyarthridae.	Trichorhina mulaiki	species
+taxon rank	The Indo-Pacific tarpon, Megalops cyprinoides, also known as the oxeye herring or simply herring, is a relatively medium-sized species of tarpon.	Indo-Pacific tarpon	species
+taxon rank	The family Astacidae comprises the freshwater crayfish native to Europe and western North America.	Astacidae	family
+taxon rank	Sceloporus occidentalis longipes is a subspecies of the western fence lizard, commonly called the Great Basin fence lizard.	Sceloporus occidentalis longipes	subspecies
+taxon rank	Ligamenvirales is an order of linear viruses that infect archaea of the kingdom Crenarchaeota and have double-stranded DNA genomes.	Ligamenvirales	order
+taxon rank	The Starry Night Cracker or Starry Cracker (Hamadryas laodamia) is a species of cracker butterfly in the family Nymphalidae.	Hamadryas laodamia	species
+taxon rank	Cynarctoides harlowi is an extinct species of Cynarctoides, belonging to the subfamily Borophaginae and tribe Phlaocyonini, a canid which inhabited west central North America during the Late Oligocene to Miocene epoch living 24.8--20.6 mya and existed for approximately 4.2 million years.	Cynarctoides harlowi	species
+taxon rank	Steneotarsonemus is a genus of plant feeding mites.	Steneotarsonemus	genus
+taxon rank	Priogymnanthus is a genus of two species of flowering plants in the family Oleaceae native to tropical South America, in Bolivia, Brazil, Ecuador, Argentina and Paraguay.	Priogymnanthus	genus
+taxon rank	Holcodiscidae is an ammonite family placed in the order Ammonitida.	Holcodiscidae	family
+taxon rank	Abraliopsis hoylei is a species of enoploteuthid cephalopod whose type locality is the Mascarene Islands, but this is uncertain, and the type specimen has been damaged, making taxonomic determination difficult.	Abraliopsis hoylei	species
+taxon rank	Oxyopsis gracilis, common name South American green mantis, is a species of praying mantis native to South America.	Oxyopsis gracilis	species
+taxon rank	Sinea spinipes is a species of assassin bug, family (Reduviidae), in the subfamily Harpactorinae.	Sinea spinipes	species
+taxon rank	Juncus subsecundus , the fingered rush, is a species of rush found in many parts of Australia.	Juncus subsecundus	species
+taxon rank	Eurycantha calcarata (common names thorny devil stick insect and giant spiny stick insect ) is a species of phasmid endemic to Australasia.	Eurycantha calcarata	species
+taxon rank	Monoculus is a genus of succulent plants in the pot marigold tribe within the sunflower family, split from the genus Osteospermum by Bertil Nordenstam in 2006.	Monoculus	genus
+taxon rank	Ischnostemma is a genus of flowering plants of the family Apocynaceae, first described as a genus in 1908.	Ischnostemma	genus
+taxon rank	Onobops jacksoni, common name the fine-lined hydrobe, is a species of very small aquatic snail, an operculate gastropod mollusk in the family Hydrobiidae.	Onobops jacksoni	species
+taxon rank	Argiope pulchella is a species of Orb Spider belonging to the family Araneidae.	Argiope pulchella	species
+taxon rank	It was described by Pribyl and Vanek in 1985, and the type species is Ceraurinium intermedius, which was originally described under the genus Ceraurus by Kielan in 1955.	Ceraurinium	genus
+taxon rank	The Dalat shrike-babbler (Pteruthius annamensis) is a bird species traditionally considered an aberrant Old World babbler and placed in the family Timaliidae.	Dalat shrike-babbler	species
+taxon rank	Cicurina vespera is a rare species of spider in the family Dictynidae known by the common name Government Canyon Bat Cave meshweaver.	Cicurina vespera	species
+taxon rank	Phrynetolamia strandi is a species of beetle in the family Cerambycidae, and the only species in the genus Phrynetolamia.	Phrynetolamia strandi	species
+taxon rank	Anacardium humile, a plant species from the genus Anacardium and the family Anacardiaceae, is known for its medicinal and insecticidal properties The shrub is commonly found in the Pantanal and Cerrado.	Anacardium humile	species
+taxon rank	Strongylognathus palaestinensis is a species of ant in the genus Strongylognathus.	Strongylognathus palaestinensis	species
+taxon rank	Limbella fryei (Frye's limbella moss) is a species of plant in the Pterobryaceae family.	Limbella fryei	species
+taxon rank	Longitarsus vilis is a species of beetle in the subfamily Galerucinae that is can be found on Canary Islands, in such Europeaan countries as Portugal, Spain, and also on Italian islands such as Sardinia and Sicily and the Italian mainland.	Longitarsus vilis	species
+taxon rank	The animal family Almidae includes about six genera of segmented worms.	Almidae	family
+taxon rank	Prolasius advenus is a species of ant in the genus Prolasius.	Prolasius advenus	species
+taxon rank	Embertoniphanta farafanga or Helicophanta farafanga is a species of air-breathing land snail, a terrestrial pulmonate gastropods mollusk in the family Acavidae.	Embertoniphanta farafanga	species
+taxon rank	Erigeron tracyi is a North American species of flowering plant in the daisy family known by the common name running fleabane.	Erigeron tracyi	species
+taxon rank	Odostomia limpida is a species of minute sea snail, a marine gastropod mollusk or micromolluskin the family Pyramidellidae, the pyrams and their allies.	Odostomia limpida	species
+taxon rank	Crematogaster desecta is a species of ant of the subfamily Myrmicinae which can be found in Sri Lanka.	Crematogaster desecta	species
+taxon rank	The Sphaeriidae are a family of small to minute freshwater bivalve molluscs, in the order Veneroida; this family also includes the clams formerly placed in the Pisidiidae.	Sphaeriidae	family
+taxon rank	Pepsis is a genus of spider wasps belonging to the family Pompilidae.	Pepsis	genus
+taxon rank	Prionoglarididae is a family of Psocoptera that are characterised by the reduction or simplification of the lacinia in adults and the specialised form of the male genitalia.	Prionoglarididae	family
+taxon rank	Starksia fulva, known commonly as the Yellow blenny, is a species of labrisomid blenny native to the Pacific coast of the Americas from Costa Rica to Ecuador.	Starksia fulva	species
+taxon rank	Ceanothus prostratus is a species of shrub in the buckthorn family Rhamnaceae.	Ceanothus prostratus	species
+taxon rank	Luzonoparmena habei is a species of beetle in the family Cerambycidae, and the only species in the genus Luzonoparmena.	Luzonoparmena habei	species
+taxon rank	Polystichus connexus is a species of beetle in the Carabidae family that can be found in Bulgaria and Romania.	Polystichus connexus	species
+taxon rank	Chaetachme is a monotypic genus of flowering plants in the elm family containing the single species Chaetachme aristata.	Chaetachme	species
+taxon rank	Polyscias kikuyuensis (also called the Parasol Tree) is a species of plant in the Araliaceae family.	Polyscias kikuyuensis	species
+taxon rank	Neocrepidodera norica is a species of flea beetle from Chrysomelidae family that can be found in Austria, Bosnia and Herzegovina, Croatia, Italy, Republic of Macedonia, Romania, and Slovenia.	Neocrepidodera norica	species
+taxon rank	Erysichton is a genus of butterfly in the family Lycaenidae.The members (species) of this genus are found in the Australasian ecozone.	Erysichton	genus
+taxon rank	Sciaenidae is the family of fish commonly called drums or croakers in reference to the repetitive throbbing or drumming sounds they make.	Sciaenidae	family
+taxon rank	Austrodontura castletoni, known as Castleton's Flightless Katydid, is a species of katydid in the family Phaneropterinae.	Austrodontura castletoni	species
+taxon rank	Tachina trianguli is a species of fly in the genus Tachina of the family Tachinidae that is endemic to Venezuela.	Tachina trianguli	species
+taxon rank	Paracanthosybra vadoni is a species of beetle in the family Cerambycidae, and the only species in the genus Paracanthosybra.	Paracanthosybra vadoni	species
+taxon rank	Coregonus bezola was a species of freshwater whitefish in the family Salmonidae.	Coregonus bezola	species
+taxon rank	Nectophrynoides tornieri, Tornier's forest toad or kijula, is a species of toad in the family Bufonidae.	Nectophrynoides tornieri	species
+taxon rank	Vestalis apicalis, or the black-tipped forest glory, is a species of damselfly belonging to the family Calopterygidae.	Vestalis apicalis	species
+taxon rank	Haworthia limifolia is a species of flowering plant in the genus Haworthia first described in 1910.	Haworthia limifolia	species
+taxon rank	Cephalostachyum is a genus of Asian and Madagascan bamboo in the grass family).	Cephalostachyum	genus
+taxon rank	Conus ventricosus, common name the Mediterranean cone, is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails and their allies.	Conus ventricosus	species
+taxon rank	Tetradymia is a genus of North American shrubs in the groundsel tribe within the sunflower family.	Tetradymia	genus
+taxon rank	The Kamchatka leaf warbler (Phylloscopus examinandus) is a species of leaf warbler (family Phylloscopidae).	Kamchatka leaf warbler	species
+taxon rank	Gulella greenwayi is a species of very small air-breathing land snails, terrestrial pulmonate gastropod mollusks in the family Streptaxidae.	Gulella greenwayi	species
+taxon rank	Acrobolbaceae is liverwort family in the order Jungermanniales.	Acrobolbaceae	family
+taxon rank	Tolumnia guttata is a species of orchid found from Mexico to Colombia and the Caribbean.	Tolumnia guttata	species
+taxon rank	Pterodaustro is a genus of Cretaceous pterodactyloid pterosaur from South America, which lived 105 million years ago.	Pterodaustro	genus
+taxon rank	Anepsiozomus is a genus of hubbardiid short-tailed whipscorpion, and it contains the following species:	Anepsiozomus	genus
+taxon rank	Ternstroemia cleistogama is a species of flowering plant in the family Pentaphylacaceae.	Ternstroemia cleistogama	species
+taxon rank	Hemilydella fasciata is a species of tachinid flies in the genus Hemilydella of the family Tachinidae.	Hemilydella fasciata	species
+taxon rank	Acroneuria lycorias or the Boreal Stonefly is a species of stonefly native to North America.	Acroneuria lycorias	species
+taxon rank	Velutina velutina, common name the smooth lamellaria, is a species of small sea snail with a transparent shell, a marine gastropod mollusk in the family Velutinidae.	Velutina velutina	species
+taxon rank	Utterbackia imbecilis (paper pondshell) is a species of freshwater mussel, an aquatic bivalve mollusk in the family Unionidae, the river mussels.	Utterbackia imbecilis	species
+taxon rank	Cercopemyces is a mushroom genus allied to Ripartitella and not clearly aligned with well characterized mushroom families.	Cercopemyces	genus
+taxon rank	Rubeostratilia is an extinct genus of amphibamid temnospondyl from the Early Permian of Texas.	Rubeostratilia	genus
+taxon rank	Westraltrachia subtila is a species of air-breathing land snails, a terrestrial pulmonate gastropod mollusk in the family Camaenidae.	Westraltrachia subtila	species
+taxon rank	Terebellum terebellum, common name the Terebellum conch, is a species of sea snail, a marine gastropod mollusk in the family Seraphsidae, the true conchs.	Terebellum terebellum	species
+taxon rank	Rhododendron adenogynum (腺房杜鹃) is a rhododendron species native to southwest Sichuan, southeast Xizang, and northwest Yunnan in China, where it grows at altitudes of 3200--4200 meters.	Rhododendron adenogynum	species
+taxon rank	Tactostoma macropus, the longfin dragonfish, is a species of barbeled dragonfish found in the Pacific Ocean down to depths of 2,000 metres (6,600 ft).	Tactostoma macropus	species
+taxon rank	Ophidiiformes is an order of ray-finned fish that includes the cusk eels (family Ophidiidae), pearlfishes (family Carapidae), brotulas (family Bythitidae), and others.	Ophidiiformes	order
+taxon rank	Synodontis marmoratus is a species of upside-down catfish endemic to Cameroon where it is found in the Sanage and Nyong Rivers.	Synodontis marmoratus	species
+taxon rank	Monardella cinerea is a rare species of flowering plant in the mint family known by the common name gray monardella.	Monardella cinerea	species
+taxon rank	The Chromista are a eukaryotic supergroup, probably polyphyletic, which may be treated as a separate kingdom or included among the Protista.	Chromista	kingdom
+taxon rank	Artemisiospiza is a genus of birds in the bunting and American sparrow family.	Artemisiospiza	genus
+taxon rank	Xanthidae is a family of crabs known as mud crabs, pebble crabs or rubble crabs.	Xanthidae	family
+taxon rank	Viola lutea, also known as the mountain pansy, is a species of violet that grows in Europe, from the British Isles to the Balkans.	Viola lutea	species
+taxon rank	Clavulina is a genus of fungi in the family Clavulinaceae, in the Cantharelloid clade (order Cantharellales)..	Clavulina	genus
+taxon rank	Patella ferruginea, common name Ribbed Mediterranean Limpet is a species of sea snail, a true limpet, a marine gastropod mollusk in the family Patellidae, one of the families of true limpets.	Patella ferruginea	species
+taxon rank	Tyrophagus casei, the cheese mite, is a species of mite which is inoculated into Milbenkäse and Altenburger Ziegenkäse cheese during their production.	Tyrophagus casei	species
+taxon rank	Menemerus semilimbatus is a Mediterranean species widely distributed in Europe, southern Asia and in Africa.	Menemerus semilimbatus	species
+taxon rank	Agyneta kaszabi is a species of sheet weaver found in Kazakhstan, Mongolia and Russia.	Agyneta kaszabi	species
+taxon rank	Rorippa subumbellata is a rare species of flowering plant in the mustard family known by the common names Lake Tahoe yellowcress and Tahoe yellow cress.	Rorippa subumbellata	species
+taxon rank	Chlorophytum tuberosum is a species of flowering plant, one of several species known by the common name musli.	Chlorophytum tuberosum	species
+taxon rank	Cinnamomum cebuense, the Cebu Cinnamon tree, is a species of cinnamon endemic to Cebu Island, Philippines.	Cinnamomum cebuense	species
+taxon rank	The sole species, Azorina vidalii, is endemic to the Azores.	Azorina	species
+taxon rank	The order Sphingobacteriales comprises five families of environmental bacteria.	Sphingobacteriales	order
+taxon rank	Perophora japonica is a species of colonial sea squirt in the genus Perophora, native to the North Indo-Pacific.	Perophora japonica	species
+taxon rank	The cicada genus Platypleura occurs widely across Africa and southern Asia.	Platypleura	genus
+taxon rank	Pelagielloidea is an extinct superfamily of Paleozoic fossil molluscs of uncertain position, either (Gastropoda or Monoplacophora).	Pelagielloidea	superfamily
+taxon rank	Notobasis syriaca, the Syrian thistle, is a species in the thistle tribe within the Asteraceae.	Notobasis syriaca	species
+taxon rank	Euderces elvirae is a species of beetle in the family Cerambycidae.	Euderces elvirae	species
+taxon rank	Corypha umbraculifera, the talipot palm, is a species of palm native to eastern and southern India and Sri Lanka.	Corypha umbraculifera	species
+taxon rank	Chelosania is a genus of agamid lizards that contains a single species, Chelosania brunnea.	Chelosania	genus
+taxon rank	Clitoria fairchildiana, the Sombreiro, is a flowering plant species in the genus Clitoria found in Campina Grande, Brazil.	Clitoria fairchildiana	species
+taxon rank	Ancistrocerus is a widely distributed genus of potter wasps present in many biogeographical regions of the world.	Ancistrocerus	genus
+taxon rank	Schismatogobius insignus is a species of goby endemic to the Philippines.	Schismatogobius insignus	species
+taxon rank	Parahancornia is a genus of flowering plants in the dogbane family, Apocynaceae, first described as a genus in 1922.	Parahancornia	genus
+taxon rank	Protostega ('first roof') is an extinct genus of marine turtle containing a single species, Protostega gigas.	Protostega	genus
+taxon rank	Synodontis thysi is a species of upside-down catfish native to Guinea and Sierra Leone where it is found in the Little Scarcies, Jong, Rokel, Kolenté and Konkouré Rivers.	Synodontis thysi	species
+taxon rank	Nemapalpus nearcticus is a species of fly in family Psychodidae.	Nemapalpus nearcticus	species
+taxon rank	Bdellouridae is a family of Maricola triclads.	Bdellouridae	family
+taxon rank	Omphalocera cariosa is a species of snout moth, and the type species in the genus Omphalocera.	Omphalocera cariosa	species
+taxon rank	Haplomitrium mnioides is a species of liverwort from Japan.	Haplomitrium mnioides	species
+taxon rank	Allium chloranthum is a species of onion native to Lebanon and southern Turkey.	Allium chloranthum	species
+taxon rank	Bursa bufonia, common name the warty frog shell, is a species of sea snail, a marine gastropod mollusk in the family Bursidae, the frog shells.	Bursa bufonia	species
+taxon rank	Camellia granthamiana (Chinese: 葛量洪茶), or Grantham's camellia, is a rare, endangered species of Camellia, which was first discovered in Hong Kong in 1955.	Camellia granthamiana	species
+taxon rank	Archaebranchinecta barstowensis is a species of fairy shrimp (Anostraca) that inhabited California during the Middle Miocene (13.4 million years ago).	Archaebranchinecta barstowensis	species
+taxon rank	Sphaeralcea munroana is a species of flowering plant in the mallow family known by the common names Munro's globemallow and Munro's desert-mallow.	Sphaeralcea munroana	species
+taxon rank	Mecyclothorax is a genus of beetles, that contains 400 described species, mostly from the Hawaiian Islands.	Mecyclothorax	genus
+taxon rank	Micromyzon akamai is the only species of catfish (order Siluriformes) in the genus Micromyzon of the family Aspredinidae.	Micromyzon akamai	species
+taxon rank	Ceratina tanganyicensis, also known as Ceratina (Simioceratina) tanganyicensis, is a species of bees belonging to the family Apidae subfamily Apinae.	Ceratina tanganyicensis	species
+taxon rank	Pseudomelieria argentina is a species of ulidiid or picture-winged fly in the genus Pseudomelieria of the family Ulidiidae.	Pseudomelieria argentina	species
+taxon rank	Barbus hulstaerti (butterfly barb) is a species of ray-finned fish in the genus Barbus.	Barbus hulstaerti	species
+taxon rank	Galaxias bobmcdowalli is an extinct species of bony fish in the genus Galaxias.	Galaxias bobmcdowalli	species
+taxon rank	Contoderus hamaticollis is a species of beetle in the family Cerambycidae, and the only species in the genus Contoderus.	Contoderus hamaticollis	species
+taxon rank	Rhamphochromis lucius is a species of piscivorous cichlid endemic to Lake Malawi where it prefers deep, open waters.	Rhamphochromis lucius	species
+taxon rank	Ipomopsis polycladon is a species of flowering plant in the phlox family known by the common name manybranched ipomopsis.	Ipomopsis polycladon	species
+taxon rank	Didymosphaeria is a genus of fungi in the family Didymosphaeriaceae.	Didymosphaeria	genus
+taxon rank	Subspecies Catocala andromache benjamini has been elevated to species level and is now known as Catocala benjamini.	Catocala andromache	species
+taxon rank	Nephrosperma vanhoutteanum is a species of palm tree, and the only species in the genus Nephrosperma.	Nephrosperma	species
+taxon rank	Eurymen is a small genus of fatheads native to the northern Pacific Ocean.	Eurymen	genus
+taxon rank	Epidendrum nocturnum (the ``Nocturnal Epidendrum'') is the type species of the genus Epidendrum of the Orchidaceae (Orchid family).	Epidendrum nocturnum	species
+taxon rank	Cyclocorus is a genus of colubrid snakes found in the Philippines.	Cyclocorus	genus
+taxon rank	Homalopoma crassicostata is a species of minute sea snail, a marine gastropod mollusc in the family Colloniidae.	Homalopoma crassicostata	species
+taxon rank	Lycodon travancoricus, commonly known as the Travancore wolf snake, is a species of colubrid snake.	Lycodon travancoricus	species
+taxon rank	Ascoviridae is a family of double strand DNA viruses that infect primarily invertebrates, mainly noctuids and spodoptera species; it contains one genus, Ascovirus, which currently contains four species.	Ascoviridae	family
+taxon rank	Hyalesthes obsoletus is a bug species in the genus Hyalesthes.	Hyalesthes obsoletus	species
+taxon rank	Propionibacterium propionicus (previously known as Arachnia propionica) is a Gram positive, aerotolerant anaerobic species of Propionibacterium, found as part of the normal human oral flora.	Propionibacterium propionicus	species
+taxon rank	Linanthus dianthiflorus is a species of flowering plant in the phlox family known by the common names fringed linanthus and ground pink.	Linanthus dianthiflorus	species
+taxon rank	Attheyella yemanjae is a species of copepod in the family Canthocamptidae.	Attheyella yemanjae	species
+taxon rank	Bulbophyllum rubrolabellum is a species of plant in the Orchidaceae family that is endemic to Taiwan.	Bulbophyllum rubrolabellum	species
+taxon rank	The Mayotte scops owl (Otus mayottensis) is a species of owl in the family Strigidae.	Mayotte scops owl	species
+taxon rank	Rhipicephalus microplus (formerly Boophilus microplus) is an economically important tick that parasitises a variety of livestock species; it is known as the cattle tick or southern cattle tick.	Rhipicephalus microplus	species
+taxon rank	Vanda tricolor is a species of orchid occurring in Laos and from Java to Bali.	Vanda tricolor	species
+taxon rank	Papyrius flavus is a species of ant in the genus Papyrius.	Papyrius flavus	species
+taxon rank	Saxifraga tridactylites, the rue-leaved saxifrage or ``nailwort'', is a species of plant in the family Saxifragaceae.	Saxifraga tridactylites	species
+taxon rank	Teinurosaurus (meaning ``extended tail lizard'') is a genus of carnivorous theropod dinosaur.	Teinurosaurus	genus
+taxon rank	Condica concisa is a species of moth belonging to the genus Condica.	Condica concisa	species
+taxon rank	Catasetum lemosii is a species of orchid found in North Brazil.	Catasetum lemosii	species
+taxon rank	Rhinella inca is a species of toad in the family Bufonidae that is endemic to Peru.	Rhinella inca	species
+taxon rank	Orthochromis luongoensis is a species of cichlid endemic to Zambia, where it is only known from the Luongo River, a tributary of the Luapula in the upper Congo River basin.	Orthochromis luongoensis	species
+taxon rank	Paracassina kounhiensis (common names: Kouni Valley striped frog, Mocquard's mountain kassina) is a species of frog in the Hyperoliidae family.	Paracassina kounhiensis	species
+taxon rank	Collinsia tinctoria is a species of flowering plant in the plantain family known by the common names sticky Chinese houses and tincture plant.	Collinsia tinctoria	species
+taxon rank	Acacia phasmoides, commonly known as phantom wattle, is a shrub species that is endemic to south-eastern Australia.	Acacia phasmoides	species
+taxon rank	Ixodes arboricola, also called the tree-hole tick, is a species of parasitic tick that parasitises small passerine birds.	Ixodes arboricola	species
+taxon rank	Orsodacne is a genus of beetles, the sole member of the subfamily Orsodacninae.	Orsodacne	genus
+taxon rank	Quercus laeta is an oak species in the white oak section, Quercus section Quercus in the beech family.	Quercus laeta	species
+taxon rank	Pittosporum linearifolium is a species of plant in the family Pittosporaceae.	Pittosporum linearifolium	species
+taxon rank	Palaemonella burnsi is a species of shrimp in the family Palaemonidae, from Maui, Hawaii.	Palaemonella burnsi	species
+taxon rank	The Aristonectidae is a taxonomic family of poorly known plesiosaurs from the Jurassic and Cretaceous periods.	Aristonectidae	family
+taxon rank	Florentiamyidae is a family of extinct rodents from North America.	Florentiamyidae	family
+taxon rank	Dioryctria ponderosae, the ponderosa twig moth, is a species of moth of the family Pyralidae.	Dioryctria ponderosae	species
+taxon rank	Cymbacephalus is a genus of flatheads native to the western Pacific Ocean.	Cymbacephalus	genus
+taxon rank	Picea engelmannii, with common names Engelmann spruce, white spruce, mountain spruce, or silver spruce, is a species of spruce native to western North America, from central British Columbia and southwest Alberta, southwest to northern California and southeast to Arizona and New Mexico; there are also two isolated populations in northern Mexico.	Picea engelmannii	species
+taxon rank	Citheronia vogleri is a species of Lepidoptera in the Saturniidae family.	Citheronia vogleri	species
+taxon rank	Berberis jujuyensis is a shrub in the Berberidaceae described as a species in 1953.	Berberis jujuyensis	species
+taxon rank	The Melandryidae or false darkling beetles are a family of beetles in the large suborder Polyphaga.	Melandryidae	family
+taxon rank	Schiedea adamantis, commonly known as Diamond Head schiedea, is a species of flowering plant in the carnation family, Caryophyllaceae, that is endemic to the island of Oʻahu in Hawaii.	Schiedea adamantis	species
+taxon rank	Pinacosaurus (``plank lizard'') is a genus of medium-sized ankylosaur dinosaurs that lived from the late Santonian to the late Campanian stages of the late Cretaceous Period (roughly 80--75 million years ago), in Mongolia and China.	Pinacosaurus	genus
+taxon rank	Adelomelon beckii, common name the Beck's volute, is a species of sea snail, a marine gastropod mollusk in the family Volutidae, the volutes.	Adelomelon beckii	species
+taxon rank	Maxillaria variabilis, the Variable Maxillaria, is a species of orchid ranging from Mexico to Panama, and probably Guyana.	Maxillaria variabilis	species
+taxon rank	Mordellistena variegata (also known as tumbling flower beetle) is a species of beetle in the Mordellistena genus that is in the Mordellidae family.	Mordellistena variegata	species
+taxon rank	The Tanezumi rat (Rattus tanezumi), also known as the Asian rat or Asian house rat, is a species of rodent in the family Muridae.	Tanezumi rat	species
+taxon rank	Podranea, is a genus of one or two species of African flowering vines in the Bignoniaceae family.	Podranea	genus
+taxon rank	Ranatra linearis is a species of aquatic bug in the Nepidae family.	Ranatra linearis	species
+taxon rank	Sergestidae is a family of prawns which have lived since at least the Middle Jurassic (Bajocian/Bathonian).	Sergestidae	family
+taxon rank	Durio zibethinus is the most common tree species in the genus Durio that are known as durian and have edible fruit also known as durian.	Durio zibethinus	species
+taxon rank	Droserapites is a genus of extinct plants of somewhat uncertain droseracean affinity.	Droserapites	genus
+taxon rank	Kennalestes gobiensis is an extinct species of insectivoreous mammal resembling a shrew.	Kennalestes	species
+taxon rank	Cirsonella naticoides is a species of very small sea snail, a marine gastropod mollusk or micromollusk in the family Skeneidae.	Cirsonella naticoides	species
+taxon rank	Hoplocorypha bicornis is a species of praying mantis found in the Transvaal area of South Africa.	Hoplocorypha bicornis	species
+taxon rank	Harimius atripennis is a species of beetle in the family Cerambycidae, and the only species in the genus Harimius.	Harimius atripennis	species
+taxon rank	Glehnia littoralis (in the monotypic genus Glehnia) is a species of plant in the ``carrot family'', Apiaceae, known by several common names including beach silvertop and American silvertop in English, and bei sha shen (Chinese: 北沙參) and shan hu cai (Chinese: 珊瑚菜) in Chinese.	Glehnia	species
+taxon rank	Nebria meanyi is a species of ground beetle in the Nebriinae subfamily that can be found in Canada and in the U.S. states such as California, Oregon, and Washington.	Nebria meanyi	species
+taxon rank	Mantonella is a genus in the phylum Apicomplexa.	Mantonella	genus
+taxon rank	Glaeseria is a genus of Amoebozoa, including the species Glaeseria mira and Glaeseria testudinis.	Glaeseria	genus
+taxon rank	This is a monotypic genus, containing the single species Stephanonectria keithii.	Stephanonectria	species
+taxon rank	Markhamia lutea or Nile tulip, Nile trumpet or siala tree is a tree species of the plant family Bignoniaceae, Makharmia, native to eastern Africa and cultivated for its large bright yellow flowers.	Markhamia lutea	species
+taxon rank	Elongatopothyne basirufipennis is a species of beetle in the family Cerambycidae, and the only species in the genus Elongatopothyne.	Elongatopothyne basirufipennis	species
+taxon rank	Helicodiscus hexodon, common name the ``toothy coil snail'', is a species of small air-breathing land snail, a terrestrial pulmonate gastropod mollusk in the family Helicodiscidae.	Helicodiscus hexodon	species
+taxon rank	Aechmea fasciata (silver vase, urn plant) is a species of flowering plant in the bromeliad family, native to Brazil.	Aechmea fasciata	species
+taxon rank	Carabus robustus is a species of black-coloured beetle from Carabidae family.	Carabus robustus	species
+taxon rank	Dalbergia suaresensis is a species of legume in the Fabaceae family, and is unique because it is only found in Madagascar.	Dalbergia suaresensis	species
+taxon rank	Pelecorhynchidae is a small family of flies.	Pelecorhynchidae	family
+taxon rank	Vitis mengziensis is a species of plant in the grape family.	Vitis mengziensis	species
+taxon rank	Philodryas baroni, common name Baron's green racer, is a species of colubrid snake.	Philodryas baroni	species
+taxon rank	Pseudogynoxys is a genus of flowering plant in the groundsel tribe within the sunflower family, native to North and South America.	Pseudogynoxys	genus
+taxon rank	This is a monotypic genus, containing the single species Leucoconiella paraguayensis.	Leucoconiella	species
+taxon rank	Oncidium maculatum is a species of orchid occurring from Mexico to Central America.	Oncidium maculatum	species
+taxon rank	Nidorella is a genus of African flowering plants in the aster tribe within the sunflower family.	Nidorella	genus
+taxon rank	Lyperanthus serratus, commonly called rattle beaks, is a species of orchid which is endemic to the south-west of Western Australia.	Lyperanthus serratus	species
+taxon rank	Buddleja corrugata is a species endemic to north-western Mexico including the Baja California Sur, growing on limestone at altitudes of 200--1900 m; it was first described and named by Jones in 1933.	Buddleja corrugata	species
+taxon rank	Sapindus mukorossi is a species of tree in the Sapindaceae family.	Sapindus mukorossi	species
+taxon rank	Epilobium oreganum is an uncommon species of flowering plant in the evening primrose family known by the common names Grants Pass willowherb and Oregon fireweed (though it is not a true fireweed).	Epilobium oreganum	species
+taxon rank	Codiaeum variegatum (``garden croton'' or ``variegated croton''; syn. Croton variegatum L.) is a species of plant in the genus Codiaeum, which is a member of the family Euphorbiaceae.	Codiaeum variegatum	species
+taxon rank	Cornu aspersum, known by the common name garden snail, is a species of land snail.	Cornu aspersum	species
+taxon rank	Dracula diabola is a species of orchid that only grows in a single valley in the Departmento de Boyarca, northeast of Bogotá, Colombia.	Dracula diabola	species
+taxon rank	Oliva bulbiformis, common name the black-tinted olive, is a species of sea snail, a marine gastropod mollusk in the family Olividae, the olives.	Oliva bulbiformis	species
+taxon rank	Rhombodera butleri is a species of praying mantis of the Genus Rhombodera.	Rhombodera butleri	species
+taxon rank	Coelorinchus kishinouyei, the Mugura grenadier, is a species of rattail that occurs in the waters around Japan and Taiwan where it is found at depths of 250 to 450 metres (820 to 1,480 ft).	Coelorinchus kishinouyei	species
+taxon rank	Stanhopea tigrina is a species of plant in the Orchidaceae family endemic to Mexico	Stanhopea tigrina	species
+taxon rank	Iris ensata (Japanese iris, Japanese: hanashōbu) is a species of Iris native to Japan, China, Korea and Russia, and widely cultivated as an ornamental plant.	Iris ensata	species
+taxon rank	Parazorilispe crassicornis is a species of beetle in the family Cerambycidae, and the only species in the genus Parazorilispe.	Parazorilispe crassicornis	species
+taxon rank	Fagotia wuesti is an extinct species of freshwater snail with an operculum, an aquatic gastropod mollusk in the family Melanopsidae.	Fagotia wuesti	species
+taxon rank	The Paradoxurinae are a subfamily of the viverrids that was denominated and first described by John Edward Gray in 1864.	Paradoxurinae	subfamily
+taxon rank	Hepomidion stygicum is a species of beetle in the family Cerambycidae, and the only species in the genus Hepomidion.	Hepomidion stygicum	species
+taxon rank	Coreopsis bigelovii is a species of flowering plant in the daisy or sunflower family, Asteraceae, with the common names Bigelow coreopsis and Bigelow's tickseed.	Coreopsis bigelovii	species
+taxon rank	Neritilia cavernicola is a species of submarine cave snail, a marine gastropod mollusk in the family Neritiliidae.	Neritilia cavernicola	species
+taxon rank	Dalea carnea (commonly known as Pink Tassels) is a flowering plant species named for its small, pink-to-white flowers.	Dalea carnea	species
+taxon rank	Notonecta, or the common backswimmer, is a genus of backswimmer insects in the family Notonectidae.	Notonecta	genus
+taxon rank	Zabrus iconiensis is a species of ground beetle in the Pelor subgenus that is endemic to Turkey, where it can be found on a road between Konia and Kaisarie.	Zabrus iconiensis	species
+taxon rank	Gentianopsis holopetala is a species of flowering plant in the gentian family known by the common names Sierra fringed gentian or just ``Sierra gentian'''.	Gentianopsis holopetala	species
+taxon rank	Zotovia is a genus of plants in the grass family, native to New Zealand (including the Antipodean Islands).	Zotovia	genus
+taxon rank	Corilla is a genus of air-breathing land snails, terrestrial pulmonate gastropod mollusks in the superfamily Plectopyloidea.	Corilla	genus
+taxon rank	Liparis fabricii, commonly known as the gelatinous seasnail or gelatinous snailfish, is a benthopelagic species of snailfish from the Arctic Ocean.	Liparis fabricii	species
+taxon rank	Corsiopsis is a genus of plants first described as a genus in 1999.	Corsiopsis	genus
+taxon rank	Melampus sincaporensis is a species of small air-breathing salt marsh snail, a pulmonate gastropod mollusk in the family Ellobiidae.	Melampus sincaporensis	species
+taxon rank	Sigmodontomys alfari, also known as the short-tailed sigmodontomys, Alfaro's rice water rat, Cana rice rat, or Allen's rice rat, is a species of rodent in the genus Sigmodontomys of family Cricetidae.	Sigmodontomys alfari	species
+taxon rank	Pearsonomys annectens, also known as Pearson's long-clawed akodont or Pearson's long-clawed mouse, is a species of rodent in the tribe Abrotrichini of family Cricetidae.	Pearsonomys	species
+taxon rank	Plotosus lineatus, common name Striped eel catfish, is a species of eeltail catfishes belonging to the family Plotosidae.	Plotosus lineatus	species
+taxon rank	Cynoglossus broadhursti, commonly known as the Southern tonguesole is a species of tonguefish.	Cynoglossus broadhursti	species
+taxon rank	The wasp spider, Argiope bruennichi, is a species of orb-web spider distributed throughout central Europe, northern Europe, north Africa, parts of Asia and in the Azores archipelago.	Argiope bruennichi	species
+taxon rank	Emblemaria pandionis, the Sailfin blenny, is a species of chaenopsid blenny from the Western Atlantic Ocean.	Emblemaria pandionis	species
+taxon rank	Auriscalpium umbella is a species of fungus in the family Auriscalpiaceae of the Russulales order.	Auriscalpium umbella	species
+taxon rank	Avisaurus (meaning ``bird lizard'') is a genus of enantiornithine bird from the Late Cretaceous of North America.	Avisaurus	genus
+taxon rank	Acanthobothrium dasi is a species of parasitic onchobothriid tapeworm first found in the whiptail stingray, Dasyatis brevis, in the Gulf of California.	Acanthobothrium dasi	species
+taxon rank	Terebratulidae is a family of brachiopods with a fossil record dating back to the Late Devonian.	Terebratulidae	family
+taxon rank	The Indotyphlidae are a family of common caecilians found in Africa, Seychelles and India.	Indotyphlidae	family
+taxon rank	Westoniella is a genus of Costa Rican shrubs in the aster tribe within the daisy family.	Westoniella	genus
+taxon rank	Lystromycter is an extinct genus of worm lizard from the Early Miocene of Africa.	Lystromycter	genus
+taxon rank	Geranium endressii, commonly called Endres cranesbill or French crane's-bill, is a species of hardy flowering herbaceous perennial plant in the genus Geranium, Geraniaceae family.	Geranium endressii	species
+taxon rank	Mussidia nigrolineella is a species of snout moth in the genus Mussidia.	Mussidia nigrolineella	species
+taxon rank	Helochares obscurus is a species of Hydrophilidae in the Hydrophilinae subfamily that can be found in Austria, Baltic states, Croatia, France, Germany, Great Britain including the Isle of Man, Greece, Hungary, Italy, Poland, Scandinavia, Switzerland, and the Netherlands.	Helochares obscurus	species
+taxon rank	Protoceratops (/ˌproʊtoʊˈsɛrətɒps/; from Greek proto-/πρωτο- ``first'', cerat-/κερατ- ``horn'' and -ops/-ωψ ``face'', meaning ``First Horned Face'') is a genus of sheep-sized (1.8 m long) herbivorous ceratopsian dinosaur, from the Upper Cretaceous Period (Campanian stage) of what is now Mongolia.	Protoceratops	genus
+taxon rank	Spiranthes aestivalis, commonly called the summer lady's-tresses, is a species of orchid found in Europe, Turkey and Russia, and also in North Africa.	Spiranthes aestivalis	species
+taxon rank	Sjöstedt's barred owlet (Glaucidium sjostedti), also known as Sjöstedt's owlet, is a species of owl in the family Strigidae.	Sjöstedt's barred owlet	species
+taxon rank	The Spatangidae are a family of heart urchins.	Spatangidae	family
+taxon rank	Blasicrura pallidula, common name the little pallid cowry, is a species of sea snail, a cowry, a marine gastropod mollusk in the family Cypraeidae, the cowries.	Blasicrura pallidula	species
+taxon rank	Ehrlichia chaffeensis is an obligate intracellular gram-negative species of rickettsiales bacteria.	Ehrlichia chaffeensis	species
+taxon rank	Arcella is a genus of testate amoebae or Arcellinida, usually found in freshwaters and mosses, and rarely in soils.	Arcella	genus
+taxon rank	Some of the most significant species include Betaphycus gelatinae, Eucheuma denticulatum, and several species of the genus Kappaphycus including K. alvarezii.	Eucheuma	genus
+taxon rank	Acraea mirabilis, with its sister-species Acraea miranda, is a member of the Acraea natalica species group see Acraea.	Acraea mirabilis	species
+taxon rank	Suillus luteus is a bolete fungus, and the type species of the genus Suillus.	Suillus luteus	species
+taxon rank	Melica spartinoides, is a species of grass in the Poaceae family that is endemic to Santa Catarina, Brazil.	Melica spartinoides	species
+taxon rank	Erica lusitanica is a species of flowering plant in the family Ericaceae, known by the common names Portuguese heath and Spanish heath.	Erica lusitanica	species
+taxon rank	Hadrothemis versuta is a species of dragonfly in the family Libellulidae.	Hadrothemis versuta	species
+taxon rank	Anisolabis mauiensis is a species of earwig in the genus Anisolabis, the family Anisolabididae, the suborder Forficulina, and the order Dermaptera.	Anisolabis mauiensis	species
+taxon rank	Glyptostoma gabrielense is a species of air-breathing land snails, terrestrial pulmonate gastropod mollusks in the family Megomphicidae.	Glyptostoma gabrielense	species
+taxon rank	Thyada barbicornis is a species of beetle in the family Cerambycidae, and the only species in the genus Thyada.	Thyada barbicornis	species
+taxon rank	Howea is a genus of two palms, H. belmoreana and H. forsteriana, both endemic to Lord Howe Island, Australia.	Howea	genus
+taxon rank	Eptatretus is a large genus of hagfish.	Eptatretus	genus
+taxon rank	Platanthera holmboei is a species of orchid native to the eastern Mediterranean (northern Israel, Syria, Lebanon, Turkey, the Greek Islands, and Cyprus).	Platanthera holmboei	species
+taxon rank	Kaloula baleata, the flower pot toad or sometimes the smooth-fingered narrow-mouthed frog is a species of narrow-mouthed toad.	Kaloula baleata	species
+taxon rank	Chiltoniidae is a family of amphipods, which contains the following genera:	Chiltoniidae	family
+taxon rank	Pseudoparis is a genus of perennial monocotyledonous flowering plants in the dayflower family, first descried in 1936.	Pseudoparis	genus
+taxon rank	Lomatium stebbinsii, known by the common name Stebbins' desertparsley, is a rare species of flowering plant in the carrot family.	Lomatium stebbinsii	species
+taxon rank	Buxolestes minor is an extinct species of semi-aquatic, placental mammals belonging to the family Pantolestidae, part in the first placental evolutionary radiation during the Middle Eocene (50-40 mya).	Buxolestes minor	species
+taxon rank	Puccinellia pumila is a species of grass known by the common names dwarf akaligrass and smooth alkali grass.	Puccinellia pumila	species
+taxon rank	Polygonum nuttallii is a North American species of flowering plant in the buckwheat family known by the common name Nuttall's knotweed.	Polygonum nuttallii	species
+taxon rank	Elaeis (from Greek, meaning ``oil'') is a genus of palms containing two species, called oil palms.	Elaeis	genus
+taxon rank	Allium ericetorum is a species of onions widespread across much of southern and central Europe, from Portugal to Ukraine.	Allium ericetorum	species
+taxon rank	The Toxocampina are a noctuid (``owlet'') moth subtribe of the Catocalinae subfamily.	Toxocampina	subtribe
+taxon rank	Pseudospongosorites suberitoides is a species of demosponge belonging to the family Suberitidae.	Pseudospongosorites	species
+taxon rank	Ammannia verticillata is a species in the family Lythraceae.	Ammannia verticillata	species
+taxon rank	Abarema glauca (glaucous abarema) is a tree species in the legume family (Fabaceae).	Abarema glauca	species
+taxon rank	Hedera colchica is a species of ivy (genus Hedera) which is native to Near and Middle East.	Hedera colchica	species
+taxon rank	It was described by Prantl and Pribyl in 1947, and the type species is Eccoptochiloides tumescens, which was originally described under the genus Cheirurus by Barrande in 1852.	Eccoptochiloides	genus
+taxon rank	It contains only one species, Gourbia staphylinella, which is found in Tunisia.	Gourbia	species
+taxon rank	The genus Liogorytes comprises a group of large, solitary, ground-dwelling, predatory South American wasps which hunt cicadas as prey.	Liogorytes	genus
+taxon rank	Centropomus parallelus is a species of fish in the family Centropomidae, the snooks and robalos.	Centropomus parallelus	species
+taxon rank	Knodus is a genus of characins from South America	Knodus	genus
+taxon rank	The Zingiberales are an order of flowering plants.	Zingiberales	order
+taxon rank	Berberis taronensis is a shrub in the Berberidaceae described as a species in 1941.	Berberis taronensis	species
+taxon rank	Conus taslei, common name Tasle's cone, is a species of sea snail, a marine gastropod mollusk in the family Conidae, the cone snails and their allies.	Conus taslei	species
+taxon rank	Chiasmocleis ventrimaculata, commonly known as the dotted humming frog, is a species of frog in the Microhylidae family.	Chiasmocleis ventrimaculata	species
+taxon rank	Salvelinus umbla, also known as lake char, is a species of char found in certain lakes of the region of the Alps in Europe.	Salvelinus umbla	species
+taxon rank	Centromadia perennis is a species of Mexican plants in the tarweed tribe within the sunflower family.	Centromadia perennis	species
+taxon rank	Pleurostylia opposita is a species of shrub in the bittersweet family.	Pleurostylia opposita	species
+taxon rank	Rhadinomyia conjuncta is a species of ulidiid or picture-winged fly in the genus Rhadinomyia of the family Ulidiidae.	Rhadinomyia conjuncta	species
+taxon rank	Astropyga radiata, the red urchin, fire urchin, false fire urchin or blue-spotted urchin, is a species of sea urchin in the family Diadematidae.	Astropyga radiata	species
+taxon rank	It contains a single species, Ardeadactylus longicollum, which was originally thought to be a species of Pterodactylus.	Ardeadactylus	species
+taxon rank	Zanthoxylum hawaiiense, commonly known Aʻe or Hawaiʻi pricklyash, is a species of flowering plant in the citrus family, Rutaceae, that is endemic to Hawaii.	Zanthoxylum hawaiiense	species
+taxon rank	Haemulon scudderii, commonly called grey grunt or mojarra grunt, is a species of marine fish in the family Haemulidae.	Haemulon scudderii	species
+taxon rank	Fenimorea janetae, common name Janet's turrid, is a species of sea snail, a marine gastropod mollusk in the family Drilliidae.	Fenimorea janetae	species
+taxon rank	Splachnales is the botanical name of an order of Bryophyta or leafy mosses.	Splachnales	order
+taxon rank	Chiromantis hansenae (common names: Hansen's Asian treefrog, Hansen's bushfrog) is a species of frog in the Rhacophoridae family.	Chiromantis hansenae	species
+taxon rank	Ursus deningeri (Deninger's bear) is an extinct species of mammal of the family Ursidae (bears), endemic to Eurasia during the Pleistocene for approximately 1.7 million years, from ~1.8 Mya to 100,000 years ago.	Ursus deningeri	species
+taxon rank	Atrina squamifera, one of several species known as the horse mussel, is a species of bivalve pen shell.	Atrina squamifera	species
+taxon rank	Ptychobarbus is a genus of cyprinid fish that is found in Asia.	Ptychobarbus	genus
+taxon rank	Rhinella humboldti (common name: Rivero's toad) is a species of toad in the family Bufonidae.	Rhinella humboldti	species
+taxon rank	Spintheridae is a family of marine polychaete worms with a single genus, Spinther , containing these species:	Spinther	family

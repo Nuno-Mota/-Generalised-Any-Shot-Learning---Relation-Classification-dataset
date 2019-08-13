@@ -1,0 +1,25 @@
+author
+award received
+constellation
+continent
+country
+creator
+date of birth
+developer
+inception
+languages spoken or written
+licensed to broadcast to
+manufacturer
+mother
+narrative location
+parent taxon
+place of birth
+position held
+position played on team / speciality
+publisher
+record label
+screenwriter
+sex or gender
+sport
+spouse
+taxon rank

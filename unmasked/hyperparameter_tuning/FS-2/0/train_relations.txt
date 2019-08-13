@@ -1,0 +1,25 @@
+author
+cast member
+child
+conflict
+continent
+country
+country of citizenship
+date of birth
+educated at
+founder
+headquarters location
+inception
+instrument
+languages spoken or written
+member of political party
+member of sports team
+military branch
+mouth of the watercourse
+named after
+narrative location
+occupation
+participant of
+record label
+series
+sex or gender

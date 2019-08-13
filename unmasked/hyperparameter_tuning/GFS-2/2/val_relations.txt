@@ -1,0 +1,10 @@
+child
+continent
+educated at
+inception
+located in the administrative territorial entity
+member of political party
+military branch
+parent taxon
+place of death
+position played on team / speciality

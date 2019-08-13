@@ -1,0 +1,25 @@
+constellation
+continent
+creator
+date of death
+director
+founder
+inception
+languages spoken or written
+member of political party
+member of sports team
+mother
+named after
+narrative location
+native language
+original network
+parent taxon
+performer
+place of birth
+place of death
+position held
+publication date
+series
+sport
+spouse
+taxon rank

@@ -1,0 +1,10 @@
+continent
+creator
+father
+languages spoken or written
+member of political party
+member of sports team
+military branch
+publication date
+sport
+taxon rank

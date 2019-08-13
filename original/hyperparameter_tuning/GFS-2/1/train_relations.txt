@@ -1,0 +1,25 @@
+author
+continent
+country
+country of origin
+director
+dissolved or abolished
+employer
+father
+founder
+headquarters location
+inception
+mouth of the watercourse
+narrative location
+native language
+original network
+parent taxon
+participant of
+place of death
+position played on team / speciality
+present in work
+publication date
+screenwriter
+series
+sex or gender
+sport

@@ -1,0 +1,500 @@
+author	Das falsche Buch is a 1983 German novel by Paul Wühr.	Das falsche Buch	Paul Wühr
+author	The Polished Hoe is a novel by (Barbadian) writer Austin Clarke, published by Thomas Allen Publishers in 2002.	The Polished Hoe	Austin Clarke
+author	The Age of Intelligent Machines is a non-fiction book about artificial intelligence by inventor and futurist Ray Kurzweil.	The Age of Intelligent Machines	Ray Kurzweil
+author	The Book of Khalid (1911) is a novel by Arab-American writer Ameen Rihani.	The Book of Khalid	Ameen Rihani
+author	The Maids (French: Les Bonnes) is a play by the French dramatist Jean Genet.	The Maids	Jean Genet
+author	Lady Athlyne is a romance novel by Bram Stoker, written in 1908.	Lady Athlyne	Bram Stoker
+author	The Deptford Mice Almanack is a book to accompany the Deptford Mice and Histories Trilogies by Robin Jarvis.	The Deptford Mice Almanack	Robin Jarvis
+author	Music for Chameleons (1980) is a collection of short fiction and non-fiction by the American author Truman Capote.	Music for Chameleons	Truman Capote
+author	Der tote Preuße (``the dead Prussian'') is an unfinished novel by the German writer Ernst von Salomon, published posthumously in 1973.	Der tote Preuße	Ernst von Salomon
+author	Satanstoe is a 1845 novel by the early American novelist James Fenimore Cooper.	Satanstoe	James Fenimore Cooper
+author	Gooney Bird Greene (2002) is the first of a series of children's novels by Lois Lowry concerning the storytelling abilities of a second-grade girl.	Gooney Bird Greene	Lois Lowry
+author	Once Upon a Time When We Were Colored is a memoir by Clifton Taulbert, first published in 1989.	Once Upon a Time When We Were Colored	Clifton Taulbert
+author	The Decline and Fall of the Roman Church is a 1981 non-fiction book by Catholic priest and author Malachi Martin.	The Decline and Fall of the Roman Church	Malachi Martin
+author	Early Morning Dream is a rare book by Patti Smith, published sine nomine in 1972.	Early Morning Dream	Patti Smith
+author	Genesis of a Music is a book first published in 1949 by microtonal composer Harry Partch (1901--1974).	Genesis of a Music	Harry Partch
+author	Children of the Jacaranda Tree is the internationally acclaimed debut novel of Iranian writer Sahar Delijani.	Children of the Jacaranda Tree	Sahar Delijani
+author	The Silver Kiss by Annette Curtis Klause published in 1992, available in hardcover and Mass Market Paperback.	The Silver Kiss	Annette Curtis Klause
+award received	Louis-Achille Baraguey d'Hilliers, 1st Comte Baraguey d'Hilliers (6 September 1795 -- 6 June 1878) was a Marshal of France and politician.	Achille Baraguey d'Hilliers	Marshal of France
+award received	John A. Kirkwood (October 29, 1851 -- May 11, 1930) was a United States Army soldier and a recipient of the United States military's highest decoration, the Medal of Honor, for his actions in the Indian Wars of the western United States.	John A. Kirkwood	Medal of Honor
+award received	Jean Fayard (1902, Paris -- 1978) was a French writer and journalist, winner of the Prix Goncourt in 1931.	Jean Fayard	Prix Goncourt
+award received	Šarūnas Šulskis (born 26 November 1972 in Kėdainiai) is a Lithuanian chess Grandmaster (1996).	Šarūnas Šulskis	Grandmaster
+award received	Ashot Anastasian (Armenian: Աշոտ Անաստասյան; born 16 July 1964) is an Armenian chess Grandmaster.	Ashot Anastasian	Grandmaster
+cast member	Rasathanthram (Malayalam : രസതന്ത്രം, English : Chemistry) is a 2006 Malayalam drama film written and directed by Sathyan Anthikkad, starring Mohanlal and Meera Jasmine in lead roles.	Rasathanthram	Mohanlal
+cast member	Aa Raathri is a 1983 Malayalam-language Indian feature film directed Joshiy, starring Mammootty, Poornima Jayaram, M. G. Soman and Lalu Alex.	Aa Raathri	Mammootty
+cast member	General Custer at the Little Big Horn is a 1926 silent film historical Western and drama, directed by Harry L. Fraser and starring Roy Stewart.	General Custer at the Little Big Horn	Roy Stewart
+cast member	The Green Terror is a 1919 British silent crime film directed by W.P. Kellino and starring Aurelio Sidney, Heather Thatcher and W.T. Ellwanger.	The Green Terror	Heather Thatcher
+cast member	BumRush is an independent film that was shot in Montreal in French and English and features Emmanuel Auger in the lead role of L'Kid and Bad News Brown in the role of gang leader Loosecanon.	BumRush	Bad News Brown
+conflict	Athanasios Diakos (Greek: Αθανάσιος Διάκος; 1788 -- 24 April 1821) was a Greek military commander during the Greek War of Independence, considered a venerable national hero in Greece.	Athanasios Diakos	Greek War of Independence
+conflict	Edward Burd Grubb, Jr. (known as E. Burd Grubb) (November 13, 1841 -- July 7, 1913) was a Union Army regimental commander in the American Civil War who was later appointed by President Benjamin Harrison as United States Ambassador to Spain.	Edward Burd Grubb, Jr.	American Civil War
+conflict	Dương Văn Nhựt (Mỹ Tho, born c.1920) was a brigadier general in the North Vietnamese army during the Vietnam War.	Dương Văn Nhựt	Vietnam War
+conflict	The 1st Free French Division (French: 1re Division Française Libre, 1re DFL) was one of the principal units of the Free French Forces (FFF) during World War II, and the first Free French unit of divisional size.	1st Free French Division	World War II
+conflict	Ioannis Diakos (Greek: Ιωάννης Διάκος, 1805-1887) was a Greek revolutionary leader during the Greek War of Independence.	Ioannis Diakos	Greek War of Independence
+conflict	Pierre Dominique Garnier, born 19 December 1756 -- died 11 May 1827, was a French general during the French Revolutionary Wars and Napoleonic Wars.	Pierre Dominique Garnier	Napoleonic Wars
+conflict	During the Vietnam War, Trần Hanh was a MIG-17 pilot and officer of the 921st Regiment, he shot down a F-105D in April 1965.	Trần Hanh	Vietnam War
+conflict	George F. Pond (October 5, 1844 -- June 21, 1911) served in the Union Army during the American Civil War.	George F. Pond	American Civil War
+conflict	The Richmond rifle was a rifled musket produced by the Richmond Armory in Richmond, Virginia, for use by the Confederate States Army during the American Civil War.	Richmond rifle	American Civil War
+country	Cham Murd (Persian: چم مورد‎, also Romanized as Cham Mūrd) is a village in Doshman Ziari Rural District, in the Central District of Kohgiluyeh County, Kohgiluyeh and Boyer-Ahmad Province, Iran.	Cham Murd	Iran
+country	Vélez-Málaga was founded by the Moors after their conquest of Spain.	Vélez-Málaga	Spain
+country	The Tumanskaya River and its tributaries belong to the Chukotka Autonomous Okrug administrative region of Russia.	Tumanskaya River	Russia
+country	Lúky (Hungarian: Alsórétfalu) is a village and municipality in Púchov District in the Trenčín Region of north-western Slovakia.	Lúky	Slovakia
+country	Szydłów (ˈʂɨdwuf) is a village in Staszów County, Świętokrzyskie Voivodeship, Lesser Poland.	Szydłów	Poland
+country	Xınalı (also, Xınallı and Khynaly) is a village and municipality in the Goranboy Rayon of Azerbaijan.	Xınalı	Azerbaijan
+country	The Fellhorn (2,038 metres (6,686 ft)) is a mountain in the Allgäu Alps near Oberstdorf, Germany, on the border with Austria.	Fellhorn	Germany	Austria
+country	Annestown (Irish: Bun Abha, meaning ``River's End'') is a coastal village in County Waterford, Ireland on the Copper Coast between Dungarvan and Tramore made up of around 25 cottages and houses.	Annestown	Ireland
+country	Hospital NEO is a private hospital situated in Turku and Salo, Finland that specializes in orthopedic day surgery and sport medicine.	Hospital NEO	Finland
+country	Wadi Rum (Arabic: وادي رم‎) also known as The Valley of the Moon (Arabic: وادي القمر‎) is a valley cut into the sandstone and granite rock in southern Jordan 60 km (37 mi) to the east of Aqaba; it is the largest wadi in Jordan.	Wadi Rum	Jordan
+country	Hessenstein Castle (German: Burg Hessenstein) is a castle near Ederbringhausen in Vöhl in Landkreis Waldeck-Frankenberg in Hesse, Germany.	Hessenstein Castle	Germany
+country	Qeqertarsuatsiaq Island (old spelling: Qeqertarssuatsiaq, Danish: Hareøen) is an isolated and uninhabited island in the Qaasuitsup municipality, in Baffin Bay off the western shore of Greenland.	Qeqertarsuatsiaq Island	Greenland
+country	Borbjerg is a small village in the western Jutland, Denmark, with a population of 390 (1.January 2014).	Borbjerg	Denmark
+country	The Ksamil Islands (Albanian: Ishuj të Ksamilit or Ishuj të Tetranisit) are four small islands located in southern Albania.	Ksamil Islands	Albania
+country	The Cockle Creek Smelter was one of the Hunter regions first major industrial site and its operation contributed to the economic growth of New South Wales and Australia.	Cockle Creek Smelter	Australia
+country	Lanco is a city and commune in southern Chile administered by the Municipality of Lanco.	Lanco	Chile
+country	Paski Mahalleh (Persian: پاسكي محله‎, also Romanized as Pāskī Maḩalleh; also known as Kateh Posht-e Soflá and Koteh Posht-e Pāsagī Maḩalleh) is a village in Bala Khiyaban-e Litkuh Rural District, in the Central District of Amol County, Mazandaran Province, Iran.	Paski Mahalleh	Iran
+country	Monte di Tremezzo is a mountain of the Lugano Prealps in Lombardy, Italy.	Monte di Tremezzo	Italy
+country	Qoltuq Rural District (Persian: دهستان قلتوق‎) is a rural district (dehestan) in the Central District of Zanjan County, Zanjan Province, Iran.	Qoltuq Rural District	Iran
+country	Comilla Airport (IATA: CLA, ICAO: VGCM) is a public use airport located near Comilla, Bangladesh.	Comilla Airport	Bangladesh
+country	Zatopolice (zatɔpɔˈlit͡sɛ) is a village in the administrative district of Gmina Zakrzew, within Radom County, Masovian Voivodeship, in east-central Poland.	Zatopolice	Poland
+country	Michelstadt in the Odenwald is a town in the Odenwaldkreis (district) in southern Hesse, Germany between Darmstadt and Heidelberg.	Michelstadt	Germany
+country	Aznabyurt (also, Aznabirt and Aznaburt) is a village in the Nakhchivan Autonomous Republic of Azerbaijan.	Aznabyurt	Azerbaijan
+country	Fröndenberg (German pronunciation: (ˈfʁœndənbɛʁk)) is a town in the district of Unna, in North Rhine-Westphalia, Germany.	Fröndenberg	Germany
+country	La Yaya Dam is an embankment dam on the Guantánamo River near the town of La Yaya in the municipality of Niceto Pérez in Guantánamo Province, Cuba.	La Yaya Dam	Cuba
+country	The Pyramid of Senusret I is an Egyptian Pyramid built to be the burial place of the Pharaoh Senusret I. The pyramid was built during the twelfth dynasty of Egypt at el-Lisht, near the pyramid of his father, Amenemhat I. Its ancient name was Senusret Petei Tawi (Senusret beholds the two lands).	Pyramid of Senusret I	Egypt
+country	Ounkazi is a town on the island of Grande Comore in the Comoros.	Ounkazi	Comoros
+country	Górki-Baćki (ˈɡurki ˈbat͡ɕki) is a village in the administrative district of Gmina Winnica, within Pułtusk County, Masovian Voivodeship, in east-central Poland.	Górki-Baćki	Poland
+country	Monzón is a small city in the autonomous community of Aragon, Spain.	Monzón	Spain
+country	The Taseko Lakes are a pair of lakes, Upper Taseko Lake and Lower Taseko Lake, which are expansions of the upper Taseko River in the southern Chilcotin District of the Central Interior of British Columbia, Canada.	Taseko Lakes	Canada
+country	Somapura Mahavihara (Bengali: সোমপুর মহাবিহার Shompur Môhabihar) in Paharpur, Badalgachhi Upazila, Naogaon District, Bangladesh is among the best known Buddhist viharas in the Indian Subcontinent and is one of the most important archeological sites in the country.	Somapura Mahavihara	Bangladesh
+country	Ruszczyzna (ruʂˈt͡ʂɨzna) is a village in the administrative district of Gmina Komarów-Osada, within Zamość County, Lublin Voivodeship, in eastern Poland.	Ruszczyzna	Poland
+country	The Kopuaranga River is a river of the Wairarapa, in New Zealand's North Island.	Kopuaranga River	New Zealand
+country	Akshiy (Kazakh: Ақши) is a village in the Almaty Region of south-eastern Kazakhstan.	Akshiy	Kazakhstan
+country	Cape Grenville (11°58′S 143°15′E), is a small, east-facing promontory along the Queensland, Australia coast of Cape York Peninsula.	Cape Grenville	Australia
+country	The Archdiocese of Uppsala is one of the thirteen dioceses of the Church of Sweden and the only one having the status of an archdiocese.	Archdiocese of Uppsala	Sweden
+country	Odunpazarı (literally ``wood market'' in Turkish), is a metropolitan district of Eskişehir Province in the Central Anatolia region of Turkey.	Odunpazarı	Turkey
+country	Kharp (Russian: Харп) is an urban locality (an urban-type settlement) in Priuralsky District of Yamalo-Nenets Autonomous Okrug, Russia, located on the bank of the Sob River.	Kharp	Russia
+country	Imljani (Serbian Cyrillic: Имљани), is a village in Bosnia and Herzegovina, Entity of Republika Srpska, Skender Vakuf Municipality.	Imljani	Bosnia and Herzegovina
+country of origin	The E. J. Whitten Legends Game is an annual charity Australian rules football All-star game, where retired star players are reunited, along with selected non-footballing celebrities, in a State of Origin interstate game, between Victoria and the All Stars (representing the rest of Australia).	E. J. Whitten Legends Game	Australia
+country of origin	Fit-Boy is a 2011 United Kingdom no-budget feature film written and directed by Glen Pearson.	Fit-Boy	United Kingdom
+country of origin	Omroep Brabant is the Netherlands Public Broadcasting regional television and radio broadcaster in the North Brabant Province in the Netherlands.	Omroep Brabant	Netherlands
+country of origin	As well as spawning various remakes and sequels, The Quatermass Experiment inspired much of the television science fiction that succeeded it, particularly in the United Kingdom, where it influenced successful series such as Doctor Who and Sapphire and Steel.	The Quatermass Experiment	United Kingdom
+country of origin	Bullet for Hire is a 1991 Hong Kong action film written and directed by Yuen Chun-man and starring Jacky Cheung, Simon Yam, Dick Wei, Lo Lieh and Sheila Chan.	Bullet for Hire	Hong Kong
+date of birth	Chinmaya M. Rao (born 22 May 1982 in Honagodu, Sagar taluk, Shimoga district) is an Indian singer, music director, poet and author.	Chinmaya M. Rao	22 May 1982
+date of birth	Georgina Haig (born 3 August 1985) is an Australian film and television actress, known for her roles in the Australian children's television series The Elephant Princess, as well as the American television series Fringe and Once Upon a Time.	Georgina Haig	3 August 1985
+date of birth	Unto Hautalahti (born 11 March 1936) is a Finnish former racing cyclist.	Unto Hautalahti	11 March 1936
+date of birth	Cecil Campbell (born 20 December 1974), better known as Terror Fabulous is a Jamaican dancehall deejay, who had success in the 1990s.	Terror Fabulous	20 December 1974
+date of birth	Jean-Baptiste Kim (born 26 January 1966) is a political defector-refugee from South Korea in Europe.	Jean-Baptiste Kim	1966
+date of birth	Nicanor Alejandro Serrano Aguilar (born 13 January 1933 in Cuenca) is an Ecuadorian politician and sports leader.	Alejandro Serrano	13 January 1933
+date of birth	Akaki Chkhenkeli (Georgian: აკაკი ჩხენკელი) (1874-1959) was a Georgian Marxist politician and publicist who acted as one of the leaders of the Menshevik movement in Russia and Georgia.	Akaki Chkhenkeli	1874
+date of birth	Ben Gollings (born 13 May 1980, Launceston, Cornwall, England) is a rugby union footballer who is currently unattached, having formerly played for England Sevens, and most recently Rugby Lions.	Ben Gollings	13 May 1980
+date of birth	Sylvia Wene (born 1930), also known as Sylvia Wene Martin, is an American former bowler.	Sylvia Wene	1930
+date of birth	Zang Jinsheng (Chinese: 臧金生; pinyin: Zāng Jīnshēng; born 11 May 1959) is a Chinese actor.	Zang Jinsheng	11 May 1959
+date of birth	Maurice Rousseau (born 28 September 1906) was a French artistic gymnast.	Maurice Rousseau	28 September 1906
+date of birth	Carl Adam Jörgen Düberg, born 9 July 1956 in Limhamn, Malmö, is a Swedish actor.	Jörgen Düberg	9 July 1956
+date of birth	Rufus Hound (born Robert James Blair Simpson; on 6 March 1979) is an English comedian, actor and presenter.	Rufus Hound	6 March 1979
+date of birth	George E. Cutler (1864 -- November 16, 1929) owned a thriving wholesale produce firm at 321 Greenwich Street in Manhattan, in the 1920s.	George E. Cutler	1864
+date of birth	Kyle Lightbourne (born 29 September 1968) is a former Bermudian footballer who played for Scarborough, Walsall, Coventry City, Fulham, Stoke City, Swindon Town, Cardiff City, Macclesfield Town and Hull City.	Kyle Lightbourne	29 September 1968
+date of birth	Carlos Chaile (born 14 January 1975 in Bella Vista in Tucumán Province) is an Argentine football player, currently playing for Austrian team.	Carlos Chaile	14 January 1975
+date of birth	Nikola Nešković (1740--1789) was the most famous Serbian religious painter of the 18th century.	Nikola Nešković	1740
+date of birth	Francis Pilkington (ca. 1565 -- 1638) was an English composer, lutenist and singer.	Francis Pilkington	1565
+date of birth	Rosemary Ashe (born 28 March 1953) is an English stage actress and classically trained opera singer.	Rosemary Ashe	28 March 1953
+date of birth	Greg Miskiw (born 1949 or 1950) is a former news editor of the defunct British tabloid newspaper the News of the World.	Greg Miskiw	1949
+date of birth	Makhdoom Bilawal Bin Jam Hassan Samo (Sindhi: مخدوم بلاول بن جام حسن سمو‎), '(Born 1451 AD/ 856 AH Sindh) was a sufi saint, philosopher and poet from Sindh, Pakistan.He is also referred as Makhdum Bilal or Bilali Makhdum	Makhdoom Bilawal	1451
+date of death	Pilliarchetty Bhakthavatsalam Naidu Rajeevalochana (15 August 1935 -- 5 March 2013), better known as Rajasulochana was a South Indian classical dancer and film actress.	Rajasulochana	5 March 2013
+date of death	David Pulsifer (22 September 1802, in Ipswich, Massachusetts -- 9 August 1894, in Augusta, Maine), was a historian and a preserver of old records.	David Pulsifer	9 August 1894
+date of death	John Wren-Lewis (1923--2006) was a British-born scientist who taught at universities in Great Britain and the United States of America.	John Wren-Lewis	2006
+date of death	Jan Jakub Kotík (22 October 1972 in Buffalo, New York, United States -- 13 December 2007 in Prague, Czech Republic) was a Czech artist and rock drummer.	Jan Jakub Kotík	13 December 2007
+date of death	Yong Kai (died 225) was the prefect of Jianning Commandery in the state of Shu Han during the Three Kingdoms period of Chinese history.	Yong Kai	225
+date of death	Rev. John Swete (born John Tripe) (July 1752 -- 25 October 1821) of Oxton House, Kenton in Devon, was a clergyman, artist, antiquary, historian and topographer and author of the Picturesque Sketches of Devon consisting of twenty illustrated journals of Devonshire scenery.	John Swete	25 October 1821
+date of death	Luís Lopes de Sequeira (died 4 September 1681) was a military commander in Portuguese Angola.	Luís Lopes de Sequeira	4 September 1681
+date of death	Raja Ali Haji bin Raja Haji Ahmad (1808--1873) was a 19th-century Buginese--	Raja Ali Haji	1873
+date of death	Hernando de Aragón y de Gurrea (25 July 1498 -- 29 January 1575), Archbishop of Zaragoza and Lieutenant General of Aragon, was an Aragonese humanist and historian.	Hernando de Aragón	29 January 1575
+date of death	Frederic Hill (29 June 1803 -- 1896) was a prison inspector in Scotland and England, and a social and economic reformer.	Frederic Hill	1896
+date of death	Sansar Chand (c.1765--1823) was a famous ruler of the state of Kangra in what is now the Indian state of Himachal Pradesh.	Sansar Chand	1823
+date of death	Gino Marinuzzi (24 March 1882 -- 17 August 1945) was an Italian conductor and composer, particularly associated with the operas of Wagner and the Italian repertory.	Gino Marinuzzi	17 August 1945
+date of death	William Shakespeare Burton (1 June 1824 -- 26 January 1916) was an English genre and historical painter of the Victorian era.	William Shakespeare Burton	26 January 1916
+date of death	Johan van Banchem (1615 - 4 October 1694 (buried)) was one of the leaders of the lynching of Johan de Witt and Cornelis de Witt on August 20, 1672.	Johan van Banchem	1694
+date of death	John Hessing (c. 1740 -- July 21, 1803) was a military officer who served in the armies of the Maratha Empire in the late 18th and early 19th centuries.	John Hessing	1803
+date of death	Dewey Beard or Wasú Máza (``Iron Hail'', 1858--1955) was a Minneconjou Lakota who fought in the Battle of Little Bighorn as a teenager.	Dewey Beard	1955
+date of death	Keith Schaefer (20 December 1928 -- 21 August 1976) was an Australian rules footballer who played with South Melbourne in the Victorian Football League (VFL).	Keith Schaefer	1976
+date of death	Leon B. Poullada (13 April 1913 -- 17 July 1987) was an American diplomat, the son of a Mexican immigrant doctor, and served as an Ambassador to Togo under the Kennedy Administration.	Leon B. Poullada	17 July 1987
+date of death	Princess Nina Georgievna of Russia, (Russian: Нина Георгиевна) (20 June 1901 -- 27 February 1974), was the eldest daughter of Grand Duke George Mikhailovich and Grand Duchess Maria Georgievna of Russia.	Princess Nina Georgievna of Russia	27 February 1974
+date of death	Charlotte Barton (1797--1867) was the author of Australia's earliest known children's book.	Charlotte Barton	1867
+date of death	Zhao Sun (趙損) (d. 941) was an official of the Chinese Five Dynasties and Ten Kingdoms Period state Southern Han, serving for about a year as a chancellor.	Zhao Sun	941
+date of death	Alfred Plé (9 January 1888 -- 4 March 1980) was a French rower who had his best results in the double sculls, together with Gaston Giran.	Alfred Plé	4 March 1980
+date of death	However, in 644, Hormuzan was killed by Umar's son 'Ubaid-Allah, after an involvement in a plot which killed Umar.	Hormuzan	644
+date of death	Padmanath Bhattacharya Vidya Vinod (1868-1938) was noted twentieth-century historian.	Padmanath Bhattacharya Vidya Vinod	1938
+date of death	Wang Xingyu (王行瑜) (d. 895) was a warlord late in the Chinese dynasty Tang Dynasty who controlled Jingnan Circuit (靜難, headquartered in modern Xianyang, Shaanxi) from 887 to his death in 895.	Wang Xingyu	895
+date of death	Hermano Marco Antonio Serna Díaz (11 July 1936 - 31 December 1991) was a herpetologist, ornithologist, and naturalist from Colombia.	Marco Antonio Serna Díaz	31 December 1991
+date of death	Felip de Malla (Catalan pronunciation: (fəˈɫib də ˈmaʎə)) (1370 -- 12 July 1431) was a Catalan prelate, theologian, scholastic, orator, classical scholar, and poet.	Felip de Malla	12 July 1431
+date of death	Giuseppe Cavallo (died Naples, 1684) was an Italian composer and priest.	Giuseppe Cavallo	1684
+date of death	Giovanni Francesco Commendone (17 March 1523 -- 26 December 1584) was an Italian Cardinal and papal nuncio.	Giovanni Francesco Commendone	26 December 1584
+date of death	Barangaroo died in 1791 and was buried in Governor Phillip's garden, in the area of the present day Circular Quay.	Barangaroo	1791
+date of death	Bartolomeo Gastaldi (10 February 1818 -- 5 January 1879) was an Italian geologist and palæontologist, and one of the founders of the Club Alpino Italiano.	Bartolomeo Gastaldi	5 January 1879
+date of death	John Cassell (23 January 1817 -- 2 April 1865) was an English publisher, printer, writer and editor, who founded the firm Cassell & Co, famous for its educational books and periodicals, and which pioneered the serial publication of novels.	John Cassell	2 April 1865
+date of death	Jameh Jameh (1954 -- 17 October 2013) was a Syrian Armed Forces major general who held the position of head of military intelligence in Deir ez-Zor Governorate.	Jameh Jameh	17 October 2013
+date of death	Mark Dignam (20 March 1909 -- 29 September 1989) was a prolific English actor.	Mark Dignam	29 September 1989
+date of death	Sir Robert William Hamilton (26 August 1867 -- 5 July 1944) was a Scottish Liberal Party politician and Chief Justice of the East Africa Protectorate.	Robert William Hamilton	5 July 1944
+date of death	Sextus Empiricus (Greek: Σέξτος Ἐμπειρικός; c. 160 -- 210 CE), was a physician and philosopher, and has been variously reported to have lived in Alexandria, Rome, or Athens.	Sextus Empiricus	210
+date of death	Jaime Casagrande (died 29 October 2013) was a Brazilian professional footballer who made 430 appearances for Figueirense between 1973 and 1982.	Jaime Casagrande	29 October 2013
+date of death	Jean Corti (1929 -- 25 November 2015) was an Italian-French accordionist and composer.	Jean Corti	25 November 2015
+date of death	Bi Gui (died 249), courtesy name Zhaoxian, was an official serving in the state of Cao Wei during the Three Kingdoms period.	Bi Gui	249
+date of death	Hubert Klyne Headley (1906--1996) was an American composer, pianist and organist.	Hubert Klyne Headley	1996
+date of death	Glúniairn (died 989), in Old Norse Járnkné, was a Norse-Gael king of Dublin of the Uí Ímair kindred which ruled over much of the Scandinavianised and Norse-Gael parts of Great Britain and Ireland in the tenth century.	Glúniairn	989
+date of death	Æthelric (called Æthelric II to distinguish him from an earlier Æthelric who was also bishop of Selsey and also spelled Ethelric; died c. 1076) was the second to last medieval Bishop of Selsey in England before the see was moved to Chichester.	Æthelric II	1076
+date of death	Tarık Akıltopu (born 18 March 1918 in Antalya; died 2004) was Antalya's first architect of the 20th century.	Tarık Akıltopu	2004
+date of death	R. C. Sakthi (1940 - 23 February 2015) was an Indian filmmaker and actor.	R. C. Sakthi	23 February 2015
+date of death	Thomas Knox, 1st Earl of Ranfurly (5 August 1754 -- 26 April 1840), styled The Honourable Thomas Knox between 1781 and 1818 and known as The Viscount Northland between 1818 and 1831, was an Irish peer and politician.	Thomas Knox, 1st Earl of Ranfurly	26 April 1840
+date of death	Hamilton Ross (26 August 1849 -- 29 March 1938) was an English cricketer who made 20 first-class appearances between 1885 and 1895.	Hamilton Ross	29 March 1938
+date of death	Erik Thommesen (15 February 1916 -- 22 August 2008) was a Danish sculptor who worked mainly with wood, creating Expressionist representations of the human figure inspired by African sculpture.	Erik Thommesen	22 August 2008
+date of death	Muiredach Muillethan mac Fergusso (or Muiredach Mag Aí) (died 702) was a King of Connacht from the Uí Briúin branch of the Connachta.	Muiredach Muillethan	702
+date of death	Edward Grubb of Birmingham (1740--1816) was an English stonemason, sculptor and artist, the first unambiguously fine art sculptor to work in Birmingham.	Edward Grubb of Birmingham	1816
+date of death	Lieutenant Daniel Southwell (c. 1764--21 August 1797) was a Royal Navy officer and member of the First Fleet which founded European settlement in Australia in 1788.	Daniel Southwell	1797
+date of death	Dick N. Lucas (July 20, 1920 -- August 27, 1997) was an American film animator, noteworthy as part of Walt Disney's Animation Department.	Dick N. Lucas	1997
+date of death	Wilfried Dietrich (14 October 1933 -- 3 June 1992) was a German heavyweight wrestler.	Wilfried Dietrich	3 June 1992
+date of death	Robert Bierstedt (1913--1998) was an American sociologist who often wrote about sociological theory, culture, and constitutional law.	Robert Bierstedt	1998
+date of death	Benjamin Fletcher (1640--1703) was colonial governor of New York from 1692 to 1697.	Benjamin Fletcher	1703
+date of death	Richard James Wilkinson (1867 -- 5 December 1941) was a British Colonial administrator, a Malay scholar and historian.	Richard James Wilkinson	5 December 1941
+date of death	Shaun Mawer (6 August 1959 -- 17 July 2010) was an English professional footballer who played for Grimsby Town as a full back.	Shaun Mawer	17 July 2010
+date of death	William Bentinck, 2nd Duke of Portland KG (1 March 1709 -- 1 May 1762), styled Viscount Woodstock from 1709 to 1715 and Marquess of Titchfield from 1715 to 1726, was a British peer.	William Bentinck, 2nd Duke of Portland	1 May 1762
+date of death	Sir Gilbert de la Hay (died April 1333), fifth feudal baron of Errol in Gowrie, was Lord High Constable of Scotland from 1309 (hereditary in 1314).	Gilbert de la Hay	1333
+date of death	Geoffrey Orme (10 June 1904 -- 21 January 1978) was a British screenwriter for television and film.	Geoffrey Orme	21 January 1978
+date of death	Yuwen Yidougui(Chinese: 宇文逸豆歸; pinyin: Yǔwén Yìdòuguī) (?-345) chieftain of the Yuwen tribe (333-345).	Yuwen Yidougui	345
+date of death	Alexander William Duncan (19 June 1881 -- 18 November 1934) was a Scottish international rugby and cricket player.	Alexander William Duncan	18 November 1934
+date of death	Ioseb Abakelia (Georgian: იოსებ აბაკელია; March 2, 1882 -- 1938) was a pioneering Georgian physician and medical scholar, specializing in the field of phthisiatry (study of tuberculosis).	Ioseb Abakelia	1938
+date of death	Humphrey Ellis, D.D. (died 1676), was an English Roman Catholic priest, real name Waring, a leader of English Catholics in the Commonwealth period.	Humphrey Ellis	1676
+date of death	Eduardo Mendoza Goiticoa (9 June 1917 -- 25 August 2009) was a Venezuelan scientific researcher and agricultural engineer.	Eduardo Mendoza Goiticoa	25 August 2009
+date of death	Thomas Leopold, born 1693 near Kristianstad, Scania, dead 1771 in Kungälv, was one of the prophets and martyrs of the Swedish Pietist movement during the 18th century.	Thomas Leopold	1771
+date of death	Münire Sultan (9 December 1844 - 29 June 1862) was an Ottoman princess, daughter of Sultan Abdülmecid I and his wife Verdicenan Kadınefendi.	Münire Sultan	29 June 1862
+date of death	Andrew Geddis (July 1886 -- 23 February 1976) was a leading business man and sports enthusiast in Bombay in the decades leading up to independence.	Andrew Geddis	23 February 1976
+date of death	Ibrahim I ibn al-Aghlab (Arabic: إبراهيم بن الأغلب‎; 756-812) was the first Emir of the Aghlabids in Ifriqiya (800-812) He was the son of al-Aghlab, who successfully quelled the revolt of the Kharijites in Ifriqiya at the end of the 8th century.	Ibrahim I ibn al-Aghlab	812
+date of death	John Tutchin (c.1660/1664 -- 23 September 1707) was a radical Whig controversialist and gadfly English journalist (born in Lymington, Hampshire), whose The Observator and earlier political activism earned him multiple trips before the bar.	John Tutchin	1707
+date of death	Sir Drue Drury, 1st Baronet (7 October 1588 - 23 April 1632) was an English landowner and politician who sat in the House of Commons between 1621 and 1624.	Sir Drue Drury, 1st Baronet	23 April 1632
+date of death	Eugene van Maldeghem, also known as Romaan Eugeen Van Maldeghem, (24 April 1813, Dentergem - 1867, Elsene) was a Flemish painter of history, landscape, and portraits.	Eugene van Maldeghem	1867
+date of death	Alfred Herbert Richardson (1874--1951) was an English policeman.	Alfred Herbert Richardson	1951
+date of death	Thomas Baillairgé (20 December 1791 -- 9 February 1859) was both a wood carver and architect, following the tradition of the family.	Thomas Baillairgé	9 February 1859
+date of death	Chandrabati Devi (Bengali: চন্দ্রাবতী দেবী) (19 October 1909 -- 29 April 1992) was an Indian film actress.	Chandrabati Devi	29 April 1992
+date of death	Pitambar Dvija (1455-1533) was 15 and 16th century litterateur from Kamrup and contemporary of likes of Haribara Vipra and Hema Saraswati.	Pitambar Dvija	1533
+date of death	Doamna Maria Voichița (1457 -- 26 February 1511) was a Princess consort of Moldavia (1480--1511), daughter of Radu III the Handsome and a niece of Vlad the Impaler.	Maria Voichița	1511
+date of death	Jafet Torelli ( - 1898) was an Italian ceramist and sculptor.	Jafet Torelli	1898
+date of death	William Bemister (28 June 1948 -- 13 November 2008) was a British documentary film maker and journalist.	William Bemister	13 November 2008
+date of death	Aw Chu Kin (Chinese: 胡子钦; pinyin: Hú Zǐqīn; Pe̍h-ōe-jī: Hô͘ Chí-khim; ? - 1908 in Rangoon, British Raj) was a Burmese Chinese herbalist.	Aw Chu Kin	1908
+date of death	Nanak Singh (4 July 1897 -- 28 December 1971), born Hans Raj, was a poet, songwriter and novelist in the Punjabi language.	Nanak Singh	28 December 1971
+date of death	Marcel Dadi (20 August 1951 -- 17 July 1996) was a Tunisian-born Jewish French guitarist known for his finger-picking style which faithfully recreated the instrumental styles of American guitarists such as Chet Atkins, Merle Travis and Jerry Reed.	Marcel Dadi	17 July 1996
+date of death	James Janeway (1636--1674) was a Puritan minister and author who, after John Bunyan, had the widest and longest popularity as the author of works read by English-speaking children.	James Janeway	1674
+date of death	Edward Maclean Showers OBE KPM (died 14 December 1925) was a British soldier and police officer who served as Chief Constable of Exeter City Police and then (from the late 1880s) Essex County Constabulary.	Edward Maclean Showers	14 December 1925
+date of death	Jens Vilhelm Dahlerup (4 August 1826 -- 24 January 1907) was a Danish architect who specialized in the Historicist style.	Vilhelm Dahlerup	24 January 1907
+date of death	Minos Kokkinakis (25 February 1909 , Sitia, Crete -- 28 January 1999 Sitia) was a Greek member of Jehovah's Witnesses.	Minos Kokkinakis	28 January 1999
+date of death	Hermann Maaß (23 October 1897 -- 20 October 1944) was a German member of the Resistance against the Nazi régime.	Hermann Maaß	20 October 1944
+date of death	Hollister Noble (1900--1954) was an American historical novelist and screenwriter.	Hollister Noble	1954
+date of death	Šefik Bešlagić (6 April 1908 -- 19 November 1990) was a cultural historian from Bosnia.	Šefik Bešlagić	19 November 1990
+developer	The Pinball of the Dead is a pinball video game created by Sega, for Nintendo's Game Boy Advance.	The Pinball of the Dead	Sega
+developer	ProductCenter is owned, supported and maintained by SofTech, Inc..	ProductCenter	SofTech, Inc.
+developer	Infinity Blade II is an action role-playing video game for the iOS mobile devices developed by Chair Entertainment and Epic Games released through the Apple App Store.	Infinity Blade II	Chair Entertainment
+developer	The Quake engine is the game engine developed by id Software to power their 1996 video game Quake.	Quake engine	id Software
+developer	Mutant Herd is a 1983 action computer game developed by and published by Thorn EMI.	Mutant Herd	Thorn EMI
+dissolved or abolished	The Later Qin (simplified Chinese: 后秦; traditional Chinese: 後秦; pinyin: Hòuqín; 384-417), also known as Yao Qin (姚秦), was a state of Qiang ethnicity of the Sixteen Kingdoms during the Jin dynasty (265-420) in China.	Later Qin	417
+dissolved or abolished	The Duchy of Guastalla was an Italian state which existed between 1621 to 1748.	Duchy of Guastalla	1748
+dissolved or abolished	The Electoral district of Ripon, Hampden, Grenville and Polwarth was one of the original sixteen electoral districts of the old unicameral Victorian Legislative Council of 1851 to 1856.	Electoral district of Ripon, Hampden, Grenville and Polwarth	1856
+dissolved or abolished	The so-called Tiberina Republic (Italian: Repubblica Tiberina) was a revolutionary municipality proclaimed on 4 February 1798, when republicans took power in the city of Perugia.	Tiberina Republic	1798
+dissolved or abolished	Hastings West was a federal electoral district in the province of Ontario, Canada, that was represented in the Canadian House of Commons from 1867 to 1925.	Hastings West	1925
+father	Bred in Kentucky by E. Paul Robsham, Discreet Cat was sired by Forestry (by Storm Cat) out of Grade I winner Pretty Discreet (by Private Account).	Discreet Cat	Forestry
+father	Determine was sired by the British stallion Alibhai a son of the 1933 Epsom Derby and St. Leger Stakes winner Hyperion.	Determine	Alibhai
+father	Friedrich von Hügel was born in Florence, Italy, in 1852, to Charles von Hügel, who was serving as Austrian ambassador to the Grand Duchy of Tuscany, and a Scottish mother, Elizabeth Farquharson, who was a convert to Roman Catholicism.	Friedrich von Hügel	Charles von Hügel
+father	In 2007, Marina Person released the documentary Person about the life of her father, the also filmmaker Luis Sérgio Person.	Marina Person	Luis Sérgio Person
+father	Oliver Wakeman (born 26 February 1972) is a rock keyboardist and composer, best known as a former member of Yes, where he replaced his father, Rick Wakeman.	Oliver Wakeman	Rick Wakeman
+inception	The American Turkish Chamber of Commerce (ATCOM) is a non-profit business organization, which was officially established on March 11, 2008 and headquartered at the prestigious Caplen Building in Cherry Hill, New Jersey.	American Turkish Chamber of Commerce	2008
+inception	Sankardev Shishu Niketon Ghilamara was established on 19 January 1997 at Ghilamara Milan Nagar, at a distance of 500m from Ghilamara town.	Sankardev Shishu Niketon Ghilamara	1997
+inception	Political Association ``Native Fatherland'' (Ukrainian: Політичне об'єднання ``Рідна Вітчизна'') is a political party of Ukraine that was established in 2010 and headed by Ivan Matiyeshyn.	Native Fatherland	2010
+inception	Dråpe, the Norwegian word for ``Drop'', was first formed in summer 2009 in Oslo, then named Takk, the Norwegian word for Thanks.	Dråpe	2009
+inception	Beady Eye were an English rock band formed in 2009, by lead vocalist Liam Gallagher, guitarists Gem Archer and Andy Bell, and drummer Chris Sharrock, all former members of Oasis.	Beady Eye	2009
+inception	Lady with an Ermine (Italian: Dama con l'ermellino (ˈdaːma kon lermelˈliːno), literally ``Lady with the Ermine'') is a painting by Leonardo da Vinci from around 1489--1490.	Lady with an Ermine	1490
+inception	The company was established in 1909 by Otto Benninghoven in Hilden.	Benninghoven	1909
+inception	After initial years of research and visits to other sculpture parks such as the Kröller- Müller in the Netherlands, Louisiana in Denmark and Hakone in Japan the Cass Sculpture Foundation was fully established in 1992.	Cass Sculpture Foundation	1992
+inception	Arambagh Girls' College, established in 1995, is a women's college in Arambagh, in Hooghly district.	Arambagh Girls' College	1995
+inception	The Grip Weeds were formed in 1988 in New Brunswick, New Jersey by brothers Rick Reil (guitar) and Kurt Reil (drums).	The Grip Weeds	1988
+instrument	Susan Addison (born 1955) is a leading performer of the sackbut and early trombone.	Susan Addison	trombone
+instrument	Sebastian Schneider is a German Argentine guitar player, multi-instrumentalist, singer, composer and musical producer born on July 28, 1982.	Sebastian Schneider	guitar
+instrument	Casey Desmond: vocals, guitar, keyboards Taylor Barefoot: guitars	Casey Desmond	guitar
+instrument	Phil Menard is a French Cajun accordion player.	Phil Menard	accordion
+instrument	Chris Biscoe (born 5 February 1947, Pensford, Somerset, England) is an English jazz multi-instrumentalist, a player of the alto, soprano, tenor and baritone saxophone, the alto clarinet, piccolo and flute.	Chris Biscoe	saxophone	clarinet
+located in the administrative territorial entity	Wólka Łasiecka (ˈvulka waˈɕet͡ska) is a village in the administrative district of Gmina Bolimów, within Skierniewice County, Łódź Voivodeship, in central Poland.	Wólka Łasiecka	Gmina Bolimów
+located in the administrative territorial entity	Stare Kaliszany (ˈstarɛ kaliˈʂanɨ) is a village in the administrative district of Gmina Józefów nad Wisłą, within Opole Lubelskie County, Lublin Voivodeship, in eastern Poland.	Stare Kaliszany	Gmina Józefów nad Wisłą
+located in the administrative territorial entity	The North Kaibab Trail is a hiking trail in the North Rim side of the Grand Canyon, in Grand Canyon National Park, located in the U.S. state of Arizona.	North Kaibab Trail	Arizona
+located in the administrative territorial entity	Rogaczew (rɔˈɡat͡ʂɛf) is a village in the administrative district of Gmina Dąbrowa Zielona, within Częstochowa County, Silesian Voivodeship, in southern Poland.	Rogaczew	Gmina Dąbrowa Zielona
+located in the administrative territorial entity	Derge (Wylie: sde dge; Chinese: 更庆镇; pinyin: Gēngqìng Zhèn) is a town in Dêgê County in Garzê Tibetan Autonomous Prefecture in Sichuan, China.	Derge	Dêgê County
+located in the administrative territorial entity	Sant'Agata li Battiati (Sicilian: Sant'Àita li Vattiati) is a comune (municipality) in the Province of Catania in the Italian region Sicily, located very near to Catania.	Sant'Agata li Battiati	Province of Catania
+located in the administrative territorial entity	Black Sandy State Park, located 15 miles (24 km) north of Helena, Montana, in Lewis and Clark County, is a Montana state park on the shores of Hauser Lake, which is formed by Hauser Dam.	Black Sandy State Park	Montana
+located in the administrative territorial entity	The Lake Pithlachocco Canoe Site (also known as Newman's Lake Canoe Site) is a historic site which is east of Gainesville, Florida.	Lake Pithlachocco Canoe Site	Florida
+located in the administrative territorial entity	Morning Geyser is a fountain-type geyser located in the Fountain Paint Pots area of Lower Geyser Basin of Yellowstone National Park, Wyoming.	Morning Geyser	Wyoming
+located in the administrative territorial entity	Koipsi is an island and a village in Jõelähtme Parish, Harju County in northern Estonia.	Koipsi	Jõelähtme Parish
+located in the administrative territorial entity	The Adairs Covered Bridge, also known as Cisna Mill Covered Bridge, is a historic wooden covered bridge located at Southwest Madison Township near Blain in Perry County, Pennsylvania, United States.	Adairs Covered Bridge	Pennsylvania
+located in the administrative territorial entity	KWIK (1240 AM) is a radio station broadcasting a News Talk Information format serving the Pocatello, Idaho, USA area.	KWIK	Idaho
+located in the administrative territorial entity	Kafoshan (Persian: كافشان‎, also Romanized as Kāfoshān; also known as Gāh Fashān, Gāh Foshān, Kāh Fashān, and Kāpāsān) is a village in Zazeran Rural District, in the Central District of Falavarjan County, Isfahan Province, Iran.	Kafoshan	Zazeran Rural District
+located in the administrative territorial entity	Chah-e Madani (Persian: چاه مدني‎, also Romanized as Chāh-e Madanī; also known as Chāh-e Shomāreh Seh) is a village in Momenabad Rural District, in the Central District of Sarbisheh County, South Khorasan Province, Iran.	Chah-e Madani	Central District
+located in the administrative territorial entity	Gadani is a coastal village of Lasbela District located in the southern part of Balochistan along the Arabian Sea, Pakistan.	Gadani	Lasbela District
+located in the administrative territorial entity	Bouchout Castle (Dutch: Kasteel van Bouchout) is a castle in the Flemish town of Meise, Belgium.	Bouchout Castle	Meise
+located in the administrative territorial entity	Cumberland House Provincial Park is a located in Cumberland House, Saskatchewan, Canada, on the site of the first inland Hudson's Bay Company post in Saskatchewan and the oldest village in the province.	Cumberland House Provincial Park	Cumberland House, Saskatchewan
+located in the administrative territorial entity	Saint-Thurial (Breton: Sant-Turiav-Porc'hoed, Gallo: Saent-Turiau) is a commune in the Ille-et-Vilaine department in Brittany in northwestern France.	Saint-Thurial	Ille-et-Vilaine
+located in the administrative territorial entity	Tatarbunary (Ukrainian: Татарбунари; Romanian: Tatarbunar; Russian: Татарбунары, Turkish: Tatarpınarı) is a small town in the Odessa Oblast (province) of south-western Ukraine.	Tatarbunary	Odessa Oblast
+located in the administrative territorial entity	The Ottawa Library is a Carnegie library located at the intersection of 5th and Main Streets in Ottawa, Kansas.	Ottawa Library	Kansas
+located in the administrative territorial entity	Possum Kingdom State Park is a state park in Palo Pinto County, Texas, USA, that was built in the 1940s by the Civilian Conservation Corps.	Possum Kingdom State Park	Texas
+located in the administrative territorial entity	Kahnuh-e Modim (Persian: كهنوح مديم‎, also Romanized as Kahnūḥ-e Modīm; also known as Kahnooj, Kahnū, Kahnūj, Kahnūj-e Modīm, and Kahnūj-e Mowdīm) is a village in Zangiabad Rural District, in the Central District of Kerman County, Kerman Province, Iran.	Kahnuh-e Modim	Zangiabad Rural District
+located in the administrative territorial entity	Goodrich School is a historic school building located in Colonie in Albany County, New York.	Goodrich School	New York
+located in the administrative territorial entity	The Salt Lake Assembly Hall is one of the buildings owned by The Church of Jesus Christ of Latter-day Saints on the southwest corner of Temple Square in Salt Lake City, Utah.	Salt Lake Assembly Hall	Utah
+located in the administrative territorial entity	The Plains Art Museum is a fine arts museum located in downtown Fargo, North Dakota, United States.	Plains Art Museum	North Dakota
+located in the administrative territorial entity	Ocean Shores Municipal Airport (FAA LID: W04) is a city owned, public use airport located two nautical miles (4 km) northeast of the central business district of Ocean Shores, a city in Grays Harbor County, Washington, United States.	Ocean Shores Municipal Airport	Washington
+located in the administrative territorial entity	The Polygonal Barn, Van Buren Township was located in Van Buren Township in rural Jackson County, Iowa.	Polygonal Barn, Van Buren Township	Iowa
+located in the administrative territorial entity	Kuchary-Skotniki (kuˈxarɨ skɔtˈniki) is a village in the administrative district of Gmina Czerwińsk nad Wisłą, within Płońsk County, Masovian Voivodeship, in east-central Poland.	Kuchary-Skotniki	Gmina Czerwińsk nad Wisłą
+located in the administrative territorial entity	Kanmanoor is a Village in Peddamandadi Mandal, Mahbubnagar district, Telangana State .	Kanmanoor	Mahbubnagar district	Telangana
+located in the administrative territorial entity	Ranch to Market Road 1431 (RM 1431) is a 66.702-mile (107.346 km) ranch to market road that connects Austin, Texas to rural areas of Central Texas.	Ranch to Market Road 1431	Texas
+located in the administrative territorial entity	Frank Sikes Airport (FAA LID: 04A) is a city-owned public-use airport located two nautical miles (3.7 km) north of the central business district of Luverne, a city in Crenshaw County, Alabama, United States.	Frank Sikes Airport	Alabama
+located in the administrative territorial entity	Brailsford (52°58′16``N 1°37′26''W) is a small red-brick village in Derbyshire on the A52 midway between Derby and Ashbourne.	Brailsford	Derbyshire
+located in the administrative territorial entity	Mort Glosser Amphitheater (formerly known as the Legion Park Bowl and Gadsden Municipal Amphitheatre) is an amphitheatre in Gadsden, Alabama.	Mort Glosser Amphitheater	Gadsden
+located in the administrative territorial entity	Bala Rudkhaneh (Persian: بالارودخانه‎‎, also Romanized as Bālā Rūdkhāneh; also known as Bālā Rūd) is a village in Posht Rud Rural District, in the Central District of Narmashir County, Kerman Province, Iran.	Bala Rudkhaneh	Central District
+located in the administrative territorial entity	Leake Central High School is a public school located at 704 Jordan Street in Carthage, Mississippi (USA).	Leake Central High School	Mississippi
+located in the administrative territorial entity	Gryllefjord is a fishing village and also the administrative centre of Torsken municipality, on the island of Senja, in Troms county, Norway.	Gryllefjord	Torsken
+located in the administrative territorial entity	Packwood Lake is a freshwater lake in the Gifford Pinchot National Forest in the Cascade Mountains of Washington.	Packwood Lake	Washington
+located in the administrative territorial entity	The Salt Lake City Union Pacific Depot is a building on the western edge of downtown Salt Lake City, Utah, United States.	Salt Lake City Union Pacific Depot	Utah
+located in the administrative territorial entity	The Growler Mountains is a 23-mile, (37-km) long north-south trending mountain range of far western Pima County, Arizona that lies 12 miles (19 km) west of Ajo, Arizona.	Growler Mountains	Arizona
+located in the administrative territorial entity	Middlesex County College is a community college with its main campus located in Edison, New Jersey, United States.	Middlesex County College	New Jersey
+located in the administrative territorial entity	Webequie First Nation is located on the northern peninsula of Eastwood Island on Winisk Lake, 540 km (336 mi) north of Thunder Bay in Ontario, Canada.	Webequie First Nation	Ontario
+located in the administrative territorial entity	The Cascades Raptor Center is a nature center and wildlife hospital in Eugene, Oregon that specializes in raptor rehabilitation.	Cascades Raptor Center	Oregon
+located in the administrative territorial entity	The Cape May County Technical School District is a regional public school district that offers occupational and academic instruction for public high school and adult students in Cape May County, New Jersey, United States.	Cape May County Technical School District	New Jersey
+located in the administrative territorial entity	The Renfrew County Courthouse is a designated heritage property and operational courthouse in Pembroke, Ontario, Canada.	Renfrew County Courthouse	Ontario
+located in the administrative territorial entity	Hajjiabad-e Aqa (Persian: حاجي اباداقا‎, also Romanized as Ḩājjīābād-e Āqā and Ḩajīābād-e Āqā) is a village in Qanavat Rural District, in the Central District of Qom County, Qom Province, Iran.	Hajjiabad-e Aqa	Qanavat Rural District	Qom Province
+located in the administrative territorial entity	Khalifabad (Persian: خليفاباد‎, also Romanized as Khalīfābād) is a village in Karimabad Rural District, Sharifabad District, Pakdasht County, Tehran Province, Iran.	Khalifabad	Karimabad Rural District
+located in the administrative territorial entity	Sarpsborg (ˈsɑʂbɔr) is a city and municipality in Østfold county, Norway.	Sarpsborg	Østfold
+located in the administrative territorial entity	La Nubia Airport (IATA: MZL, ICAO: SKMZ) is located in Manizales, Colombia, 8 kilometres (5 mi) southeast of the city's downtown.	La Nubia Airport	Manizales
+located in the administrative territorial entity	The Egan Range is a line of mountains in White Pine County, in eastern Nevada in the western United States.	Egan Range	Nevada
+located in the administrative territorial entity	Passaic County Technical Institute (also known as PCTI, Passaic County Tech, the Passaic County Technical Vocational High School or simply Tech), is a vocational public high school in Wayne, that serves students in ninth through twelfth grades from all of Passaic County, New Jersey, United States.	Passaic County Technical Institute	New Jersey
+military branch	The 222nd Mixed Brigade (Spanish: 222.ª Brigada Mixta), was a mixed brigade of the Spanish Republican Army in the Spanish Civil War.	222nd Mixed Brigade	Spanish Republican Army
+military branch	Admiral Nicholas Haddock (1686 -- 26 September 1746) was an officer in the British Royal Navy and a Member of Parliament (MP).	Nicholas Haddock	Royal Navy
+military branch	Major General (Rtd) David Nial Creagh, The O'Morchoe (also known as David O'Morchoe), CB, CBE, KLJ, (born 17 May 1928, Dublin, Ireland) is a former British Army general.	David O'Morchoe	British Army
+military branch	Fifth Air Force was a United States Army Air Forces combat air force in the Pacific Theater of World War II, engaging in combat operations primarily in the Southwest Pacific AOR.	Fifth Air Force	United States Army Air Forces
+military branch	Air Commodore Dr John Buchan Ross, QHS, CStJ, (3 July 1912 -- 24 January 2009) was a senior British Royal Air Force officer who served from 1935 in Iraq, the Far East during World War II and in the Malaya Emergency.	John Buchan Ross	Royal Air Force
+mouth of the watercourse	The River Anker is a river in England that flows through the centre of Nuneaton towards Tamworth in Staffordshire, then continues on and merges with the River Tame in Tamworth.	River Anker	River Tame
+mouth of the watercourse	Kendall River is a small river and tributary to the Coppermine River in the Canadian Northwest Territories that connects the Dismal Lakes to the Coppermine River.	Kendall River	Coppermine River
+mouth of the watercourse	The Maclaughlin River, a perennial river of the Snowy River catchment, is located in the Monaro region of New South Wales, Australia.	Maclaughlin River	Snowy River
+mouth of the watercourse	The Bubye River, also known as Bubi River, is a tributary of the Limpopo River in Beitbridge District and Gwanda District, Zimbabwe.	Bubye River	Limpopo River
+mouth of the watercourse	The Ailiao River (Chinese: 隘寮溪; pinyin: Àiliáo Xī) is a tributary of the Gaoping River in Taiwan.	Ailiao River	Gaoping River
+narrative location	Now Is Good is actually set in the seaside city of Brighton, but only two days of location shooting took place in Brighton and along England's southern coast.	Now Is Good	Brighton
+narrative location	East West 101 is set around the Major Crime Squad in metropolitan Sydney.	East West 101	Sydney
+narrative location	For instance, View London considers Ride, Rise, Roar entertaining, but ``not on the level of classica rockumentaries'', whereas Stop Making Sense is ``generally reckoned to be one of the best concert movies ever made.''	Ride, Rise, Roar	London
+narrative location	Schneider plays Sam Doonby, a mysterious, yet talented drifter who gets off a bus one afternoon in a small Texas town to change and improve the lives of all he comes in contact with.	Doonby	Texas
+narrative location	LennoNYC (styled LENNONYC) is a 2010 documentary film written and directed by Michael Epstein about the life of John Lennon in New York City, after the breakup of the Beatles.	LennoNYC	New York City
+native language	Isild Le Besco (born 22 November 1982) is a French actress and filmmaker.	Isild Le Besco	French
+native language	Valentine Tessier (1892--1981) was a French actress who appeared in around thirty films during her career.	Valentine Tessier	French
+native language	Arved Deringer (4 June 1913 -- 25 October 2011) was a German lawyer and politician for the CDU.	Arved Deringer	German
+native language	Princess Erika (born Erika Dobong'na; 5 April 1964, Paris) is a French singer and actress with Cameroonian origins.	Princess Erika	French
+native language	Gabriel Benoist (11 July 1891 -- 27 October 1964) was a French writer in the Cauchois dialect of the Norman language.	Gabriel Benoist	French
+occupation	Omar Torrez is a Mexican-American guitarist from Los Angeles, California.	Omar Torrez	guitarist
+occupation	Devu Thapa (Nepali: देबु थापा) (born February 7, 1974 in Jumla) is a Nepalese judoka, who played for the light middleweight category.	Devu Thapa	judoka
+occupation	On 1 August 1598, ``John Webster, lately of the New Inn'' was admitted to the Middle Temple, one of the Inns of Court; in view of the legal interests evident in his dramatic work, this is possibly the playwright.	John Webster	playwright
+occupation	Frøystein Gjesdal (born February 18, 1956) is the rector of the Norwegian School of Economics (NHH).	Frøystein Gjesdal	rector
+occupation	Dan Bern (also known as Bernstein; born July 27, 1965) is an American guitarist, singer, songwriter, novelist and painter.	Dan Bern	singer, songwriter
+occupation	Orrin Keepnews (March 2, 1923 -- March 1, 2015) was an American jazz writer and record producer known for his work for Riverside Records and other labels.	Orrin Keepnews	record producer
+occupation	Betty Burbridge (December 7, 1895 -- September 19, 1987) was an American screenwriter and actress, best known for her Western screenplays.	Betty Burbridge	screenwriter
+occupation	Chuang Chi-fa (also known as Zhuang Jifa; Chinese: 莊吉發; born 24 May 1936) is a Taiwanese historian who studies Chinese history, in particular Manchu history.	Chuang Chi-fa	historian
+occupation	Mehmood Dhaulpuri is an Indian musician of Hindustani music, known as a leading exponent of Harmonium, an Indian variant of the Pump organ.	Mehmood Dhaulpuri	musician
+occupation	Zhao Jianhua (Chinese: 赵剑华) (born April 21, 1965) is a Chinese former badminton player who competed internationally from the mid-1980s to the early 1990s.	Zhao Jianhua	badminton player
+occupation	Babis Papadimitriou is a journalist, news analyst, economist and commentator who works in the Greek television Skai TV and radio station Skai 100.3 and every day presents a commentary on political happenings in the context of the evening news of SKY.	Babis Papadimitriou	journalist	economist
+occupation	Hind Laroussi Tahiri (born December 3, 1984), known professionally as Hind, is a Dutch singer.	Hind Laroussi	singer
+occupation	Daniele Rosa (1857--1944) was an Italian invertebrate zoologist.	Daniele Rosa	zoologist
+occupation	Ulrich Sinn (* 4 October 1945 in Bevensen) is a German classical archaeologist.	Ulrich Sinn	archaeologist
+occupation	Susan Bottomly (born 1950), also known as International Velvet, is a former American model and actress.	Susan Bottomly	model
+occupation	José Alfonso Morera Ortiz, commonly known by his artist name, El Hortelano (the horticulturist), is a painter.	El Hortelano	painter
+occupation	Nicholas Davis, Jr. (January 14, 1825 -- November 3, 1875) was a prominent Confederate politician.	Nicholas Davis, Jr.	politician
+occupation	Billy Joe Royal (April 3, 1942 -- October 6, 2015) was an American pop and country singer.	Billy Joe Royal	singer
+occupation	Brooks K. Mould was a Chicago-based music publisher, whose ``Garden City Polka'' was the first piece of music to be published in Chicago.	Brooks K. Mould	music publisher
+occupation	Ami Vashi is an Indian model, dancer and beauty pageant titleholder.	Ami Vashi	model
+original network	Your Place or Mine? is an American television game show that ran for six weeks on TLC.	Your Place or Mine?	TLC
+original network	Tum Hi Ho Bandhu Sakha Tumhi is an Indian television series, which premiered on 11 May 2015 on Zee TV.	Tum Hi Ho Bandhu Sakha Tumhi	Zee TV
+original network	Everyday Italian is a Food Network show hosted by Giada De Laurentiis.	Everyday Italian	Food Network
+original network	Weather Center Live (previously named Weather Center from its relaunch in March 2009 until May 2011) is an American weather news television program on The Weather Channel.	Weather Center Live	The Weather Channel
+original network	Love Soup is a British television comedy-drama produced by the BBC and first screened on BBC One in the autumn of 2005.	Love Soup	BBC One
+parent taxon	Dorsetensia is a narrowly coiled discoidal ammonite from the early Middle Jurassic, lower Bajocian, belonging to the family Sonniniidae of either the superfamily Hammatoceratoidea or Hildoceratoidea.	Dorsetensia	Sonniniidae
+parent taxon	The African bullfrog (Pyxicephalus adspersus) is a species of frog in the Pyxicephalidae family.	African bullfrog	Pyxicephalus
+parent taxon	Adiantopsis is a genus of ferns in the Cheilanthoideae subfamily of the Pteridaceae.	Adiantopsis	Cheilanthoideae
+parent taxon	Silvertip tetra (Hasemania nana) are freshwater tetra fish native to blackwater rivers in Brazil.	Silvertip tetra	Hasemania
+parent taxon	Haplotinea is a very small genus of fungus moths (family Tineidae).	Haplotinea	Tineidae
+parent taxon	Talauma is sometimes treated as a genus of plant in family Magnoliaceae.	Talauma	Magnoliaceae
+parent taxon	Rubroboletus legaliae, previously known as Boletus splendidus, B. satanoides, and B. legaliae is a basidiomycete fungus of the family Boletaceae.	Rubroboletus legaliae	Boletus
+parent taxon	The Galápagos martin (Progne modesta) is a species of bird in the family Hirundinidae endemic to the Galápagos Islands in Ecuador.	Galápagos martin	Progne
+participant of	László Tábori (born July 6, 1931) is a Hungarian-American former middle- and long-distance runner, best known for equalling the 1500 metres world record and placing 4th in that event at the 1956 Summer Olympics.	László Tábori	1956 Summer Olympics
+participant of	Julius Hjulian (né Hjulin; March 15, 1903 -- February 1974) was the United States goalkeeper at the 1934 FIFA World Cup.	Julius Hjulian	1934 FIFA World Cup
+participant of	Raynell Williams (born February 4, 1989 in Cleveland, Ohio) is an American professional boxer who as an amateur, won several national championships and represented team USA at the 2008 Summer Olympics.	Raynell Williams	2008 Summer Olympics
+participant of	Virginia McLachlan (born September 17, 1992) is a Canadian Paralympic sprinter who won 2 bronze medals in women's T35 200 m and 100 m run at the 2012 Summer Paralympics.	Virginia McLachlan	2012 Summer Paralympics
+participant of	Logan Reid Patterson (July 2, 1932 -- January 15, 2014) was an American competition swimmer who represented the United States at the 1956 Summer Olympics.	Reid Patterson	1956 Summer Olympics
+place of death	Henry Middleton was born in 1717 near Charleston, Province of South Carolina, to Arthur Middleton (1681--1737) and Susan Amory (1690-1722), on the family plantation, ``The Oaks''.	Henry Middleton	Charleston
+place of death	Gyula Derkovits (13 April 1894, Szombathely, 18 June 1934, Budapest) was a Hungarian painter and graphic artist whose work shows elements of Expressionism, Cubism and Constructivism.	Gyula Derkovits	Budapest
+place of death	Rudolf Kempe (born 14 June 1910 in Dresden, died 12 May 1976 in Zürich) was a German conductor.	Rudolf Kempe	Zürich
+place of death	Giorgio Saviane received a Laurea in Giurisprudenza from University of Padua and then moved to Florence to practice as a lawyer.	Giorgio Saviane	Florence
+place of death	Marek Grechuta (December 10, 1945 in Zamość, Poland -- October 9, 2006 in Kraków, Poland) was a Polish singer, songwriter, composer, and lyricist.	Marek Grechuta	Kraków
+place of death	Hans Hermann Behr (August 18, 1818, Köthen -- March 6, 1904, San Francisco) was a German-American doctor, entomologist and botanist.	Hans Hermann Behr	San Francisco
+place of death	Valentín Canalizo had previously been the Mayor of Mexico City, after being Governor of Puebla state, and years before, Mayor of the city of Cuernavaca.	Valentín Canalizo	Mexico City
+place of death	Daniel Gregory Mason (Brookline, Massachusetts, November 20, 1873 -- Greenwich, Connecticut, December 4, 1953) was an American composer and music critic.	Daniel Gregory Mason	Greenwich
+place of death	William Ellsworth Kepner (6 January 1893 in Miami, Indiana - 3 July 1982 in Orlando, Florida) was an officer in the United States Army, United States Army Air Corps and United States Air Force, and a pioneer balloonist and airship pilot.	William Ellsworth Kepner	Orlando
+place of death	Louis-Jacques Goussier (Paris, March 7, 1722 - Paris, 1799) was a French illustrator and encyclopedist.	Louis-Jacques Goussier	Paris
+place of death	Martin Bossange (2 February 1765 -- 30 October 1865) was a book dealer, originally from Bordeaux, who relocated to Paris and created an international publishing business.	Martin Bossange	Paris
+place of death	James Newill (sometimes credited as Jim Newill) (born 12 August 1911 in Pittsburgh, died 31 July 1975 in Thousand Oaks, California) was an American actor and singer.	James Newill	Thousand Oaks
+position held	Michel Nguyễn Khắc Ngư (2 February 1909 -- 10 June 2009) was the third oldest living bishop of the Roman Catholic Church at the time of his death.	Nguyễn Khắc Ngư	bishop
+position held	George Patrick Ziemann (September 13, 1941 -- October 22, 2009) was the third Roman Catholic bishop of the Roman Catholic Diocese of Santa Rosa in California.	George Patrick Ziemann	bishop
+position held	Jesse J. White (born June 24, 1978) is a former Democratic member of the Pennsylvania House of Representatives, representing the 46th District since 2007.	Jesse J. White	member of the Pennsylvania House of Representatives
+position held	Giovanni Cazzani (4 March 1867 -- 26 August 1952) was an Italian archbishop of the Roman Catholic Church who served as the head of the Diocese of Cremona; he was granted the title of archbishop in 1944 despite leading a diocese.	Giovanni Cazzani	archbishop
+position held	Wayne Adams, CM ONS (born 1943) is a former Canadian provincial politician who was the first Black Canadian member of the Nova Scotia House of Assembly and cabinet minister.	Wayne Adams	member of the Nova Scotia House of Assembly
+position played on team / speciality	Rebecca Roche(born 26 April 1965) is a former association football goalkeeper who represented New Zealand at international level.	Rebecca Roche	goalkeeper
+position played on team / speciality	Dave Taber (born September 26, 1958 in Doylestown, Pennsylvania) is a retired American soccer defender who played two seasons in the North American Soccer League.	Dave Taber	defender
+position played on team / speciality	Christian Fährmann (born 5 October 1975) is a former professional German football midfielder.	Christian Fährmann	midfielder
+position played on team / speciality	Per Robert Andreas Holmqvist Pedersen (born July 23, 1981) is a Swedish former professional ice hockey defenceman.	Andreas Holmqvist	defenceman
+position played on team / speciality	Bojan Golubović (Serbian Cyrillic: Бојан Голубовић; born 22 August 1983 in Konjic) is a Bosnian footballer who plays for Romanian club CSMS Iași as a forward.	Bojan Golubović	forward
+present in work	Denethor II, son of Ecthelion II, is a fictional character in J. R. R. Tolkien's The Return of the King, which is the third and final part of his novel The Lord of the Rings.	Denethor	The Lord of the Rings
+present in work	Neddie Seagoon was a character in the 1950s British radio comedy show The Goon Show.	Neddie Seagoon	The Goon Show
+present in work	DSI Stella Gibson is the main character in the a British (BBC) crime drama television series The Fall.	Stella Gibson	The Fall
+present in work	Leanne Miller is a fictional character on the New Zealand soap opera Shortland Street who is portrayed by Jennifer Ludlam.	Leanne Miller	Shortland Street
+present in work	Tow-Line is the name of two fictional characters in the various Transformers universes.	Tow-Line	Transformers
+publication date	Bellini and the Devil (Portuguese: Bellini e o Dêmonio) is 2008 Brazilian crime film directed by Marcelo Galvão.	Bellini and the Devil	2008
+publication date	Wet Hare is a 1962 animated short film in the Looney Tunes series produced by Warner Bros. Cartoons, Inc. In this cartoon, Bugs Bunny finds himself at odds with Blacque Jacque Shellacque, a ruthless lumberjack with a French Canadian accent who wants to control the water supply by building a series of dams.	Wet Hare	1962
+publication date	The Coo-Coo Nut Grove (released November 28, 1936) is a Warner Brothers Merrie Melodies short animated film, set in the famed Cocoanut Grove of the Ambassador Hotel in Los Angeles.	The Coo-Coo Nut Grove	1936
+publication date	More Than a Miracle is a 1967 film also titled Cinderella Italian Style and Happily Ever After.	More Than a Miracle	1967
+publication date	Noose for a Lady is a 1953 British crime film directed by Wolf Rilla and starring Dennis Price, Rona Anderson and Ronald Howard.	Noose for a Lady	1953
+publication date	Universal Signs is a modern American Sign Language (ASL) film from 2008.	Universal Signs	2008
+publication date	Moth and the Flame is a Silly Symphony that was released on April 1, 1938.	Moth and the Flame	1938
+publication date	Issues 101 is a gay-themed independent romantic drama film released in 2002.	Issues 101	2002
+publication date	Soft Toilet Seats is a 1999 comedy film written and directed by Tina Valinsky and starring David Rosen, Alexa Jago and Jonathan Aube.	Soft Toilet Seats	1999
+publication date	The Ghazi Shaheed is a 1998 thriller drama film based on the disasters that befell the PNS Ghazi on Bay of Bengal.	Ghazi Shaheed	1998
+publication date	War & Peas is the second studio album of American surf band Whirled Peas, released in the summer of 1994.	War & Peas	1994
+publication date	Fellowship of the Dice is a film released in 2005 (2007 on DVD), directed by Matthew Ross, and starring Aimee Graham and Price Carson.	Fellowship of the Dice	2005
+publication date	Christmas in Paradise is a 2007 Lifetime television Christmas movie which originally aired on December 15, 2007.	Christmas in Paradise	2007
+publication date	The Walking Deceased, originally titled Walking with the Dead, is a 2015 spoof of zombie films directed by Scott Dow and written by Tim Ogletree.	The Walking Deceased	2015
+publication date	The Over-the-Hill Gang Rides Again starring Walter Brennan and Fred Astaire is a 1970 ABC Movie of the Week sequel to the Western comedy The Over-the-Hill Gang.	The Over-the-Hill Gang Rides Again	1970
+publication date	Gangs of Tooting Broadway is a 2013 British-Tamil crime drama film directed by Devanand Shanmugam.	Gangs of Tooting Broadway	2013
+publication date	Fighting with Kit Carson is a 1933 American Pre-Code Mascot Pictures movie serial.	Fighting with Kit Carson	1933
+publisher	The British Journal of Cancer a twice-monthly professional medical journal of Cancer Research UK (a registered charity in the United Kingdom), published on their behalf by the Nature Publishing Group (a division of Macmillan Publishers Ltd).	British Journal of Cancer	Nature Publishing Group
+publisher	Epic Pinball is a 1993 pinball video game developed by James Schmalz and published by Epic MegaGames (now Epic Games).	Epic Pinball	Epic Games
+publisher	Roogoo Attack is a puzzle platformer for the Nintendo DS, published by SouthPeak Games and released on June 16, 2009.	Roogoo Attack	SouthPeak Games
+publisher	Senja di Jakarta (English: Twilight in Jakarta) is an Indonesian novel written by Mochtar Lubis and first published in English by Hutchinson & Co. in 1963, with a translation by Claire Holt.	Senja di Jakarta	Hutchinson
+publisher	Hebraic Political Studies was a quarterly peer-reviewed academic journal published by the Shalem Press, funded by the Shalem Center, and devoted to recovering the Hebraic political tradition and evaluating its place in the history of political thought.	Hebraic Political Studies	Shalem Center
+record label	Interscope Records released ``Whatever U Like'' on July 30, 2007.	Whatever U Like	Interscope Records
+record label	The Musings of Miles is the first 12`` LP by Miles Davis, issued by Prestige Records in 1955, following several LPs in the discontinued 10 inch format.	The Musings of Miles	Prestige Records
+record label	Like Comedy is the ninth studio album from Scottish band The Proclaimers, released in 2012 on Cooking Vinyl.	Like Comedy	Cooking Vinyl
+record label	Plague-House Puppet Show is the second studio album by Twilightning, released November 16, 2004, on the label Spinefarm Records.	Plague-House Puppet Show	Spinefarm Records
+record label	Here Come the 123s is the third children's album by They Might Be Giants.	Here Come the 123s	They Might Be Giants
+screenwriter	Toi, le venin (aka: Blonde in a White Car; US title: Nude in a White Car; UK title: Night Is Not for Sleep) is a 1958 French crime drama film directed and written by Robert Hossein, based on novel C'est toi le venin... by Frédéric Dard.	Toi, le venin	Robert Hossein
+screenwriter	When Father Was Away on Business (Serbo-Croatian: Otac na službenom putu, Serbian Cyrillic: Отац на службеном путу) is a 1985 Yugoslav film by director Emir Kusturica.	When Father Was Away on Business	Emir Kusturica
+screenwriter	Tea with Mussolini is a 1999 Anglo-Italian semi-autobiographical film directed by Franco Zeffirelli), scripted by John Mortimer, telling the story of young Italian boy Luca's upbringing by a circle of British and American women, before and during the Second World War.	Tea with Mussolini	Franco Zeffirelli	John Mortimer
+screenwriter	Sideways is a 2004 American comedy-drama film written by Jim Taylor and Alexander Payne and directed by Payne.	Sideways	Jim Taylor	Alexander Payne
+screenwriter	Mr. Majestyk is a 1974 American action film directed by Richard Fleischer and starring Charles Bronson.	Mr. Majestyk	Richard Fleischer
+sex or gender	Dame (Annie) Maud Burnett DBE JP (27 February 1863 -- 17 November 1950) was a local English politician who served as the first female mayor of Tynemouth.	Maud Burnett	female
+sex or gender	Nafia Kuş (born February 20, 1995) is a Turkish female taekwondo practitioner competing in the heavyweight division.	Nafia Kuş	female
+sex or gender	Also, Demona's eyes glow a deep red (as any female gargoyle's would) when she is angry, unlike male gargoyles, whose eyes glow white.	Demona	female
+sex or gender	Wang Shasha (Chinese: 王莎莎; pinyin: Wáng Shāshā; born January 8, 1987 in Yantai, Shandong) is a female Chinese handball player who competed at the 2004 Summer Olympics.	Wang Shasha	female
+sex or gender	Jong Song-ok (born 18 August 1974) is a female long-distance runner from North Korea, who won the world title in the women's marathon at the 1999 World Championships in Athletics in Seville, Spain.	Jong Song-ok	female
+sport	Joel Clinton (born 8 December 1981 in Riverstone, New South Wales) is an Australian former professional rugby league footballer of the 2000s and 2010s.	Joel Clinton	rugby league
+sport	The PGA Professional National Championship is a golf tournament for golf club professionals and teachers who are members of the Professional Golfers' Association of America.	PGA Professional National Championship	golf
+sport	Ivan Bátory (born 3 May 1975) is a Slovak cross-country skier who has competed at the international senior level of cross-country skiing since 1993.	Ivan Bátory	cross-country skiing
+sport	Debbie Black (born July 29, 1966) is a women's basketball former player and current coach.	Debbie Black	basketball
+sport	Donald Hawkins (born April 22, 1992) is an American football tackle for the Carolina Panthers of the National Football League.	Donald Hawkins	American football
+sport	Nick Martens (born September 11, 1982 in Ann Arbor, Michigan) is an American former professional ice hockey defenseman who last played for the Hannover Indians of the 2.	Nick Martens	ice hockey
+sport	Rokometni Klub Olimpija (English: Olimpija Handball Club), commonly referred to as RK Olimpija or simply Olimpija, is a women's handball club from Ljubljana, Slovenia.	RK Olimpija	handball
+sport	Reginald Courtenay Welch (17 October 1851 -- 4 June 1939) (sometimes Reginald de Courtenay Welch) was a key player in the early years of association football.	Reginald Courtenay Welch	association football
+sport	The FIBA Intercontinental Cup, commonly referred to as the FIBA World Cup for Champion Clubs, or the FIBA Club World Cup, is a professional basketball competition endorsed by FIBA, FIBA Americas and Euroleague Basketball Company.	FIBA Intercontinental Cup	basketball
+sport	The 2007 Oceania Cup is the 5th tournament of Oceania Cup field hockey tournament.	2007 Oceania Cup	field hockey
+sport	Wilfrid Aka (born 16 June 1979) is a French-born Côte d'Ivoirean basketball player currently playing for Abeille des Aydes Blois Basket.	Wilfrid Aka	basketball
+sport	Will Joseph (May 10, 1877 -- 1959) was a Welsh international rugby union player.	Will Joseph	rugby union
+sport	The 1973 Men's Hockey World Cup was the second installment of the Hockey World Cup men's field hockey tournament.	1973 Men's Hockey World Cup	field hockey
+sport	Leili Pärnpuu (born January 30, 1950 in Haapsalu, Estonia) is an Estonian chess player who five times won the Estonian Chess Championship for women.	Leili Pärnpuu	chess
+sport	The 1975 Richmond WCT, also known as the Fidelity Tournament for sponsorship reasons, was a men's professional tennis tournament.	1975 Richmond WCT	tennis
+sport	Marloes Keetels (born 4 May 1993 in Schijndel, North Brabant province, Netherlands) is a Dutch field hockey player.	Marloes Keetels	field hockey
+sport	The 2012 European Trophy was the third European Trophy, a European ice hockey tournament held annually.	2012 European Trophy	ice hockey
+sport	The Portuguese Basketball Federation (Portuguese: Federação Portuguesa de Basquetebol) is the governing body for basketball in Portugal.	Portuguese Basketball Federation	basketball
+sport	James Borrego is an American basketball coach who is currently the assistant head coach of the San Antonio Spurs of the National Basketball Association (NBA).	James Borrego	basketball
+sport	The 2012 WTA Tour is the elite professional tennis circuit organized by the Women's Tennis Association (WTA) for the 2012 tennis season.	2012 WTA Tour	tennis
+sport	Clonmel Racecourse (Powerstown Park) is a horse racing venue in the town of Clonmel, County Tipperary, Ireland which stages both National Hunt and Flat racing.	Clonmel Racecourse	horse racing
+sport	The 1999 Betty Barclay Cup was a tennis tournament played on outdoor clay courts at the Am Rothenbaum in Hamburg in Germany that was part of Tier II of the 1999 WTA Tour.	1999 Betty Barclay Cup	tennis
+sport	Moritz Fürste (born 28 October 1984) is a German field hockey player.	Moritz Fürste	field hockey
+sport	George Foreman vs. Tommy Morrison, billed as the ``Star-Spangled Battle'', was a professional boxing match contested on June 7, 1993 for the vacant WBO Heavyweight Championship.	George Foreman vs. Tommy Morrison	boxing
+sport	The 2013 Kyrgyzstan League is the 22nd season of Kyrgyzstan League, the Football Federation of Kyrgyz Republic's top division of association football.	2013 Kyrgyzstan League	association football
+sport	A. Germaine Golding (French pronunciation: ​(ʒɛʁmɛn gɔldiŋ); née Regnier; born 1887) was a French tennis player.	Germaine Golding	tennis
+sport	The Rutherglen Football Club is an Australian rules football club playing their home games in Rutherglen, Victoria, Australia.	Rutherglen Football Club	Australian rules football
+sport	The Viking Award is awarded annually to the best Swedish ice hockey player in North America.	Viking Award	ice hockey
+sport	Michael Bent (born 25 April 1986 in Hawera, New Zealand) is a New Zealand born Irish rugby union player who can play as a tight or loosehead prop.	Michael Bent	rugby union
+sport	The 1969 FIVB Volleyball Men's World Cup was an indoor Men's volleyball tournament that took place in 1969.	1969 FIVB Volleyball Men's World Cup	volleyball
+spouse	Joseph Masson was married in 1818 with Marie-Geneviève-Sophie Raymond, daughter of Jean-Baptiste Raymond (1757--1825), seigneur of Lake Matapedia and deputy of Huntingdon.	Joseph Masson	Jean-Baptiste Raymond
+spouse	Marina, Princess of Naples (Marina; née Ricolfi Doria; born 12 February 1935) is a Swiss-born water skier and the wife of Vittorio Emanuele, Prince of Naples, only son and heir of Italy's last monarch:	Marina, Princess of Naples	Vittorio Emanuele, Prince of Naples
+spouse	Patricia Russell, Countess Russell, (1910--2004) was the third wife of philosopher Bertrand Russell, and a significant contributor to his book, A History of Western Philosophy.	Patricia Russell, Countess Russell	Bertrand Russell
+spouse	Lennie Hayton met Lena Horne when both were under contract to MGM and married her in December 1947 in Paris.	Lennie Hayton	Lena Horne
+spouse	She was thought to be the second royal wife of Seti II. There are no known children for Twosret and Seti II, unless tomb KV56 represents the burial of their daughter.	Twosret	Seti II
+taxon rank	Pachydectes is an extinct genus of biarmosuchian therapsid from the Middle Permian of South Africa.	Pachydectes	genus
+taxon rank	Litaneutria longipennis is a species of praying mantis native to North America.	Litaneutria longipennis	species
+taxon rank	A monotypic genus, it contains the single species Lazarenkoa selaginellae.	Lazarenkoa	species
+taxon rank	Hottea is a genus of plants in the myrtle family described as a genus in 1929.	Hottea	genus
+taxon rank	Halichoeres cosmetus, or the adorned wrasse, is a species of salt water wrasse from the Gulf of Thailand.	Halichoeres cosmetus	species
+taxon rank	Hypodactylus araiodactylus is a species of frog in the Craugastoridae family endemic to Peru.	Hypodactylus araiodactylus	species
+taxon rank	Allium pevtzovii is a Chinese species of wild onion found only in the southwestern part of Xinjiang Uygur Province in extreme western China.	Allium pevtzovii	species
+taxon rank	Adetomyrma cilium (from Latin cilium, ``eyelash'', referring to the long hairs on its compound eye) is a species of ant endemic to Madagascar.	Adetomyrma cilium	species
+taxon rank	Meristotheca is a widely distributed genus of red algae some of whose species are eaten as edible seaweed.	Meristotheca	genus
+taxon rank	Macrhybopsis, the blacktail chubs, is a genus of cyprinid fish that are found in North America.	Macrhybopsis	genus
+taxon rank	Mnesiloba dentifascia was treated as a synonym of Mnesiloba eupitheciata, but was later re-instated as a valid species.	Mnesiloba eupitheciata	species
+taxon rank	Clanculus pharaonius, common name the strawberry topshell, is a species of sea snail, a marine gastropod mollusk in the family Trochidae, the top snails.	Clanculus pharaonius	species
+taxon rank	Rupicapra is a genus of goat antelope called chamois.	Rupicapra	genus
+taxon rank	Nodilittorina is a genus of small sea snails.	Nodilittorina	genus
+taxon rank	Thysanoteuthis rhombus, also known as the diamond squid or diamondback squid, is a large species of squid growing to 100 cm in mantle length and a maximum weight of 30 kg, although it averages around 20 kg. The species occurs worldwide, throughout tropical and subtropical waters.	Thysanoteuthis rhombus	species
+taxon rank	Nebria pektusanica is a species of ground beetle in the Nebriinae subfamily that can be found in Jilin province of China, at the elevation of 1,900--2,000 metres (6,200--6,600 ft).	Nebria pektusanica	species
+taxon rank	Montrichardia aquatica is an extinct species of monocot plant in the Araceae family.	Montrichardia aquatica	species
+taxon rank	Compsomantis is a genus of praying mantises concentrated in Indonesia and the Philippines.	Compsomantis	genus
+taxon rank	Erodium botrys is a species of flowering plant in the geranium family known by the common names longbeak stork's bill, Mediterranean stork's-billl and broadleaf filaree.	Erodium botrys	species
+taxon rank	Oleandra is a genus of fern in family Oleandraceae.	Oleandra	genus
+taxon rank	Odorrana bacboensis (common name: Tonkin frog) is a species of frog in the Ranidae family that is endemic to northern Vietnam.	Odorrana bacboensis	species
+taxon rank	Humidicutis is a small genus of brightly coloured agarics, the majority of which are found in Eastern Australia.	Humidicutis	genus
+taxon rank	Only a single species, Caspiodontornis kobystanicus, is known to date.	Caspiodontornis	species
+taxon rank	The genus Alectoris is a well-defined group of partridge species of the order Galliformes, allied with coturnix and snowcocks and also related to francolin and junglefowl.	Alectoris	genus
+taxon rank	Heuchera parviflora is a species of flowering plant in the saxifrage family known by the common names cave alumroot and littleflower alumroot.	Heuchera parviflora	species
+taxon rank	Opsarius is a genus of cyprinid fish found in southern Asia.	Opsarius	genus
+taxon rank	Placocheilus caudofasciatus is a species of cyprinid native to Laos, Vietnam and China in eastern Asia.	Placocheilus caudofasciatus	species
+taxon rank	Neopasiphae simplicior, a native bee, is an endangered species found near Perth, Western Australia.	Neopasiphae simplicior	species
+taxon rank	Trachelospermum asiaticum (common name Asiatic jasmine) is a species of flowering plant in the family Apocynaceae, native to Korea and Japan.	Trachelospermum asiaticum	species
+taxon rank	Beet yellows virus is transmitted by multiple species of aphid and causes a yellowing disease in Beta vulgaris and Spinacia oleracea.	Beet yellows virus	species
+taxon rank	Oreolalax popei (Pope's lazy toad or Baoxing toothed toad) is a species of amphibian in the Megophryidae family.	Oreolalax popei	species
+taxon rank	Phlebolobium maclovianum, known as Falkland rock-cress, is a species of flowering plant in the family Brassicaceae (Cruciferae).	Phlebolobium	species
+taxon rank	Palaeospheniscus is an extinct genus of penguins belonging to the subfamily Palaeospheniscinae.	Palaeospheniscus	genus
+taxon rank	The Amiidae are a family of basal ray-finned fishes.	Amiidae	family
+taxon rank	Bathybatini is a tribe of African cichlids endemic to Lake Tanganyika.	Bathybatini	tribe
+taxon rank	Cinctohammus cinctus is a species of beetle in the family Cerambycidae, and the only species in the genus Cinctohammus.	Cinctohammus cinctus	species
+taxon rank	Canscora diffusa is a plant species in the genus Canscora.	Canscora diffusa	species
+taxon rank	Chilodus is a genus of chilodontid headstanders from South America, found in the Orinoco and Amazon Basins, as well as various rivers in the Guianas.	Chilodus	genus
+taxon rank	Paratrichodorus minor is a species of nematode in the family Trichodoridae, the stubby-root nematodes.	Paratrichodorus minor	species
+taxon rank	The Flying barb, (Esomus thermoicos), is a species of barb in the family Cyprinidae.	Esomus thermoicos	species
+taxon rank	Falseunidia albosignata is a species of beetle in the family Cerambycidae, and the only species in the genus Falseunidia.	Falseunidia albosignata	species
+taxon rank	Rumfordia is a genus of Mesoamerican plants in the blackfoot tribe within the daisy family.	Rumfordia	genus
+taxon rank	Crematogaster is an ecologically diverse genus of ants found worldwide, which are characterised by a distinctive heart-shaped gaster (abdomen), which gives one of their common names, Valentine ant.	Crematogaster	genus
+taxon rank	Eremalche parryi is a species of flowering plant in the mallow family known by the common name Parry's mallow.	Eremalche parryi	species
+taxon rank	Xylocarpus granatum, the cannonball mangrove or cedar mangrove, is a species of mangrove in the mahogany family (Meliaceae).	Xylocarpus granatum	species
+taxon rank	Botrychium matricariifolium (orth.var. B. matricariaefolium) is a common species of fern known by the common names chamomile grape-fern, daisyleaf grape-fern, and matricary grape-fern.	Botrychium matricariifolium	species
+taxon rank	The Cenarchaeales are an order of the Thermoprotei, a class of Archaea.	Cenarchaeales	order
+taxon rank	The Atlantic puffin (Fratercula arctica), also known as the common puffin, is a species of seabird in the auk family.	Atlantic puffin	species
+taxon rank	Pogonia ophioglossoides, the snakemouth orchid or rose pogonia, is a species of orchid occurring from central Canada to the east-central and eastern United States.	Pogonia ophioglossoides	species
+taxon rank	Ophiodermella is a genus of sea snails, marine gastropod mollusks in the family Borsoniidae.	Ophiodermella	genus
+taxon rank	Gruberellidae is a family of Heterolobosea.	Gruberellidae	family
+taxon rank	Petroscirtes pylei, the Twilight fangblenny, is a species of combtooth blenny found in the western central Pacific ocean, around Fiji.	Petroscirtes pylei	species
+taxon rank	Chorispora tenella is a species of plant in the mustard family known by several common names, including purple mustard, blue mustard, musk mustard, and crossflower.	Chorispora tenella	species
+taxon rank	Koloonella tomacula is a species of sea snail, a marine gastropod mollusk in the family Murchisonellidae, the pyrams and their allies.	Koloonella tomacula	species
+taxon rank	Agelas clathrodes, also known as the orange elephant ear sponge, is a species of demosponge.	Agelas clathrodes	species
+taxon rank	Isolobodon is an extinct genus of rodent in the family Capromyidae.	Isolobodon	genus
+taxon rank	Carcinosomatidae is a family of extinct arthropods in the class Eurypterida.	Carcinosomatidae	family
+taxon rank	Austrochilidae is a small spider family with nine species in three genera.	Austrochilidae	family
+taxon rank	Clupeichthys is a genus of sprats, herring-like fishes, that occur in rivers in Southeast Asia.	Clupeichthys	genus
+taxon rank	Barbodes wynaadensis is a species of cyprinid fish endemic to India where it can be found in fast-flowing rivers and streams with rock substrates.	Barbodes wynaadensis	species
+taxon rank	Tryella is a genus of 14 species of cicada found in Australia and New Guinea.	Tryella	genus
+taxon rank	Akihito vanuatu, the Vanuatu's Emperor, is a species of fish in the family Gobiidae, the gobies.	Akihito vanuatu	species
+taxon rank	Kennedia prostrata, commonly known as running postman or scarlet runner, is a species of flowering plant in the family Fabaceae, endemic to Australia.	Kennedia prostrata	species
+taxon rank	Escherichia phage H8 (or bacteriophage H8) is a bacteriophage known to infect bacterial species of the genus Escherichia and the related genus Salmonella.	Escherichia phage H8	species
+taxon rank	Eurohippus is an extinct genus of equid ungulate.	Eurohippus	genus
+taxon rank	Bufo stomaticus (commonly known as the Indian marbled toad, Assam toad, Indus Valley toad, or marbled toad) is a species of toad found in Asia from Iran, Pakistan, Afghanistan to Nepal extending into Peninsular India from the plains to about 1800m.	Bufo stomaticus	species
+taxon rank	Scaptia beyonceae is a species of horse fly found in the Atherton Tablelands in north-east Queensland, Australia.	Scaptia beyonceae	species
+taxon rank	Ladamarekiidae is an extinct family of Paleozoic fossil molluscs of uncertain position.	Ladamarekiidae	family
+taxon rank	Crepidodera fulvicornis is a species of flea beetle from Chrysomelidae family that can be found everywhere in Europe, except for Albania, Andorra, Croatia, Moldova, San Marino, Vatican City, and various European islands.	Crepidodera fulvicornis	species
+voice type	Matti Salminen (born 7 July 1945, in Turku) is a Finnish operatic bass singer, who has sung at the most important opera houses of the world, including the Metropolitan and Bayreuth Festival.	Matti Salminen	bass
+voice type	Ines Maria Ferraris (also Ina Maria Ferraris) (6 May 1882 in Turin -- 11 December 1971 in Milan) was an Italian operatic soprano and pianist who sang for more than two decades at La Scala in addition to appearances on the international stage.	Ines Maria Ferraris	soprano
+voice type	Ali McGregor is an Australian soprano opera singer, actress and cabaret performer.	Ali McGregor	soprano
+voice type	Francesco Benucci (ca. 1745 -- 5 April 1824) was an outstanding Italian bass/baritone singer of the 18th century.	Francesco Benucci	bass
+voice type	Maria Galvany or María Galvany (1878? - 2 November 1944) was a Spanish coloratura soprano known for her showy, virtuoso singing technique.	Maria Galvany	soprano

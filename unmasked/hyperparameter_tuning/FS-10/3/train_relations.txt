@@ -1,0 +1,25 @@
+author
+award received
+country
+country of citizenship
+country of origin
+creator
+date of death
+developer
+dissolved or abolished
+founder
+headquarters location
+licensed to broadcast to
+member of political party
+member of sports team
+military branch
+narrative location
+original network
+parent taxon
+performer
+publication date
+publisher
+sex or gender
+sport
+spouse
+voice type

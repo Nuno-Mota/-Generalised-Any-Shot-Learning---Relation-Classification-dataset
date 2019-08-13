@@ -1,0 +1,625 @@
+IUCN conservation status	The Cardamon Garra (Garra hughi) is an endangered species of ray-finned fish in the genus Garra.	Garra hughi	endangered species
+IUCN conservation status	Kitti's hog-nosed bat (Craseonycteris thonglongyai), also known as the bumblebee bat, is a vulnerable species of bat and the only extant member of the family Craseonycteridae.	Kitti's hog-nosed bat	vulnerable
+IUCN conservation status	Widespread throughout its large range, Wilson's storm petrel is evaluated as least concern on the IUCN Red List of Threatened Species.	Wilson's storm petrel	least concern
+IUCN conservation status	The Chinese bahaba is threatened by massive overfishing that continues despite legal protection in the mainland China (but not in Hong Kong); it has been listed as critically endangered by the International Union for Conservation of Nature.	Chinese bahaba	critically endangered
+IUCN conservation status	The Bornean white-bearded gibbon, (Hylobates albibarbis), also known as the Bornean agile gibbon or southern gibbon, is an endangered species of gibbon endemic to southern Borneo, between the Kapuas and Barito rivers.	Bornean white-bearded gibbon	endangered species
+IUCN conservation status	Cyclura rileyi cristata, commonly known as the White Cay Iguana or Sandy Cay Rock Iguana, is a critically endangered subspecies of lizard of the genus Cyclura native to a single cay in the Bahamas:	Cyclura rileyi cristata	critically endangered
+IUCN conservation status	The European badger is classified as being of least concern by the IUCN as it has a wide range and a large population size which is stable, and even increasing in some areas.	European badger	least concern
+IUCN conservation status	Adrianichthys kruyti (the duckbilled buntingi or duck-bill Poso minnow) is a critically endangered species of ricefish that is endemic to Lake Poso, Sulawesi, Indonesia.	Adrianichthys kruyti	critically endangered
+IUCN conservation status	Widespread throughout its large range, the Swinhoe's storm petrel was previously evaluated as least concern on the IUCN Red List of Threatened Species, but was uplisted to near threatened in 2012.	Swinhoe's storm petrel	near threatened
+IUCN conservation status	Aipysurus foliosquama, also known as the leaf-scaled sea snake, is a critically endangered species of venomous sea snake in the family Elapidae.	Aipysurus foliosquama	critically endangered
+IUCN conservation status	As a result, the June sucker has become ``critically endangered'' as the pure species is lost as a result of hybridisation with the Utah sucker, and predatory fish feed on its larvae.	June sucker	critically endangered
+IUCN conservation status	The IUCN Redlist 3.1, which uses the Birdlife International checklist, lumps the common and widespread grey-headed parrot with Cape parrots and brown-necked parrots, each of which are more narrowly distributed and more threatened, leading to an assessment of least concern.	Cape parrot	least concern
+IUCN conservation status	Eriocaulon santapaui is a critically endangered monocotyledonous plant endemic to the Western Ghats around Khandala and Pune in the state of Maharashtra, India.	Eriocaulon santapaui	critically endangered
+IUCN conservation status	Nicrophorus americanus, also known as the American burying beetle or giant carrion beetle, is a critically endangered species of beetle endemic to North America.	Nicrophorus americanus	critically endangered
+IUCN conservation status	Adansonia perrieri (Perrier's Baobab) is an endangered species in the genus Adansonia.	Adansonia perrieri	endangered species
+IUCN conservation status	Isoetes sinensis is recorded to be a critically endangered species due to industrial development and agricultural expansion.	Isoetes sinensis	critically endangered
+IUCN conservation status	Salmo ezenami is a critically endangered freshwater salmonid fish, endemic to Lake Kezenoi-Am (Lake Eizenam) in Northern Caucasus.	Salmo ezenami	critically endangered
+IUCN conservation status	The Araripe manakin (Antilophia bokermanni) is a critically endangered bird from the family of manakins (Pipridae).	Araripe manakin	critically endangered
+IUCN conservation status	The Fiji crested iguana or Fijian crested iguana (Brachylophus vitiensis) is a critically endangered species of iguana native to some of the northwestern islands of the Fijiian archipelago, where it is found in dry forest.	Fiji crested iguana	critically endangered
+IUCN conservation status	The Mindanao horned frog is currently listed as vulnerable on the endangered species scale because its distribution is rather fragmented; it covers an area of less than 20,000 km2 and is continuously shrinking due to deforestation.	Mindanao horned frog	vulnerable
+IUCN conservation status	Jeypore Indian gecko (Geckoella jeyporensis), also known as the Jeypore ground gecko or the Patinghe Indian gecko, is a critically endangered species of gecko found in India, which was until recently considered extinct.	Geckoella jeyporensis	critically endangered
+IUCN conservation status	The Jefferson salamander is a species of least concern globally, but its habitat is threatened in parts of its range.	Jefferson salamander	least concern
+IUCN conservation status	Paretroplus maromandia is an endangered species of cichlid fish from fresh and brackish water in northwestern Madagascar, where known from the Maintsomalaza, Andranomalaza and Maevarano Rivers, and Lake Andrapongy.	Paretroplus maromandia	endangered species
+IUCN conservation status	Due to small and declining population, the MacGregor's honeyeater is evaluated as vulnerable on the IUCN Red List of Threatened Species.	MacGregor's honeyeater	vulnerable
+IUCN conservation status	The Siau scops owl (Otus manadensis siaoensis) is a critically endangered owl and may be extinct.	Siau scops owl	critically endangered
+IUCN conservation status	Ravenea rivularis is an endangered species of flowering plant in the Arecaceae family.	Ravenea rivularis	endangered species
+IUCN conservation status	The Taita thrush (Turdus helleri), also known as Taita olive thrush or Heller's ground thrush, is a critically endangered bird from the family of thrushes (Turdidae), endemic to the Taita Hills in Kenya.	Taita thrush	critically endangered
+IUCN conservation status	Ctenitis squamigera, commonly known as the Pacific Lacefern or Pauoa, is a critically endangered species of fern found only on the islands of Hawaii.	Ctenitis squamigera	critically endangered
+IUCN conservation status	The IUCN has classed Brugmansia arborea as Extinct in the Wild.	Brugmansia arborea	Extinct in the Wild
+IUCN conservation status	Poecilotheria hanumavilasumica, also known as the Rameshwaram ornamental, or Rameshwaram parachute spider, is a critically endangered species of tarantula earlier thought endemic to Ramanathapuram district in the state of Tamil Nadu, India.	Poecilotheria hanumavilasumica	critically endangered
+chromosome	FAM46C is found on chromosome 1 at the locus 1p12 FAM46C contains one domain of unknown function, DUF1693, and as such has been placed in the DUF1693 protein family.	FAM46C	chromosome 1
+chromosome	The human DLC1 gene is located on the short arm of chromosome 8 (8p21.3-22), within a region that frequently undergoes loss of heterozygosity by either genomic deletion or epigenetic silencing mechanisms in several types of solid cancers.	DLC1	chromosome 8
+chromosome	The FZD9 gene is located within the Williams syndrome common deletion region of chromosome 7, and heterozygous deletion of the FZD9 gene may contribute to the Williams syndrome phenotype.	FZD9	chromosome 7
+chromosome	Interestingly, mutations in region q23.1 of human chromosome 6 -- the same chromosome that codes for TAAR1 -- have been linked to schizophrenia.	TAAR1	chromosome 6
+chromosome	An NIDCD-supported investigator recently has identified a mutation in a gene on chromosome 6, called the KIAA0319 gene, that appears to play a key role in Specific Language Impairment.	KIAA0319	chromosome 6
+chromosome	The FMR1 gene is located on the X chromosome and contains a DNA segment called CGG trinucleotide.	FMR1	X chromosome
+chromosome	The DHRS7B gene is located on the positive strand of chromosome 17, beginning at position 21030258 and ending at position 21094836 (64579 bp).	DHRS7B	chromosome 17
+chromosome	In humans, the CD38 protein is encoded by the CD38 gene which is located on chromosome 4.	CD38	chromosome 4
+chromosome	ATP-binding cassette sub-family A member 13 also known as ABCA13 is a protein that in humans is encoded by the ABCA13 gene on chromosome 7.	ABCA13	chromosome 7
+chromosome	The E-selectin locus flanks the L-selectin locus on chromosome 1.	E-selectin	chromosome 1
+chromosome	CCDC90B is located on chromosome 11 in humans.	CCDC90B	chromosome 11
+chromosome	The gene for CXCL13 is located on human chromosome 4 in a cluster of other CXC chemokines.	CXCL13	chromosome 4
+chromosome	The human OCA2 gene is located on the long arm (q) of chromosome 15, specifically from base pair 28,000,020 to base pair 28,344,457 on chromosome 15.	OCA2	chromosome 15
+chromosome	Chitinase domain-containing protein 1 (CHID1) is a highly conserved protein of unknown function located on the short (p) arm of chromosome 11 near the telomere.	Chitinase domain-containing protein 1	chromosome 11
+chromosome	In humans, C7orf43 is located in the long arm of human chromosome 7 (7q22.1), and is on the negative (antisense) strand.	C7orf43	chromosome 7
+chromosome	The gene for CCL20 (scya20) is located on chromosome 2 in humans.	CCL20	chromosome 2
+chromosome	Neuroblastoma breakpoint family, member 3, also known as NBPF3, is a human gene of the neuroblastoma breakpoint family, which resides on chromosome 1 of the human genome.	NBPF3	chromosome 1
+chromosome	Galectin-3 is encoded by a single gene, LGALS3, located on chromosome 14, locus q21--q22.	Galectin-3	chromosome 14
+drafted by	Marcus Foligno (born August 10, 1991) is an American-Canadian professional ice hockey player, who plays for the Buffalo Sabres of the National Hockey League (NHL).	Marcus Foligno	Buffalo Sabres
+drafted by	Blaine Stoughton (born March 13, 1953) is a Canadian retired professional ice hockey forward who played eight seasons in the NHL for the Pittsburgh Penguins, Toronto Maple Leafs, Hartford Whalers and New York Rangers, which ``bookended'' three seasons in the WHA.	Blaine Stoughton	Pittsburgh Penguins
+drafted by	Pierre-Luc Létourneau-Leblond (born June 4, 1985) is a Canadian professional ice hockey left winger who is currently playing with the New Jersey Devils of the National Hockey League (NHL).	Pierre-Luc Létourneau-Leblond	New Jersey Devils
+drafted by	Adam Mair (born February 15, 1979) is a Canadian former professional ice hockey centre who played in the National Hockey League (NHL) with the Toronto Maple Leafs, Los Angeles Kings, Buffalo Sabres and the New Jersey Devils.	Adam Mair	Toronto Maple Leafs
+drafted by	Simon Lajeunesse (born January 22, 1981) is a retired Canadian professional ice hockey goaltender who played in one National Hockey League game for the Ottawa Senators during the 2001--02 NHL season.	Simon Lajeunesse	Ottawa Senators
+drafted by	Jahlil Okafor (pronounced /ˈdʒɑː liːl/; born December 15, 1995) is an American professional basketball player who plays for the Philadelphia 76ers of the National Basketball Association (NBA).	Jahlil Okafor	Philadelphia 76ers
+drafted by	Scott Haffner (born February 2, 1966) is a retired American professional basketball player who graduated from Noblesville High School, Indiana and was selected by the Miami Heat in the 2nd round (45th overall) of the 1989 NBA Draft.	Scott Haffner	Miami Heat
+drafted by	Ryan Robertson (born October 2, 1976) is an American former professional basketball player who was selected by the Sacramento Kings in the 2nd round (45th pick) of the 1999 NBA Draft.	Ryan Robertson	Sacramento Kings
+drafted by	Eddie Mast (October 3, 1948 -- October 18, 1994) was an American professional basketball player for the New York Knicks and Atlanta Hawks of the NBA.	Eddie Mast	New York Knicks
+drafted by	Olaf Kölzig (born April 6, 1970), known as Olie the Goalie or Godzilla, is a South African-born German former professional ice hockey goaltender, subsequently the goaltender coach and now player development coach for the Washington Capitals of the National Hockey League (NHL).	Olaf Kölzig	Washington Capitals
+drafted by	Ludwig Blomstrand (born March 8, 1993) is a Swedish professional ice hockey player who currently plays for the Kalamazoo Wings in the ECHL as a prospect for the Vancouver Canucks of the National Hockey League (NHL).	Ludwig Blomstrand	Vancouver Canucks
+drafted by	Adrien Plavsic (born January 13, 1970 in Montreal, Quebec and raised in Dollard, Quebec) is a Canadian ice hockey defenceman who played in the National Hockey League for the St. Louis Blues, Vancouver Canucks, Tampa Bay Lightning and the Mighty Ducks of Anaheim.	Adrien Plavsic	St. Louis Blues
+drafted by	Chris Carrawell (born November 25, 1977) is an American professional basketball player who was selected by the San Antonio Spurs in the 2nd round (41st overall) of the 2000 NBA Draft.	Chris Carrawell	San Antonio Spurs
+drafted by	Jozef Stümpel was selected in the 2nd round, 40th overall, by the Boston Bruins in the 1991 NHL Entry draft, and immediately joined the Bruins organization.	Jozef Stümpel	Boston Bruins
+drafted by	Bruce Greig (May 9, 1953 -- May 24, 2008) was a professional ice hockey winger who played nine games for the California Golden Seals of the National Hockey League and 60 games for the Calgary Cowboys, Cincinnati Stingers and Indianapolis Racers of the World Hockey Association.	Bruce Greig	California Golden Seals
+drafted by	Maxime Ouellet (born June 17, 1981) is a Canadian former professional ice hockey goaltender who played in the National Hockey League (NHL) for the Philadelphia Flyers, Washington Capitals and Vancouver Canucks.	Maxime Ouellet	Philadelphia Flyers
+drafted by	Dennis Schröder (German pronunciation: (ˈʃʀøːdɐ); born September 15, 1993) is a German professional basketball player for the Atlanta Hawks of the National Basketball Association (NBA).	Dennis Schröder	Atlanta Hawks
+drafted by	Ben Kelso (born April 11, 1949) is an American former NBA player for the Detroit Pistons.	Ben Kelso	Detroit Pistons
+drafted by	Oskar Sundqvist (born 23 March 1994) is a Swedish professional ice hockey centre currently under contract with the Pittsburgh Penguins of the National Hockey League (NHL).	Oskar Sundqvist	Pittsburgh Penguins
+drafted by	Ryan Bourque (born January 3, 1991) is an American ice hockey forward in the New York Rangers organization who is currently playing for and serving as the captain of the Hartford Wolf Pack of the American Hockey League.	Ryan Bourque	New York Rangers
+drafted by	Calvin Pickard (born April 15, 1992) is a Canadian professional ice hockey goaltender who currently plays for the Colorado Avalanche of the National Hockey League (NHL).	Calvin Pickard	Colorado Avalanche
+drafted by	Aleksandrs Kerčs (born March 16, 1967 in Arkhangelsk, Soviet Union) is a Latvian retired professional ice hockey left winger who played five games in the National Hockey League (NHL) for the Edmonton Oilers.	Aleksandrs Kerčs	Edmonton Oilers
+drafted by	Stéphane Veilleux (born November 16, 1981) is a Canadian professional ice hockey left winger, currently an unrestricted free agent who last played in the Minnesota Wild organization of the National Hockey League.	Stéphane Veilleux	Minnesota Wild
+film editor	The Pinchcliffe Grand Prix (Norwegian: Flåklypa Grand Prix) is a Norwegian stop motion-animated feature film directed by Ivo Caprino.	The Pinchcliffe Grand Prix	Ivo Caprino
+film editor	In parallel to the preparations for the production of Berlin Alexanderplatz Fassbinder worked with film editor Juliane Lorenz on the editing and post-production of The Marriage of Maria Braun.	The Marriage of Maria Braun	Juliane Lorenz
+film editor	The Police Officer's Wife (German: Die Frau des Polizisten) is a 2013 German drama film directed by Philip Gröning.	The Police Officer's Wife	Philip Gröning
+film editor	As White as in Snow (Swedish title: Så vit som en snö) is a Swedish film directed by Jan Troell.	As White as in Snow	Jan Troell
+film editor	Savana violenta (1976) (English: Violent Savanna), also known as This Violent World and Mondo Violence, is a Mondo film directed by Antonio Climati and Mario Morra.	Savana violenta	Mario Morra
+film editor	Desierto is a 2015 Mexican thriller film directed by Jonás Cuarón.	Desierto	Jonás Cuarón
+film editor	A Trip to the Moon (French: Le Voyage dans la Lune) is a 1902 French silent film directed by Georges Méliès.	A Trip to the Moon	Georges Méliès
+film editor	The Sea Inside (Spanish: Mar adentro) is a 2004 Spanish drama film written, produced, directed and scored by Alejandro Amenábar.	The Sea Inside	Alejandro Amenábar
+film editor	Gods of the Plague (German: Götter der Pest) is a 1970 West German black-and-white drama film directed by Rainer Werner Fassbinder.	Gods of the Plague	Rainer Werner Fassbinder
+film editor	La segretaria per tutti is a 1933 Italian comedy film directed by Amleto Palermi and featuring Vittorio De Sica.	La segretaria per tutti	Amleto Palermi
+film editor	The Whispering Chorus is a 1918 American silent drama film directed by Cecil B. DeMille.	The Whispering Chorus	Cecil B. DeMille
+film editor	Seven Chances is a 1925 American comedy silent film directed by and starring Buster Keaton, based on a play written by Roi Cooper Megrue, produced in 1916 by David Belasco.	Seven Chances	Buster Keaton
+film editor	Eli Sjursdotter is a 1938 Norwegian drama film directed by Arne Bornebusch and Leif Sinding, starring Sonja Wigert, Ingjald Haaland and Sten Lindgren.	Eli Sjursdotter	Leif Sinding
+film editor	Growing Artichokes in Mimongo (Italian: Cresceranno i carciofi a Mimongo) is a 1996 Italian independent comedy film directed by Fulvio Ottaviano.	Growing Artichokes in Mimongo	Fulvio Ottaviano
+film editor	Dark Blue World was a major winner at the 2002 Czech Lion Awards with Box Office Award, Critics' Award Jan Sverák for Best Director, Vladimír Smutný for Best Cinematography, Ondrej Soukup for Best Music and Alois Fisárek for Best Editing.	Dark Blue World	Alois Fisárek
+film editor	Why Does Herr R. Run Amok? (German: Warum läuft Herr R. Amok?) is a 1970 German drama film directed by Rainer Werner Fassbinder and Michael Fengler.	Why Does Herr R. Run Amok?	Rainer Werner Fassbinder	Michael Fengler
+film editor	At the 79th Academy Awards on February 25, 2007, The Departed won four Academy Awards: for Best Picture (Graham King), Best Director (Martin Scorsese), Best Film Editing (Thelma Schoonmaker), and Best Adapted Screenplay (William Monahan).	The Departed	Thelma Schoonmaker
+film editor	Glass Lips is a feature film with almost no words, directed by Lech Majewski.	Glass Lips	Lech Majewski
+film editor	Film Editor Daniel Mandell won an Academy Award for his work on The Pride of the Yankees.	The Pride of the Yankees	Daniel Mandell
+film editor	Andata e ritorno (English: Go and back) is a documentary-movie produced in 1985 by movie director Daniele Segre.	Andata e ritorno	Daniele Segre
+film editor	The Girl Who Returned is a 1969 American comedy film, notable as the directorial debut of Lloyd Kaufman, future co-founder and president of Troma Entertainment.	The Girl Who Returned	Lloyd Kaufman
+film editor	Executive Decision is a 1996 American disaster action film directed by Stuart Baird in his directorial debut.	Executive Decision	Stuart Baird
+film editor	Identification of a Woman (Italian: Identificazione di una donna) is a 1982 Italian drama film written, directed, and edited by Michelangelo Antonioni and starring Tomás Milián, Daniela Silverio, and Christine Boisson.	Identification of a Woman	Michelangelo Antonioni
+film editor	The Turin Horse (Hungarian: A torinói ló) is a 2011 Hungarian philosophical drama film directed by Béla Tarr and Ágnes Hranitzky, starring János Derzsi, Erika Bók and Mihály Kormos.	The Turin Horse	Ágnes Hranitzky
+film editor	Korkuyorum Anne! (English title: Mommy, I'm Scared!) is a 2004 Turkish comedy film written and directed by Reha Erdem.	Mommy, I'm Scared	Reha Erdem
+film editor	Abraham's Valley (Portuguese: Vale Abraão) is a 1993 Portuguese-language drama film directed by Manoel de Oliveira, based on a novel by Agustina Bessa-Luís.	Abraham's Valley	Manoel de Oliveira
+film editor	Sherlock Jr. (1924) is an American silent comedy film directed by and starring Buster Keaton and written by Clyde Bruckman, Jean Havez and Joseph A. Mitchell.	Sherlock Jr.	Buster Keaton
+found in taxon	CTP synthase 1 is an enzyme that in human s is encoded by the CTPS gene.	CTP synthase 1	human
+found in taxon	CD94 (Cluster of Differentiation 94), also known as killer cell lectin-like receptor subfamily D, member 1 (KLRD1) is a human gene.	KLRD1	human
+found in taxon	CDCP1 is widely expressed in human epithelial tissues, but its phosphorylation is only seen in mitotically detached or shedding cells, consistent with its role in the negative regulation of cell adhesion.	CDCP1	human
+found in taxon	dolichyl-phosphate mannosyltransferase polypeptide 3, also known as DPM3, is a human gene.	DPM3	human
+found in taxon	Sterile alpha motif and leucine zipper containing kinase AZK, also known as ZAK, is a human gene.	ZAK	human
+found in taxon	More recently, ICAM-1 has been characterized as a site for the cellular entry of human rhinovirus.	ICAM-1	human
+found in taxon	RNA, 5S cluster 1, also known as RN5S1@, is a human gene encoding the 5S subunit of ribosomal RNA.	RN5S1@	human
+found in taxon	This property was conserved from the human QSER1 to the Coelacanth QSER1.	QSER1	human
+found in taxon	CARM1 (coactivator-associated arginine methyltransferase 1), also known as PRMT4 (protein arginine N-methyltransferase 4), is an enzyme (EC 2.1.1.125) encoded by the CARM1 gene found in human beings, as well as many other mammals.	CARM1	human
+found in taxon	DnaJ (Hsp40) homolog, subfamily C, member 13, also known as DNAJC13, is a human gene.	DNAJC13	human
+found in taxon	The UQCR11 protein may function as a binding factor for the iron-sulfur protein in Complex III, which is ubiquitous in human cells.	UQCR11	human
+found in taxon	Paracaspases (human: MALT1) are members of the C14 family of cysteine proteases.	Paracaspase	human
+found in taxon	zinc finger, also known as ZDHHC2, is a human gene.	ZDHHC2	human
+found in taxon	Reversion-inducing-cysteine-rich protein with kazal motifs, also known as RECK, is a human gene, thought to be a metastasis suppressor.	RECK	human
+found in taxon	HMG-box transcription factor 1, also known as HBP1, is a human protein.	HBP1	human
+found in taxon	Hepatoma-derived growth factor, related protein 3, also known as HDGFRP3, is a human gene.	HDGFRP3	human
+found in taxon	Zymogen granule protein 16, also known as ZG16, is a human gene.	ZG16	human
+found in taxon	Interleukin 17 receptor A, also known as IL17RA and CDw217 (cluster of differentiation w217), is a human gene.	IL17RA	human
+found in taxon	Naked cuticle 2 (NKD2) is a human gene that encodes the protein Nkd2, one of the Naked cuticle (Nkd) family of proteins that regulate the Wnt signaling pathway.	Naked cuticle 2	human
+found in taxon	It is the homologue of the human ``G/T binding protein,'' (GTBP) also called p160 or hMSH6 (human MSH6).	MSH6	human
+found in taxon	Galactose mutarotase (aldose 1-epimerase) (gene name GALM) is a human enzyme that converts alpha-aldose to the beta-anomer.	Galactose mutarotase	human
+found in taxon	GPR156 (G protein-coupled receptor 156), is a human gene which encodes a G protein-coupled receptor belonging to metabotropic glutamate receptor subfamily.	GPR156	human
+found in taxon	Heat shock protein 47, also known as SERPINH1 is a serpin which serves as a human chaperone protein for collagen.	Heat shock protein 47	human
+found in taxon	The gene CLPB encodes protein Caseinolytic peptidase B protein homolog in human.	CLPB	human
+found in taxon	Many scientists state that there are no known polymorphisms of the human PER1 gene with significance at a population level that results in measurable behavioral or physiological changes.	PER1	human
+found in taxon	In addition, S100B, which is also present in human melanocytes, is a reliable marker for melanoma malignancy both in bioptic tissue and in serum.	S100B	human
+found in taxon	Potassium inwardly-rectifying channel, subfamily J, member 13 (KCNJ13) is a human gene encoding the Kir7.1 protein.	KCNJ13	human
+found in taxon	FAM135B is a human gene coding for a protein of unknown function.	FAM135B	human
+found in taxon	DPα and DPβ are encoded by two loci, HLA-DPA1 and HLA-DPB1, that are found in the MHC Class II (or HLA-D) region in the Human Leukocyte Antigen complex on human chromosome 6 (see protein boxes on right for links).	HLA-DP	human
+found in taxon	DEAD (Asp-Glu-Ala-Asp) box polypeptide 31, also known as DDX31, is a human gene.	DDX31	human
+found in taxon	Hippocalcin like 4, also known as HPCAL4, is a human gene.	HPCAL4	human
+found in taxon	BTLA activation inhibits the function of human CD8+ cancer-specific T cells.	BTLA	human
+found in taxon	The human gene MARCH5, also known as MITOL or RNF153, has 7 Exons and locates at the chromosome band 10q23.32-q23.33.	MARCH5	human
+found in taxon	Glutamate dehydrogenase pseudogene 5, also known as GLUDP5, is a human gene.	GLUDP5	human
+found in taxon	Histone H3s are coded by several genes in the human genome, including:	Histone H3	human
+found in taxon	RuvB-like 1 (E. coli), also known as RUVBL1 and TIP49, is a human gene.	RuvB-like 1	human
+found in taxon	Protein kinase LYK5, also known as LYK5 or STRADα, is a human protein and also denotes the gene encoding it.	LYK5	human
+found in taxon	MAS-related GPR, member F, also known as MRGPRF, is a human gene.	MRGPRF	human
+found in taxon	Exosome component 9, also known as EXOSC9, is a human gene, the protein product of which is part of the exosome complex and is an autoantigen is patients with certain auto immune diseases, most notably scleromyositis.	Exosome component 9	human
+found in taxon	Regulator of G-protein signalling 9, also known as RGS9, is a human gene, which codes for a protein involved in regulation of signal transduction inside cells.	RGS9	human
+found in taxon	Calcitonin receptor-like (CALCRL), also known as the calcitonin receptor-like receptor (CRLR), is a human protein.	CALCRL	human
+found in taxon	AHSA2 also known as AHA1, activator of heat shock 90kDa protein ATPase homolog 2 (yeast) is a human gene which encodes a protein which acts as co-chaperone of Hsp90 (heat shock protein 90).	AHSA2	human
+found in taxon	TRAF6 is a TRAF human protein.	TRAF6	human
+found in taxon	Exosome component 8, also known as EXOSC8, is a human gene, the protein product of which is part of the exosome complex.	Exosome component 8	human
+found in taxon	SLITRK1 (``SLIT and NTRK-like family, member 1'') is a human gene on chromosome 13q31.1.	SLITRK1	human
+found in taxon	Resting human cholangiocytes express PD-L1 mRNA, but not the protein, due to translational suppression by microRNA miR-513.	PD-L1	human
+found in taxon	Cytochrome P450, family 3, subfamily A, also known as CYP3A, is a human gene.	CYP3A	human
+found in taxon	CD69 (Cluster of Differentiation 69) is a human transmembrane C-Type lectin protein encoded by the CD69 gene.	CD69	human
+found in taxon	Heat shock 70kDa protein 1B, also known as HSPA1B, is a human gene.	HSPA1B	human
+found in taxon	Ribonucleoprotein, PTB-binding 1 (also known as RAVER1), is a human gene.	RAVER1	human
+found in taxon	BRCA2 and BRCA2 (/ˌbrækəˈtuː/) are a human gene and its protein product, respectively.	BRCA2	human
+found in taxon	β-Lipotropin is the predominant opioid of the anterior human and rat pituitary gland.	Lipotropin	human
+found in taxon	They also discovered a sequence of human cDNA that showed strong homology to GAB1 cDNA, which they termed GAB2.	GAB2	human
+found in taxon	UBE3A-ATS/Ube3a-ATS (human/mouse), otherwise known as ubiquitin ligase E3A-ATS, is the name for the antisense DNA strand that is transcribed as part of a larger transcript called LNCAT (large non-coding antisense transcript) at the Ube3a locus.	Ube3a-ATS	human
+from fictional universe	The humans mistake Ikaris for a bird, and (per Marvel Universe history) he is memorialized as the dove that guided Noah to the Mountains of Ararat (Eternals vol. 1, #2).	Ikaris	Marvel Universe
+from fictional universe	Mirror Master is a supervillain in the DC Universe.	Mirror Master	DC Universe
+from fictional universe	Veterinary student Jeff Christiansen, who would later become the force behind the resurgence of the Official Handbooks of the Marvel Universe in the mid-2000s was made the official Captain Universe of the comic so that it could be considered an in-continuity comic.	Captain Universe	Marvel Universe
+from fictional universe	The First Evil has appeared in 16 canonical Buffyverse episodes:	First Evil	Buffyverse
+from fictional universe	Rincewind is a fictional character appearing in several of the Discworld novels by Terry Pratchett.	Rincewind	Discworld
+from fictional universe	The Ankh-Morpork Assassins' Guild is a professional organisation and school for assassins in Terry Pratchett's long-running Discworld series of fantasy novels.	Ankh-Morpork Assassins' Guild	Discworld
+from fictional universe	Madison Jeffries received an entry in the Official Handbook of the Marvel Universe Deluxe Edition #6, and the Official Handbook of the Marvel Universe Update '89 #1, and the All-New Official Handbook of the Marvel Universe A-Z #5 (2006).	Madison Jeffries	Marvel Universe
+from fictional universe	Kiber the Cruel received an entry in the Official Handbook of the Marvel Universe Deluxe Edition #18.	Kiber the Cruel	Marvel Universe
+from fictional universe	Beast Man is a fictional character in the popular toy line and cartoon series Masters of the Universe; the savage right-hand man of Skeletor, he has control over many wild creatures and has brute strength.	Beast Man	Masters of the Universe
+from fictional universe	Nekra received an entry in the original Official Handbook of the Marvel Universe #8, and in the Official Handbook of the Marvel Universe Deluxe Edition #9, and the All-New Official Handbook of the Marvel Universe A-Z #8 (2006).	Nekra	Marvel Universe
+from fictional universe	In 2012, GamesRadar ranked him as the sixth ``most memorable, influential, and badass'' protagonist in games, adding: ``It's how the characters of the Half-Life universe treat Gordon Freeman, not the way he treats them, that shape such a compelling character.''	Gordon Freeman	Half-Life universe
+from fictional universe	Llan the Sorcerer, a fictional character in the Marvel Universe, is an ancient evil who has been an enemy of Alpha Flight.	Llan the Sorcerer	Marvel Universe
+from fictional universe	Grand Jedi Master Yoda is among the oldest and most powerful known Jedi Masters in the Star Wars universe.	Yoda	Star Wars universe
+from fictional universe	Valinor (Land of the Valar) is a fictional location in J. R. R. Tolkien's legendarium, the realm of the Valar in Aman.	Valinor	Tolkien's legendarium
+from fictional universe	The Spirit King is a character in the fictional DC Universe; he was initially an adversary of the original Mister Terrific, but later expanded to be a threat to the entire Justice Society, particularly the Spectre and the Flash.	Spirit King	DC Universe
+from fictional universe	Sespech is a location on Faerûn, a fictional continent, the primary setting of the Forgotten Realms, for Dungeons & Dragons.	Sespech	Forgotten Realms
+from fictional universe	Dr. Valerie Cooper received an entry in the Official Handbook of the Marvel Universe Update '89 #2.	Valerie Cooper	Marvel Universe
+from fictional universe	Frodo Baggins is a fictional character in J. R. R. Tolkien's legendarium, and one of the protagonists of The Lord of the Rings.	Frodo Baggins	Tolkien's legendarium
+from fictional universe	Y'golonac (the Defiler) is a fictional deity in the Cthulhu Mythos.	Y'golonac	Cthulhu Mythos
+from fictional universe	The Fearsome Five appears in DC Universe Online.	Fearsome Five	DC Universe
+from fictional universe	Hell's Belles is a fictional supervillain team in the Marvel Universe, composed of female mutant terrorists.	Hell's Belles	Marvel Universe
+from fictional universe	Aihal is the true name of a fictional character in Ursula K. Le Guin's Earthsea realm.	Aihal	Earthsea
+from fictional universe	Gorilla-Man appeared as part of the ``Headmen'' entry in the original Official Handbook of the Marvel Universe #5, and in the Official Handbook of the Marvel Universe Update '89 #3.	Gorilla-Man	Marvel Universe
+from fictional universe	Clarabelle Cow is a Disney fictional character within the Mickey Mouse universe of characters.	Clarabelle Cow	Mickey Mouse universe
+from fictional universe	John D. Rockerduck is a fictional character from the Duck universe.	John D. Rockerduck	Duck universe
+from fictional universe	Count Hasimir Fenring is a fictional character in the Dune universe created by Frank Herbert.	Hasimir Fenring	Dune universe
+from fictional universe	Piecemeal (Gilbert Benson) is a fictional mutant character in the Marvel Universe.	Piecemeal (Gilbert Benson)	Marvel Universe
+from fictional universe	Pierson's Puppeteers, often known just as Puppeteers, are a fictional alien race from American author Larry Niven's Known Space books.	Pierson's Puppeteers	Known Space
+from fictional universe	Trapster has often sought independent recognition, battling virtually every ``street-level'' hero in the Marvel Universe either by design or by opposition to some criminal scheme.	Trapster	Marvel Universe
+from fictional universe	The Honored Matres are a fictional matriarchal organization in Frank Herbert's science fiction Dune universe.	Honored Matres	Dune universe
+from fictional universe	Bird-Brain received an entry in the Official Handbook of the Marvel Universe Update '89 #1.	Bird-Brain	Marvel Universe
+from fictional universe	Moist von Lipwig is a fictional character from Terry Pratchett's Discworld series.	Moist von Lipwig	Discworld
+from fictional universe	Jonas Quinn is a fictional character in the Canadian-American television series Stargate SG-1, a science fiction show about a military team exploring the galaxy via a network of alien transportation devices.	Jonas Quinn	Stargate
+from fictional universe	Various New Gods, notably Darkseid, went on to interact with other denizens of the DC Universe.	New Gods	DC Universe
+from fictional universe	Queen Berúthiel is a minor fictional character in J. R. R. Tolkien's legendarium.	Queen Berúthiel	Tolkien's legendarium
+from fictional universe	Blingdenstone was a svirfneblin city in the Forgotten Realms setting of the Dungeons & Dragons fantasy role-playing game.	Blingdenstone	Forgotten Realms
+from fictional universe	The Ultra-Humanite is a scientific genius, and possesses one of the most advanced human minds in the DC Universe.	Ultra-Humanite	DC Universe
+from fictional universe	Blackfire (Komand'r) is a female supervillain who appears in the fictional DC Universe.	Blackfire	DC Universe
+from fictional universe	Flygirl made her official DC Universe debut in the final issue of The Web.	Flygirl	DC Universe
+from fictional universe	In J. R. R. Tolkien's legendarium, the Dúnedain /ˈduːnɛdaɪn/ (singular: Dúnadan, ``man of the west'') were a race of Men descended from the Númenóreans who survived the sinking of their island kingdom and came to Eriador in Middle-earth, led by Elendil and his sons, Isildur and Anárion.	Dúnedain	Tolkien's legendarium
+from fictional universe	Kyle Reese is a fictional character in the Terminator franchise.	Kyle Reese	Terminator
+from fictional universe	After the events of the Crisis on Infinite Earths re-boot of the DC Universe, Superman no longer has knowledge of Kandor; instead, he remembers Nightwing as an urban legend of Krypton, which he shares with a young Dick Grayson.	Nightwing	DC Universe
+from fictional universe	This title featured Machine Man entering the mainstream Marvel Universe.	Machine Man	Marvel Universe
+from fictional universe	Motormaster is the name of several fictional characters from the Transformers universe.	Motormaster	Transformers universe
+from fictional universe	Rictor (Julio Esteban ``Ric'' Richter) is a fictional comic book superhero in the Marvel Universe, who appears in the X-Men family of books published by Marvel Comics.	Rictor	Marvel Universe
+from fictional universe	The Justice Legion Alpha is a DC Comics superhero team, who exist in the far future of the DC Universe.	Justice Legion Alpha	DC Universe
+from fictional universe	These abilities enable him to effortlessly control millions or even billions of minds at a time, immediately induce unconsciousness in crowds of people, or even put mental blocks in the mind of Doctor Strange, the ``Sorcerer Supreme'' of the Marvel Universe, although the Hulk has proved immune to Xemnu's psionic possession.	Xemnu	Marvel Universe
+from fictional universe	Ark Megaforms (негуманоиды Ковчега) are a fictional alien race from the Noon Universe created by Boris and Arkady Strugatsky.	Ark Megaforms	Noon Universe
+industry	London and Glasgow Shipbuilding Company, also known as the London and Glasgow Engineering and Iron Shipbuilding Company, was a shipbuilding firm established in 1864 by a consortium of London bankers, including the Glasgow engineer James Rodger.	London and Glasgow Shipbuilding Company	shipbuilding
+industry	Sterling Furniture is Scotland's largest furniture retail development based in Tillicoultry, Clackmannanshire.	Sterling Furniture	furniture
+industry	Underwood & Underwood was an early producer and distributor of stereoscopic and other photographic images, and later was a pioneer in the field of news bureau photography.	Underwood & Underwood	photography
+industry	Smaato is a global real-time advertising platform for mobile publishers and app developers, with a strong focus on helping these parties monetize their mobile apps and websites.	Smaato	advertising
+industry	Itaú Unibanco is a Brazilian publicly quoted bank with headquarters in São Paulo, Brazil.	Itaú Unibanco	bank
+industry	Arriva is a multinational public transport company headquartered in Sunderland, England.	Arriva	transport
+industry	Universal Television is the television production subsidiary of the NBCUniversal Television Group and, by extension, the production arm of the NBC television network (since a majority of the company's shows air on NBC, and accounts for most of that network's prime time programming).	Universal Television	television production
+industry	Telenor offers a full range of telecommunication services in Norway, including mobile and fixed telephony as well as Internet access and content.	Telenor	telecommunication
+industry	Groupe Auchan SA (French pronunciation: ​(oʃɑ̃)) is a French international retail group and multinational corporation headquartered in Croix, France.	Auchan	retail
+industry	Since 2010, OVH has invested 10 million euros in cloud computing to offer new services.	OVH	cloud computing
+industry	CNBC is an American basic cable, internet and satellite business news television channel that is owned by NBCUniversal News Group, a division of NBCUniversal, owned by Comcast.	CNBC	news
+industry	Twisters is a New Mexican cuisine restaurant chain from the city of Albuquerque, New Mexico, which was founded in 1998.	Twisters	restaurant
+industry	The Happy Egg Company is one of the UK's largest free-range egg brands.	The Happy Egg Company	egg
+industry	African Rainbow Minerals (ARM) is a mining company based in South Africa.	African Rainbow Minerals	mining
+industry	Austal announce it has entered into a shipbuilding contract with the National Australia Bank to construct two further Cape Class Patrol Boats.	Austal	shipbuilding
+industry	MMI Holdings Limited engages in long and short-term insurance, asset management, savings, investment and employee benefits through its various brands.	MMI Holdings Limited	insurance
+industry	After the American Locomotive Company ceased locomotive manufacturing in the United States in 1969, Montreal Locomotive Works continued to manufacture locomotives based on Alco designs.	American Locomotive Company	locomotive manufacturing
+industry	Neafie, Levy & Co., commonly known as Neafie & Levy, was a Philadelphia shipbuilding and engineering firm that existed from the middle of the 19th to the beginning of the 20th century.	Neafie & Levy	shipbuilding
+industry	Michael-Bruno, LLC is an American architectural design, engineering service and construction management firm.	Michael-Bruno	engineering
+industry	Lürssen (or Lürssen Werft) is a German shipbuilding company based in Bremen-Vegesack.	Lürssen	shipbuilding
+industry	Superstudio was an architecture firm, founded in 1966 in Florence, Italy by Adolfo Natalini and Cristiano Toraldo di Francia.	Superstudio	architecture
+industry	Idea Cellular (commonly referred to as simply Idea, and stylised as !dea) is an Indian mobile network operator based in Mumbai, Maharashtra.	Idea Cellular	mobile network operator
+industry	Passion Capital is a London-based early stage venture capital firm.	Passion Capital	venture capital
+industry	The Gesellschaft für Informatik (abbreviated as ``GI'' and translated as ``German Informatics Society'') is a German organization of approximately 20,000 computer science educators, researchers, and professionals.	Gesellschaft für Informatik	computer science
+industry	SunEdison, Inc. is a global renewable energy company headquartered in the U.S. In addition to developing, building, owning, and operating solar power plants and wind energy plants, it also manufactures high purity polysilicon, monocrystalline silicon ingots, silicon wafers, solar modules, solar energy systems, and solar module racking systems.	SunEdison	renewable energy	solar power
+industry	RTÉ News Now is a 24-hour news television network in the Republic of Ireland operated by Irish public service broadcaster RTÉ.	RTÉ News Now	news
+industry	Friedrich Krupp Germaniawerft (often just called Germaniawerft, ``Germania shipyard'') was a German shipbuilding company, located in the harbour at Kiel, and one of the largest and most important builders of U-boats for the Kaiserliche Marine in World War I and the Kriegsmarine in World War II.	Friedrich Krupp Germaniawerft	shipbuilding
+industry	STX Finland Oy, formerly Aker Yards Oy, was a Finnish shipbuilding company operating three shipyards in Finland, in Turku, Helsinki and Rauma, employing some 2,500 people.	STX Finland	shipbuilding
+industry	Uljanik is a shipbuilding company and shipyard located in Pula, Croatia.	Uljanik	shipbuilding
+industry	Tableau Software (/tæbˈloʊ/ tab-LOH) is an American computer software company headquartered in Seattle, Washington.	Tableau Software	software
+industry	D-Sight is a company that specializes in decision support software and associated services in the domains of project prioritization, supplier selection and collaborative decision-making.	D-Sight	software
+industry	In 2008 Atmel sold their fab in Germany to Tejas semiconductor.	Atmel	semiconductor
+industry	Henry Holt and Company is an American book publishing company, in New York City.	Henry Holt and Company	publishing
+industry	Yarrow Shipbuilders Limited (YSL), often styled as simply Yarrows, was a major shipbuilding firm based in the Scotstoun district of Glasgow on the River Clyde.	Yarrow Shipbuilders	shipbuilding
+industry	Dialogue & Company was a shipbuilding firm located in Camden, New Jersey.	Dialogue & Company	shipbuilding
+industry	The Boston Navy Yard, originally called the Charlestown Navy Yard and later Boston Naval Shipyard, was one of the oldest shipbuilding facilities in the United States Navy.	Boston Navy Yard	shipbuilding
+industry	Texas Instruments Inc. (TI) is an American electronics company that designs and makes semiconductors, which it sells to electronics designers and manufacturers globally.	Texas Instruments	electronics
+industry	Cerro Verde is a Peru-based mining company.	Cerro Verde	mining
+industry	Sportsman's Warehouse sells apparel, footwear, and gear which caters to sportsmen and sportswomen with interests in hunting, shooting, reloading, camping, fishing, and other outdoor recreational activities.	Sportsman's Warehouse	hunting	shooting	camping	fishing
+instrumentation	Musica ricercata is a set of eleven pieces for piano by György Ligeti.	Musica ricercata	piano
+instrumentation	Music of Changes is a piece for solo piano by John Cage.	Music of Changes	piano
+instrumentation	Herzgewächse (German: ``Foliage of the Heart''), Op. 20, is a composition by Austrian composer Arnold Schoenberg scored for coloratura soprano, celesta, harmonium, and harp.	Herzgewächse	coloratura soprano	celesta	harmonium	harp
+instrumentation	Prelude and Fugue on a Theme of Vittoria is a work for solo organ composed by Benjamin Britten in 1946.	Prelude and Fugue on a Theme of Vittoria	organ
+instrumentation	Goyescas, Op. 11, subtitled Los majos enamorados (The Gallants in Love), is a piano suite written in 1911 by Spanish composer Enrique Granados.	Goyescas	piano
+instrumentation	The Andante and Finale is a composition for piano and orchestra that was reworked by Sergei Taneyev from sketches by Pyotr Ilyich Tchaikovsky for the abandoned latter movements of his single-movement Piano Concerto No. 3 in E-flat, Op. 75.	Andante and Finale	piano	orchestra
+instrumentation	The Grandes études de Paganini, S. 141, are a series of six études for the piano by Franz Liszt, revised in 1851 from an earlier version (published as Études d'exécution transcendante d'après Paganini, S.140, in 1838).	Grandes études de Paganini	piano
+instrumentation	Le merle noir (``The Blackbird'') is a chamber work by the French composer Olivier Messiaen for flute and piano.	Le merle noir	piano
+instrumentation	Lousadzak (The Coming of Light), Op. 48, is a 1944 concerto for piano and string orchestra by the American-Armenian composer Alan Hovhaness.	Lousadzak	piano
+instrumentation	Boom of the Tingling Strings is a piano concerto in four movements written by Jon Lord.	Boom of the Tingling Strings	piano
+instrumentation	Harmonies poétiques et religieuses (Poetic and Religious Harmonies), S.173, is a cycle of piano pieces written by Franz Liszt at Woronińce (Voronivtsi, Polish-Ukrainian country estate of Liszt's mistress Princess Carolyne von Sayn-Wittgenstein, née Iwanowska) in 1847.	Harmonies poétiques et religieuses	piano
+instrumentation	Children's Corner (L. 113) is a six-movement suite for solo piano by Claude Debussy.	Children's Corner	piano
+license	Xymon, a network monitoring application using free software, operates under the GNU General Public License; its central server runs on Unix and Linux hosts.	Xymon	GNU General Public License
+license	FlightGear code is released under the terms of the GNU General Public License, thus being free software.	FlightGear	GNU General Public License
+license	DaDaBIK was originally released in 2001 on SourceForge under the GNU General Public License by Eugenio Tacchini and supported only MySQL.	DaDaBIK	GNU General Public License
+license	FLTK is free and open-source software, licensed under GNU Lesser General Public License (LGPL) with an additional clause permitting static linking from applications with incompatible licenses.	FLTK	GNU Lesser General Public License
+license	GNU arch software is a distributed revision control system that is part of the GNU Project and licensed under the GNU General Public License.	GNU arch	GNU General Public License
+license	TYPO3 is a free and open source web content management system written in PHP. It is released under the GNU General Public License.	TYPO3	GNU General Public License
+license	Rugby League Challenge is a sport simulation game for the PlayStation Portable based on the National Rugby League and the Super League.	Rugby League Challenge	National Rugby League
+license	Zinf is a free audio player released under the GNU General Public License.	Zinf	GNU General Public License
+license	Scilab family 5 is distributed under the GPL-compatible CeCILL license.	Scilab	CeCILL
+license	Celestia is free software released under the GNU General Public License.	Celestia	GNU General Public License
+license	The Xen Project community develops and maintains Xen Project as free and open-source software, subject to the requirements of the GNU General Public License (GPL), version 2.	Xen	GNU General Public License
+license	Tiki Wiki CMS Groupware or simply Tiki, originally known as TikiWiki, is a free and open source Wiki-based content management system and online office suite written primarily in PHP and distributed under the GNU Lesser General Public License (LGPL) license.	Tiki Wiki CMS Groupware	GNU Lesser General Public License
+license	Exim is free software distributed under the terms of the GNU General Public License, and it aims to be a general and flexible mailer with extensive facilities for checking incoming e-mail.	Exim	GNU General Public License
+license	GStreamer is free and open-source software subject to the terms of the GNU Lesser General Public License (LGPL) and is being hosted at freedesktop.org.	GStreamer	GNU Lesser General Public License
+license	Tntnet is free software released under the GNU Lesser General Public License (LGPL).	Tntnet	GNU Lesser General Public License
+location of formation	The Teardrop Explodes were an English post-punk/neo-psychedelic band formed in Liverpool in 1978.	The Teardrop Explodes	Liverpool
+location of formation	Baby Guru is a Greek band based in Athens.	Baby Guru	Athens
+location of formation	The Pale Fountains were an English jangle pop band formed in Liverpool in 1980, and composed of Mick Head (vocalist/guitarist), Chris McCaffery (bassist), Thomas Whelan (drummer) and former Dislocation Dance trumpeter Andy Diagram (horns).	The Pale Fountains	Liverpool
+location of formation	Ladytron are an electronic band formed in Liverpool in 1999.	Ladytron	Liverpool
+location of formation	Pet Shop Boys are an English electronic pop duo, formed in London in 1981 and consisting of Neil Tennant (main vocals, keyboards, occasional guitar) and Chris Lowe (keyboards, occasional vocals).	Pet Shop Boys	London
+location of formation	The Remo Four were a 1950s-1960s rock band from Liverpool, England.	The Remo Four	Liverpool
+location of formation	Concerts performed at Madison Square Garden in New York City were filmed for a HBO television special titled Lady Gaga Presents the Monster Ball Tour:	Lady Gaga	New York City
+location of formation	Ex Cathedra (/ˌɛks kəˈθeɪdrə/ EKS-kə-THAY-drə) is a British choir and early music ensemble based in Birmingham in the West Midlands, England.	Ex Cathedra	Birmingham
+location of formation	The Ramones were an American punk rock band that formed in the New York City neighborhood of Forest Hills, Queens, in 1974.	Ramones	Forest Hills
+location of formation	The Feldons are an independent Canberra-based three-piece mod britpop/powerpop band.	The Feldons	Canberra
+location of formation	Songwriter and bassist John Leyden formed Mango Groove in Johannesburg in 1984.	Mango Groove	Johannesburg
+location of formation	Inca Babies are a post-punk deathrock band from Manchester, England, initially active between 1982 and 1988 but reformed in 2007 featuring founder member and original songwriter Harry Stafford (guitars, vocals).	Inca Babies	Manchester
+location of formation	Identical twin brothers Andrew and Brian Chaplin formed Locnville in Cape Town, South Africa, in 2009.	Locnville	Cape Town
+location of formation	Ludus was a British post-punk band formed in Manchester in 1978 which featured artist, designer and singer Linder Sterling.	Ludus	Manchester
+location of formation	Red Hot Chili Peppers, also sometimes shortened to ``The Chili Peppers'' or abbreviated as ``RHCP'', are an American rock band formed in Los Angeles in 1983.	Red Hot Chili Peppers	Los Angeles
+location of formation	The Association of Mineworkers and Construction Union (AMCU) was formed in Mpumalanga, South Africa, in 1998 as a breakaway faction of the COSATU-affiliated National Union of Mineworkers (NUM).	Association of Mineworkers and Construction Union	Mpumalanga
+location of formation	The Missionaries of God's Love (MGL) is a Roman Catholic religious congregation that came into being in Canberra, Australia in 1986.	Missionaries of God's Love	Canberra
+location of formation	This Burning Effigy were an Irish gothic rock/ethereal wave band, originally formed in Dublin in 1993, and consisting of members Stephen Carey (guitar and keyboards), Ger Egan (vocals), Micheal Cowley (bass), Brian Fallon (drums).	This Burning Effigy	Dublin
+location of formation	Granulocytes are produced via granulopoiesis in the bone marrow.	Granulocyte	bone marrow
+location of formation	Cat the Dog were an English indie rock band formed in Brighton, East Sussex, in 2005.	Cat the Dog	Brighton
+location of formation	Deaf School are an English art rock/new wave band, formed in Liverpool in 1973.	Deaf School	Liverpool
+location of formation	Lansing-Dreiden was founded in Miami, Florida.	Lansing-Dreiden	Miami
+location of formation	Soundgarden is an American rock band formed in Seattle, Washington, in 1984 by singer and rhythm guitarist Chris Cornell, lead guitarist Kim Thayil, and bassist Hiro Yamamoto.	Soundgarden	Seattle
+location of formation	Kid British, often styled as KiD BRiTiSH, were a six-piece British band from Manchester, United Kingdom.	Kid British	Manchester
+location of formation	Rotary Watches Ltd was established at La Chaux-de-Fonds, Switzerland, by Moise Dreyfuss in 1895.	Rotary Watches	La Chaux-de-Fonds
+location of formation	Che Sudaka is a four-piece band, composed of Argentinians and Colombians resident in Barcelona.	Che Sudaka	Barcelona
+location of formation	The Dandy Warhols is an American rock band, formed in Portland, Oregon, in 1994 by singer-guitarist Courtney Taylor-Taylor and guitarist Peter Holmström.	The Dandy Warhols	Portland
+location of formation	Rapids! were an indie rock band from Bournemouth, England, which formed in August 2009.	Rapids!	Bournemouth
+location of formation	Die Antwoord (pronounced (di'ɑnt.ʋoːrt), Afrikaans for ``The Answer'') is a South African rap-rave group formed in Cape Town in 2008.	Die Antwoord	Cape Town
+location of formation	Hi-Rise is an English dance music act from Manchester.	Hi-Rise	Manchester
+location of formation	Hooters of America, Incorporated, based in Atlanta, Georgia, and Hooters, Incorporated, based in Clearwater, Florida.	Hooters	Clearwater
+location of formation	The Fray is an American rock band from Denver, Colorado.	The Fray	Denver
+location of formation	Thirty Seconds to Mars (commonly stylized as 30 Seconds to Mars) is an American rock band from Los Angeles, California, formed in 1998.	Thirty Seconds to Mars	Los Angeles
+location of formation	Viper Solfa is an extreme / gothic metal band from Kristiansand, Norway.	Viper Solfa	Kristiansand
+location of formation	Hot Club de Paris are an English band from Liverpool.	Hot Club de Paris	Liverpool
+material used	Wars of America is a ``colossal'' bronze sculpture by Gutzon Borglum containing ``forty-two humans and two horses'', located in Military Park, Newark, Essex County, New Jersey, United States.	Wars of America	bronze
+material used	Washington Grays Monument (also known as the ``Pennsylvania Volunteer'') is a bronze statue by John A. Wilson.	Washington Grays Monument	bronze
+material used	Tostones (Spanish pronunciation: (tosˈtones), from the Spanish verb tostar which means ``to toast''), are twice fried plantain slices.	Tostones	plantain
+material used	A Roman dodecahedron is a small hollow object made of bronze or stone, with a dodecahedral shape: twelve flat pentagonal faces, each face having a circular hole of varying diameter in the middle, the holes connecting to the hollowed-out center.	Roman dodecahedron	bronze
+material used	The Goethe Tower (German: Goetheturm) is a 43-metre high tower built entirely out of wood on the northern edge of Frankfurt City Forest located in Sachsenhausen (Frankfurt am Main).	Goethe Tower	wood
+material used	Borophene is a proposed crystalline allotrope of boron.	Borophene	boron
+material used	Salamanca Place itself consists of rows of sandstone buildings, formerly warehouses for the port of Hobart Town that have since been converted into restaurants, galleries, craft shops and offices.	Salamanca Place	sandstone
+material used	The Walnut Lane Bridge is a concrete arch bridge located in Northwest Philadelphia that connects the Germantown and Roxborough neighborhoods across the Wissahickon Creek in Fairmount Park.	Walnut Lane Bridge	concrete
+material used	Benefits Supervisor Sleeping is a 1995 oil on canvas painting by Lucian Freud depicting an obese, naked woman lying on a couch.	Benefits Supervisor Sleeping	canvas
+material used	A Faun Teased by Children is a marble sculpture by Italian artists Gian Lorenzo Bernini and his father Pietro Bernini.	A Faun Teased by Children	marble
+material used	Eden II consists of a ship made of steel, dock floats, concrete, paint, anchors, steel cable and various other mixed media, plus a guard house constructed with plywood and galvanized steel, containing LCD monitors, security cameras, a media player and an audio amplifier.	Eden II	steel	dock	concrete	paint	plywood	media player	amplifier
+material used	The Chamberlain Clock is an Edwardian, cast-iron, clock tower in the Jewellery Quarter of Birmingham, England.	Chamberlain Clock	cast-iron
+material used	Barge Haulers on the Volga or Burlaki (Russian: Burlaki na Volge, Бурлаки на Волге) is an 1870--1873 oil-on-canvas painting by the Russian realist painter and sculptor Ilya Repin.	Barge Haulers on the Volga	canvas
+material used	The Klang Bell is an ancient bronze bell found in the city of Klang, Selangor state, western Malaysia.	Klang Bell	bronze
+material used	The Codex Totomixtlahuaca or Codex Condumex is a large piece of cotton created in 1564.	Codex Totomixtlahuaca	cotton
+material used	The Sphere is 25 feet (7.6 m) high and cast in 52 bronze segments.	The Sphere	bronze
+material used	The Holme Avenue Bridge is a closed-spandrel concrete arch bridge that carries Holme Avenue across Wooden Bridge Run (a tributary of Pennypack Creek) in Philadelphia, Pennsylvania.	Holme Avenue Bridge	concrete
+material used	The Pons Aemilius (Italian: Ponte Emilio), today called Ponte Rotto, is the oldest Roman stone bridge in Rome, Italy.	Pons Aemilius	stone
+material used	Infanta Margarita Teresa in a Pink Dress is an oil on canvas portrait of Margaret Theresa of Spain by the Spanish painter Diego Velázquez, though his identification as its author is not considered secure.	Infanta Margarita Teresa in a Pink Dress	canvas
+material used	The Antenor Kore is a Late Archaic statue of a girl (Kore) made of Parian marble, which was created around 530/20 BC. The statue was found in several fragments during excavations on the Athenian Acropolis in the so-called Perserschutt.	Antenor Kore	marble
+material used	Gold leaf is gold that has been hammered into thin sheets by goldbeating and is often used for gilding.	Gold leaf	gold
+material used	The Babe's Dream is a bronze statue of Babe Ruth, by Susan Luery.	Babe's Dream	bronze
+material used	The Snake Charmer is an oil-on-canvas Orientalist painting by French artist Jean-Léon Gérôme produced around 1879.	The Snake Charmer	canvas
+material used	Spirit of the Dead Watching (Manao tupapau) is an 1892 oil on burlap canvas painting by Paul Gauguin, depicting a naked Tahitian girl lying on her stomach.	Spirit of the Dead Watching	canvas
+material used	Quince cheese, also known as dulce de membrillo (Spanish: (ˈdulθe ðe memˈbɾiʎo)), is a sweet, thick, jelly made of the pulp of the quince fruit.	Quince cheese	quince
+material used	The Charging Chasseur, or An Officer of the Imperial Horse Guards Charging is an oil painting on canvas of about 1812 by the French painter Théodore Géricault, portraying a mounted Napoleonic cavalry officer who is ready to attack.	The Charging Chasseur	canvas
+material used	Muslin (/ˈmʌslᵻn/ or /ˈmjuːslᵻn/) is a cotton fabric of plain weave.	Muslin	cotton
+material used	The Ecstasy of Saint Teresa (alternatively Saint Teresa in Ecstasy or Transverberation of Saint Teresa; in Italian: L'Estasi di Santa Teresa or Santa Teresa in estasi) is the central sculptural group in white marble set in an elevated aedicule in the Cornaro Chapel, Santa Maria della Vittoria, Rome.	Ecstasy of Saint Teresa	marble
+material used	The General W.K. Wilson Jr. Bridge consists of dual parallel tied through arches of weathering steel and beam viaducts of concrete that form one continuous span carrying four lanes of Interstate 65 across the Mobile-Tensaw River Delta northeast of the U.S. city of Mobile, Alabama.	General W.K. Wilson Jr. Bridge	concrete
+material used	Children Are the Victims of Adult Vices is a group of bronze sculptures created by Russian artist Mihail Chemiakin.	Children Are the Victims of Adult Vices	bronze
+material used	The Tomb of Antipope John XXIII is the marble-and-bronze tomb monument of Antipope John XXIII (Baldassare Cossa, c. 1360--1419), created by Donatello and Michelozzo for the Florence Baptistry adjacent to the Duomo.	Tomb of Antipope John XXIII	bronze
+material used	Charles I with M. de St Antoine is an oil painting on canvas by the Flemish painter Anthony van Dyck, depicting Charles I on horseback, accompanied by his riding master, Pierre Antoine Bourdon, Seigneur de St Antoine.	Charles I with M. de St Antoine	canvas
+material used	The Great Double is a bronze sculpture by the Argentine artist Alicia Penalba (1913-1982).	The Great Double	bronze
+material used	The Diadumenos is the winner of an athletic contest at a games, still nude after the contest and lifting his arms to knot the diadem, a ribbon-band that identifies the winner and which in the bronze original of about 420 BCE would have been represented by a ribbon of bronze.	Diadumenos	bronze
+material used	The Juno Ludovisi (also called Hera Ludovisi) is a colossal Roman marble head of the 1st century CE from an acrolithic statue of an idealized and youthful Antonia Minor as the goddess Juno.	Juno Ludovisi	marble
+material used	Panela (Spanish pronunciation: (paˈnela), Portuguese: rapadura (ʁɐpɐˈduɾɐ)) is unrefined whole cane sugar, typical of Central and of Latin America in general, which is a solid form of sucrose derived from the boiling and evaporation of sugarcane juice.	Panela	whole cane sugar
+material used	Sky Mirror is a six-metre-wide concave dish of polished stainless steel weighing ten tonnes and angled up towards the sky.	Sky Mirror	steel
+material used	The Interlachen Bridge is a reinforced concrete arch bridge on William Berry Parkway between Lake Calhoun and Lake Harriet in Minneapolis, Minnesota.	Interlachen Bridge	concrete
+material used	The Michael Jordan statue, officially known as The Spirit (and sometimes referred to as Michael Jordan's Spirit), is a bronze sculpture by Omri Amrany and Julie Rotblatt-Amrany outside the United Center in the Near West Side community area of Chicago.	Michael Jordan statue	bronze
+material used	Head I is a relatively small oil and tempera on hardboard painting by the Irish-born British figurative artist Francis Bacon.	Head I	tempera	hardboard
+material used	The Schwandbach Bridge is a deck-stiffened reinforced concrete arch bridge near Bern in Switzerland, designed by Robert Maillart and completed in 1933 at a cost of 47,298 CHF.	Schwandbach Bridge	concrete
+material used	Satsivi (Georgian: საცივი, literally means 'cold dish' in Georgian; also known as walnut sauce) is a food paste in Georgian cuisine made primarily from walnuts and is used in various recipes.	Satsivi	walnut
+material used	Shirley Temple, The Youngest, Most Sacred Monster of the Cinema in Her Time (or Shirley Temple, The Youngest, Most Sacred Monster of Contemporary Cinema), also known as the Barcelona Sphinx is a 1939 artwork in gouache, pastel and collage on cardboard, by surrealist painter Salvador Dalí.	Shirley Temple, The Youngest, Most Sacred Monster of the Cinema in Her Time	pastel	cardboard
+material used	The Steinerner Steg (Italian: Ponte Romano) is a two-arched, stone-built footbridge across the Passer in Merano, South Tyrol, northern Italy.	Steinerner Steg	stone
+material used	The Ludovisi Gaul Killing Himself and His Wife (sometimes called ``The Galatian Suicide'') is a Roman marble group depicting a man in the act of plunging a sword into his breast, looking backwards defiantly while he supports the dying figure of a woman with his left arm.	Ludovisi Gaul	marble
+material used	The Kroisos Kouros (Ancient Greek: κοῦρος) is a marble kouros from Anavyssos in Attica which functioned as a grave marker for a fallen young warrior named Kroîsos (Κροῖσος).	Kroisos Kouros	marble
+material used	Will He Round the Point? (Danish: Vil han klare pynten?) is an 1885 oil-on-canvas painting by Michael Ancher, a Danish painter associated with the Skagen Painters.	Will He Round the Point?	canvas
+material used	Pruno, or prison wine, is an alcoholic beverage variously made from apples, oranges, fruit cocktail, candy, ketchup, sugar, milk, and possibly other ingredients, including crumbled bread.	Pruno	milk
+material used	The Starry Night is an oil on canvas by the Dutch post-impressionist painter Vincent van Gogh.	The Starry Night	canvas
+material used	The Wolverine pendant of Les Eyzies is a bone pendant decorated with an engraved drawing of a wolverine, probably from the cave of Les Eyzies, Dordogne, France.	Wolverine pendant of Les Eyzies	bone
+material used	Still Life with Geraniums is a 1910 oil on canvas painting by Henri Matisse.	Still Life with Geraniums	canvas
+material used	The Pyxis of Čierne Kľačany (Slovak: Čiernokľačianska pyxida) is an oval-shaped jewel box (i.e. a pyxis) made of ivory.	Pyxis of Čierne Kľačany	ivory
+material used	The Warwick Vase is an ancient Roman marble vase with Bacchic ornament that was discovered at Hadrian's Villa, Tivoli about 1771 by Gavin Hamilton, a Scottish painter-antiquarian and art dealer in Rome, and is now in the Burrell Collection near Glasgow in Scotland.	Warwick Vase	marble
+material used	The Weeping Woman, (60 х 49 cm, 23 ⅝ х 19 ¼ inches) is an oil on canvas painted by Pablo Picasso in France in 1937.	The Weeping Woman	canvas
+material used	La Femme au Cheval is an oil painting on canvas with dimensions 162 x 130.5 cm (63.8 x 51.4 in).	La Femme au Cheval	canvas
+material used	Queen Amina Statue is a colossal bronze and concrete sculpture.	Queen Amina Statue	bronze	concrete
+material used	The Genius of Victory is a 1532--34 marble sculpture by Michelangelo, produced as part of a design for the tomb of Pope Julius II. It is 2.61 m high and is now in the Salone dei Cinquecento of the Palazzo Vecchio in Florence.	The Genius of Victory	marble
+material used	Rosin, also called colophony or Greek pitch (Latin: pix græca), is a solid form of resin obtained from pines and some other plants, mostly conifers, produced by heating fresh liquid resin to vaporize the volatile liquid terpene components.	Rosin	resin
+material used	Crème brûlée (/ˌkrɛm bruːˈleɪ/; French pronunciation: ​(kʁɛm bʁy.le)), also known as burnt cream, crema catalana, or Trinity cream is a dessert consisting of a rich custard base topped with a contrasting layer of hard caramel.	Crème brûlée	custard	caramel
+material used	Apohtin or apohti (Greek: απόχτιν) is a traditional Cypriot dried food made by salted goat meat.	Apohtin	goat meat
+material used	The Statua della Libertà, made in the neoclassical style of white Carrara marble and is located between Parva Domus and the Palazzo Pubblico.	Statua della Libertà	marble
+material used	Jewess with Oranges (Polish: Żydówka z pomarańczami, Pomarańczarka, Przekupka z Pomarańczami) is an 1880-1881 oil painting on canvas by the Polish artist Aleksander Gierymski.	Jewess with Oranges	canvas
+material used	Though not actually Tom Servo, a stolen Gumball machine featured in the Hoax II, skate video is lovingly named Tom Servo.	Tom Servo	Gumball machine
+material used	The Besleti Bridge (Georgian: ბესლეთის ხიდი) also known as the Queen Tamar Bridge (Georgian: თამარის ხიდი) is a medieval arched stone bridge at Sukhumi, Georgia's breakaway republic of Abkhazia.	Besleti Bridge	stone
+material used	Pitti Tondo is a marble bas-relief of the Virgin and Child by Michelangelo.	Pitti Tondo	marble
+material used	It was finally reconstructed between October 25, 1685, and June 13, 1689, this time with stone, receiving complete financing from the king Louis XIV; it was the king who gave it the name Pont Royal.	Pont Royal	stone
+material used	Chuderhüsi Tower (or ``Aussichtsturm Gauchern'') is a 42 metre observation tower built of wood at Röthenbach im Emmental, Switzerland.	Chuderhüsi Tower	wood
+material used	Portrait of Doña Isabel de Porcel is an oil-on-canvas painting made by the Spanish painter Francisco Goya around 1805.	Portrait of Doña Isabel de Porcel	canvas
+noble title	Ralph the Timid, also known as Ralf of Mantes (died 1057), was Earl of Hereford between 1051 and 1055 or 1057.	Ralph the Timid	Earl of Hereford
+noble title	Sir William Johnstone, 2nd Baronet (died 8 October 1727) was a Scottish baronet and politician.	Sir William Johnstone, 2nd Baronet	baronet
+noble title	Sir George Cornewall, 2nd Baronet (8 November 1748 -- 26 August 1819) of Moccas Court, Herefordshire, was a British politician, soldier and baronet.	George Cornewall	baronet
+noble title	Sigismund Kęstutaitis (Lithuanian: Žygimantas I Kęstutaitis; Polish: Zygmunt Kiejstutowicz; c. 1365 -- 20 March 1440) was the Grand Duke of Lithuania from 1432 to 1440.	Sigismund Kęstutaitis	Grand Duke of Lithuania
+noble title	In 419, after a personal dispute between Hermeric and the Vandal king Gunderic, the Vandals attacked the Suevi and trapped Hermeric in the Nervasian (Erbasian) Mountains before the Roman general Asterius intervened and the Vandals retreated.	Hermeric	king
+noble title	Sir Thomas Barrett-Lennard, 1st Baronet FSA, DL (6 January 1761 -- 25 June 1857) was a British politician and baronet.	Sir Thomas Barrett-Lennard, 1st Baronet	baronet
+noble title	Sir John Talbot Dillon, 1st Baronet, Baron Dillon (1739 -- 17 July 1805) was an Irish politician and baronet, traveller and historical writer.	John Talbot Dillon	baronet
+noble title	With both Amphion and Zethus having died in his absence, Laius became king of Thebes upon his return.	Laius	king of Thebes
+noble title	-- (2004) ``Eardley , Sir Culling Eardley, third baronet (1805--1863)'', Oxford Dictionary of National Biography, Oxford University Press, accessed 4 August 2007 (subscription or UK public library membership required)	Culling Eardley	baronet
+noble title	Sir Edward Blackett, 4th Baronet (9 April 1719 -- 3 February 1804) was a baronet and member of the British House of Commons for Northumberland.	Sir Edward Blackett, 4th Baronet	baronet
+noble title	Sir James Johnstone, 3rd Baronet (9 February 1697 -- 10 December 1772) was a Scottish baronet and politician.	Sir James Johnstone, 3rd Baronet	baronet
+noble title	Doyle was born near Tadcaster, Yorkshire, to a military family which produced several distinguished officers, including his father, Major-General Sir Francis Hastings Doyle, 1st Baronet, who was created a baronet in 1828.	Francis Hastings Doyle	baronet
+noble title	In Greek mythology, Pandion I (Ancient Greek: Πανδίων) was a legendary King of Athens, the son and heir to Erichthonius of Athens and his wife, the naiad Praxithea.	Pandion I	King of Athens
+noble title	Oedipus (US /ˈɛdᵻpəs/ or UK /ˈiːdᵻpəs/; Ancient Greek: Οἰδίπους Oidípous meaning ``swollen foot'') was a mythical Greek king of Thebes.	Oedipus	king of Thebes
+noble title	Sir Hugh Cholmeley, 4th Baronet (21 July 1632 -- 9 January 1689) was an English politician and baronet.	Sir Hugh Cholmeley, 4th Baronet	baronet
+noble title	Sir Currimbhoy Ebrahim was knighted during the Prince and Princess of Wales's Indian tour of 1905 and created a baronet in 1910 and further granted lands to support that dignity by the Currimbhoy Ebrahim Baronetcy Act 1913 following the precedent set by the Cowasji Jehangir Baronetcy Act.	Currimbhoy Ebrahim	baronet
+noble title	Sir John Call, 1st Baronet (30 June 1731 -- 1 March 1801) was an English engineer and baronet.	John Call	baronet
+noble title	Sir Isaac Astley, 1st Baronet (died 7 September 1659) was an English baronet.	Isaac Astley	baronet
+noble title	Sir John Pakington, 1st Baronet (1600--1624) was an English baronet and M.P. for Aylesbury in 1623--16234.	Sir John Pakington, 1st Baronet	baronet
+noble title	Robert Bertie, 1st Duke of Ancaster and Kesteven PC (20 October 1660 -- 26 July 1723), styled Lord Willoughby de Eresby between 1666 and 1701 and known as The Earl of Lindsey between 1701 and 1706 and as The Marquess of Lindsey between 1706 and 1715, was a British statesman and nobleman.	Robert Bertie, 1st Duke of Ancaster and Kesteven	Earl of Lindsey
+noble title	Sir John Hoskyns, 2nd Baronet PRS (23 July 1634 -- 12 September 1705) was an English baronet.	Sir John Hoskyns, 2nd Baronet	baronet
+programming language	BEdita is built upon the PHP development framework CakePHP.	BEdita	PHP
+programming language	Rich Booleans is a C++ library of macros that can be used in assertions to check conditions, that provide extra information when the condition fails, which helps the programmer in determining the cause of the problem.	Rich Booleans	C++
+programming language	Because Pascal was not considered as ideal language to collaborate with other projects and the project already had spent much time in developing Pascal bindings to third-party libraries, Listaller was rewritten in Vala with a subset of the original features and the main goal to provide seamless integration with AppStream and PackageKit.	Listaller	Vala
+programming language	Happstack (Haskell Application Stack) is a free application server for websites written in the functional programming language Haskell.	Happstack	Haskell
+programming language	Asido is open-source PHP (PHP4/PHP5) image processing software, with ``pluggable'' drivers(adapters) for various environments including GD2 (php_gd2), ImageMagick via shell, ImageMagick via extension (php_imagick), MagickWand (php_magickwand).	Asido	PHP
+programming language	Ehcache is a widely used open source Java distributed cache for general purpose caching, Java EE and light-weight containers.	Ehcache	Java
+programming language	SmartWin++ is a Windows GUI and SOAP programming library written in and for C++.	SmartWin++	C++
+programming language	DaDaBIK is a commercial software (formerly GPL) written in PHP for quickly creating a CRUD (create, read, update, delete) database front-end or a simple database-driven application without coding.	DaDaBIK	PHP
+programming language	SVNKit is an Open Source, pure Java software library for working with the Subversion version control system.	SVNKit	Java
+programming language	Gson (also known as Google Gson) is an open source Java library to serialize and deserialize Java objects to (and from) JSON.	Gson	Java
+programming language	The software running PlanetMath is written in Perl and runs on Linux and the web server Apache.	PlanetMath	Perl
+programming language	OpenNMS is written in Java, and thus can run on any platform with support for a Java SDK version 1.6 or higher.	OpenNMS	Java
+programming language	IPBWI (Invision Power Board Website Integration) allows you to create PHP applications that can interact with Invision Power Board (IPB).	IPBWI	PHP
+programming language	Verax IPMI in an open source Java library implementing IPMI protocol 2.0 over UDP.	Verax IPMI	Java
+programming language	Docear is written in Java, licensed under the GNU General Public License and based on the open source software Freeplane and JabRef.	Docear	Java
+programming language	VTK consists of a C++ class library and several interpreted interface layers including Tcl/Tk, Java, and Python.	VTK	C++	Java	Python
+programming language	Refinery CMS, often shortened to Refinery, is an open source content management system written in Ruby as a Ruby on Rails web application with jQuery used as the JavaScript library.	Refinery CMS	Ruby
+programming language	Apache Kafka is an open-source message broker project developed by the Apache Software Foundation written in Scala.	Apache Kafka	Scala
+programming language	RDFLib is a Python library for working with RDF, a simple yet powerful language for representing information.	RDFLib	Python
+programming language	Minecraft 4k is a simplified version of Minecraft similar to the classic version that was developed for the Java 4K game programming contest ``in way less than 4 kilobytes''.	Minecraft	Java
+programming language	MathJax is a cross-browser JavaScript library that displays mathematical notation in web browsers, using MathML, LaTeX and ASCIIMathML markup.	MathJax	JavaScript
+programming language	It was written in C as a highly optimized modular back-end, which for the first time could be used in applications outside of PHP. The Zend Engine provides memory and resource management, and other standard services for the PHP language.	Zend Engine	C
+programming language	Template Toolkit is based on a mini-language and does not allow direct Perl in its templates by default, unlike some competing products (e.g. Mason).	Template Toolkit	Perl
+programming language	Apache Struts 2 is an open-source web application framework for developing Java EE web applications.	Apache Struts 2	Java
+programming language	Tntnet is Web server software, coded in C++, which enables other C++ programs to bundle requests modules.	Tntnet	C++
+programming language	HuMo-gen was written in PHP and is GNU-GPL licensed open-source software.	HuMo-gen	PHP
+programming language	MeVisLab is written in C++ and uses the Qt framework for graphical user interfaces.	MeVisLab	C++
+programming language	MayaVi is a scientific data visualizer written in Python, which uses VTK and provides a GUI via Tkinter.	MayaVi	Python
+programming language	Zwiki is a wiki engine written in Python and based on the Zope web application server, that was under development from 1999 to 2009.	Zwiki	Python
+programming language	For example, Cocos2d JavaScript Binding (JSB) for C/C++/Objective-C is the wrapper code that sits between native code and JavaScript code using Mozilla's SpiderMonkey.	Cocos2d	Objective-C
+programming language	Since 2007, OpenTTD is gradually being rewritten in C++.	OpenTTD	C++
+programming language	The XORP codebase consists of around 670,000 lines of C++ and is developed primarily on Linux, but supported on FreeBSD, OpenBSD, DragonFlyBSD, NetBSD.	XORP	C++
+programming language	Pyjs (formerly Pyjamas before May 2012), is a rich Internet application framework for developing client-side web and desktop applications in Python.	Pyjs	Python
+programming language	MuseScore is free and open-source and is written mainly in C++.	MuseScore	C++
+programming language	The Standard Template Library (STL) is a software library for the C++ programming language that influenced many parts of the C++ Standard Library.	Standard Template Library	C++
+programming language	SchoolTool is built as a free software/open source software stack, licensed under the GNU General Public License, Version 2, written in Python using the Zope 3 framework.	SchoolTool	Python
+programming language	Moodle is a free and open-source software learning management system written in PHP and distributed under the GNU General Public License.	Moodle	PHP
+programming language	The Freeciv C server is released under the GNU General Public License, while the Freeciv-web client is released under the GNU Affero General Public License.	Freeciv	C
+programming language	The Windows Template Library (WTL) is a free software, object-oriented C++ template library for Win32 development.	Windows Template Library	C++
+programming language	GStreamer is a pipeline-based multimedia framework written in the C programming language with the type system based on GObject.	GStreamer	C
+programming language	Originally developed in MATLAB, it was re-written in Python and released as CellProfiler 2.0 in 2010.	CellProfiler	Python
+programming language	The software running LiveJournal is primarily written in Perl.	LiveJournal	Perl
+programming language	Enhancements included operating system fingerprinting, service fingerprinting, code rewrites (C to C++), additional scan types, protocol support (e.g. IPv6, SCTP) and new programs that complement Nmap's core features.	Nmap	C	C++
+programming language	CKAN's back end, the part running on the Web server, is written mainly in Python.	CKAN	Python
+programming language	OpenMDAO is an open-source Multidisciplinary Design, Analysis, and Optimization (MDAO) framework, written in the Python programming language.	OpenMDAO	Python
+programming language	The Android App for GnuCash is written in Java and does not share any code with the PC software.	GnuCash	Java
+programming language	Apache Wicket, commonly referred to as Wicket, is a lightweight component-based web application framework for the Java programming language conceptually similar to JavaServer Faces and Tapestry.	Apache Wicket	Java
+programming language	Apache AxKit was an XML Apache publishing framework run by the Apache foundation written in Perl.	AxKit	Perl
+programming language	The webmail portion of the project was started by Nathan and Luke Ehresman in 1999 and is written in PHP. SquirrelMail can be employed in conjunction with a LAMP ``stack'', and any other operating systems that support PHP are supported as well.	SquirrelMail	PHP
+programming language	The Logitech Media Server software is written in Perl, and will run on Linux, Microsoft Windows, Apple Macintosh, BSD, and piCorePlayerOS platforms.	Logitech Media Server	Perl
+programming language	GNU LibreDWG is a software library programmed in C to manage DWG computer files, native proprietary format of computer-aided design software AutoCAD.	LibreDWG	C
+programming language	JEUS (an abbreviation of Java Enterprise User Solution) is a Korean Web application server which is developed by TmaxSoft.	JEUS	Java
+replaced by	On 1 January 2016, Bosc-Bénard-Commin, Bourgtheroulde-Infreville and Thuit-Hébert merged becoming one commune called Grand-Bourgtheroulde.	Bosc-Bénard-Commin	Grand-Bourgtheroulde
+replaced by	Glywysing seems to have been a sub-kingdom or principality of the Kingdom of Morgannwg, along with Gwent.	Glywysing	Kingdom of Morgannwg
+replaced by	HTTP Switchboard has been replaced by uMatrix.	HTTP Switchboard	uMatrix
+replaced by	On 1 January 2009, Louis Pasteur University became part of the refounded University of Strasbourg and lost its status as an independent university.	Louis Pasteur University	University of Strasbourg
+replaced by	On 16 March, the Congress selected Zhang Gaoli, Liu Yandong, Wang Yang, and Ma Kai as vice premiers following their respective nominations from Li Keqiang.	Li Keqiang	Zhang Gaoli
+service entry	The RPG-16 was developed in 1968, and adopted by the Soviet Army in 1970 for special operation teams and the Soviet airborne troops (VDV).	RPG-16	1970
+service entry	The PTRD-41 (Shortened from Russian, ProtivoTankovoye Ruzhyo Degtyaryova;Противотанковое однозарядное ружьё системы Дегтярёва образца 1941 года;``Degtyaryov Anti-Tank Rifle'') was an anti-tank rifle produced and used from early 1941 by the Soviet Red Army during World War II. It was a single-shot weapon which fired a 14.5×114mm round.	PTRD	1941
+service entry	The Dragunov SVDK large caliber sniper rifle (any rifle caliber above 9 mm is considered a large caliber in Russia) is a somewhat controversial weapon, adopted by Russian army in 2006.	SVDK	2006
+service entry	The Pistolet modèle An XIII was a flintlock cavalry pistol, in service in French units from 1806.	Pistolet modèle An XIII	1806
+service entry	The M1 Abrams entered U.S. service in 1980, replacing the M60 tank.	M1 Abrams	1980
+service entry	Previously known as LAV-300 A1, it was named LAV-600 in 1986.	LAV-600	1986
+service entry	At FCM Jammy and Savatier finished the Char 2C prototype, the other nine tanks being built almost simultaneously; all ten were delivered in 1921 and modified by the factory until 1923.	Char 2C	1921
+service entry	Adopted in 1997, the QBU-88 is, by the modern sense, not a true sniper rifle -- it is more of designated marksman rifle, intended for aimed semi-automatic fire at ranges beyond the capabilities of standard infantry assault rifles.	QBU-88	1997
+service entry	The Nahkampfkanone 1 was an experimental Swiss tank destroyer that saw service between 1944 and 1947.	Nahkampfkanone 1	1944
+service entry	The DRG Class 99.19 engines were metre gauge, ten-coupled, superheated, steam locomotives that were employed in the southwestern German state of Württemberg from 1927.	DRG Class 99.19	1927
+service entry	The Disney bomb saw limited use by the United States Army Air Forces in Europe from February to April 1945.	Disney bomb	1945
+service entry	The Panzerfaust 3 (Tank fist 3 or ``The German RPG'') is a modern disposable recoilless anti-tank weapon, which was developed between 1978 and 1985 and put into service by the Bundeswehr in 1992.	Panzerfaust 3	1992
+service entry	The Type 97 motorcycle, or Rikuo, was a copy of a Harley-Davidson motorcycle produced from 1935 in Japan under license from Harley-Davidson by the Sankyo Company (later Rikuo Nainen Company).	Type 97 motorcycle	1935
+service entry	The NBR 141 Class consisted of two steam locomotives of the 2-4-0 wheel arrangement built by the North British Railway (NBR) in 1869.	NBR 141 Class	1869
+service entry	The Costa Mesa facility produced 234 Stoner 63s, when production was then moved in September 1964 to the Cadillac Gage plant in Warren, Michigan.	Stoner 63	1964
+service entry	The Vetterli rifles were a series of Swiss army service rifles in use from 1869 to circa 1890, when they were replaced with Schmidt--	Vetterli rifle	1869
+service entry	The first versions of the Ak 5 family were made by the Swedish company FFV Ordnance AB (now part of Saab Bofors Dynamics) under license from FN, with deliveries starting in 1986.	Ak 5	1986
+service entry	The Mark 10 torpedo was a torpedo put into use by the United States in 1915.	Mark 10 torpedo	1915
+service entry	The Levavasseur project was an early project for a tank designed in 1903 by the French Captain Levavasseur of the 6th Artillery Battalion, described as a ``automobile cannon project'' (French: Projet de canon autopropulseur).	Levavasseur project	1903
+service entry	The 155 GH 52 APU is a Finnish towed artillery piece developed in 1998.	155 GH 52 APU	1998
+service entry	The Suomi KP/-31 went into serial production in 1931 by Tikkakoski Oy and most of these weapons were bought by the Finnish Defence Forces.	Suomi KP/-31	1931
+service entry	Boston and Maine 3713 is a P-4a class 4-6-2 Pacific type steam locomotive built by the Lima Locomotive Works for the Boston and Maine Railroad in December 1934.	Boston and Maine 3713	December 1934
+service entry	The Buk-1 was adopted into service in 1978 following completion of state trials, while the complete Buk missile system was accepted into service in 1980 after state trials took place between 1977 and 1979.	Buk missile system	1979
+service entry	The 7.92×57mm Mauser cartridge was adopted by the German Empire in 1905, and was the German service cartridge in both World Wars.	7.92×57mm Mauser	1905
+service entry	The M-63 Plamen (English: Flame) is a 128mm multiple rocket launcher developed in 1963 in Yugoslavia for use in the Yugoslav People's Army.	M-63 Plamen	1963
+sister	Jon Skolmen is the father of actors Christian and Tine Skolmen, brother of director Eli Skolmen Ryg and uncle of actors Anne Ryg and Hege Schøyen, with whom he played in the 1991 Swedish comedy Den ofrivillige golfaren.	Jon Skolmen	Eli Skolmen Ryg
+sister	Emma Frost was born in Boston, Massachusetts, to the wealthy Winston and Hazel Frost; she is the third of four children, which include her older brother, Christian Frost, her older sister Adrienne Frost and her younger sister Cordelia Frost.	Emma Frost	Adrienne Frost	Cordelia Frost
+sister	Tara Deodhar won her first national title in 1942 in the women's doubles with her sister Sunder Deodhar.	Tara Deodhar	Sunder Deodhar
+sister	In Hawaiian mythology, Nāmaka (or Nā-maka-o-Kahaʻi, the eyes of Kahaʻi) appears as a sea goddess or a water spirit in the Pele cycle.	Nāmaka	Pele
+sister	Tara Kirk's younger sister, Dana Kirk, joined her on the 2004 USA Women's Olympic Swimming team, becoming the first set of sisters to swim on the same US Olympic Team.	Tara Kirk	Dana Kirk
+sister	Louis Lacombe was born in Bourges, the brother of composer Felicita Casella.	Louis Lacombe	Felicita Casella
+sister	In 1978, Kirka released a duet album with sister Anna; the next year, another sister Marija (``Muska'') joined in.	Kirka	Muska
+sister	Alice Lewisohn (1883-1972) was the founder of the Neighborhood Playhouse with her sister Irene Lewisohn.	Alice Lewisohn	Irene Lewisohn
+sister	Julia the Younger was not a Julia Caesaris by birth: being the daughter of Marcus Vipsanius Agrippa made her a Vipsania Agrippina by birth, although there are no contemporary sources that show that that name was ever used for her.	Julia the Younger	Vipsania Agrippina
+sister	Ankhhaf's tomb in Giza (G 7510) depicts his sister-wife Princess Hetepheres.	Ankhhaf	Princess Hetepheres
+sister	Along with Verðandi (possibly ``happening'' or ``present'') and Skuld (possibly ``debt'' or ``future''), Urðr makes up a trio of Norns that are described as deciding the fates of people.	Urðr	Verðandi	Skuld
+sister	Gracie Hall Roosevelt (June 28, 1891 -- September 25, 1941) was the youngest brother of First Lady of the United States Eleanor Roosevelt and a nephew of President Theodore Roosevelt.	Hall Roosevelt	Eleanor Roosevelt
+sister	Maud Howe Elliott (November 9, 1854 -- March 19, 1948) was an American writer, most notable for her Pulitzer prize-winning collaboration with her sister, Laura E. Richards, on their mother's biography The Life of Julia Ward Howe (1916).	Maud Howe Elliott	Laura E. Richards
+sister	Born the son of the Reverend George Austen and Cassandra Austen (the daughter of the Reverend Thomas Leigh), and the brother of the novelist Jane Austen, Francis Austen joined the Royal Navy in April 1786.	Francis Austen	Jane Austen
+sister	In July 2008, Martin Luther King III and Bernice King filed a lawsuit against his brother Dexter King, accusing him of improperly taking money from the estate of their late mother and transferring it to the Estate of Martin Luther King Jr. Inc., where Dexter King serves as president.	Martin Luther King III	Bernice King
+sister	Marina Vlady's sisters, now all deceased, were the actresses Odile Versois, Hélène Vallier and Olga Baïdar-Poliakoff.	Marina Vlady	Odile Versois	Hélène Vallier
+sister	Alisa Marić was introduced to chess at the age of four, together with her 20 minutes younger twin sister Mirjana Marić.	Alisa Marić	Mirjana Marić
+sister	George Corral is the brother of female footballer Charlyn Corral.	George Corral	Charlyn Corral
+sister	Of her seven siblings, her younger sister Pilar Pellicer also became an actress best known for her roles in numerous telenovelas; another younger sister, Ana, is a sculptor and the co-author of Pina Pellicer's 2006 biography.	Pina Pellicer	Pilar Pellicer
+site of astronomical discovery	1921 Pala (1973 SE) is an outer main-belt asteroid discovered on September 20, 1973 by Tom Gehrels at Palomar Observatory.	1921 Pala	Palomar Observatory
+site of astronomical discovery	3333 Schaber (1980 TG5) is a main-belt asteroid discovered on October 9, 1980 by Carolyn S. Shoemaker at Palomar Observatory.	3333 Schaber	Palomar Observatory
+site of astronomical discovery	151997 Bauhinia (2004 JL1) is a main-belt asteroid discovered on May 11, 2004 by William Yeung at the Desert Eagle Observatory.	151997 Bauhinia	Desert Eagle Observatory
+site of astronomical discovery	995 Sternberga is a main-belt asteroid discovered in 1923 by Sergei Belyavsky at Simeiz Observatory.	995 Sternberga	Simeiz Observatory
+site of astronomical discovery	1270 Datura (1930 YE) is a S-type main-belt asteroid discovered on December 17, 1930, by George Van Biesbroeck at Yerkes Observatory.	1270 Datura	Yerkes Observatory
+site of astronomical discovery	6376 Schamp (1987 KD1) is a main-belt asteroid discovered on May 29, 1987 by Carolyn and Eugene Shoemaker at the Palomar Observatory.	6376 Schamp	Palomar Observatory
+site of astronomical discovery	992 Swasey is an asteroid, a minor planet orbiting the Sun. It was discovered by Otto Struve in 1922 at the Yerkes Observatory in Williams Bay, Wisconsin, USA.	992 Swasey	Yerkes Observatory
+site of astronomical discovery	3345 Tarkovskij (1982 YC1) is a main-belt asteroid discovered on December 23, 1982 by Lyudmila Georgievna Karachkina at the Crimean Astrophysical Observatory.	3345 Tarkovskij	Crimean Astrophysical Observatory
+site of astronomical discovery	Makemake was discovered on March 31, 2005, by a team at the Palomar Observatory, led by Michael E. Brown, and was announced to the public on July 29, 2005.	Makemake	Palomar Observatory
+site of astronomical discovery	2752 Wu Chien-Shiung (1965 SP) is a main-belt asteroid discovered on September 20, 1965 by Purple Mountain Observatory at Nanking.	2752 Wu Chien-Shiung	Purple Mountain Observatory
+site of astronomical discovery	2956 Yeomans (1982 HN1) is a main-belt asteroid discovered on April 28, 1982 by Edward L. G. Bowell at the Anderson Mesa Station of the Lowell Observatory.	2956 Yeomans	Anderson Mesa Station
+site of astronomical discovery	51823 Rickhusband was discovered on July 18, 2001, at Palomar Observatory by the JPL Near Earth Asteroid Tracking Program.	51823 Rickhusband	Palomar Observatory
+site of astronomical discovery	1176 Lucidor, provisional designation 1930 VE, is a main-belt asteroid discovered on November 15, 1930, by Eugène Joseph Delporte at the Royal Observatory of Belgium.	1176 Lucidor	Royal Observatory of Belgium
+site of astronomical discovery	8116 Jeanperrin (1996 HA15) is a main-belt binary asteroid discovered on April 17, 1996 by E. W. Elst at the European Southern Observatory.	8116 Jeanperrin	European Southern Observatory
+site of astronomical discovery	19007 Nirajnathan (2000 RD68) is a main-belt asteroid discovered on September 2, 2000 by the Lincoln Laboratory Near-Earth Asteroid Research Team at Socorro.	19007 Nirajnathan	Lincoln Laboratory
+site of astronomical discovery	15092 Beegees (1999 EH5) is a main-belt asteroid discovered on March 15, 1999, by J. Broughton at Reedy Creek Observatory.	15092 Beegees	Reedy Creek Observatory
+site of astronomical discovery	13474 V'yus (1973 QO1) is a main-belt asteroid discovered on August 29, 1973, by Tamara Mikhaylovna Smirnova at the Crimean Astrophysical Observatory.	13474 V'yus	Crimean Astrophysical Observatory
+site of astronomical discovery	1309 Hyperborea (1931 TO) is an outer main-belt asteroid discovered on October 11, 1931, by Grigory Neujmin at Simeiz Observatory.	1309 Hyperborea	Simeiz Observatory
+site of astronomical discovery	57424 Caelumnoctu (2001 SP22) is a main-belt asteroid discovered on September 16, 2001 by the Lincoln Laboratory Near-Earth Asteroid Research Team at Socorro, New Mexico.	57424 Caelumnoctu	Lincoln Laboratory
+site of astronomical discovery	1827 Atkinson, provisional designation 1962 RK, is the main-belt asteroid, discovered by the Indiana Asteroid Program at the U.S. Goethe Link Observatory on September 7, 1962.	1827 Atkinson	Goethe Link Observatory
+site of astronomical discovery	2135 Aristaeus (1977 HA) is an Apollo asteroid discovered on April 17, 1977 by E. F. Helin and S. J. Bus at Palomar Observatory.	2135 Aristaeus	Palomar Observatory
+site of astronomical discovery	3198 Wallonia (1981 YH1) is a Mars-crossing asteroid discovered on December 30, 1981 by François Dossin at Haute-Provence Observatory.	3198 Wallonia	Haute-Provence Observatory
+site of astronomical discovery	1294 Antwerpia (1933 UB1) is a main-belt asteroid discovered on October 24, 1933, by Eugène Joseph Delporte at the Royal Observatory of Belgium.	1294 Antwerpia	Royal Observatory of Belgium
+standards body	ISO 3166-2:GM is the entry for the Gambia in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1.	ISO 3166-2:GM	International Organization for Standardization
+standards body	ISO 3166-2:LV is the entry for Latvia in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1.	ISO 3166-2:LV	International Organization for Standardization
+standards body	ISO 3166-2:BN is the entry for Brunei in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1.	ISO 3166-2:BN	International Organization for Standardization
+standards body	ISO 3166-2:CO is the entry for Colombia in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1.	ISO 3166-2:CO	International Organization for Standardization
+standards body	ISO 3166-2:AL is the entry for Albania in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1.	ISO 3166-2:AL	International Organization for Standardization
+standards body	ISO 3166-2:NZ is the entry for New Zealand in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1.	ISO 3166-2:NZ	International Organization for Standardization
+standards body	IEEE P1363 is an Institute of Electrical and Electronics Engineers (IEEE) standardization project for public-key cryptography.	IEEE P1363	Institute of Electrical and Electronics Engineers
+standards body	ISO 3166-2:LB is the entry for Lebanon in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1.	ISO 3166-2:LB	International Organization for Standardization
+standards body	ISO 3166-2:MU is the entry for Mauritius in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1.	ISO 3166-2:MU	International Organization for Standardization
+standards body	ISO 3166-2:HN is the entry for Honduras in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1.	ISO 3166-2:HN	International Organization for Standardization
+standards body	ISO 7001 (``public information symbols'') is a standard published by the International Organization for Standardization that defines a set of pictograms and symbols for public information.	ISO 7001	International Organization for Standardization
+standards body	The Global Industry Classification Standard (GICS) is an industry taxonomy developed in 1999 by MSCI and Standard & Poor's (S&P) for use by the global financial community.	Global Industry Classification Standard	MSCI	Standard & Poor
+standards body	ISO 10006:2003, Quality management systems - Guidelines for quality management in projects, is an international standard developed by the International Organization for Standardization.	ISO 10006	International Organization for Standardization
+standards body	ISO 3166-2:PK is the entry for Pakistan in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1.	ISO 3166-2:PK	International Organization for Standardization
+standards body	ISO 3166-2:MF is the entry for Saint Martin in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1.	ISO 3166-2:MF	International Organization for Standardization
+standards body	ISO 3166-2:RW is the entry for Rwanda in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1.	ISO 3166-2:RW	International Organization for Standardization
+standards body	ISO 3166-2:NF is the entry for Norfolk Island in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1.	ISO 3166-2:NF	International Organization for Standardization
+standards body	ISO 3103 is a standard published by the International Organization for Standardization (commonly referred to as ISO), specifying a standardized method for brewing tea, possibly sampled by the standardized methods described in ISO 1839.	ISO 3103	International Organization for Standardization
+standards body	ISO 3166-2:RS is the entry for Serbia in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1.	ISO 3166-2:RS	International Organization for Standardization
+standards body	ISO 3166-2:GP is the entry for Guadeloupe in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1.	ISO 3166-2:GP	International Organization for Standardization
+standards body	ISO 3166-2:LT is the entry for Lithuania in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1.	ISO 3166-2:LT	International Organization for Standardization
+standards body	ISO 3166-2:AT is the entry for Austria in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1.	ISO 3166-2:AT	International Organization for Standardization
+standards body	ISO 3166-2:TZ is the entry for Tanzania in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1.	ISO 3166-2:TZ	International Organization for Standardization
+stock exchange	It is now listed only as Thomson Reuters Corporation on the New York Stock Exchange and Toronto Stock Exchange (symbol: TRI).	Thomson Reuters	New York Stock Exchange	Toronto Stock Exchange
+stock exchange	ClubCorp (NASDAQ: MYCC)is an American corporation with a home office in Dallas and is the largest owner and operator of private golf and country clubs in the country.	ClubCorp	NASDAQ
+stock exchange	As of 31 May 2012, Metro International was delisted from the NASDAQ OMX Stockholm stock exchange.	Metro International	OMX
+stock exchange	Lexam VG Gold is listed on the Toronto Stock Exchange (TSX: LEX), on OTCQX (LEXVF) and on the Frankfurt Stock Exchange (VN3A).	Lexam VG Gold	Toronto Stock Exchange
+stock exchange	As a result, Sun-Rype finally went public on the Toronto Stock Exchange on November 12, 1996, with 2.35 million shares opening at $2.75 a share.	Sun-Rype	Toronto Stock Exchange
+stock exchange	On April 1, 2013, NASDAQ OMX Group agreed to acquire an electronic Treasurys marketplace from brokerage firm BGC Partners Inc. in a cash-and-stock deal valued at as much as $1.23 billion.	BGC Partners	NASDAQ
+stock exchange	The Web.com Group was formed as a result of the merger of Web.com, Inc. (NASDAQ: WEB) and Website Pros, Inc. (WSP, NASDAQ: WSPI).	Web.com	NASDAQ
+stock exchange	Sina Weibo (NASDAQ: WB) is a Chinese microblogging (weibo) website.	Sina Weibo	NASDAQ
+stock exchange	Banco Cruzeiro do Sul (BM&F Bovespa:CZR4) is a Brazil-based bank mainly engaged in the consumer financing segment.	Banco Cruzeiro do Sul	BM&F Bovespa
+stock exchange	On July 9, 2007 SemGroup announced that it would establish a publicly traded affiliate, SemGroup Energy Partners LP, who would be traded on NASDAQ, under the symbol SGLP.	SemGroup	NASDAQ
+stock exchange	Thomas Cook Group plc is a British global travel company listed on the London Stock Exchange.	Thomas Cook Group	London Stock Exchange
+stock exchange	NewBridge Bank is the banking subsidiary of NewBridge Bancorp (NASDAQ: NBBC).	NewBridge Bank	NASDAQ
+stock exchange	John Laing Infrastructure Fund (LSE: JLIF) is a FTSE 250 company with a primary listing on the London Stock Exchange.	John Laing Infrastructure Fund	London Stock Exchange
+stock exchange	It was seized by U.S. financial regulators and immediately handed over to a new holding company, BankUnited, Inc., which trades on the New York Stock Exchange under the symbol BKU, on 21 May 2009, in the second largest bank failure of the Financial crisis of 2007--2010.	BankUnited	New York Stock Exchange
+stock exchange	OneBeacon Insurance Group, Ltd. is a Bermuda-domiciled holding company that is publicly traded on the New York Stock Exchange under the symbol ``OB.	OneBeacon	New York Stock Exchange
+stock exchange	Delcath Systems, Inc. Delcath Systems, Inc. (NASDAQ: DCTH) is a publicly-traded specialty pharmaceutical and medical device company that develops percutaneous perfusion technologies for the targeted administration of high-dose chemotherapeutic agents to specific organs or regions of the body.	Delcath Systems	NASDAQ
+stock exchange	On June 26, 2012, Foot Locker celebrated the 100th anniversary of the first stock offering made by its predecessor, the F. W. Woolworth Company, on the New York Stock Exchange by ringing the Closing Bell for the trading day.	Foot Locker	New York Stock Exchange
+stock exchange	Corus Bankshares, Inc. (NASDAQ: CORSQ) operated as the holding company for Corus Bank, N.A., a United States company that offered consumer and corporate banking products and services.	Corus Bankshares	NASDAQ
+stock exchange	Extra Space Storage has been a publicly traded real estate investment trust (REIT) since 2004, and is traded on the New York Stock Exchange with the ticker symbol EXR.	Extra Space Storage	New York Stock Exchange
+stock exchange	Cellectis has been trading on Alternext since 2007 and held an initial public offering on the NASDAQ exchange in March 2015.	Cellectis	NASDAQ
+stock exchange	CytRx Corp. (NASDAQ: CYTR) is a biopharmaceutical research and development oncology company based in Los Angeles, California.	CytRx	NASDAQ
+stock exchange	OpenText employs 8,500 people worldwide and is a publicly traded company, listed on the NASDAQ (OTEX) and the Toronto Stock Exchange (OTC).	OpenText	NASDAQ	Toronto Stock Exchange
+stock exchange	On September 17, 2007, American Real Estate Partners changed its name to Icahn Enterprises L.P. and its NASDAQ ticker symbol from ACP to IEP.	Icahn Enterprises	NASDAQ
+stock exchange	In September 2014, CyberArk became a public company, trading on the NASDAQ under the ticker CYBR.	CyberArk	NASDAQ
+stock exchange	On June 23, 1986 Veidekke was quoted on the Oslo Stock Exchange's main list.	Veidekke	Oslo Stock Exchange
+stock exchange	Global Sources (Chinese: 环球资源) (NASDAQ: GSOL) is a Hong-Kong based business-to-business (B2B) media company.	Global Sources	NASDAQ
+stock exchange	Middlesex Water Company (NASDAQ: MSEX) is a water utility based in the U.S. state of New Jersey that was first incorporated in 1897.	Middlesex Water Company	NASDAQ
+stock exchange	Standard Chartered has a primary listing on the London Stock Exchange and is a constituent of the FTSE 100 Index.	Standard Chartered	London Stock Exchange
+stock exchange	Vision Sciences Inc. (NASDAQ: VSCI) is an international endoscopy product manufacturer and supplier.	Vision Sciences Inc.	NASDAQ
+stock exchange	FBL Financial Group is headquartered in West Des Moines, Iowa, and is traded on the New York Stock Exchange under the symbol FFG.	FBL Financial Group	New York Stock Exchange
+stock exchange	On April 10, 2002, Regions Financial Corporation announced that it has begun the process of listing its common stock on the New York Stock Exchange (NYSE) under the ticker symbol ``RF''.	Regions Financial Corporation	New York Stock Exchange
+stock exchange	Repros Therapeutics Inc. (NASDAQ: RPRX), is a US-based development stage biopharmaceutical company headquartered in The Woodlands, Texas.	Repros Therapeutics	NASDAQ
+stock exchange	EarthLink went public on NASDAQ in January 1997.	EarthLink	NASDAQ
+stock exchange	Sarepta Therapeutics Inc. (NASDAQ: SRPT) is a medical research and drug development company with corporate offices and research facilities in Cambridge, Massachusetts, United States.	Sarepta Therapeutics	NASDAQ
+stock exchange	ABG Sundal Collier is a Nordic investment bank, publicly quoted and listed on the Oslo Stock Exchange.	ABG Sundal Collier	Oslo Stock Exchange
+stock exchange	Hersha Hospitality Trust is an American real estate investment trust, publicly traded on the New York Stock Exchange.	Hersha Hospitality Trust	New York Stock Exchange
+stock exchange	Travis Perkins plc is listed on the London Stock Exchange and is part of the FTSE 100.	Travis Perkins	London Stock Exchange
+stock exchange	In Jan 19, 2006, Baytex Energy Trust announced that the New York Stock Exchange had cleared Baytex to file an Original Listing Application to list its trust units on the NYSE.	Baytex Energy	New York Stock Exchange
+stock exchange	The Kopin Corporation (NASDAQ: KOPN) is a Westborough, Massachusetts-based electronics manufacturer, best known for its display devices for mobile electronics.	Kopin Corporation	NASDAQ
+stock exchange	China Gerui Advanced Materials Group Ltd.(河南鸽瑞复合材料有限公司) (NASDAQ: CHOP), a contract manufacturer of strip steel products, was founded in 2000 and is now headquartered in Zhengzhou City, Henan Province, the People's Republic of China.	China Gerui Advanced Materials Group Ltd.	NASDAQ
+stock exchange	Reynolds American was formed in January 2004 and began trading publicly on the New York Stock Exchange as RAI in August 2004.	Reynolds American	New York Stock Exchange
+stock exchange	Liberty Tax Service is the primary subsidiary of Liberty Tax, Inc., a NASDAQ-traded company.	Liberty Tax Service	NASDAQ
+stock exchange	Monotype Imaging Holdings, Inc. (NASDAQ: TYPE) is a Delaware corporation based in Woburn, Massachusetts.	Monotype Imaging	NASDAQ
+stock exchange	On February 20, 1996 The Andersons was first listed on NASDAQ, and around that same time the company reached sales of US$ 1 billion.	The Andersons	NASDAQ
+stock exchange	NW Natural moved from the NASDAQ stock market to a listing on the New York Stock Exchange under the symbol NWN in 2000.	NW Natural	New York Stock Exchange
+stock exchange	Since June 2006, the CTEEP is controlled by the Colombian company Interconexión Eléctrica S.A., which acquired 50.1% of its shares for auction sponsored by the Government of the State of São Paulo in BM&F Bovespa and today, holds 89.40% of the voting paper, equivalent to 37.5% of the total capital of CTEEP.	CTEEP	BM&F Bovespa
+stock exchange	Aetrium Inc. (NASDAQ: ATRM) is a global company developing, manufacturing and supplying electromechanical and electro thermal equipment for semiconductor manufacturers in United States, United Kingdom, Germany, China, South Korea, Singapore, etc. The company was founded in 1982 and is headquartered in North Saint Paul, Minnesota.	Aetrium	NASDAQ
+stock exchange	Park Sterling Bank, whose parent company is Park Sterling Corp. (NASDAQ: PSTB), is a bank based in Charlotte, North Carolina.	Park Sterling Bank	NASDAQ
+stock exchange	Guardian Capital Group is headquartered in Toronto, Canada, and became publicly listed on the Toronto Stock Exchange in 1969.	Guardian Capital Group	Toronto Stock Exchange
+vessel class	Costa Serena is a Concordia-class cruise ship for the Italian cruise line, Costa Crociere.	Costa Serena	Concordia-class cruise ship
+vessel class	HMS K17 was a British K class submarine built by Vickers in Barrow-in-Furness.	HMS K17	British K class submarine
+vessel class	LCT 7074 was one of 235 LCT Mark 3's.	LCT 7074	LCT Mark 3
+vessel class	SM UB-13 was a German Type UB I submarine or U-boat in the German Imperial Navy (German: Kaiserliche Marine) during World War I. The submarine was probably sunk by a British mine net in April 1916.	SM UB-13	German Type UB I submarine
+vessel class	The Japanese submarine I-13 was an Type AM submarine built for the Imperial Japanese Navy (IJN) during World War II.	Japanese submarine I-13	Type AM submarine
+vessel class	USS Angler (SS-240), a Gato-class submarine, was the only ship of the United States Navy to be named for the anglerfish.	USS Angler	Gato-class submarine
+vessel class	HMS Kashmir (F12) was a K-class destroyer built for the Royal Navy during the 1930s, named after the Indian province of Kashmir.	HMS Kashmir (F12)	K-class destroyer
+vessel class	USS Windlass (ARS(D)-4), a Gypsy-class salvage lifting vessel of the United States Navy, was originally conceived as LSM-552 and laid down on 27 August 1945 at Houston, Texas, by Brown Shipbuilding Corporation.	USS Windlass (ARS(D)-4)	Gypsy-class salvage lifting vessel
+vessel class	HMS Plym (K271) was a River class frigate that served in the Royal Navy between 1943 and 1952.	HMS Plym (K271)	River class frigate
+vessel class	USS James K. Paulding (DD-238) was a Clemson-class destroyer in the United States Navy during the period between World War I and World War II. She was named for former Secretary of the Navy James Kirke Paulding.	USS James K. Paulding (DD-238)	Clemson-class destroyer
+vessel class	USS Goldring (SS-360), would have been a Balao-class submarine, the only submarine of the United States Navy to be named for the goldring, an edible fish of the Mississippi River.	USS Goldring (SS-360)	Balao-class submarine
+vessel class	USS Espada (SS-355), would have been a Balao-class submarine, the only submarine of the United States Navy to be named in that manner for the swordfish.	USS Espada (SS-355)	Balao-class submarine
+vessel class	USS Chub (SS-329), a Balao-class submarine, was a ship of the United States Navy named for the chub, a game fish of the Atlantic and Mediterranean.	USS Chub (SS-329)	Balao-class submarine
+vessel class	SM UB-148 was a German Type UB III submarine or U-boat built for the German Imperial Navy (German: Kaiserliche Marine) during World War I. She was commissioned into the German Imperial Navy on 19 September 1918 as UB-148 .	SM UB-148	German Type UB III submarine
+vessel class	USS Clearwater County (LST-602), originally USS LST-602, was a United States Navy LST-542-class tank landing ship built during World War II and in commission from 1944 to 1946 and from 1950 to ca.	USS Clearwater County (LST-602)	LST-542-class tank landing ship
+vessel class	USS Duval County (LST-758) was an LST-542-class tank landing ship built for the United States Navy during World War II. Named after counties in Florida and Texas, she was the only U.S. naval vessel to bear the name.	USS Duval County (LST-758)	LST-542-class tank landing ship
+vessel class	SM UB-6 was a German Type UB I submarine or U-boat in the German Imperial Navy (German: Kaiserliche Marine) during World War I. The submarine was interned after running aground in neutral Dutch waters, and was scuttled by her crew at Hellevoetsluis.	SM UB-6	German Type UB I submarine
+vessel class	RNLB Aguila Wren (ON 892) is a retired Liverpool-class lifeboat of the Royal National Lifeboat Institution.	RNLB Aguila Wren (ON 892)	Liverpool-class lifeboat
+vessel class	USS Garlopa (SS-358), would have been a Balao-class submarine, the only submarine of the United States Navy to be named for the garlopa, a large species of grouper found on the west coast of Mexico.	USS Garlopa (SS-358)	Balao-class submarine
+vessel class	The first USS Macdonough (DD-9) was a Lawrence-class destroyer, which was a sub-class of Bainbridge-class destroyer, in the United States Navy.	USS Macdonough (DD-9)	Bainbridge-class destroyer
+vessel class	HMS D4 was a British D class submarine built by Vickers, Barrow.	HMS D4	British D class submarine
+vessel class	HMS Perim (K593), ex-Sierra Leone, was a Colony-class frigate of the United Kingdom that served during World War II. She originally was ordered by the United States Navy as the Tacoma-class patrol frigate USS Phillimore (PF-89) and was transferred to the Royal Navy prior to completion.	HMS Perim (K593)	Colony-class frigate
+vessel class	USS Lorain (PF-97) was a United States Navy Tacoma-class frigate authorized for construction during World War II but cancelled before construction could begin.	USS Lorain (PF-97)	Tacoma-class frigate
+vessel class	USS Uhlmann (DD-687) was a World War II-era Fletcher-class destroyer in the service of the United States Navy, named after Ensign Robert W. Uhlmann.	USS Uhlmann	Fletcher-class destroyer
+vessel class	USS Cone (DD-866) was a Gearing-class destroyer of the United States Navy, named for Rear Admiral Hutch Ingham Cone USN (1871--1941).	USS Cone (DD-866)	Gearing-class destroyer
+vessel class	SM UB-136 was a German Type UB III submarine or U-boat built for the German Imperial Navy (German: Kaiserliche Marine) during World War I. Completed after the end of hostilities, she was not commissioned into the German Imperial Navy but surrendered to Britain in accordance with the requirements of the Armistice with Germany.	SM UB-136	German Type UB III submarine
+vessel class	USS Laws (DD-558), a Fletcher-class destroyer, was a ship of the United States Navy named for Alexander Laws, who served in the Navy during the Quasi-War and First Barbary War in the early 19th century.	USS Laws (DD-558)	Fletcher-class destroyer
+vessel class	HMAS Geelong (FCPB 215), named for the city of Geelong, Victoria, was a Fremantle class patrol boat of the Royal Australian Navy (RAN).	HMAS Geelong (FCPB 215)	Fremantle class patrol boat
+vessel class	HMAS Pirie (ACPB 87), named for the city of Port Pirie, South Australia, is an Armidale-class patrol boat of the Royal Australian Navy (RAN).	HMAS Pirie (ACPB 87)	Armidale-class patrol boat
+vessel class	USS Pilotfish (SS-386), a Balao-class submarine, was a ship of the United States Navy named for the pilot fish, a carangoid fish, often seen in warm latitudes in company with sharks.	USS Pilotfish (SS-386)	Balao-class submarine
+vessel class	HMAS Huon (D50), named after the Huon River, was a River-class torpedo-boat destroyer of the Royal Australian Navy (RAN).	HMAS Huon (D50)	River-class torpedo-boat destroyer
+vessel class	USS Burton Island (AG-88) was a United States Navy Wind-class icebreaker that was later re-commissioned in the United States Coast Guard as the USCGC Burton Island (WAGB-283).	USCGC Burton Island (WAGB-283)	Wind-class icebreaker
+vessel class	The second USS Cummings (DD-365) was a Mahan-class destroyer in the United States Navy, named for Andrew Boyd Cummings.	USS Cummings (DD-365)	Mahan-class destroyer
+vessel class	USS Blueback (SS-326), a Balao-class submarine, was the first submarine of the United States Navy to be named for a type of salmon, specifically, the Blueback salmon, also known as the sockeye salmon.	USS Blueback (SS-326)	Balao-class submarine
+vessel class	USS Jimmy Carter (SSN-23) is the third and last Seawolf-class submarine in the United States Navy.	USS Jimmy Carter	Seawolf-class submarine
+vessel class	USS Cabezon (SS-334) was a Balao-class submarine of the United States Navy, named for the cabezon, a saltwater fish of sculpin family inhabiting the North Atlantic and North Pacific Oceans (cabezon means ``big head'' in Spanish).	USS Cabezon (SS-334)	Balao-class submarine
+vessel class	USS Graham (DD-192) was a Clemson-class destroyer in the United States Navy during World War I. She was named for Secretary of the Navy William A. Graham (1804--1875).	USS Graham (DD-192)	Clemson-class destroyer
+vessel class	USS Black (DD-666) was a Fletcher-class destroyer of the United States Navy, named for Lieutenant Commander Hugh D. Black (1903--1942), who was killed in action during the sinking of his ship, Jacob Jones in February 1942.	USS Black	Fletcher-class destroyer
+vessel class	Costa Diadema is a Dream-class cruise ship operated by Costa Crociere.	Costa Diadema	Dream-class cruise ship

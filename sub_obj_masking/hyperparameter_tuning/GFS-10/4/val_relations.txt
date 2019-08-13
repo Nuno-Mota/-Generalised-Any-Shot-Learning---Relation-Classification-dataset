@@ -1,0 +1,10 @@
+cast member
+continent
+country
+country of citizenship
+creator
+headquarters location
+narrative location
+publisher
+screenwriter
+voice type

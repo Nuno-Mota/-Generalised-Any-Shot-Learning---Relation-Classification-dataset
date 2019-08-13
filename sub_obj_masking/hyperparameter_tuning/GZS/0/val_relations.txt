@@ -1,0 +1,10 @@
+continent
+country
+developer
+headquarters location
+manufacturer
+mother
+narrative location
+publisher
+record label
+series

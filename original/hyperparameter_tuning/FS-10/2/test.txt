@@ -1,0 +1,1000 @@
+developer	EdgeHTML is a proprietary layout engine developed by Microsoft for the Microsoft Edge web browser.	EdgeHTML	Microsoft
+developer	Project Overkill is a shoot 'em up game developed and published by Konami in 1996.	Project Overkill	Konami
+developer	Midtown Madness 2 is a free roam racing/arcade sequel to Midtown Madness, part of the Midtown Madness series, developed by Angel Studios (now Rockstar San Diego) and published by Microsoft, which features a range of vehicles that can be driven around London and San Francisco.	Midtown Madness 2	Rockstar San Diego
+developer	Ninjabread Man is a platform video game from English developer/publisher Data Design Interactive.	Ninjabread Man	Data Design Interactive
+developer	FBX (Filmbox) is a proprietary file format (.fbx) developed by Kaydara and owned by Autodesk since 2006.	FBX	Autodesk
+developer	DJMax Portable 3 (Korean: 디제이맥스 포터블 3; abbr.: DMP3) is a music game for the PlayStation Portable published and developed by Pentavision in South Korea, and is a sequel to the earlier DJMax Portable games.	DJMax Portable 3	Pentavision
+developer	Windows 8.1 (codenamed Blue) is an upgrade for Windows 8, a version of Windows NT, a computer operating system released by Microsoft.	Windows 8.1	Microsoft
+developer	Summer Games II is a sports video game developed by Epyx and released by U.S. Gold based on sports featured in the Summer Olympic Games.	Summer Games II	Epyx
+developer	The original Ctags was introduced in BSD Unix and was written by Ken Arnold, with Fortran support by Jim Kleckner and Pascal support by Bill Joy.	Ctags	Ken Arnold
+developer	Senjyo (センジョー) is an arcade game developed in 1983 by Tehkan (now known as Tecmo).	Senjyo	Tecmo
+developer	Major Stryker is a 2D vertical scrolling shooter game written for MS-DOS, by Apogee Software (now 3D Realms).	Major Stryker	Apogee Software
+developer	Indiana Jones and the Fate of Atlantis is a point-and-click adventure game by LucasArts originally released in 1992.	Indiana Jones and the Fate of Atlantis	LucasArts
+developer	Global Agenda is an online team-based game by Hi-Rez Studios developed using Unreal Engine 3.	Global Agenda	Hi-Rez Studios
+developer	Valhalla and the Fortress of Eve, also known as Valhalla 3, is an adventure game developed and released by Vulcan Software in 1995 for the Amiga.	Valhalla and the Fortress of Eve	Vulcan Software
+developer	Killerball is a videogame about a futuristic Action/Sport game developed by Microïds in 1989 which blends American football with roller-skating.	Killerball	Microïds
+developer	Barkley Shut Up and Jam!, known in Japan as Barkley's Power Dunk (バークレーのパワーダンク Bākurē no Pawādanku), is a 1993 basketball video game developed by Accolade for the Sega Genesis and Super Nintendo Entertainment System.	Barkley Shut Up and Jam!	Accolade
+developer	Robo Aleste, released in Japan as Dennin Aleste (電忍アレスタ), is a 1992 vertically scrolling shooter video game developed and published by Compile for the Mega-CD.	Robo Aleste	Compile
+developer	Adobe Bridge is a digital asset management app developed by Adobe Systems and first released with Adobe Creative Suite v2.	Adobe Bridge	Adobe Systems
+developer	Scivelation (previously known as Salvation) is a third-person shooter being developed by Ukrainian developer Black Wing Foundation for Microsoft Windows, Xbox One and PlayStation 4.	Scivelation	Black Wing Foundation
+developer	Bing News (previously Live Search News) is a part of Microsoft's Bing search engine.	Bing News	Microsoft
+developer	The Sims 3 is the third major title in the life simulation video game developed by The Sims Studio (Maxis) and published by Electronic Arts.	The Sims 3	The Sims Studio
+developer	Tuneland is a musical children's computer game, produced in 1993 by a division of 7th Level, Kids' World Entertainment.	Tuneland	7th Level
+developer	BattleForge is a discontinued video game that was developed by EA Phenomic and published by Electronic Arts.	BattleForge	EA Phenomic
+developer	Microsoft Internet Explorer 3 (IE3) was a graphical web browser released on August 13, 1996 by Microsoft for Microsoft Windows and on January 8, 1997 for Apple Mac OS (see IE for Mac).	Internet Explorer 3	Microsoft
+developer	DisplayPort is a digital display interface developed by the Video Electronics Standards Association (VESA).	DisplayPort	Video Electronics Standards Association
+developer	Addiction Pinball is a pinball simulation game released in 1998 for PC, featuring tables based on two popular Team17 games - Worms and World Rally Fever.	Addiction Pinball	Team17
+developer	Flying Heroes is a fantasy action game produced by Take 2 Interactive, Illusion Softworks, and Pterodon.	Flying Heroes	Pterodon
+developer	Gmail is a free, advertising-supported email service provided by Google.	Gmail	Google
+developer	X-Men Legends is an action role-playing video game developed by Raven Software and published by Activision.	X-Men Legends	Raven Software
+developer	Jinxter is a text adventure video game developed by Magnetic Scrolls and published by Rainbird in 1987 for popular 8-bit and 16-bit machines of the time as well as for the 32-bit Acorn Archimedes.	Jinxter	Magnetic Scrolls
+developer	EDOS was an operating system based upon IBM's original DOS.	EDOS	IBM
+developer	Team Apache is an attack helicopter flight simulator developed by Simis and published by Mindscape Group.	Team Apache	Simis
+developer	Midtown Madness (also known as Midtown Madness: Chicago Edition) is a racing game developed for Windows by Angel Studios (now Rockstar San Diego) and published by Microsoft.	Midtown Madness	Rockstar San Diego
+developer	ESPN NFL 2K5 is an American football video game developed by Visual Concepts and published by 2K Sports and the Sega Corporation.	ESPN NFL 2K5	Visual Concepts
+developer	Rocky's Boots is an educational logic puzzle game by Warren Robinett and Leslie Grimm, published by The Learning Company in 1982.	Rocky's Boots	Warren Robinett
+developer	SSX 3 is a snowboard racing game developed by EA Canada and published by EA Sports Big.	SSX 3	EA Canada
+developer	Mystic Ark (ミスティックアーク Misutikku Āku) is a 1995 role-playing video game developed by Produce and published by Enix for the Super Famicom.	Mystic Ark	Produce
+developer	Killer Is Dead is a 2013 action video game developed by Grasshopper Manufacture and published by Kadokawa Shoten in Japan, XSEED Games in North America and Deep Silver in Europe.	Killer Is Dead	Grasshopper Manufacture
+developer	Wizorb is a role-playing video game created and published by the independent developer Tribute Games.	Wizorb	Tribute Games
+director	An Over-Incubated Baby (AKA: The Wonderful Baby Incubator) is a 1901 British short silent comedy film, directed by Walter R. Booth, featuring a woman who gets an unpleasant surprise after placing her baby in Professor Bakem's baby incubator for 12 months growth in one hour.	An Over-Incubated Baby	Walter R. Booth
+director	Max Rules is a 2004 kids' action-adventure feature film written and directed by Robert Burke.	Max Rules	Robert Burke
+director	Moggina Manasu (Kannada: ಮೊಗ್ಗಿನ ಮನಸು) is a 2008 Indian Kannada language film directed by Shashank and produced by E. Krishnappa under the banner E. K. Entertainers.	Moggina Manasu	Shashank
+director	Uppi 2 (titled Upendra 2 in Telugu) is a 2015 Indian Kannada psychological thriller film written, directed by and starring Upendra in the lead role, and is a sequel to his 1999 film Upendra, and was produced under his production company, Upendra Productions.	Uppi 2	Upendra
+director	Ain't Them Bodies Saints is a 2013 American romantic crime drama film written and directed by David Lowery.	Ain't Them Bodies Saints	David Lowery
+director	Empty Socks (1927) is a short animated film made by Walt Disney and Ub Iwerks that was considered a lost film until its rediscovery in Norway in 2014.	Empty Socks	Walt Disney
+director	Tamilselvanum Thaniyar Anjalum is an upcoming Indian Tamil action-romantic comedy film directed by Premsai (in his directorial debut) and produced by Gautham Menon.	Tamilselvanum Thaniyar Anjalum	Premsai
+director	Bring Home the Turkey is a 1927 short silent comedy film directed by Robert F. McGowan and Robert A. McGowan.	Bring Home the Turkey	Robert F. McGowan	Robert A. McGowan
+director	Prem Bandhan (Hindi: प्रेम बंधन; translation: bond of love) is a 1979 is an Indian Hindi film directed by Ramanand Sagar.	Prem Bandhan	Ramanand Sagar
+director	It Girls is a feature documentary film directed by Robin Melanie Leacock that aired on the Women's Entertainment channel on April 2 and 7 2002.	It Girls	Robin Melanie Leacock
+director	Kudamattam is a 1997 Indian Malayalam film, directed by Sundar Das and produced by Sundar Das.	Kudamattam	Sundar Das
+director	The Cub is an extant 1915 silent film drama produced by William A. Brady and directed by Maurice Tourneur.	The Cub	Maurice Tourneur
+director	Makkaliralavva Mane Thumba (Kannada: ಮಕ್ಕಳಿರಲವ್ವ ಮನೆತುಂಬ) is a 1984 Kannada drama film directed by T. S. Nagabharana, and written by Shankar Nag and Somu.	Makkaliralavva Mane Thumba	T. S. Nagabharana
+director	Das Mädchen und der Staatsanwalt (``The Girl and the Prosecutor'') is a 1962 German drama film directed by Jürgen Goslar and starring Wolfgang Preiss, Götz George and Elke Sommer.	Das Mädchen und der Staatsanwalt	Jürgen Goslar
+director	Muthodumuthu is a 1984 Indian Malayalam film, directed and produced by M. Mani.	Muthodumuthu	M. Mani
+director	The Strange Death of Adolf Hitler is a 1943 war film, directed by James P. Hogan.	The Strange Death of Adolf Hitler	James P. Hogan
+director	Bärenburger Schnurre is an East German family film directed by Ralf Kirsten.	Bärenburger Schnurre	Ralf Kirsten
+director	I Am Chris Farley is a 2015 documentary film based on the life of comedian and actor Chris Farley, co-directed by Brent Hodge of Hodgee Films and Derik Murray (who also produced) of Network Entertainment.	I Am Chris Farley	Brent Hodge
+director	The Scenic Route is a 1978 American drama film, written and directed by Mark Rappaport.	The Scenic Route	Mark Rappaport
+director	The Territory (Portuguese: O Território) is a 1981 Portuguese drama film directed by Raúl Ruiz.	The Territory	Raúl Ruiz
+director	The Countess Charming is a 1917 American silent comedy film directed by Donald Crisp and written by Gelett Burgess, Carolyn Wells, and Gardner Hunting.	The Countess Charming	Donald Crisp
+director	The Lady Owner is a 1923 British silent sports film directed by Walter West and starring Violet Hopson, James Knight and Warwick Ward.	The Lady Owner	Walter West
+director	Mayilu is a 2012 Tamil-language Indian feature film directed by M. Jeevan and produced by actor Prakash Raj, starring Shri, Shammu and Vidharth.	Mayilu	M. Jeevan
+director	Octaman is a 1971 monster film directed by Harry Essex.	Octaman	Harry Essex
+director	Gildersleeve's Bad Day is a 1943 American comedy film directed by Gordon Douglas from a screenplay by Jack Townley.	Gildersleeve's Bad Day	Gordon Douglas
+director	In China They Eat Dogs (Danish: I Kina Spiser de Hunde), (1999), is a Danish action comedy film directed by Lasse Spang Olsen.	In China They Eat Dogs	Lasse Spang Olsen
+director	Parbat Pe Apna Dera (On The Mountain We Live) is a Bollywood film directed by V. Shantaram.	Parbat Pe Apna Dera	V. Shantaram
+director	Kid Kulafu is a 2015 Filipino biographical sports drama film produced and released by Star Cinema together with Ten17 Productions owned by the film's director Paul Soriano.	Kid Kulafu	Paul Soriano
+director	The Photographical Congress Arrives in Lyon (also known as Neuville-sur-Saône: Débarquement du congrès des photographes à Lyon) is an 1895 French short black-and-white silent documentary film directed and produced by Louis Lumière and starring P.J.C. Janssen as himself.	The Photographical Congress Arrives in Lyon	Louis Lumière
+director	A Son of Satan is a 1924 race film directed, written, produced and distributed by Oscar Micheaux.	A Son of Satan	Oscar Micheaux
+director	Set in a caravan park on the Isle of Sheppey in Kent, South East England, a young man with a childlike mind named Ashley (Ryder) arrives to stay with his Uncle David (Hoyle).	Uncle David	David (Hoyle
+director	Back to 1942 is a 2012 Chinese historical film directed by Feng Xiaogang.	Back to 1942	Feng Xiaogang
+director	Antti the Treebranch (Finnish: Antti Puuhaara) is a 1976 Finnish drama film directed by Katariina Lahti, Heikki Partanen and Riitta Rautoma.	Antti the Treebranch	Katariina Lahti	Heikki Partanen
+director	The W Plan is a 1930 British spy film produced and directed by Victor Saville, from a screenplay which he also co-wrote with Miles Malleson and Frank Launder, based on the novel of the same name by Graham Seton.	The W Plan	Victor Saville
+director	Balwaan is a 1992 Hindi language Indian feature film directed by Deepak Anand.	Balwaan	Deepak Anand
+director	Looking for Comedy in the Muslim World is a 2005 film starring and directed by Albert Brooks.	Looking for Comedy in the Muslim World	Albert Brooks
+director	The Crazy Marriage of Laló (German:Die tolle Heirat von Laló) is a 1918 German silent film directed by Lupu Pick.	The Crazy Marriage of Laló	Lupu Pick
+director	Safar Barlik (in Arabic سفر برلك meaning The Exile) is a musical and a war film, directed by Henry Barakat and released in 1967.	Safar Barlik	Henry Barakat
+director	Kanni Rasi (English: Virgo Sign) is a 1985 Tamil language drama film directed by newcomer Pandiarajan.	Kanni Rasi	Pandiarajan
+director	Open Tee Bioscope is a 2015 Bengali language Indian coming-of-age comedy-drama film released on 15 January 2015, directed by director Anindya Chatterjee, who is the well known vocalist of the band Chandrabindu.	Open Tee Bioscope	Anindya Chatterjee
+director	When's Your Birthday? (1937) is an American film directed by Harry Beaumont.	When's Your Birthday?	Harry Beaumont
+director	Senza Tempo (Timeless in English) is a short film by Italian director Gabriele Muccino, director of L'ultimo bacio (One Last Kiss), Remember Me, My Love (Ricordati di me) with Monica Bellucci and The Pursuit of Happyness with Will Smith.	Senza Tempo	Gabriele Muccino
+director	Isla de sal (English: Salt Island) is a 1964 Venezuelan drama comedy film directed by Clemente de la Cerda.	Isla de sal	Clemente de la Cerda
+director	Il figlio della sepolta viva is an 1974 Italian drama film directed by Luciano Ercoli.	Il figlio della sepolta viva	Luciano Ercoli
+director	Andremo in città (We'll Go to the City) is a 1966 Italian drama film directed by Nelo Risi.	Andremo in città	Nelo Risi
+director	Kalakalappu is a 2012 Indian Tamil comedy film co-written co-produced and directed by Sundar C. and produced by his wife Kushboo Sundar.	Kalakalappu	Sundar C.
+director	The Grissom Gang is a 1971 American period gangster film directed and produced by Robert Aldrich from a screenplay by Leon Griffiths.	The Grissom Gang	Robert Aldrich
+director	A Crime Has Been Committed (French:Un crime a été commis) is a 1919 French silent film directed by André Hugon.	A Crime Has Been Committed	André Hugon
+director	The Drayton Case is a 1953 British short crime film directed by Ken Hughes and starring Edgar Lustgarten, Hilda Barry and John Le Mesurier.	The Drayton Case	Ken Hughes
+director	48 Hours of Hallucinatory Sex (original title: 48 Horas de Sexo Alucinante) is a 1987 Brazilian trash/sexploitation film by Brazilian film director José Mojica Marins.	48 Hours of Hallucinatory Sex	José Mojica Marins
+director	As God Made Her (Dutch: Zoo als ik ben) is a 1920 Dutch silent film directed by Maurits Binger.	As God Made Her	Maurits Binger
+director	Russia Aflame is a 1943 short Australian documentary directed by Charles Chauvel.	Russia Aflame	Charles Chauvel
+director	Forgotten Light (Czech: Zapomenuté světlo) is a 1996 Czech film directed by Vladimír Michálek, written by Milena Jelinek, based on book by Jakub Deml (a masterpiece of Czech literature of the 20th century and main Deml´s prose).	Forgotten Light	Vladimír Michálek
+director	Casino Jack and the United States of Money is a 2010 documentary film directed by Alex Gibney.	Casino Jack and the United States of Money	Alex Gibney
+director	The Delay (Spanish: La demora) is a 2012 Uruguayan drama film directed by Rodrigo Plá.	The Delay	Rodrigo Plá
+director	As I Was Moving Ahead Occasionally I Saw Brief Glimpses of Beauty is a 2000 experimental documentary film directed by Jonas Mekas.	As I Was Moving Ahead Occasionally I Saw Brief Glimpses of Beauty	Jonas Mekas
+director	Peter-No-Tail and the Great Treasure Hunt (Swedish: Pelle Svanslös och den stora skattjakten) is a 2000 Swedish animated film directed by Mikael Ekman.	Peter-No-Tail and the Great Treasure Hunt	Mikael Ekman
+director	The Conquering Horde is a 1931 American Pre-Code Western directed by Edward Sloman and written by Emerson Hough, Grover Jones and William Slavens McNutt.	The Conquering Horde	Edward Sloman
+director	The Girl in the Book is a 2015 American drama film written and directed by Marya Cohn in her directorial debut.	The Girl in the Book	Marya Cohn
+director	A Free Woman (Italian: Una donna libera) is a 1954 Italian drama film directed by Vittorio Cottafavi.	A Free Woman	Vittorio Cottafavi
+director	Sioux Blood is a surviving 1929 MGM silent film western directed by John Waters.	Sioux Blood	John Waters
+director	Trois milliards sans ascenseur (Italian: Sette cervelli per un colpo perfetto) is a 1972 French-Italian film, directed by Roger Pigaut.	Trois milliards sans ascenseur	Roger Pigaut
+director	Exit 67 (French: Sortie 67) is a 2010 French-Canadian (Quebec) film written and directed by Jephté Bastien.	Exit 67	Jephté Bastien
+director	Big Gay Love is a 2013 American comedy film written and directed by Ringo Le and produced by Quentin Lee and Marisa Le.	Big Gay Love	Ringo Le
+director	Blue Gate Crossing (Chinese: 藍色大門; pinyin: lánsè dà mén) is a 2002 Taiwanese film by writer-director Yee Chin-yen.	Blue Gate Crossing	Yee Chin-yen
+director	Gone with the West is a 1975 American film starring James Caan and Stefanie Powers, directed by Bernard Girard.	Gone with the West	Bernard Girard
+director	The Hour of Truth (Spanish:La hora de la verdad) is a 1945 Mexican drama film directed by Norman Foster and starring Ricardo Montalban, Virginia Serret, Lilia Michel.	The Hour of Truth	Norman Foster
+director	Hong Kong Nocturne (香江花月夜) is a 1967 Hong Kong Shaw Brothers musical film directed by Umetsugu Inoue.	Hong Kong Nocturne	Umetsugu Inoue
+director	Jane Got a Gun is a 2016 American action-drama western film directed by Gavin O'Connor and written by Brian Duffield.	Jane Got a Gun	Gavin O'Connor
+director	Casanova's Legacy (German:Casanovas Erbe) is a 1928 German silent film directed by Manfred Noa and starring Andrée Lafayette, Maly Delschaft and Elizza La Porta.	Casanova's Legacy	Manfred Noa
+director	The Ferocious One (Russian: Лютый, translit. Lyutyy, also known as The Fierce One) is a 1974 Russian drama film directed by Tolomush Okeyev.	The Ferocious One	Tolomush Okeyev
+director	Mr. Kaplan is a 2014 Uruguayan comedy-drama film directed by Álvaro Brechner.	Mr. Kaplan	Álvaro Brechner
+director	Mediterranean Holiday (German: Traumreise unter weissen Segeln) is a 1962 West German documentary film directed by Hermann Leitner and Rudolf Nussgruber.	Mediterranean Holiday	Hermann Leitner	Rudolf Nussgruber
+director	Fear, Anxiety & Depression is a 1989 American comedy film written and directed by Todd Solondz and starring Solondz, Stanley Tucci and Jill Wisoff.	Fear, Anxiety & Depression	Todd Solondz
+director	Belle Starr's Daughter is a 1948 American Western film directed by Lesley Selander and written by W. R. Burnett.	Belle Starr's Daughter	Lesley Selander
+director	Gangsters Versus Cowboys (Spanish:Gangsters contra charros) is a 1948 Mexican Gangster film written, directed by, and starring Juan Orol, and featuring Rosa Carmina and José Pulído.	Gangsters Versus Cowboys	Juan Orol
+director	The Carpenters (aka Carpenters: Live at the BBC) is a videotaped studio concert performed by The Carpenters in 1971.	Carpenters: Live at the BBC	The Carpenters
+director	13 Eerie is a 2013 Canadian horror film directed by Lowell Dean, making his feature film debut.	13 Eerie	Lowell Dean
+director	Habla, mudita is a 1973 Spanish drama film directed by Manuel Gutiérrez Aragón.	Habla, mudita	Manuel Gutiérrez Aragón
+director	A Régiséggyüjtö is a 1917 short Hungarian film directed by Alfréd Deésy and featuring Béla Lugosi.	A Régiséggyüjtö	Alfréd Deésy
+director	Yes, Madam (Chinese: 皇家師姐, released in the United Kingdom as Police Assassins) is a 1985 Hong Kong action film directed by Corey Yuen, and produced by Sammo Hung, who also co-stars in the film.	Yes, Madam	Corey Yuen	Sammo Hung
+director	Rabbitson Crusoe is a Warner Bros. Looney Tunes short released in 1956 and directed by Friz Freleng.	Rabbitson Crusoe	Friz Freleng
+director	Torino nera (internationally released as Black Turin) is a 1972 Italian crime film directed by Carlo Lizzani.	Black Turin	Carlo Lizzani
+director	Happy Birthday, Garfield is an hour-long television dedicated to the tenth anniversary of the Garfield comic strip, hosted by its creator Jim Davis.	Happy Birthday, Garfield	Jim Davis
+director	Raped by an Angel a.k.a. Naked Killer 2 (香港奇案之強姦; pinyin: Xiang Gang qi an zhi qiang jian) is a 1993 Category III Hong Kong film directed by Andrew Lau, with a scenario by Wong Jing.	Raped by an Angel	Andrew Lau
+director	Easan (Tamil: ஈசன்) is a 2010 Indian Tamil-language drama film written, directed and produced by M. Sasikumar, directing his second film after the blockbuster, Subramaniapuram.	Easan	M. Sasikumar
+director	Foreign Affaires is a 1935 British comedy film directed by and starring Tom Walls.	Foreign Affaires	Tom Walls
+director	Rubber Racketeers (1942) is an American crime film directed by Harold Young and starring Ricardo Cortez and Rochelle Hudson.	Rubber Racketeers	Harold Young
+director	Border Saddlemates is a 1952 American Western film directed by William Witney and written by Albert DeMond.	Border Saddlemates	William Witney
+director	Lakshmi Putrudu (translation: Lakshmi's Son) is a 2008 Telugu drama film directed by Tamil director Raj Kapoor and is produced by Polisetty Rambabu, known for Gopi --	Lakshmi Putrudu	Raj Kapoor
+director	The Kid Who Couldn't Miss is a 1982 docudrama directed by Paul Cowan.	The Kid Who Couldn't Miss	Paul Cowan
+director	Elavamkodu Desam is a 1998 Malayalam period drama film written and directed by K. G. George.	Elavamkodu Desam	K. G. George
+director	Just Like the Son is an American feature film written and directed by Morgan J. Freeman.	Just Like the Son	Morgan J. Freeman
+director	A Man, a Real One (French title: Un homme, un vrai) is a 2003 French comedy-drama film directed by Arnaud Larrieu and Jean-Marie Larrieu.	A Man, a Real One	Arnaud Larrieu
+director	Adventures of a Dentist (Russian: Пoхoждения зубногo врача, translit. Pokhozhdyeniya zubnovo vracha) is a 1965 Soviet dark comedy/drama feature film directed by Elem Klimov on Mosfilm.	Adventures of a Dentist	Elem Klimov
+director	Chronique d'un été (Chronicle of a Summer) is a 1961 French documentary film shot during the summer of 1960 by sociologist Edgar Morin and anthropologist and filmmaker Jean Rouch, with the technical and aesthetic collaboration of Québécois director-cameraman Michel Brault.	Chronique d'un été	Edgar Morin	Jean Rouch
+director	A Scream in the Dark is a 1943 American mystery film directed by George Sherman and written by Anthony Coldeway and Gerald Schnitzer.	A Scream in the Dark	George Sherman
+director	40 Bands 80 Minutes! is a 2006 American rockumentary directed by Sean Carnage about the Los Angeles underground music scene in 2006.	40 Bands 80 Minutes!	Sean Carnage
+director	Mexican, You Can Do It (Spanish: Mexicano ¡Tú puedes!) is a 1985 Mexican drama film directed by José Estrada.	Mexican, You Can Do It	José Estrada
+director	Knights of Badassdom is a 2013 American comedy horror film, directed by Joe Lynch, written by Kevin Dreyfuss and Matt Wall.	Knights of Badassdom	Joe Lynch
+director	Here I Am, Here I Stay (German: Hier bin ich -- hier bleib ich) is a 1959 West German musical comedy film directed by Werner Jacobs and produced by Artur Brauner.	Here I Am, Here I Stay	Werner Jacobs
+director	Dirty Hearts (Portuguese: Corações Sujos) is a 2011 Brazilian drama-thriller film directed by Vicente Amorim, based on the book of the same name by Fernando Morais.	Dirty Hearts	Vicente Amorim
+director	Non son degno di te is a 1965 Italian musicarello film directed by Ettore Maria Fizzarotti.	Non son degno di te	Ettore Maria Fizzarotti
+director	The Adorable Outcast is a 1928 Australian silent film directed by Norman Dawn about an adventurer who romances an island girl.	The Adorable Outcast	Norman Dawn
+director	La Gran Fiesta (in English, The Great Party) is a 1985 Puerto Rican drama film, written and directed by Marcos Zurinaga, based on a story by Ana Lydia Vega.	La Gran Fiesta	Marcos Zurinaga
+director	Little Vera (Russian: Ма́ленькая Ве́ра, Malenkaya Vera), produced at the Gorky Film Studio and released in 1988, is a film by Russian film director Vasili Pichul.	Little Vera	Vasili Pichul
+director	Las Aventuras de Jack is a 1949 Argentine film directed and written by Carlos F. Borcosque with Alphonse Daudet.	Las Aventuras de Jack	Carlos F. Borcosque
+director	Adharmam is a 1994 Tamil language action film directed by Ramesh Balakrishnan.	Adharmam	Ramesh Balakrishnan
+director	Candyjam is a 1988 7 minute 35mm short animated film animated collaboration by ten animators from four countries produced and directed by Joanna Priestley and Joan Gratz.	Candyjam	Joanna Priestley
+director	The Other Man's Wife is a 1919 American silent drama film directed by Carl Harbaugh which, as discussed in its prologue, is dedicated to the part played by women at home during World War I. It was the film debut of George Jessel.	The Other Man's Wife	Carl Harbaugh
+director	Story of Barbara (Danish: Historien om Barbara) is a 1967 Danish film directed by Palle Kjærulff-Schmidt.	Story of Barbara	Palle Kjærulff-Schmidt
+director	Pithamaha (Kannada: ಪಿತಾಮಹ) is a 1985 Kannada film directed by K. S. L. Swamy (Ravi) and produced by Singh Brothers.	Pithamaha	K. S. L. Swamy
+director	Prescription for Romance is a 1937 American romantic comedy film, directed by S. Sylvan Simon for Universal Pictures.	Prescription for Romance	S. Sylvan Simon
+director	Dhairyavanthudu (Telugu: ధైర్యవంతుడు) is a 1986 Telugu film directed by Lakshmi Deepak.	Dhairyavanthudu	Lakshmi Deepak
+director	Kodai Mazhai (Tamil: கோடை மழை) is a 1986 Indian Tamil film, directed by Muktha S. Sundar and produced by V. Ramasami.	Kodai Mazhai	Muktha S. Sundar
+director	Career of Nikos Dyzma (also known as Kariera Nikosia Dyzmy in Polish) is a 2002 Polish film directed by Jacek Bromski.	Career of Nikos Dyzma	Jacek Bromski
+director	Ninth Floor is a 2015 National Film Board of Canada documentary film written and directed by Mina Shum about the 1969 Sir George Williams affair, a student occupation led by Black West Indian-born students to protest alleged racism at the Montreal university.	Ninth Floor	Mina Shum
+director	When You Hear the Bells (Croatian: Kad čuješ zvona) is a 1969 Croatian war film directed by Antun Vrdoljak.	When You Hear the Bells	Antun Vrdoljak
+director	A Divided Heart is an Australian film directed by Denny Lawrence, released in 2005, portraying a complex romantic conflict set in wartime Sydney, 1942, involving two sisters and an American army officer.	A Divided Heart	Denny Lawrence
+director	A Walk to Remember is a 2002 American coming-of-age romantic drama film directed by Adam Shankman.	A Walk to Remember	Adam Shankman
+director	Arena of Death (German:Die Todesarena) is a 1953 Austrian-German crime film directed by Kurt Meisel and starring Richard Haussler, Katharina Mayberg and Friedl Hardt.	Arena of Death	Kurt Meisel
+director	Dossier K. is a Flemish thriller film directed by Jan Verheyen, based on a novel by Jef Geeraerts.	Dossier K.	Jan Verheyen
+director	Statross le Magnifique is a 2006 film by director Rémi Lange featuring actor Jann Halexander.	Statross le Magnifique	Rémi Lange
+director	Thangai (Tamil: தங்கை) is a 1967 Indian Tamil film, directed by A. C. Tirulokchandar and produced by K. Balaji.	Thangai	A. C. Tirulokchandar
+director	I Died a Thousand Times is a 1955 color film noir directed by Stuart Heisler.	I Died a Thousand Times	Stuart Heisler
+director	O.K. Connery (also known as Operation Kid Brother and Operation Double 007) is a 1967 Italian spy film directed by Alberto De Martino.	O.K. Connery	Alberto De Martino
+director	Mate Ta Love Helare (Odia: ମେତ ତ ଲଭ୍ େହଲାେର), is a 2008 Indian Oriya action comedy film directed by Ashok Pati.	Mate Ta Love Helare	Ashok Pati
+director	How to Be Very, Very Popular is a 1955 comedy film written, produced and directed by Nunnally Johnson.	How to Be Very, Very Popular	Nunnally Johnson
+director	Álom.net, also known as Dream Well, is a 2009 Hungarian romantic comedy film written and directed by Gábor N. Forgács.	Álom.net	Gábor N. Forgács
+director	Boy, Girl is a short experimental film directed by Bruce LaBruce.	Boy, Girl	Bruce LaBruce
+director	The Act in Question (Spanish: El Acto en cuestión) is a 1994 Argentine film directed and written by Alejandro Agresti.	The Act in Question	Alejandro Agresti
+director	I'll Find a Way is a 1977 Canadian short documentary film directed by Beverly Shaffer about nine-year-old Nadia DeFranco, who has spina bifida.	I'll Find a Way	Beverly Shaffer
+director	O, My Darling Clementine is a 1943 American musical film directed by Frank McDonald and written by Dorrell McGowan and Stuart E. McGowan.	O, My Darling Clementine	Frank McDonald
+director	Sugamana Sumaigal (English: Comfortable Loads) is a 1992 Tamil language drama film directed by R. Parthiepan.	Sugamana Sumaigal	R. Parthiepan
+director	All My Lenins (Estonian: Minu Leninid, Russian: Все мои Ленины), 1997, is a historical comedy film by Hardi Volmer.	All My Lenins	Hardi Volmer
+director	Even the Clouds Are Drifting (Hangul: 구름은 흘러가도; RR: Gureumeun heulleogado) is a 1959 South Korean drama film directed by Yu Hyun-mok.	Even the Clouds Are Drifting	Yu Hyun-mok
+director	Future X-Cops (Mei loi ging chaat 未來警察) is a 2010 science fiction action film directed by Wong Jing.	Future X-Cops	Wong Jing
+director	Arpan (English: Dedication) is a 1983 Bollywood, drama film produced & directed by J. Om Prakash on Filmyug Pvt Ltd banner.	Arpan	J. Om Prakash
+director	Where Can You Go Without the Little Vice? (Italian: Dove vai se il vizietto non ce l'hai?) is a 1979 Italian commedia sexy all'italiana film directed by Marino Girolami (under the pseudonym ``Franco Martinelli'').	Where Can You Go Without the Little Vice?	Marino Girolami
+director	Crooked Business is a feature film by Chris Nyst, a successful criminal lawyer.	Crooked Business	Chris Nyst
+director	Kick the Moon (Hangul: 신라의 달밤; RR: Shinlaui dalbam) is a 2001 South Korean film directed by Kim Sang-jin.	Kick the Moon	Kim Sang-jin
+director	Bayasade Banda Bhagya (Kannada: ಬಯಸದೇ ಬಂದ ಭಾಗ್ಯ)is a 1977 Kannada film written by Bala Murugan and directed by R. Ramamurthy.	Bayasade Banda Bhagya	R. Ramamurthy
+director	Those Who Wear Glasses (Hungarian: Szemüvegesek) is a 1969 Hungarian drama film written and directed by Sándor Simó.	Those Who Wear Glasses	Sándor Simó
+director	Burden of Dreams is a 1982 ``making-of'' documentary film directed by Les Blank, shot during and about the chaotic production of Werner Herzog's 1982 film Fitzcarraldo, and filmed on location in the jungles of South America.	Burden of Dreams	Les Blank
+director	The Thief Who Came to Dinner is a 1973 comedy film directed by Bud Yorkin and based on the novel by Terrence Lore Smith.	The Thief Who Came to Dinner	Bud Yorkin
+dissolved or abolished	The term Vermont Republic has been used by later historians for the government of Vermont that existed from 1777 to 1791.	Vermont Republic	1791
+dissolved or abolished	On 29 September 2013, CNH Global N.V. and Fiat Industrial S.p.A. were merged into CNH Industrial N.V., a company incorporated in the Netherlands.	Fiat Industrial	29 September 2013
+dissolved or abolished	After German reunification in 1990 the Transportpolizei was dissolved, with some 1200 of its personnel transferring to the (West) German ``Bahnpolizei''.	Transportpolizei	1990
+dissolved or abolished	Constituted as Army Air Forces Antisubmarine Command on 13 October 1942 Activated on 15 October 1942 Redesignated I Bomber Command 31 August 1943 and assigned to First Air Force Inactivated on 21 March 1946 Disbanded on 8 October 1948	Army Air Forces Antisubmarine Command	8 October 1948
+dissolved or abolished	DSV Posen was refounded in 1940 and was again part of German football competition, however the club did not make its way back to top level play and disappeared at the end of the war in 1945.	DSV Posen	1945
+dissolved or abolished	Under the German Empire of 1871-1918, the annexed territory constituted the Reichsland or Imperial Territory of Elsaß-Lothringen (German for Alsace-Lorraine).	Alsace-Lorraine	1918
+dissolved or abolished	When parent company Acclaim Entertainment went bankrupt in September 2004, most employees of Acclaim Studios Austin found out when they showed up for work but the building's manager had locked them out of their offices.	Acclaim Studios Austin	2004
+dissolved or abolished	Praktiker AG filed for insolvency on 11 July 2013 for eight subsidiaries including Extra Bau+Hobby, on 12 July 2013 for the umbrella brand Praktiker AG and on 25 July 2013 for the Max Bahr subsidiary.	Praktiker	2013
+dissolved or abolished	Hupmobile was an automobile built from 1909 through 1940 by the Hupp Motor Car Company, which was located at 345 Bellevue Avenue in Detroit, Michigan.	Hupmobile	1940
+dissolved or abolished	KwaNdebele was re-integrated into South Africa after the first democratic election of 27 April 1994.	KwaNdebele	27 April 1994
+dissolved or abolished	In a press release on 30 January 2008, City Star Airlines announced that it was to immediately cease all operations until further notice.	City Star Airlines	2008
+dissolved or abolished	The Alatac was an automobile built by Automobiles Catala of Braine-le-Comte, Belgium, from 1913 to 1914.	Alatac	1914
+dissolved or abolished	SafeNet sold the MediaSentry division to Artistdirect in April 2009.	MediaSentry	2009
+dissolved or abolished	On November 2, 2008, Unibanco and the second largest Brazilian private banking group, Banco Itaú, announced plans for a merger.	Unibanco	2008
+dissolved or abolished	In 1996, the last of the Jordan Marsh stores were converted to Macy's.	Jordan Marsh	1996
+dissolved or abolished	The Bishopric of Constance, or Prince-Bishopric of Constance, (German: Hochstift Konstanz, Fürstbistum Konstanz) was a Prince-Bishopric and Imperial Estate of the Holy Roman Empire from the mid--12th century until its secularisation in 1802--1803.	Bishopric of Constance	1803
+dissolved or abolished	National Provincial Bank was a British retail bank which operated in England and Wales from 1833 until its merger into the National Westminster Bank in 1970; it remains a registered company.	National Provincial Bank	1970
+dissolved or abolished	Zayre was a chain of discount stores that operated in the eastern half of the United States from 1956 to 1990.	Zayre	1990
+dissolved or abolished	The Taifa of Tavira was a medieval taifa kingdom in what is now southern Portugal which existed only from around 1146 to 1150.	Taifa of Tavira	1150
+headquarters location	Speech Processing Solutions is an international electronics company headquartered in Vienna, Austria.	Speech Processing Solutions	Vienna
+headquarters location	The Center for Socialist Studies is an organizational center for the dissemination of socialist ideas and politics located in Giza, Egypt.	Center for Socialist Studies	Giza
+headquarters location	Lake Express is an American company that operates a seasonal ferry service across Lake Michigan between Milwaukee, Wisconsin and Muskegon, Michigan.	Lake Express	Milwaukee
+headquarters location	Free Radical Design was a British video game developer based in Nottingham, England, United Kingdom, probably best known for the TimeSplitters series and Second Sight.	Free Radical Design	Nottingham
+headquarters location	The International Women's Media Foundation (IWMF), located in Washington, D.C., is a network of thousands of women journalists working internationally to elevate the status of women in the media.	International Women's Media Foundation	Washington, D.C.
+headquarters location	Medavie Blue Cross (French: Croix Bleue Medavie) is the business name for Medavie Incorporated, a non-profit Canadian medical care insurance company headquartered in Moncton, New Brunswick.	Medavie Blue Cross	Moncton
+headquarters location	Blue Water Trucking is a family-owned, third-party, asset-based logistics company based in Romeo, Michigan.	Blue Water Trucking	Romeo, Michigan
+headquarters location	Purity Factories Limited is a food processing company based in St. John's, Newfoundland.	Purity Factories	St. John
+headquarters location	The Yacht Club Italiano is a yacht club in Genoa, Italy.	Yacht Club Italiano	Genoa
+headquarters location	Left and Democrats (Polish: Lewica i Demokraci, LiD) was a centre-left electoral alliance of political parties in Poland which was created on 3 September 2006, before the Warsaw municipal election of 2006.	Left and Democrats	Warsaw
+headquarters location	Birra Menaresta, is a brewing company, founded in Carate Brianza in Lombardy, Italy in 2007.	Birra Menaresta	Carate Brianza
+headquarters location	With the defeat of Nazi Germany, Leipzig--the Saxon city where much of the company's factories were centered--fell on the eastern side of the Iron Curtain and Bleichert-Transportanlagen GmbH was taken over by the Occupying Power, the Soviet Union, and renamed SAG Bleichert.	Bleichert	Leipzig
+headquarters location	Sandy's was the name of a chain of American fast-food restaurants begun in 1956 by four business men from Kewanee, Illinois:	Sandy's	Kewanee
+headquarters location	An independent partnership with more than 130 professional staff, PFC Energy is based in Washington, D.C. and also maintains offices in Houston, Kuala Lumpur, Moscow, Paris, Beijing and Singapore.	PFC Energy	Washington, D.C.
+headquarters location	Nobel Biocare is a company that manufactures dental implants and CAD/CAM-based individualized prosthetics and is headquartered in Kloten, Switzerland near the Zürich Airport.	Nobel Biocare	Kloten
+headquarters location	Wildseed Farms is a wildflower farm near Fredericksburg, Texas, United States.	Wildseed Farms	Fredericksburg
+headquarters location	William Eastman Palmer & Sons was the name of a family partnership of photographers which was started in Devon in the 1860s by William Eastman Palmer and his wife Maria Louisa née Eales.	William Eastman Palmer & Sons	Devon
+headquarters location	The Round Oak Stove Company was founded in Dowagiac, Michigan in 1871 by P.D. Beckwith (Philo D. Beckwith).	Round Oak Stove Company	Dowagiac, Michigan
+headquarters location	Wilhelm Karmann GmbH, known commonly as Karmann, in Osnabrück, Germany, was until 2009 the largest independent motor vehicle manufacturing company in Germany.	Karmann	Osnabrück
+headquarters location	Established in 1864 (150 years ago) by Tribhovandas Bhimji Zaveri in Zaveri Bazaar, the jewellery district of Mumbai, it was subsequently headed by his son, Gopaldas Tribhovandas Zaveri, and now Shrikant Zaveri, is the present chairman and managing director of the group.	Tribhovandas Bhimji Zaveri	Zaveri Bazaar
+headquarters location	Broken Wall Films, LLC (commonly known as Broken Wall Films or simply Broken Wall) is an American independent film company based in Worcester, Massachusetts.	Broken Wall Films	Worcester
+headquarters location	In 1987, Monsanto consolidated its AstroTurf management, marketing, and technical activities in Dalton, Georgia, as AstroTurf Industries, Inc. In 1988, Balsam AG purchased all the capital stock of AstroTurf Industries, Inc. In 1994, Southwest Recreational Industries, Inc. (SRI) acquired the AstroTurf brand.	AstroTurf	Dalton
+headquarters location	Burleigh Pottery (also known as Burgess & Leigh ltd) is the name of a pottery manufacturer in Middleport, Stoke-on-Trent.	Burleigh Pottery	Middleport
+headquarters location	The first Blue Chip Cookies store opened in March 1983 on Beach Street (Fisherman's Wharf) in San Francisco, California, in March 1983.	Blue Chip Cookies	San Francisco
+headquarters location	Based in Huntingdon, Cambridgeshire, Meridian Audio was founded by Bob Stuart and Allen Boothroyd in 1977.	Meridian Audio	Huntingdon
+headquarters location	Opsware, Inc. was a software company based in Sunnyvale, California that offered products for server and network device provisioning, configuration, and management targeted toward enterprise customers.	Opsware	Sunnyvale
+headquarters location	In 2008, NRG Engineering moved its company headquarters to the new ``Fusionopolis'' complex in Singapore, and has a representative office in France.	NRG Engineering	Fusionopolis
+headquarters location	Since 1984, Saipem is listed at the Milan Stock Exchange.	Saipem	Milan
+headquarters location	Braugold Vertriebs GmbH & Co. KG was a brewery in Erfurt.	Braugold	Erfurt
+headquarters location	Kumho Petrochemical Co., Ltd. (Korean: 금호석유화학, KKPC) is multinational chemical company based in South Korea, with headquarters in Seoul.	Kumho Petrochemical	Seoul
+headquarters location	The Laidlaw Foundation is a Canadian charitable foundation based in Toronto, Ontario.	Laidlaw Foundation	Toronto
+headquarters location	Somebody's Mother's Chocolate Sauce, LLC is an all-natural, gluten-free gourmet chocolate sauce company based in Houston, Texas.	Somebody's Mother's Chocolate Sauce	Houston
+headquarters location	The first Foosackly's store was opened in Mobile, Alabama during 2000.	Foosackly's	Mobile
+headquarters location	Tamweel is one of the largest real estate developers in the Middle East, based in Dubai.	Tamweel	Dubai
+headquarters location	Founded in 1987 by Ken Morris and David Duffield, PeopleSoft was originally headquartered in Walnut Creek, California before moving to Pleasanton, California.	PeopleSoft	Pleasanton
+headquarters location	SwoonXO is privately held company based in San Francisco, California.	SwoonXO	San Francisco
+headquarters location	Premier Ltd. (formerly The Premier Automobiles Limited) is a manufacturer of vehicles based in Mumbai, India.	Premier Automobiles Limited	Mumbai
+headquarters location	Gamtec (Chinese: 三協資訊; pinyin: sān xié zī xùn) is a video game developer established in June 1989 and based in Taichung City, Taiwan noted for its unlicensed Sega Mega Drive games such as Legend of Wukong and Squirrel King.	Gamtec	Taichung
+headquarters location	Headquartered in Livermore, California, Activant employs more than 1,700 people and operates in California, Texas, Colorado, Illinois, Massachusetts, Pennsylvania, South Carolina, Utah, Canada, Ireland and the United Kingdom.	Activant	Livermore
+headquarters location	FoodCare is a privately held company founded in San Francisco, California in February 2012, and quickly moved to Louisville, Kentucky.	FoodCare	San Francisco
+headquarters location	Datapoint Corporation, originally known as Computer Terminal Corporation (CTC), was a computer company based in San Antonio, Texas, United States.	Datapoint	San Antonio
+headquarters location	Koenig & Bauer AG (KBA) (FWB: SKB) is a German company that makes printing presses based in Würzburg.	Koenig & Bauer	Würzburg
+headquarters location	RITES Limited (राइट्स लिमिटेड) (earlier known as Rail India Technical and Economic Service) is an engineering consultancy company, specializing in the field of transport infrastructure.	RITES	India
+headquarters location	Calumet Photographic, Inc. better known as Calumet Photographic or Calumet Photo and formerly known as Calumet Manufacturing Company is a photographic retail and photofinishing specialty store, headquartered in Chicago, Illinois.	Calumet Photographic	Chicago
+headquarters location	Figleaves' head office is in Welwyn Garden City, Hertfordshire.	Figleaves	Welwyn Garden City
+headquarters location	Wisconsin Manufacturers & Commerce (WMC) is an association of manufacturers, service businesses and chambers of commerce located in Madison, Wisconsin.	Wisconsin Manufacturers & Commerce	Madison
+headquarters location	Wahoo Studios is a computer and video game development company based in Orem, Utah.	Wahoo Studios	Orem
+headquarters location	Garden Vareli is the trademark of Garden Silk Mills Ltd., a textile manufacturing company based in Surat, India.	Garden Vareli	Surat
+headquarters location	Wickes Furniture was a privately held chain of furniture stores based in Wheeling, Illinois.	Wickes Furniture	Wheeling, Illinois
+headquarters location	Omniva is an international post and logistics company based in Tallinn, Estonia, with the entire Baltic states as its domestic market.	Omniva	Tallinn
+headquarters location	Eisenhuth Horseless Vehicle Company was a manufacturer of Brass Age automobiles who were originally based in New York City.	Eisenhuth Horseless Vehicle Company	New York City
+headquarters location	CentiMark Corporation (est. 1968) is a national roofing contractor company headquartered in Canonsburg, Pennsylvania in the United States.	CentiMark	Canonsburg
+headquarters location	Mole Valley Farmers is a retail firm started in 1960 by a small group of farmers in Devon who were concerned by the discriminatory practices and the large margins being taken by many of their input suppliers.	Mole Valley Farmers	Devon
+headquarters location	The Molson Brewery was formed in Montreal in 1786.	Molson Brewery	Montreal
+headquarters location	Samsung Life Insurance (Korean: 삼성생명보험, KRX: 032830) is a South Korean multinational insurance company headquartered in Seoul, South Korea, and a subsidiary of the Samsung Group.	Samsung Life Insurance	Seoul
+headquarters location	Playlife is a fashion company based in Treviso, Italy.	Playlife	Treviso
+headquarters location	Stemat Marine Services is a service company (within the VolkerWessels group) for the maritime work, based in Rotterdam, Stemat started with a few vessels in 1986 and has now expanded to a current fleet of more than 50 vessels.	Stemat Marine Services	Rotterdam
+headquarters location	Fore River Shipyard was a shipyard owned by General Dynamics Corporation located on Weymouth Fore River in Braintree and Quincy, Massachusetts.	Fore River Shipyard	Quincy
+headquarters location	Orc Software's shares were listed on the Stockholm Stock Exchange on October 19, 2000.	Orc Software	Stockholm
+headquarters location	First National of Nebraska is a privately held, interstate bank holding company based in Omaha, Nebraska, United States.	First National of Nebraska	Omaha
+headquarters location	Berendsohn AG is a company active on the promotional products market with its headquarters in Hamburg and markets in 14 European states.	Berendsohn	Hamburg
+headquarters location	The Four Per Cent Industrial Dwellings Company was a philanthropic model dwellings company, formed in London in 1885, during the Victorian era.	Four Per Cent Industrial Dwellings Company	London
+headquarters location	Kronos Incorporated is a U.S.-based multi-national workforce management software and services company headquartered in Chelmsford, Massachusetts, United States, and employing 3,200 people.	Kronos Incorporated	Chelmsford
+headquarters location	HelioVolt Corporation was a privately held U.S. solar energy company based in Austin, Texas, that suspended operations in 2014.	HelioVolt	Austin
+headquarters location	Started in Greensboro, North Carolina in 1935, Ham's has grown into a chain of 26 community restaurants.	Ham's	Greensboro
+headquarters location	Brütting is a German shoe manufacturer, located in Küps, Bavaria.	Brütting	Küps
+headquarters location	Jackson and Walford, later Jackson, Walford, and Hodder from 1861 was a London publishing firm and predecessor firm of Hodder & Stoughton.	Jackson and Walford	London
+headquarters location	Novation Companies, Inc., (NOVC) was founded as NovaStar Financial, Inc., a Kansas City-based residential mortgage company, in 1996.	Novation Companies	Kansas City
+headquarters location	Leighton Broadcasting is a radio broadcasting company based in St. Cloud, Minnesota that owns several radio stations in St. Cloud as well as in Detroit Lakes, Minnesota and Grand Forks, North Dakota.	Leighton Broadcasting	St. Cloud
+headquarters location	The headquarters of Van Pur is located in Warsaw.	Van Pur	Warsaw
+headquarters location	Crompton Corporation (NYSE: CK), (formerly Crompton and Knowles), was a chemical research, production, sales and distribution company headquartered in Middlebury, Connecticut.	Crompton Corporation	Middlebury
+headquarters location	JNCO, short for ``Judge None Choose One'', is a Los Angeles, California based clothing company specializing in boys' and men's jeans.	JNCO	Los Angeles
+headquarters location	Big Robot is a UK company that specialises in developing computer games, registered in Halstead, England.	Big Robot	Halstead
+headquarters location	K1 Speed was one of the first companies to bring electric karts and indoor go kart tracks to Southern California, and since the first location opened in Carlsbad in 2003, they have witnessed an explosion in the market.	K1 Speed	Carlsbad
+headquarters location	Covenant Aviation Security, LLC (CAS) is a Chicago, Illinois, company that provides security services to the aviation industry.	Covenant Aviation Security	Chicago
+headquarters location	Garbe, Lahmeyer & Co. (until 1938 also known as: DEW - Deutsche Elektrizitäts-Werke zu Aachen) is a former electrical engineering company in Aachen.	Garbe, Lahmeyer & Co.	Aachen
+headquarters location	Ella Moss is a fashion clothing brand owned by VF Corporation founded by designer Pamella Protzel which is based in Los Angeles.	Ella Moss	Los Angeles
+headquarters location	The current Pentosin headquarters are at Wedel, near Hamburg, in the Schleswig-Holstein region or Bundesländer of Germany, not far from where the company was originally founded.	Pentosin	Wedel
+headquarters location	The Sazerac Company is a privately held alcoholic beverages company with headquarters in Metairie, Louisiana (in the New Orleans metropolitan area).	Sazerac Company	New Orleans
+headquarters location	FoundersCard began accepting members in January 2010 and was originally headquartered in New York City, but has since relocated to Austin, Texas.	FoundersCard	Austin
+headquarters location	Rackspace Inc. is a managed cloud computing company based in Windcrest, Texas, USA, a suburb of San Antonio, Texas.	Rackspace	San Antonio
+headquarters location	Chiribiri was an aircraft and automobile manufacturer in Turin Italy from 1910-1929.	Chiribiri	Turin
+headquarters location	Although its reviews and events listings often focus on the cultural life of New York City, The New Yorker has a wide audience outside of New York.	The New Yorker	New York City
+headquarters location	Endeavorist, LLC was founded on April 24, 2012 in Fairfax Station, Virginia, a suburb in the Washington, D.C. metropolitan area.	Endeavorist	Washington, D.C.
+headquarters location	Direct Fly sro (sometimes called DirectFly sro) is a Czech aircraft manufacturer based in Hluk and founded in 2006.	Direct Fly sro	Hluk
+headquarters location	The European Movement UK is an independent pressure group in the United Kingdom which campaigns in support of greater European integration and for reform of the European Union.	European Movement UK	United Kingdom
+headquarters location	Greycon Ltd is an information technology firm based in London, England developing software for scheduling (production processes) and the cutting stock problem primarily for the paper, film, nonwovens and metals industries.	Greycon	London
+headquarters location	Best Flow, Inc. is a Korean entertainment company, headquartered in Seoul, Korea.	Best Flow	Seoul
+headquarters location	Azerbaijan University of Languages (Azerbaijani: Azərbaycan Dillər Universiteti) is a public university in Baku, Azerbaijan.	Azerbaijan University of Languages	Baku
+headquarters location	Ally Financial Inc., previously known as GMAC Inc. (an acronym for General Motors Acceptance Corporation), is a bank holding company headquartered in Detroit, Michigan, United States.	Ally Financial	Detroit
+headquarters location	SNIA S.p.A. was an Italian firm located in Milan that manufactured defence products, textiles, chemicals, perfumes, and corrugated paper among other products.	SNIA S.p.A.	Milan
+headquarters location	In 2004, Poșta Română was the host and organiser of the UPU's 23rd Universal Postal Congress, which was held in Bucharest.	Poșta Română	Bucharest
+headquarters location	Idiom Design and Consulting is a design firm and consultancy based in Bangalore, India.	Idiom Design and Consulting	Bangalore
+headquarters location	Extreme Championship Wrestling (ECW) was a professional wrestling promotion that was founded in Philadelphia, Pennsylvania in 1992 by Tod Gordon.	Extreme Championship Wrestling	Philadelphia
+headquarters location	The company established Victor Studios in Fort Lee, New Jersey, when early film studios in America's first motion picture industry were based there at the beginning of the 20th century.	Victor Studios	Fort Lee
+headquarters location	Penn National Gaming, Inc. is an operator of casinos and racetracks, based in Wyomissing, Pennsylvania.	Penn National Gaming	Wyomissing
+headquarters location	PBA Galleries is a San Francisco auction house specializing in rare books, manuscripts, maps and atlases, photographs, golf books, Americana, modern literature and related materials.	PBA Galleries	San Francisco
+headquarters location	The University of Provence Aix-Marseille I was a public university mostly located in Aix-en-Provence and Marseille.	University of Provence	Marseille
+headquarters location	Hi-Tech Automotive continue to build Superformance cars at its plant in Port Elizabeth, South Africa.	Superformance	Port Elizabeth
+headquarters location	Croda International plc is a British speciality chemicals company based at Snaith in the East Riding of Yorkshire.	Croda International	Snaith
+headquarters location	Sahlen's or Sahlen Packing Co., Inc. is a meat processing company headquartered in Buffalo, New York.	Sahlen's	Buffalo
+headquarters location	Formula Racing Development Limited or FRD Motorsports (FRD) is a motorsport promoter headquartered in Hong Kong, China which was founded in 1997.	Formula Racing Development Limited	Hong Kong
+headquarters location	Artists Society De Kring was founded on September 23, 1922 by artists and intellectuals who looked for a home away from home in Amsterdam.	De Kring	Amsterdam
+headquarters location	Bindo is a retail technology company, headquartered in New York, NY, APAC headquarter in Hong Kong.	Bindo	New York
+headquarters location	Convenience Retail Asia Limited (CRA) (SEHK: 0831) is a Hong Kong retailer which operates convenience stores (Circle K) and bakeries (Saint Honore Cake Shop, Bread Boutique) in Hong Kong, Macau and Mainland China.	Convenience Retail Asia	Hong Kong
+headquarters location	Alberta Pensions Services Corporation, or APS, is a pension administration entity located in Edmonton, Alberta, Canada.	Alberta Pensions Services Corporation	Edmonton
+headquarters location	Xcel Energy Inc. is a utility holding company based in Minneapolis, Minnesota, serving more than 3.3 million electric customers and 1.8 million natural gas customers in Minnesota, Michigan, Wisconsin, North Dakota, South Dakota, Colorado, Texas and New Mexico.	Xcel Energy	Minneapolis
+headquarters location	Ikatan Masyarakat Islam Malaysia (IKATAN) or Muslim Community Union of Malaysia was a minor Islamic political party formed in 1991 and based in Terengganu.	Ikatan Masyarakat Islam Malaysia	Terengganu
+headquarters location	It holds naming rights to the Seattle Mariners' baseball stadium, Safeco Field.	Safeco	Seattle
+headquarters location	The Community Plant Variety Office (CPVO) is an agency of the European Union, located in Angers, France.	Community Plant Variety Office	Angers
+headquarters location	Pirate Joe's is a specialty grocery store in Vancouver, Canada owned by Michael Hallatt.	Pirate Joe's	Vancouver
+headquarters location	Tata Technologies is internationally headquartered in Singapore, with regional headquarters in the United States (Novi, Michigan), India (Rajiv Gandhi Infotech Park in Hinjewadi - outside Pune), Lodha iThink Park, Thane and the UK (Coventry).	Tata Technologies	Pune
+headquarters location	Goodwin Steel Castings Limited is a heavy engineering firm located in Stoke on Trent, Staffordshire, England.	Goodwin Steel Castings	Stoke on Trent
+headquarters location	The Bensen Aircraft Corporation was established by Dr. Igor Bensen at Raleigh-Durham International Airport in North Carolina in 1952 to develop and market a variety of helicopters and autogyros of Bensen's own design.	Bensen Aircraft	Raleigh-Durham International Airport
+headquarters location	Bright Automotive was a startup company in Anderson, Indiana working to create a fuel-efficient line of plug-in electric vehicles.	Bright Automotive	Anderson
+headquarters location	Based in Washington, D.C., The ALS Association coordinates the federal and state advocacy program, works directly with Congress, the White House, other federal agencies and other national organizations, and provides training and support for ALS Association advocates.	ALS Association	Washington, D.C.
+headquarters location	Gothong Southern or Gothong Southern Shipping Lines Incorporated is a shipping and cargo line based in Cebu City.	Gothong Southern	Cebu City
+headquarters location	SABMiller plc (LSE: SAB, JSE: SAB) is a multinational brewing and beverage company headquartered in London, England.	SABMiller	London
+headquarters location	Latin World Entertainment (also known as LWE or LatinWE) is a talent management and entertainment marketing firm, with offices in Beverly Hills and Miami.	Latin World Entertainment	Beverly Hills
+headquarters location	JDA Software Group, Inc. is an American software and consultancy company (owned by New Mountain Capital), providing supply chain management, manufacturing planning, retail planning, store operations and collaborative category management solutions located in Scottsdale, Arizona.	JDA Software	Scottsdale
+headquarters location	Wisdom Tree is an American developer and publisher of Christian video games for the Nintendo Entertainment System, Super Nintendo Entertainment System, Game Boy, PC, Mac, and Sega Genesis, headquartered in Pima County, Tucson, Arizona, United States.	Wisdom Tree	Tucson
+headquarters location	AS Meraker Brug is a company which owns 1,330 square kilometres (510 sq mi) of wilderness and forest estate, mostly in Meråker, Norway.	Meraker Brug	Meråker
+headquarters location	Community One Federal Credit Union was a Las Vegas, Nevada based state chartered credit union.	Community One Federal Credit Union	Las Vegas
+headquarters location	Bock has four production plants GEA Bock GmbH (Frickenhausen, Germany) GEA Bock Czech s.r.o.	GEA Bock	Frickenhausen
+headquarters location	Spode is a well-known English brand of pottery and homewares produced by the company of the same name which is based in Stoke-on-Trent.	Spode	Stoke-on-Trent
+headquarters location	The Talenthouse headquarters are located in Los Angeles, California, USA with offices in New York and London.	Talenthouse	Los Angeles
+headquarters location	LCC Air Volga (Russian: ООО ``Авиакомпания Во́лга'') was an airline headquartered in Volgograd, Russia, operating scheduled passenger flights as well as holiday charters out of its base at Volgograd International Airport.	Air Volga	Volgograd International Airport
+headquarters location	Corporación Lindley S.A. (also known as Corporación José R. Lindley S.A. or the Lindley Corporation) is a 100-year-old Peruvian company, listed on the Lima Stock Exchange as CORLINI1, involved in the manufacturing, distribution and marketing of nonalcoholic beverages and the official bottler and distributor of all Coca-Cola products in Peru.	Corporación Lindley S.A.	Lima
+headquarters location	Taylor Guitars is an American guitar manufacturer based in El Cajon, California.	Taylor Guitars	El Cajon
+headquarters location	XGen Studios, Inc (stylized as XGen Studios) is an independent video game development studio based in Edmonton, Alberta, Canada.	XGen Studios	Edmonton
+headquarters location	To this end, the SUPRENUM Supercomputer GmbH was founded in Bonn.	SUPRENUM	Bonn
+headquarters location	Shanghai Zaihang Real Estate Investment Consulting Co. is a private enterprise based in Shanghai.	Zaihang	Shanghai
+headquarters location	Deck13 Interactive is a German video game company based in Frankfurt, Germany.	Deck13 Interactive	Frankfurt
+headquarters location	William Carey Library is a book publishing company based in Pasadena, California.	William Carey Library	Pasadena
+headquarters location	Acquity Group, LLC is an American brand eCommerce and digital marketing company with U.S. headquarters in Chicago and offices across North America.	Acquity Group	Chicago
+headquarters location	Hostway is a multinational web hosting and technology infrastructure company headquartered in Chicago, Illinois, United States, founded in 1998.	Hostway	Chicago
+headquarters location	Founded in 2008, AudioNow is headquartered in Washington, D.C. The business currently operates a call-to-listen platform.	AudioNow	Washington, D.C.
+headquarters location	Avanti Circuits, Inc is an American printed circuit board manufacturing corporation headquartered in Phoenix, Arizona, United States.	Avanti Circuits	Phoenix
+headquarters location	Auto AG is a haulage and public transportation company based in Rothenburg, Switzerland.	Auto AG	Rothenburg
+headquarters location	J.O. Hambro Capital Management (a.k.a. JOHCM) is an asset management firm based in London.	J.O. Hambro Capital Management	London
+headquarters location	Sherrin footballs are manufactured by Spalding, owned by Russell Corp Aus P/L, in Melbourne, Victoria, Australia from cow hide lined and machine-stitched, but other sized models are often made in India or China, using synthetic rubber.	Sherrin	Melbourne
+headquarters location	AZLK (АЗЛК - Автомобильный завод имени Ленинского Комсомола in Russian, Avtomobilny Zavod imeni Leninskogo Komsomola) was a Soviet and Russian automobile manufacturer (Moscow), the maker of the Moskvitch brand.	AZLK	Moscow
+headquarters location	Flint & Kent was an upscale department store based in Buffalo, New York.	Flint & Kent	Buffalo
+headquarters location	Euphonix was a professional audio company located in Mountain View, California, United States.	Euphonix	Mountain View
+headquarters location	Dell'Orto is an Italian company, headquartered in Cabiate, specialized in the construction of carburetors and electronic injection systems.	Dell'Orto	Cabiate
+headquarters location	Alarm Clock Theatre Company is a theatre company based in Boston, Massachusetts.	Alarm Clock Theatre Company	Boston
+headquarters location	PPL Corporation, formerly known as PP&L or Pennsylvania Power and Light, is an energy company headquartered in Allentown, Pennsylvania, USA.	PPL Corporation	Allentown
+headquarters location	MPEG LA, LLC is a firm based in Denver, Colorado that licenses patent pools covering essential patents required for use of the MPEG-2, MPEG-4 Visual (Part 2), IEEE 1394, VC-1, ATSC, MVC, MPEG-2 Systems, AVC/H.264 and HEVC standards.	MPEG LA	Denver
+headquarters location	Affecto Plc is a Finnish information technology company listed on the Helsinki Stock Exchange.	Affecto	Helsinki
+headquarters location	SunGard is an American multinational company based in Wayne, Pennsylvania, which provides software and services to education, financial services, and public sector organizations.	SunGard	Wayne
+headquarters location	On July 1, 2009 a Jamaica Defence Force Air Wing Bell 412EP helicopter was on its way back to Up Park Camp from a training mission when it began experiencing mechanical issues.	Jamaica Defence Force	Up Park Camp
+headquarters location	Established in 1999, Internet Trends was founded in Mahim, Mumbai to provide high-end off-shoring services for technology companies and develop home-grown networking products.	Internet Trends	Mumbai
+headquarters location	Lakeland Dairies Group is an Irish dairy co-operative based in Killeshandra, County Cavan, Ireland.	Lakeland Dairies	Killeshandra
+headquarters location	Diego's Hair Salon is a hairdressing shop located in the Dupont Circle neighborhood of Washington, D.C., USA.	Diego's Hair Salon	Washington, D.C.
+headquarters location	WorldWide Access, also known as WWA, was an Internet Service Provider based in Chicago, Illinois.	WorldWide Access	Chicago
+headquarters location	Since Reliance's investment in IM Global, Ford and his Indian partners have built the company into an entertainment industry powerhouse currently with offices in Los Angeles, New York, London, Beijing, Mexico City and Mumbai.	IM Global	Los Angeles
+headquarters location	Deep South Wrestling (DSW) was a professional wrestling promotion based in McDonough, Georgia.	Deep South Wrestling	McDonough, Georgia
+headquarters location	Mediakraft Networks GmbH is a German Multi-channel network based in Munich.	Mediakraft Networks	Munich
+headquarters location	Bestinvest is a financial services group based in Mayfair, London.	Bestinvest	London
+headquarters location	McGarrah Jessee is an independent brand development and integrated marketing agency based in Austin, Texas.	McGarrah Jessee	Austin
+headquarters location	On 19 January 2015, Meretz held its primaries at a meeting of its 1,000-member central committee in the Tel Aviv Convention Center:	Meretz	Tel Aviv
+headquarters location	Prometric's corporate headquarters are located in Canton (Baltimore, Maryland) in the United States.	Prometric	Baltimore
+headquarters location	General Casualty Insurance was a super-regional property and casualty insurance provider headquartered in Sun Prairie, Wisconsin as of 2006.	General Casualty Insurance	Sun Prairie
+headquarters location	McGuire and Hester has two offices located in Oakland and Sacramento, California.	McGuire and Hester	Oakland
+headquarters location	Lowry Digital is a digital film restoration company based in Burbank, California.	Lowry Digital	Burbank
+headquarters location	Fifth Third Bank (5/3 Bank) is a U.S. regional banking corporation, headquartered in Cincinnati, Ohio at Fifth Third Center, and is the principal subsidiary of holding company Fifth Third Bancorp.	Fifth Third Bank	Cincinnati
+headquarters location	Scan Group is a shipping and logistics company based in Copenhagen, Denmark.	Scan Group	Copenhagen
+headquarters location	Nulogy Corporation (commonly referred to as Nulogy) is a Canadian technology company headquartered in Toronto, Ontario, Canada.	Nulogy	Toronto
+headquarters location	ManagePro is combined project and performance management software product produced by Performance Solutions Technology, LLC, a US software company headquartered in Smith River, California.	ManagePro	Smith River, California
+headquarters location	Koenigsegg Automotive AB (/ˈkʌnɪɡsɛɡ/; Swedish pronunciation: (ˈkøːnɪɡsɛɡ)) is a Swedish manufacturer of high-performance sports cars, also known as supercars, based in Ängelholm.	Koenigsegg	Ängelholm
+headquarters location	Terso Solutions, Inc., located in Madison, Wisconsin, USA, is the developer and distributor of an automated system for storage and distribution of high value research reagents and medical supplies.	Terso Solutions	Madison
+headquarters location	Ah Cacao Real Chocolate, SA de CV is a niche Mexican chocolate brand based in Playa del Carmen, Quintana Roo near Cancun.	Ah Cacao Real Chocolate	Playa del Carmen
+headquarters location	Southern Family Markets, headquartered in Birmingham, Alabama, was a chain of American supermarkets owned and operated by C&S Wholesale Grocers, a distributor based in Keene, New Hampshire.	Southern Family Markets	Birmingham
+headquarters location	RYZ is a footwear company based in Portland, Oregon.	RYZ	Portland
+headquarters location	The Spartan Aircraft Company was an American aircraft manufacturing company, headquartered on Sheridan Avenue near the Tulsa Municipal Airport in Tulsa, Oklahoma.	Spartan Aircraft Company	Tulsa
+headquarters location	South Indian Bank Limited (SIB) (BSE: 532218, NSE: SOUTHBANK) is a private sector bank headquartered at Thrissur City in Kerala, India.	South Indian Bank	Thrissur
+headquarters location	Air Dolomiti S.p.A. is an Italian regional airline with its head office in Dossobuono, Villafranca di Verona, Italy and operating base at Munich Airport, Germany.	Air Dolomiti	Villafranca di Verona
+headquarters location	Domo Gasoline Corporation is a private Western Canadian gas retailer based in Winnipeg, Manitoba, Canada.	Domo Gasoline	Winnipeg
+narrative location	City Kids 1989 is a 1989 Hong Kong action drama film directed by Poon Man-kit and starring Andy Lau and Max Mok.	City Kids 1989	Hong Kong
+narrative location	Gen-X Cops (Chinese: 特警新人類) is a 1999 Hong Kong action crime film directed by Benny Chan, starring Nicholas Tse, Stephen Fung and Sam Lee.	Gen-X Cops	Hong Kong
+narrative location	Losers' Club (Turkish: Kaybedenler Kulübü) is a 2011 Turkish comedy-drama film, co-written and directed by Tolga Örnek based on a true story, starring Nejat İşler and Yiğit Özşener as the co-hosts of a contorversial mid-90s Istanbul radio show.	Losers' Club	Istanbul
+narrative location	Total Overdose (or Total Overdose: A Gunslinger's Tale in Mexico as it is known in the US) is an open world action/adventure third-person shooter video game that was developed by Deadline Games and published by Sci Entertainment in Europe and by Eidos in North America.	Total Overdose	Mexico
+narrative location	Guy Mannering is set in the 1760s to 1780s, mostly in the Galloway area of southwest Scotland, but with episodes in Cumberland, Holland, and India.	Guy Mannering	Galloway
+narrative location	Muppets Most Wanted had its world premiere at the El Capitan Theatre in Los Angeles on March 11, 2014 and was released theatrically in North America on March 21, 2014.	Muppets Most Wanted	Los Angeles
+narrative location	World of Pub is a radio and television sitcom, set in a pub in the East End of London, written by Tony Roche and produced by Jane Berthoud.	World of Pub	London
+narrative location	The Lovers of Montparnasse (French: Les Amants de Montparnasse), also known as Montparnasse 19, is a 1958 French-Italian drama film chronicling the last year of the life of the Italian painter Amedeo Modigliani who worked and died in abject poverty in the Montparnasse Quarter of Paris, France.	The Lovers of Montparnasse	Paris
+narrative location	Maria Light is a novel by the American writer Lester Goran set in 1940s Pittsburgh, Pennsylvania.	Maria Light	Pittsburgh
+narrative location	The District Nurse is a British television series, produced by BBC Wales and shown on BBC One between 1984 and 1987.	The District Nurse	Wales
+narrative location	The Edge of the Cloud is set in London where, after Will and Christina elope, Christina briefly stays with their Aunt Grace.	The Edge of the Cloud	London
+narrative location	Set in Gloucester, Massachusetts, Townies follows the lives of three 20-something lifelong friends who work in a restaurant together.	Townies	Massachusetts
+narrative location	Death Unexplained is a British documentary series about the investigation of deaths in West London.	Death Unexplained	London
+position played on team / speciality	Mirko Pigliacelli (born 30 June 1993) is an Italian footballer who currently plays as a goalkeeper for Serie B side Pro Vercelli on loan from Frosinone Calcio.	Mirko Pigliacelli	goalkeeper
+position played on team / speciality	Guy Mishpati (Hebrew: גיא משפתי‎; born 21 June 1990) is an Israeli football center defender.	Guy Mishpati	defender
+position played on team / speciality	Ne'emia Kaleopa is an American Samoan footballer who plays as a defender for Utulei Youth and the American Samoa national football team.	Ne'emia Kaleopa	defender
+position played on team / speciality	Kevin Terry is a retired English-American soccer forward and referee who played professionally in the Major Indoor Soccer League, American Soccer League and United Soccer League.	Kevin Terry	forward
+position played on team / speciality	Francisco Massinga (born 6 May 1986), better known as Whiskey, is a Mozambican football defender.	Francisco Massinga	defender
+position played on team / speciality	Qi Hong (Chinese: 祁宏; pinyin: Qí Hóng; born June 3, 1976 in Shanghai) is a former Chinese international footballer who played as an attacking midfielder or shadow striker throughout his career.	Qi Hong	midfielder
+position played on team / speciality	Miroslav Janů (8 November 1959 -- 24 January 2013) was a Czech football defender and later manager.	Miroslav Janů	defender
+position played on team / speciality	David Vandenbroeck (born 12 July 1985 in Braine-l'Alleud) is a Belgian football defender who is currently playing for Differdange in the Luxembourg National Division.	David Vandenbroeck	defender
+position played on team / speciality	Zsanett Kaján (born 16 September 1997 in Budapest) is a Hungarian football forward currently playing in the Hungarian First Division for Ferencvárosi TC.	Zsanett Kaján	forward
+position played on team / speciality	Daniel Łukasik (born 28 April 1991) is a Polish footballer playing as a midfielder.	Daniel Łukasik	midfielder
+position played on team / speciality	Roberto Filippi (born 30 July 1948), also known as Pippo Filippi, is an Italian former professional footballer and manager who played as a midfielder.	Roberto Filippi	midfielder
+position played on team / speciality	Jacques Cossette (born June 20, 1954 in Rouyn, Quebec) is a retired Canadian ice hockey right winger.	Jacques Cossette	winger
+position played on team / speciality	Jon French began his football career playing for his hometown club, Bristol Rovers as a forward in 1995.	Jon French	forward
+position played on team / speciality	Arthur Ogden was an English professional footballer who played as an inside forward.	Arthur Ogden	inside forward
+position played on team / speciality	Alex Haddow (born 8 January 1982) is an English footballer who plays as a left sided defender or midfielder.	Alex Haddow	defender	midfielder
+position played on team / speciality	Zézé impressed the club in warm up matches before the start of the season, raising hopes he would be a miracle forward.	Zézé	forward
+position played on team / speciality	Frédéric Laurent (born November 21, 1975 in Paris, France), is a French/French Guyanese former football midfielder.	Frédéric Laurent	midfielder
+position played on team / speciality	Imre Taussig (1894 -- 1945) was a Hungarian international footballer who played as a forward.	Imre Taussig	forward
+position played on team / speciality	Lyle Yorks (born January 30, 1970 in Mansfield, Connecticut ) is a retired American soccer midfielder who played professionally in the Major Indoor Soccer League, USISL and Major League Soccer.	Lyle Yorks	midfielder
+position played on team / speciality	Davide Nicoletti (born March 22, 1986) is a Canadian-born Italian professional ice hockey defenceman currently playing for the Valpellice Bulldogs in Serie A, the top tier league in Italy.	Davide Nicoletti	defenceman
+position played on team / speciality	Adriano Pereira da Silva, known as Adriano (born 3 April 1982 in Salvador, Bahia) is a Brazilian football defender.	Adriano Pereira da Silva	defender
+position played on team / speciality	Zhang Zhiqiang (Chinese: 张 志强, born 15 December 1978 in Zibo, Shandong) is a Chinese Rugby union player who plays at the fly-half position.	Zhang Zhiqiang	fly-half
+position played on team / speciality	Gezim Shalaj (born 28 July 1990) is a Swiss footballer of Albanian descent who plays as a midfielder for Cypriot team Enosis Neon Paralimni.	Gezim Shalaj	midfielder
+position played on team / speciality	Khassa Camara (born 22 October 1992) is a Mauritanian international footballer who plays for Greek club Skoda Xanthi, as a defensive midfielder.	Khassa Camara	midfielder
+position played on team / speciality	Geri Çipi (born 28 February 1976) is an Albanian former football defender, playing the position of Centre Back.	Geri Çipi	defender
+position played on team / speciality	Artiom Gaiduchevici (born 22 April 1987) is a Moldovan association footballer who plays as a goalkeeper.	Artiom Gaiduchevici	goalkeeper
+position played on team / speciality	Ignacio Garro Gómez de Carrero (born 21 April 1981 in Vitoria-Gasteiz, Álava), known as Nacho Garro, is a Spanish retired footballer who played as a central midfielder.	Nacho Garro	midfielder
+position played on team / speciality	Mohammed Sannie (born 27 June 1986) is a Ghanaian football goalkeeper currently playing at Asante Kotoko.	Mohammed Sannie	goalkeeper
+position played on team / speciality	Wayne Larkin (November 10, 1938 in Winnipeg, Manitoba--September 13, 1968) was a Canadian ice hockey left winger.	Wayne Larkin	winger
+position played on team / speciality	Ana Ruiz Mitxelena was a Spanish football goalkeeper.	Ana Ruiz Mitxelena	goalkeeper
+position played on team / speciality	Han Eui-kwon (Hangul: 한의권; born 30 June 1994) is a South Korean footballer who plays as a forward for Daejeon Citizen in K League Classic.	Han Eui-kwon	forward
+position played on team / speciality	Claudio Sala (born 8 September 1947 in Macherio, Lombardy) is a former Italian footballer, manager and current commentator, who played as a midfielder or as a forward.	Claudio Sala	midfielder
+position played on team / speciality	Datsakorn Thonglao (Thai: ดัสกร ทองเหลา, born December 30, 1983) is a Thai footballer playing as an attacking midfielder for Thai Premier League club Muangthong United and is a regular member of Thailand national football team.	Datsakorn Thonglao	midfielder
+position played on team / speciality	Lovel Palmer (born 30 August 1984 in Mandeville) is a Jamaican footballer who currently plays as a defender and midfielder for the Indy Eleven in the North American Soccer League.	Lovel Palmer	defender
+position played on team / speciality	Juan Camilo Zúñiga Mosquera (Spanish pronunciation: (ˈxwan kaˈmilo ˈsuɲiɣa mosˈkeɾa), born 14 December 1985) is a Colombian footballer who currently plays for Serie A club Bologna and the Colombian national team as an attacking fullback.	Juan Camilo Zúñiga	fullback
+position played on team / speciality	Stuart Mills (born 7 April 1990) is a Scottish professional footballer who plays, as a right winger, for Blantyre Victoria in the Scottish Junior Football Association, West Region.	Stuart Mills	winger
+position played on team / speciality	Loris Arnaud (born 16 April 1987 in Saint Germain en Laye) is a French-Martinican descent footballer, who currently plays as a forward for Hà Nội T&T F.C..	Loris Arnaud	forward
+position played on team / speciality	Shahril Jantan (born 20 April 1980) is a Singaporean footballer who currently plays as a goalkeeper for S.League club Home United.	Shahril Jantan	goalkeeper
+position played on team / speciality	Jack Haigh (1928--2007) in Rotherham, Yorkshire, England, was an English footballer who played as an inside forward in the Football League.	Jack Haigh	inside forward
+position played on team / speciality	Ju Yingzhi (Chinese: 鞠盈智, born 24 July 1987 in Dalian) is a Chinese and Hong Kong footballer, who currently plays as attacking midfielder for Eastern in Hong Kong.	Ju Yingzhi	midfielder
+position played on team / speciality	Domagoj Antolić (born 30 June 1990) is a Croatian footballer who plays as a midfielder and also acts as a captain for Dinamo Zagreb in the Croatian First Football League.	Domagoj Antolić	midfielder
+position played on team / speciality	Vlatko Gošev (Macedonian: Влатко Гошев; born 10 September 1974) is a retired Macedonian football midfielder, who last played for Anagennisi Arta.	Vlatko Gošev	midfielder
+position played on team / speciality	Kostadin Adzhov (Bulgarian: Костадин Аджов; born 19 May 1991) is a Bulgarian footballer, who currently plays as a forward for Rilski Sportist.	Kostadin Adzhov	forward
+position played on team / speciality	Ismael Santiago López López (born 27 February 1978), known simply as Ismael, is a Spanish retired footballer who played mainly as an attacking midfielder.	Ismael Santiago	midfielder
+position played on team / speciality	Rodrigo de Oliveira Ramos commonly known as Rodrigo Ramos (born 24 May 1995) is a Brazilian professional footballer who plays as a defender for Chicago Fire, on loan from Coritiba.	Rodrigo Ramos	defender
+position played on team / speciality	Daniel Santos Martins (born 23 June 1993) is a Portuguese professional footballer who plays for Universitatea Cluj as a left defender, on loan from Belenenses.	Daniel Santos Martins	defender
+position played on team / speciality	Don Doran is a retired American soccer defender who played professional in the Major Indoor Soccer League.	Don Doran	defender
+position played on team / speciality	Ross Nesdale (born 30 July 1969 in New Zealand) is a retired Irish rugby union footballer who played as a hooker.	Ross Nesdale	hooker
+position played on team / speciality	Jovica Nikolić (Serbian Cyrillic: Joвицa Hикoлић; born 11 July 1959) is a Serbian retired footballer who played as a central midfielder, and a current manager.	Jovica Nikolić	midfielder
+position played on team / speciality	Xue Ya'nan (simplified Chinese: 薛亚男; traditional Chinese: 薛亞男; pinyin: Xuē Yànán) is a professional Chinese footballer who currently plays as a midfielder for Dalian Transcendence in the China League One.	Xue Ya'nan	midfielder
+position played on team / speciality	Jacoby Ford (born July 27, 1987) is an American football wide receiver and return specialist who is currently a free agent.	Jacoby Ford	wide receiver
+position played on team / speciality	Estanislao Struway Samaniego (born 25 June 1968) is a former football (soccer) midfielder from Paraguay, who was nicknamed Taní during his career.	Estanislao Struway	midfielder
+position played on team / speciality	Kyle Zajec (born 28 March 1997) is an American soccer player who plays as a midfielder for New York Red Bulls II in the United Soccer League and for the Georgetown Hoyas men's soccer program.	Kyle Zajec	midfielder
+position played on team / speciality	Moussa Ouwo (born May 29, 1976 in Niger) is a Nigerien football defender.	Moussa Ouwo	defender
+position played on team / speciality	Rami Jridi (Arabic: رامي جريدي‎) (born 25 April 1985) is a Tunisian football player who currently plays as a goalkeeper for Club Sportif Sfaxien in the Tunisian Ligue Professionnelle 1.	Rami Jridi	goalkeeper
+position played on team / speciality	Dmytro Zhdankov (Ukrainian: Дмитро Сергійович Жданков; born 18 November 1984 in Kharkiv, Ukrainian SSR) is a professional Ukrainian football goalkeeper.	Dmytro Zhdankov	goalkeeper
+position played on team / speciality	Lenos Georgiou (Greek: Λένος Γεωργίου; born 18 September 1992 in Larnaca, Cyprus) is a Cypriot football forward who last played for Aspis Pylas in the Cypriot Fourth Division.	Lenos Georgiou	forward
+position played on team / speciality	Bill Berglund (born September 24, 1945 in Everett, Massachusetts) is an American former ice hockey goaltender who played five games in the World Hockey Association for the New England Whalers.	Bill Berglund	goaltender
+position played on team / speciality	Ruslan Nurtdinov (born March 30, 1980) was a Russian professional ice hockey winger.	Ruslan Nurtdinov	winger
+position played on team / speciality	Dávid Mohl (Hungarian pronunciation: (ˈdaːvid ˈmol); born 22 April 1985 in Székesfehérvár) is a Hungarian football (defender) player who currently plays for Újpest.	Dávid Mohl	defender
+position played on team / speciality	Frédéric Darras (19 August 1966 -- 27 October 2010) was a football defender who played over 200 matches in Ligue 1 and had a spell playing in the English First Division.	Frédéric Darras	defender
+position played on team / speciality	Shaun Easthope (born 23 May 1981) in Samoa is a footballer who plays as a midfielder.	Shaun Easthope	midfielder
+position played on team / speciality	Lazare Gianessi (born November 9, 1925 in Aniche, died August 11, 2009 in Concarneau ) was a French football defender.	Lazare Gianessi	defender
+position played on team / speciality	Kaleem Haitham (born 4 June 1998) is an English professional footballer who plays for Wimborne Town on loan from Portsmouth as a winger.	Kaleem Haitham	winger
+position played on team / speciality	Luis Heitor-Piffer (born 17 November 1988) is a Brazilian professional footballer who last played as a defender for Minnesota United FC in the North American Soccer League.	Luis Heitor-Piffer	defender
+position played on team / speciality	Walter P. Shirlaw, known as Watty Shirlaw (born 1902) was a Scottish professional footballer who played as a goalkeeper.	Watty Shirlaw	goalkeeper
+position played on team / speciality	Tommy Svindal Larsen (born 11 August 1973 in Skien) is a retired Norwegian footballer who played as a midfielder for Odd, Start and Stabæk in his home country, in addition to a four-year spell at 1.	Tommy Svindal Larsen	midfielder
+position played on team / speciality	Marius Rapalis (born 22 March 1983 in Vilnius) is a Lithuanian professional footballer currently playing for Trakai as a goalkeeper.	Marius Rapalis	goalkeeper
+position played on team / speciality	Aleš Píša (born January 2, 1977) is a Czech professional ice hockey defenceman currently playing for Pardubice of the Czech Extraliga.	Aleš Píša	defenceman
+position played on team / speciality	Lewis Bedford (July quarter 1899 -- 29 June 1966) was an English professional footballer who played as an outside forward.	Lewis Bedford	forward
+position played on team / speciality	Reza Ahadi (November 30, 1962 -- January 18, 2016) was an Iranian footballer who played as a midfielder for the Iran national team and Tehran's Esteghlal.	Reza Ahadi	midfielder
+position played on team / speciality	Phuthego Modipe is a Botswanan former footballer who played as a midfielder.	Phuthego Modipe	midfielder
+position played on team / speciality	Pavel Nedvěd (Czech pronunciation: (ˈpavɛl ˈnɛdvjɛt); born 30 August 1972) is a Czech retired footballer who played as a midfielder.	Pavel Nedvěd	midfielder
+position played on team / speciality	Elena Fomina is a Russian football midfielder, currently playing for ShVSM Izmailovo in the Russian women's football championship She previously played for Spartak Moscow, Chertanovo Moscow, CSK VVS Samara, Lada Togliatti and Nadezhda Noginsk.	Elena Fomina	midfielder
+position played on team / speciality	Eren Taşkin (born 26 August 1992) is an Azerbaijani footballer who plays as an offensive midfielder for SG Wattenscheid 09.	Eren Taşkin	midfielder
+position played on team / speciality	Olawale Adelusimi (born April 1, 1983) is a Nigerian soccer defender who played for Crystal Palace Baltimore in the USSF Second Division.	Olawale Adelusimi	defender
+position played on team / speciality	Sean Henderson (born July 25, 1972 in Everett, Washington) is a retired American soccer midfielder who spent two seasons in Germany, three in Major League Soccer and five in the USL A-League.	Sean Henderson	midfielder
+position played on team / speciality	Evgeni Karamanov (born 26 March 1986) is a Bulgarian footballer currently playing as a goalkeeper.	Evgeni Karamanov	goalkeeper
+position played on team / speciality	Manol Manolov (Bulgarian: Манол Манолов) (born 4 August 1925, in Sofia, Bulgaria; died December 16, 2008) was a Bulgarian football defender and manager.	Manol Manolov	defender
+position played on team / speciality	Japie Motale born 1 January 1979 in Pretoria) is a South African professional footballer, who last played for National First Division club Thanda Royal Zulu as a defender.	Japie Motale	defender
+position played on team / speciality	Frode Olsen (born 12 October 1967) is a retired football goalkeeper with international caps for Norway.	Frode Olsen	goalkeeper
+position played on team / speciality	Walter Joyce (10 September 1937 -- 29 September 1999) was an English professional footballer and manager who played as a wing half, born in Oldham, Lancashire.	Walter Joyce	wing half
+position played on team / speciality	Armen Ambartsumyan (Armenian: Արմեն Համբարձումյան; Bulgarian: Армен Амбарцумян, born 18 February 1978 in Plovdiv, Bulgaria) is a former Bulgarian-Armenian football goalkeeper.	Armen Ambartsumyan	goalkeeper
+position played on team / speciality	Claudio Sclosa (born 28 February 1961 in Latisana), is a retired Italian footballer, who played as a holding midfielder in clubs such as Torino and Lazio.	Claudio Sclosa	midfielder
+position played on team / speciality	Ivan Gudelj (born 21 September 1960) is a Croatian former football midfielder who represented Yugoslavia.	Ivan Gudelj	midfielder
+position played on team / speciality	Barry Wilkinson (born 16 June 1936) was an English footballer who played as a wing half for Liverpool and Tranmere Rovers in The Football League.	Barry Wilkinson	wing half
+position played on team / speciality	Alexandre Afonso da Silva known better as Alex da Silva or Alexandre (born 15 August 1983 in Uberlândia, Minas Gerais) is a Brazilian football (soccer) midfielder who plays for Apollon Limassol in Cypriot First Division.	Alexandre Afonso da Silva	midfielder
+position played on team / speciality	Khaled Al-Rashidi (Arabic: خالد الرشيدي‎; born 20 April 1987) is a Kuwaiti goalkeeper who is currently playing for Al-Salmiya, having left Nottingham Forest in January 2014.	Khaled Al-Rashidi	goalkeeper
+position played on team / speciality	Hans-Günter Etterich (born 16 August 1951 in Bochum) is a retired German football midfielder.	Hans-Günter Etterich	midfielder
+position played on team / speciality	Romario Sabajo (born 1 February 1989) is a Dutch professional footballer who last played as a winger for Greenock Morton.	Romario Sabajo	winger
+position played on team / speciality	Zhao Zuojun (Chinese: 赵作峻; Pinyin: Zhào Zuòjùn; born 16 October 1983) is a Chinese footballer, who currently plays as a defender for Shanghai Shenxin.	Zhao Zuojun	defender
+position played on team / speciality	José Diogo Castro Ferradeira dos Santos (born 9 February 1994 in Póvoa de Varzim), aka Zé Diogo, is a Portuguese footballer who plays for Varzim S.C. as a forward.	Zé Diogo	forward
+position played on team / speciality	Jordan Cairnie (born 26 May 1996) is a Scottish professional footballer who plays as a defender or a striker for East Stirlingshire, where he is currently on loan from Greenock Morton.	Jordan Cairnie	defender
+position played on team / speciality	Orges Shehi (born 20 September 1977 in Durrës) is an Albanian professional footballer who plays as a goalkeeper for Albanian club Skënderbeu Korçë and the Albania national team.	Orges Shehi	goalkeeper
+position played on team / speciality	Ricardo Rafael de Oliveira Torres, or simply Rafael Torres (born 26 October 1989 in Campo Grande) is a Brazilian football midfielder.	Ricardo Rafael de Oliveira Torres	midfielder
+position played on team / speciality	Caio Henrique Siqueira Sanchez, simply known as Caio Sanchez, or only Caio is a Brazilian football forward who last played for Radnički Niš in the Jelen SuperLiga.	Caio Henrique Siqueira Sanchez	forward
+position played on team / speciality	Patrick Kalambay (born 6 January 1984) is an Italian footballer of Congolese descent, who plays as a midfielder for Serie D club Vibonese.	Patrick Kalambay	midfielder
+position played on team / speciality	Jukka Halme (born 29 May 1985) is a Finnish footballer, who currently plays as a midfielder for HIFK.	Jukka Halme	midfielder
+position played on team / speciality	Stefanie Dijkhuizen is a Dutch football midfielder currently playing in 4th-tier First Division for RKDEO.	Stefanie Dijkhuizen	midfielder
+position played on team / speciality	Fabrice Guérit (born July 2, 1970 in Niort, France) is a former professional footballer who played as a central defender.	Fabrice Guérit	defender
+position played on team / speciality	Eduard Sergienko (Ukrainian: Едуард Володимирович Сергієнко; born 18 February 1983) is a Ukrainian-born Kazakhstani football midfielder who plays for Akzhayik.	Eduard Sergienko	midfielder
+position played on team / speciality	Jorg Smeets (5 November 1970 in Bussum) is a Dutch former footballer who played as a midfielder.	Jorg Smeets	midfielder
+position played on team / speciality	Steve Dowman (born 15 April 1958 in Ilford) is a former professional footballer who played in the Football League as a central defender.	Steve Dowman	defender
+position played on team / speciality	Waleed Ali (Arabic: وليد علي‎, born 3 November 1980) is a Kuwaiti footballer who played as midfielder for the Kuwaiti Premier League club Al Kuwait.	Waleed Ali	midfielder
+position played on team / speciality	Stoppila Sunzu (born 22 June 1989), also known as Stophira Sunzu, is a Zambian footballer who plays for French team Lille OSC as a defender.	Stoppila Sunzu	defender
+position played on team / speciality	Mindaugas Kalonas (born 28 February 1984 in Varėna, Lithuanian SSR, Soviet Union) is a Lithuanian football midfielder who last played for Azeri club Hapoel Nazareth Illit.	Mindaugas Kalonas	midfielder
+position played on team / speciality	Ángel Lemus Silva (born 3 September 1971 in Mexico City) is a Mexican retired professional footballer, who played at forward during his career.	Ángel Lemus	forward
+position played on team / speciality	Dušan Keketi (born 24 March 1951) is a former Slovak football goalkeeper and currently president of Spartak Trnava.	Dušan Keketi	goalkeeper
+position played on team / speciality	Guillermo Tomasevich Castañeda (born March 20, 1987) is a Peruvian footballer who plays as a centre forward for Ayacucho FC in the Torneo Descentralizado.	Guillermo Tomasevich	forward
+position played on team / speciality	Uğur Akdemir (born 22 September 1988) is a Turkish professional footballer who last played as a defender for Turkish club Adana Demirspor.	Uğur Akdemir	defender
+position played on team / speciality	João Leitão Gonçalves Manuel (born 28 May 1994 in Linda-a-Velha - Oeiras) is a Portuguese footballer who plays for Atlético on loan from Estoril-Praia as a goalkeeper.	João Leitão Gonçalves Manuel	goalkeeper
+position played on team / speciality	James Krause (born 9 January 1987, Bury St Edmunds, Suffolk, England) is a former professional footballer Krause, a defender, began his career with Ipswich Town and has represented England at under-17 level.	James Krause	defender
+position played on team / speciality	Martin Čech (June 2, 1976 in Havlíčkův Brod -- September 6, 2007 in Havlíčkův Brod) was a Czech ice hockey defenceman.	Martin Čech	defenceman
+position played on team / speciality	Colin Senior (3 June 1927 - 9 January 2011) was an English former professional footballer who played as a defender for Huddersfield Town and Accrington Stanley in the Football League during the 1950s.	Colin Senior	defender
+position played on team / speciality	Serdar Kesimal (born 24 January 1989) is a Turkish who plays as a centre back for Turkish club Fenerbahçe.	Serdar Kesimal	centre back
+position played on team / speciality	Oscar Pisano (born 3 September 1956) is a retired Argentine football defender who went on to become a football manager.	Oscar Pisano	defender
+position played on team / speciality	Daniela Tasch is an Austrian football midfielder.	Daniela Tasch	midfielder
+position played on team / speciality	Javier Baraja Vegas (born 24 August 1980) is a Spanish footballer who plays as a defensive midfielder or a central defender.	Javier Baraja	defender
+position played on team / speciality	Alan Hodgkinson MBE (16 August 1936 -- 8 December 2015) was an English professional football goalkeeper and goalkeeping coach.	Alan Hodgkinson	goalkeeper
+position played on team / speciality	Tlou Segolela (born 1 March 1988) is a South African football (soccer) midfielder who plays as a right-winger for Platinum Stars in the Premier Soccer League and South Africa.	Tlou Segolela	midfielder
+position played on team / speciality	Charles Dennington (born 1899) was an English professional footballer who played as a goalkeeper.	Charles Dennington	goalkeeper
+position played on team / speciality	Mustafa Doğan (born 1 January 1976) is a retired German footballer of Turkish descent who played as a central defender.	Mustafa Doğan	defender
+position played on team / speciality	Khama Billiat (born 19 August 1990 in Harare) is a Zimbabwean professional footballer who currently plays as a midfielder for South African Premier Soccer League club Mamelodi Sundowns and the Zimbabwe national team.	Khama Billiat	midfielder
+position played on team / speciality	Jason Oakes' position of choice is as a lock.	Jason Oakes	lock
+position played on team / speciality	Gülcan Koca (born 4 September 1990) is a Turkish-Australian women's football defender, who currently plays for Australian W-League team Melbourne Victory with jersey number 17.	Gülcan Koca	defender
+position played on team / speciality	Leonel Galeano (born 2 August 1991) is an Argentine footballer who plays as a central defender for Godoy Cruz in the Argentine Primera División.	Leonel Galeano	defender
+position played on team / speciality	Victor Quintana (born 17 April 1976 in Misiones, Paraguay) is a retired Paraguayan football player, who played as a defensive midfielder.	Victor Quintana	midfielder
+position played on team / speciality	Francisco Teocharis Papaiordanou Filho, commonly known as Fran (born 5 May 1992), is a Brazilian footballer who plays for Nacional-SP as an attacking midfielder.	Francisco Teocharis Papaiordanou Filho	midfielder
+position played on team / speciality	Jean-Paul Kamudimba Kalala (born 16 February 1982), known also as Jean-Paul Kalala or JP Kalala, is a Congolese former professional footballer, who played as a midfielder from 1999 to 2012.	Jean-Paul Kalala	midfielder
+position played on team / speciality	Julio Briones (born July 1, 1975) is a football midfielder from Ecuador.	Julio Briones	midfielder
+position played on team / speciality	Rim Chang-woo (Hangul: 임창우; born 13 February 1992) is a South Korean footballer who plays as defender for Al-Wahda in UAE Arabian Gulf League.	Rim Chang-woo	defender
+position played on team / speciality	Mohammad Khair Abdel-Razzaq Saeed Al-Jamal (born 6 April 1986) is a Jordanian footballer who plays as an attacking midfielder for Al-Ramtha and the Jordan national football team.	Mohammad Khair	midfielder
+position played on team / speciality	Marcelo Moretto de Souza (born 10 May 1978), commonly known as Moretto, is a Brazilian professional footballer who plays for North American club Miami Dade FC as a goalkeeper.	Marcelo Moretto	goalkeeper
+position played on team / speciality	Rodrigo Salinas Dorantes (born 9 May 1988) is a professional footballer, currently playing as a midfielder for Club Atlas in the Liga MX.	Rodrigo Salinas	midfielder
+position played on team / speciality	Ion Motroc (born 14 February 1937) is a former Romanian football defender who played for clubs in Romania and Turkey.	Ion Motroc	defender
+publication date	Hellbilly 58 is a 2008 horror film directed by Russ Diaper about A Murdered Hillbilly returns from the dead to seek revenge on the town that put him to death in 1958.	Hellbilly 58	2008
+publication date	Thoovanam is a Tamil language film starring Adithya and Neshtra released in September 2007.	Thoovanam	2007
+publication date	The Dawn Fraser Story is a 1964 documentary film about Australian swimmer Dawn Fraser.	The Dawn Fraser Story	1964
+publication date	Current Theega (English: Electricity wire) is a 2014 Tollywood romantic comedy movie which is produced by Manchu Vishnu on 24 Frames Factory banner, directed by G. Nageswara Reddy.	Current Theega	2014
+publication date	The Road to the Wall is a 1962 American short documentary film produced by Robert Saudek about the construction of the Berlin Wall.	The Road to the Wall	1962
+publication date	Kidappadam is a 1955 Indian Malayalam film, directed by MRS Mani and produced by M Kunchacko.	Kidappadam	1955
+publication date	Jet Attack (also known as Jet Alert and released in the UK as Through Hell to Glory) is a 1958 American aviation war film set in the Korean War, featuring United States Air Force (USAF) aircraft.	Jet Attack	1958
+publication date	The Business of Being Born is a 2008 documentary film that explores the contemporary experience of childbirth in the United States.	The Business of Being Born	2008
+publication date	Keep Talking and Nobody Explodes is a video game developed by Steel Crate Games released on 8 October 2015.	Keep Talking and Nobody Explodes	8 October 2015
+publication date	Azahares para tu boda (``Orange Blossom for your Wedding'') is a 1950 Mexican film.	Azahares para tu boda	1950
+publication date	Hangman's Curse (film), a film based on Hangman's Curse, was released in 2003.	Hangman's Curse	2003
+publication date	A Year of Prophesying collects 55 newspaper columns written by H.G. Wells in 1923 and 1924.	A Year of Prophesying	1924
+publication date	Delhi Mellei was premiered at Shankar Lal Auditorium, North Campus, New Delhi, on 15 November 2014 and released at Bhagyachandra Open Air Theatre (BOAT), Imphal, Manipur, on 21 December 2014.	Delhi Mellei	21 December 2014
+publication date	Pudhu Nilavu (Tamil: புது நிலவு) is a 1996 Indian Tamil film, directed and produced by Visnhuhasan.	Pudhu Nilavu	1996
+publication date	``Don't Let Me Be Misunderstood'' is a song written by Bennie Benjamin, Gloria Caldwell and Sol Marcus for the jazz singer and pianist Nina Simone, who first recorded it in 1964.	Don't Let Me Be Misunderstood	1964
+publication date	The Hot Chick is a 2002 American comedy film about a teenage girl whose mind is magically swapped with that of a 30-year-old criminal.	The Hot Chick	2002
+publication date	Three-Cornered Moon is a 1933 American Pre-Code comedy film directed by Elliot Nugent, and written by Ray Harris and S.K. Lauren, based on play by Gertrude Tonkonogy Friedberg.	Three-Cornered Moon	1933
+publication date	Hands Up or I'll Shoot was only completed and distributed in 2009, making it the last East German film to be released.	Hands Up or I'll Shoot	2009
+publication date	Bachna Ae Haseeno (English: Watch Out, Ladies) is an Indian romantic comedy released 15 August 2008.	Bachna Ae Haseeno	2008
+publication date	The Children of Leningradsky (Polish: Dzieci z Leningradzkiego) is a 2005 Polish short documentary film about a community of homeless children living in the Leningradsky railway station in Moscow.	The Children of Leningradsky	2005
+publication date	Hokusai Manga (Japanese: 北斎漫画), better known internationally with its exploitative title Edo Porn, is a 1981 biographical drama based on the life of Japanese artist Hokusai directed by Kaneto Shindo.	Edo Porn	1981
+publication date	Seven Guns for the MacGregors (Italian: ''Sette pistole per i MacGregor'') is a Technicolor 1966 Italian spaghetti western.	Seven Guns for the MacGregors	1966
+publication date	The Cuckoos (1930) is an American Pre-Code musical comedy film, released by RKO Radio Pictures and partially filmed in two-strip Technicolor.	The Cuckoos	1930
+publication date	The Name of the Band Is Cowboy Mouth is a live concert by the band Cowboy Mouth released on DVD on November 20, 2007.	The Name of the Band Is Cowboy Mouth	2007
+publication date	I, Superbiker (or I Superbiker) is a 2011 British film documentary directed by film maker and biker Mark Sloper.	I, Superbiker	2011
+publication date	Sexton Blake and the Bearded Doctor is a 1935 British mystery film directed by George A. Cooper and starring George Curzon, Henry Oscar and Tony Sympson.	Sexton Blake and the Bearded Doctor	1935
+publication date	Roco Kingdom 3 (Chinese: 洛克王国3:圣龙的守护) is a 2014 Chinese animated fantasy adventure film directed by Gong Bingsi and part of the Roco Kingdom film series.	Roco Kingdom 3	2014
+publication date	Wedding Night (French: Nuit de noces) is a 2001 Canadian comedy film.	Wedding Night	2001
+publication date	Stephen Tobolowsky's Birthday Party is a 2005 documentary about Stephen Tobolowsky in which he tells stories from his life.	Stephen Tobolowsky's Birthday Party	2005
+publication date	Moscow Clad in Snow is a 1909 short silent documentary film directed by Joseph-Louis Mundwiller about winter in Moscow 1908.	Moscow Clad in Snow	1908
+publication date	Sorority House Massacre is a 1986 American slasher film directed by Carol Frank.	Sorority House Massacre	1986
+publication date	Golden Brother (simplified Chinese: 男人不可以穷; traditional Chinese: 男人唔可以窮) is a 2014 Hong Kong-Chinese romance comedy drama film directed by Shu Kai Chung.	Golden Brother	2014
+publication date	Lion Down is a 1951 Goofy cartoon featuring Goofy and Louie the Mountain Lion.	Lion Down	1951
+publication date	Miss Conception (original title ``Buy Borrow Steal'') is a 2008 comedy film directed by Eric Styles and starring Heather Graham.	Miss Conception	2008
+publication date	What I Have Written is a 1996 Australian drama film directed by John Hughes.	What I Have Written	1996
+publication date	Dead Clean is a film shot in the December of 1997 in Southampton, England and starring Andrew Sachs (Fawlty Towers) and Shane Richie (EastEnders).	Dead Clean	1997
+publication date	The Legend of the Reno Brothers is a 2013 American Western documentary film by Hangman's Crossing Productions starring Morgan Rague.	The Legend of the Reno Brothers	2013
+publication date	Wonders Never Cease is a 1952 British, Technicolor, sponsored film, starring Ronald Shiner as a Cast Member.	Wonders Never Cease	1952
+publication date	The Quiet Family (Hangul: 조용한 가족; RR: Joyonghan Gajok) is a 1998 South Korean comedy horror film.	The Quiet Family	1998
+publication date	The Hitler Gang is a 1944 American pseudo-documentary film which traces Adolf Hitler's political rise, purportedly based only on documentary fact.	The Hitler Gang	1944
+publication date	Hotel Deluxe (百星酒店) is a 2013 Hong Kong comedy film released in commemoration with the Lunar New Year of 2013.	Hotel Deluxe	2013
+publication date	A Child's Cry for Help is a 1994 television film starring Pam Dawber and Veronica Hamel, with a supporting role by a young Tobey Maguire.	A Child's Cry for Help	1994
+publication date	Der Fuehrer's Face (originally titled Donald Duck in Nutzi Land) is a 1943 American animated propaganda short film produced by Walt Disney Productions and released in 1943 by RKO Radio Pictures.	Der Fuehrer's Face	1943
+publication date	Al-Zawjah al-Azra' (Arabic: الزوجة العذراء‎, English: The Virgin Wife) is a 1958 Egyptian crime/mystery film.	Al-Zawjah al-Azra'	1958
+publication date	Raja Vikrama (English: King Vikrama) is a 1950 Indian bilingual film, directed and produced by Kemparaj Urs.	Raja Vikrama	1950
+publication date	Kuch Tum Kaho Kuch Hum Kahein is an 2002 Bollywood romance drama film directed by Ravi Sharma Shankar.	Kuch Tum Kaho Kuch Hum Kahein	2002
+publication date	A Knight for a Day is a 1946 Disney short film starring Goofy.	A Knight for a Day	1946
+publication date	Fujian Blue (simplified Chinese: 金壁辉煌; traditional Chinese: 金壁輝煌; pinyin: Jīn Bì Hūihúang; Pe̍h-ōe-jī: Kim-piah-hui-hông) is a 2007 Chinese film directed by Weng Shouming (Robin Weng).	Fujian Blue	2007
+publication date	The House on Skull Mountain is a 1974 horror film directed by Ron Honthaner.	The House on Skull Mountain	1974
+publication date	Bava Nachadu (Telugu: బావ నచ్చాడు) is a 2001 Tollywood film produced by M. Arjuna Raju on Roja Movies banner, written and directed by K.S. Ravikumar.	Bava Nachadu	2001
+publication date	August Eighth (Russian: ``Август. Восьмого'', translit. Avgust. Vosʹmogo) is a 2012 Russian action drama film about the 2008 South Ossetia war.	August Eighth	2012
+publication date	Ecstatica II is sequel to Ecstatica an action-adventure game that was released for the PC by Psygnosis in 1997.	Ecstatica II	1997
+publication date	Davpech is an Action/Comedy Marathi film released on 25 February 2011.	Davpech	25 February 2011
+publication date	Hipólito y Evita (also known as When love comes, or Do what you want in English) is a romantic comedy 1973 Argentine film directed by Orestes A. Trucco and starring Raúl Taibo, Amalia Scaliter, Gilda Lousek y Ricardo Bauleo.	Hipólito y Evita	1973
+publication date	Das zweite Schraube-Fragment is a 1985 Austrian short adventure film directed by Walter Andreas Christen.	Das zweite Schraube-Fragment	1985
+publication date	Los Angeles Plays Itself is a video essay by Thom Andersen, finished in 2003, exploring the way Los Angeles has been presented in movies.	Los Angeles Plays Itself	2003
+publication date	Banglatown Banquet is a 2006 British television drama film directed by Hettie MacDonald, written by Tanika Gupta, and stars Shabana Azmi, Shobu Kapoor and Shelly King.	Banglatown Banquet	2006
+publication date	Dashamukha (Kannada: ದಶಮುಖ) is a 2012 Indian Kannada film directed by Ravi srivatsa.	Dashamukha	2012
+publication date	The Captured Bird is a 2012 short Canadian horror film written and directed by Jovanka Vuckovic, produced by Jason Lapeyre and executive produced by Guillermo del Toro.	The Captured Bird	2012
+publication date	You Can't Escape Forever is a 1942 American drama film directed by Jo Graham and written by Fred Niblo, Jr. and Hector Chevigny.	You Can't Escape Forever	1942
+publication date	The Pink Chiquitas is a 1987 Canadian comedy film about a pink meteor that lands near a small town, turning its female residents into nymphomaniacs.	The Pink Chiquitas	1987
+publication date	Stargate Infinity premiered in September 2002 as part of 4Kids Entertainment's FOX BOX Saturday morning line-up on Fox, where it aired until June 2003.	Stargate Infinity	2002
+publication date	Failan (Hangul: 파이란; RR: Pairan) is a 2001 South Korean film written and directed by Song Hae-sung.	Failan	2001
+publication date	Kalaignan (Tamil:கலைஞன்; English: Artist) is a 1993 Tamil-language thriller film directed by G. B. Vijay and produced by Ramkumar Ganesan.	Kalaignan	1993
+publication date	The Mummy Case (1985) is the third of a series of historical mystery novels written by Elizabeth Peters and featuring the character Amelia Peabody.	The Mummy Case	1985
+publication date	The Princess from Hoboken is a 1927 American silent comedy film directed by Allen Dale and featuring Boris Karloff.	The Princess from Hoboken	1927
+publication date	C. B. I. Shiva (Kannada: ಸಿ.ಬಿ.ಐ.ಶಿವ) is a 1991 Kannada action- drama film directed and written by B. Ramamurthy.	C. B. I. Shiva	1991
+publication date	The World's Fastest Indian is a 2005 Japanese-American-Swiss-New Zealand biographical sports drama film based on the Invercargill, New Zealand speed bike racer Burt Munro and his highly modified Indian Scout motorcycle.	The World's Fastest Indian	2005
+publication date	Naa Alludu (Telugu: నా అల్లుడు, English translation: My son-in-law) is a 2005 Telugu comedy film written and directed by Vara Mullapudi.	Naa Alludu	2005
+publication date	Babai Hotel is a 1992 Telugu comedy drama film directed by Jandhyala and produced by K. S. Rama Rao under the banner Creative Commercials.	Babai Hotel	1992
+publication date	Avengers of the Reef is a 1973 Australian children's film.	Avengers of the Reef	1973
+publication date	My Sister, the Pig Lady (Hangul: 돼지 같은 여자; RR: Dwaeji Gateun Yeoja; lit. ``A Pig Like Woman'') is a 2015 South Korean romantic comedy film directed by Jang Moon-il.	My Sister, the Pig Lady	2015
+publication date	The Way to the Sea is a 1936 documentary film about the London to Portsmouth railway line (what is now known as the Portsmouth Direct Line) and its recent electrification.	The Way to the Sea	1936
+publication date	Two Guys Abroad is a British film that was made in 1962 but was never released.	Two Guys Abroad	1962
+publication date	Battle in Heaven (Spanish: Batalla en el cielo) is a 2005 Mexican-French-German film.	Battle in Heaven	2005
+publication date	Shabri is 2011 Hindi film directed by Lalit Marathe and produced by Ram Gopal Varma.	Shabri	2011
+publication date	Thirakalkkappuram is a 1998 Indian Malayalam film directed by Anil Adithyan and starring Suresh Gopi and Manju Warrier in the lead roles.	Thirakalkkappuram	1998
+publication date	``Blue Bayou'' reappeared on his 1989 posthumous album A Black & White Night Live, from the 1988 television special on Cinemax.	Blue Bayou	1988
+publication date	Lady Daddy (Hangul: 아빠가 여자를 좋아해; RR: Abbaga Yeojareul Joahhae) is 2010 South Korean film about a transsexual photographer who is discovered by her son.	Lady Daddy	2010
+publication date	Pib and Pog is a 6-minute animated short film made by Peter Peake for Aardman Animations which originally aired on Channel 4 in 1995.	Pib and Pog	1995
+publication date	Slaughter Night (Dutch: Slachtnacht, stylised as Sl8n8) is a 2006 Dutch-Belgian horror film written and directed by Edwin Visser and Frank van Geloven.	Slaughter Night	2006
+publication date	My Summer with Des is a 1998 TV movie comedy drama created by English writer Arthur Smith.	My Summer with Des	1998
+publication date	Unfair Dealing is an independent 2008 documentary film produced by Canadian broadcaster David Weingarten.	Unfair Dealing	2008
+publication date	The Real Dream Girls is a 2006 Hindi B-grade romantic-drama film directed by Suresh Jain and produced under the banner of Om Siddhi Vinayak Creators.	The Real Dream Girls	2006
+publication date	No Entry is a Hindi comedy film released in 2005.	No Entry	2005
+publication date	Sitt al-Bayt (Arabic: ست البيت‎, English: Lady of the House) is a 1949 Egyptian drama film.	Sitt al-Bayt	1949
+publication date	En attendant les hommes is a 2007 documentary film about women muralists in Oualata, Mauritania.	En attendant les hommes	2007
+publication date	Give 'em Hell, Harry! is a biographical play and 1975 film, written by playwright Samuel Gallu.	Give 'em Hell, Harry!	1975
+publication date	Indian News Parade was a cinematic newsreel produced by the Indian government between September 1943 and April 1946.	Indian News Parade	1943	1946
+publication date	The Day Before Sunday, broadcast in February 1970, was the final CBS Playhouse teleplay to air.	The Day Before Sunday	1970
+publication date	En julhälsning från Nils-Börge Gårdh is a 1978 Nils Börge Gårdh Christmas album.	En julhälsning från Nils-Börge Gårdh	1978
+publication date	Shake, Rattle and Roll 12 is a 2010 Filpino supernatural horror film in three acts from Regal Films.	Shake, Rattle and Roll 12	2010
+publication date	Naayudamma had been in the making for several years, before opening to mixed reviews in August 2006.	Naayudamma	August 2006
+publication date	Johar Mehmood in Hong Kong is a 1971 Bollywood comedy film directed by S.A. Akbar.	Johar Mehmood in Hong Kong	1971
+publication date	Rain Clouds over Wushan (Chinese: 巫山云雨; pinyin: Wū shān yún yǔ) (also known as In Expectation) is a 1995 Chinese film directed by Zhang Ming and written by Zhu Wen.	Rain Clouds over Wushan	1995
+publication date	Slime City Massacre is a 2010 comedy-horror sequel film directed by Greg Lamberson and starring Jennifer Bihl, Kealan Patrick Burke, Debbie Rochon and Robert Sabin.	Slime City Massacre	2010
+publication date	The Education of Sonny Carson is a 1974 film based on the best-selling autobiography of Sonny Carson.	The Education of Sonny Carson	1974
+publication date	Pavakkoothu is a 1990 Indian Malayalam film, directed by K Sreekuttanand produced by Panthalam Gopinath.	Pavakkoothu	1990
+publication date	Cover Girl Models is a 1975 exploitation film from New World Pictures about three models who become involved in international espionage.	Cover Girl Models	1975
+publication date	The House in the Middle is the title of two American documentary film shorts, respectively from 1953 and 1954, which showed the effects of a nuclear bomb test on a set of three small houses.	The House in the Middle	1954
+publication date	Solar Attack (also called Solar Strike) is a 2006 television film by CineTel Films and Lions Gate Entertainment, starring Mark Dacascos, Joanne Kelly and Louis Gossett Jr..	Solar Attack	2006
+publication date	``Silver Threads and Golden Needles'', a song written by Jack Rhodes and Dick Reynolds, was first recorded by Wanda Jackson in 1956.	Silver Threads and Golden Needles	1956
+publication date	Player's Guide to Eberron was written by James Wyatt, Keith Baker, Luke Johnson, and Stan!, and published in January 2006.	Player's Guide to Eberron	January 2006
+publication date	Haathi Mere Saathi (English: Elephant My Partner) is an Indian film from 1971.	Haathi Mere Saathi	1971
+publication date	Feel Good About Your Body is an EP by American noise rock band Pussy Galore, released in 1985 by Adult Contemporary and Shove Records.	Feel Good About Your Body	1985
+publication date	Gulf Stream Under the Iceberg (Latvian: Golfa straume zem ledus kalna) is a 2012 Latvian drama film directed by Jevgeņijs Paškevičs.	Gulf Stream Under the Iceberg	2012
+publication date	The Story of Jang-hwa and Hong-ryeon (Dae Jang-hwa Hong-ryeon jeon) is a 1962 South Korean film directed by Chung Chang-wha.	The Story of Jang-hwa and Hong-ryeon	1962
+publication date	Dansa i neon was released on 13 April 1987 and is an album from Swedish pop singer Lena Philipsson.	Dansa i neon	1987
+publication date	A Very British Cover-up is a 2009 British short comedy film directed by Ian Smith and produced in Wales.	A Very British Cover-up	2009
+publication date	Fortune and Men's Eyes is a 1967 play and 1971 film written by John Herbert about a young man's experience in prison, exploring themes of homosexuality and sexual slavery.	Fortune and Men's Eyes	1971
+publication date	A Healing Art is a 2009 short documentary film from director Ellen Frick.	A Healing Art	2009
+publication date	Luminaris is a 2011 short film directed by Juan Pablo Zaramella, which uses the pixilation technique to blend real actors with animated objects.	Luminaris	2011
+publication date	Unfinished Girl is a 2007 Chinese drama film directed and written by Cheng Er. It marks Cheng's directorial debut.	Unfinished Girl	2007
+publication date	Om Bobbo Viking is a 1975 album from Swedish pop and rock artist Magnus Uggla.	Om Bobbo Viking	1975
+publication date	Pettredutha Pillai is a Tamil film released in 1993 directed by Poornachandran, with camera, lyrics, music and story by T. Rajendar.	Pettredutha Pillai	1993
+publication date	The Widow's Might is a 2009 American independent Christian film set in modern-day Texas and the Old West.	The Widow's Might	2009
+publication date	Britney Rears came to prominence in the spring of 2005.	Britney Rears	2005
+publication date	Romancing the Stone is a 1984 American action-adventure romantic comedy.	Romancing the Stone	1984
+publication date	The Ramparts We Watch is a 1940 American drama film, the first of four full-length features produced by The March of Time, which was much more well known for the series of newsreels they produced from 1935 to 1951.	The Ramparts We Watch	1940
+publication date	Nerd Wars! is a 2011 American short film written, directed and edited by Willie Peña and starring Michael M. Peña, Nathaniel A. Peña, Alfonso Freeman, and Lia Marie Johnson.	Nerd Wars!	2011
+publication date	It's a Big Country is a 1951 anthology film directed by 6 directors:	It's a Big Country	1951
+publication date	Investigation of a Flame is a 2001 documentary by Lynne Sachs about the Catonsville Nine, nine Catholic activists who became known for their May 17, 1968 nonviolent act of civil disobedience in burning draft files to protest the Vietnam War.	Investigation of a Flame	2001
+publication date	How to Kill 400 Duponts (Italian: Arriva Dorellik, also known as Dorellik) is a 1967 Italian crime-comedy film directed by Steno.	How to Kill 400 Duponts	1967
+publication date	Some Like It Cold (Italian: A noi piace freddo...!, also known as We Like It Cold) is a 1960 Italian war-comedy film directed by Steno.	Some Like It Cold	1960
+publication date	Jasper in a Jam (1946) is a short film in the Puppetoon Series by George Pal.	Jasper in a Jam	1946
+publication date	Naked Vengeance is a 1985 exploitation rape-revenge film directed by Cirio Santiago.	Naked Vengeance	1985
+publication date	Ghost in Love (Hangul: 자귀모; RR: Jagwimo; aka Suicide Ghost Club) is a 1999 South Korean film written by Li Hong-zhou and directed by Lee Kwang-hoon.	Ghost in Love	1999
+publication date	Why Korea? is a 1950 American short documentary film produced by Edmund Reek.	Why Korea?	1950
+publication date	The original trilogy includes The Evil Dead (1981), Evil Dead II (1987), and Army of Darkness (1992), all written and directed by Raimi, produced by Robert G. Tapert, and starring Campbell.	Evil Dead	1981
+publication date	The soundtrack of Still Green was released in 2007.	Still Green	2007
+publication date	Joe the Little Boom Boom (French: Joë chez les Abeilles / Joë petit boum-boum) was an animated television series first produced between 1960 to 1963 and later remade into an animated feature film in 1973 (the English title for the film was Johnny in the Valley of the Giants).	Joe the Little Boom Boom	1973
+publication date	Kasthooriman is a 2003 Malayalam film directed by Lohithadas.	Kasthooriman	2003
+publication date	Lawyer Magalu (Kannada: ಲಾಯರ್ ಮಗಳು) is a 1963 Indian Kannada film, directed and produced by G V Iyer.	Lawyer Magalu	1963
+publication date	The AD&D Masterpiece Collection is a collection of roleplaying games for Microsoft Windows, produced by Mindscape/SSI in 1996.	AD&D Masterpiece Collection	1996
+publication date	Brush with Fate was a made-for-TV film debuted on February 2, 2003, on CBS.	Brush with Fate	2003
+publication date	``Sit Down, I Think I Love You'' is a 1966 song composed by American singer-songwriter Stephen Stills and originally recorded by American-Canadian rock band Buffalo Springfield.	Sit Down, I Think I Love You	1966
+publication date	Tengers is a 2007 South African animated film written, directed and produced by Michael J. Rix.	Tengers	2007
+publication date	The Falcon and the Co-eds is a 1943 film which was the seventh of sixteen in the Falcon series.	The Falcon and the Co-eds	1943
+publication date	When the Circus Came to Town is an American television movie that originally aired on CBS as a ``movie of the week'' on January 20, 1981.	When the Circus Came to Town	1981
+publication date	Kai Rabe gegen die Vatikankiller 26 November 1998 (Warner Bros. Pictures) - Karl Bresser.	Kai Rabe gegen die Vatikankiller	1998
+publication date	Priya Amar Priya is a 2008 Bangladeshi romantic action comedy film directed by Badiul Alam Khokon.	Priya Amar Priya	2008
+publication date	Elvis on Tour is a Golden Globe Award-winning American musical documentary motion picture released by MGM in 1972.	Elvis on Tour	1972
+publication date	Blind Trust is a 2007 Canadian film starring Jessica Capshaw and Art Hindle shot in Montreal.	Blind Trust	2007
+publication date	Avalanche Alley is a 2001 live action Canadian television film starring Ed Marinaro, Nick Mancuso, Kirsten Robek and Wolf Larson.	Avalanche Alley	2001
+publication date	Aikuisten oikeesti is a 2005 Finnish musical TV film directed by Esko Leimu and written by Seppo Ahti and Jukka Virtanen.	Aikuisten oikeesti	2005
+publication date	Letter to a Hero is a 1943 American short documentary film produced by Frederic Ullman Jr. It was nominated for an Academy Award at the 16th Academy Awards for Best Short Subject (Two-Reel).	Letter to a Hero	1943
+publication date	Starhops is 1978 exploitation film.	Starhops	1978
+publication date	Treachery on the High Seas is a 1936 British comedy crime film directed by Emil E. Reinert and starring Bebe Daniels, Ben Lyon and Charles Farrell.	Treachery on the High Seas	1936
+publication date	Gangster World (alternatively titled The Outsider for its video release) is a science-fiction TV movie released in 1998.	Gangster World	1998
+publication date	Cave of the Word Wizard is a 1982 educational children's game released for the Commodore 64 by Timeworks, Inc..	Cave of the Word Wizard	1982
+sex or gender	Martti Kalevi Marjamaa (born January 29, 1953) is a retired male boxer from Finland, who represented his native country twice at the Summer Olympics: in 1976 and 1980.	Kalevi Marjamaa	male
+sex or gender	Hock Lai Lee (born in 1987) is a male American badminton player who competed at 2012 Japan Super Series.	Hock Lai Lee	male
+sex or gender	Lou Yue (simplified Chinese: 娄月; traditional Chinese: 婁月; pinyin: Lóu Yuè; born April 22, 1987 in Harbin, Heilongjiang) is a Chinese female ice hockey player.	Lou Yue	female
+sex or gender	Slobodan Grujić (born July 24, 1973 in Novi Sad, Serbia, Yugoslavia) is a male Serbian table tennis player.	Slobodan Grujić	male
+sex or gender	Joan Walters (August 4, 1925 -- July 31, 2011) was a pioneer in the field of Economics and the first female professor at Fairfield University.	Joan Walters	female
+sex or gender	Zhang Yali (Chinese:張 亞黎, born 24 February 1964) is a female Chinese rower.	Zhang Yali	female
+sex or gender	Li Wei killed his brothers and also committed suicide, leaving Li Huaiguang with no male-line progeny.	Li Huaiguang	male
+sex or gender	Amber Penrith is an English female rugby union player.	Amber Penrith	female
+sex or gender	Federica Rocco (born 1986 ) is a female water polo defender from Italy.	Federica Rocco	female
+sex or gender	Agustín Pavó (born May 28, 1962) is a retired male track and field athlete from Cuba who competed in the sprint events during his career.	Agustín Pavó	male
+sex or gender	Helen Kerly or Ruth Helen Clark (born 6 January 1916) was a British civilian female pilot officer who was one of only two such women commended for their work.	Helen Kerly	female
+sex or gender	Josipina Urbančič (married name Toman), who published under the pen name Josipina Turnograjska (9 July 1833 -- 1 June 1854), was one of the first Slovene female writers, poets, and composers.	Josipina Turnograjska	female
+sex or gender	Shuai Pei-ling (born 24 February 1993) is a female Taiwanese badminton player who competed at 2012 Japan Super Series.	Shuai Pei-ling	female
+sex or gender	Christophe Kalfayan (born May 26, 1969 in Antibes, Alpes-Maritimes) is a retired male freestyle swimmer from France, who represented his native country in three consecutive Summer Olympics, starting in 1988.	Christophe Kalfayan	male
+sex or gender	Chris Wolfenden (born June 22, 1977 in London, Ontario) is a male volleyball player from Canada, who competed for the Men's National Team as a libero.	Chris Wolfenden	male
+sex or gender	Fatimah Rifaat (June 5, 1930 -- January 1996), better known by her pen name Alifa Rifaat (أليفة رفعت), was an Egyptian author whose controversial short stories are renowned for their depictions of the dynamics of female sexuality, relationships, and loss in rural Egyptian culture.	Alifa Rifaat	female
+sex or gender	Anita Lonsbrough was the first female flag bearer for Great Britain at the Summer Games when she carried the flag in the opening ceremony of the 1964 Summer Olympics.	Anita Lonsbrough	female
+sex or gender	Nancy Charton Ph.D (1920 -- 2015) was the first female ordained priest in the Anglican Church of Southern Africa.	Nancy Charton	female
+sex or gender	Peter Lundgren (born 29 January 1965) in Gudmundrå, Sweden) is a former professional male tennis player and tennis coach from Sweden.	Peter Lundgren	male
+sex or gender	Camelia Potec (Romanian pronunciation: (kaˈmeli.a ˈpotek); born 19 February 1982 in Brăila) is a female Romanian swimmer, who won the gold medal in the women's 200 m freestyle at the 2004 Summer Olympics.	Camelia Potec	female
+sex or gender	Ruby Ross Wood was seen as somewhat a new breed of female designer.	Ruby Ross Wood	female
+sex or gender	Danielle Rodrigues Lins, better known as Dani Lins (born January 5, 1985), is a female volleyball player from Brazil, who plays as a setter.	Dani Lins	female
+sex or gender	Laura Combes was a professional female bodybuilder from the United States.	Laura Combes	female
+sex or gender	Mary Kornman (December 27, 1915 -- June 1, 1973) was an American child actress who was the leading female star of the Our Gang series during the Pathé silent era.	Mary Kornman	female
+sex or gender	Xu Yinsheng (Chinese: 徐寅生; Wade--Giles: Hsü Yin-sheng; Shanghai, 12 May 1938) is a male former table tennis player from China.	Xu Yinsheng	male
+sex or gender	Zhang Zhiqing (simplified Chinese: 张枝青; traditional Chinese: 張枝青; pinyin: Zhāng Zhīqīng; born October 14, 1981 in Qingdao, Shandong) is a female Chinese handball player who competed at the 2004 Summer Olympics.	Zhang Zhiqing	female
+sex or gender	Park Jung-ah (Hangul: 박정아; or spelled Park Jeong-ah; February 24, 1981) is a South Korean female entertainer.	Park Jung-ah	female
+sex or gender	Nguyễn Thị Hồng (born 17 March 1979) is a Vietnamese female paralympic powerlifter.	Nguyễn Thị Hồng	female
+sex or gender	Sose Mayrig (Armenian: Սոսէ Մայրիկ, 1868 -- 1953), born Sose Vardanian, (Սոսե Վարդանյան) was an Armenian female fedayee, the wife of famous hajduk leader Serob Aghpur.	Sose Mayrig	female
+sex or gender	José Antonio Crespo Ortiz (born June 24, 1977 in Madrid) is a male badminton player from Spain, who competed in badminton at the 2004 Summer Olympics in the Men's Doubles Competition with partner Sergio Llopis.	José Antonio Crespo	male
+sex or gender	Isaac García (born April 5, 1968) is a retired male long-distance runner from Mexico, who specialized in the marathon.	Isaac García	male
+sex or gender	Wang Chengyi (Chinese: 王成意; pinyin: Wáng Chéngyì; born July 17, 1983 in Xiangshan County, Zhejiang) is a female Chinese sports shooter who competed in the 2004 Summer Olympics.	Wang Chengyi	female
+sex or gender	Ragnhild Mikkelsen (born 26 March 1931) is a former Norwegian female speed skater.	Ragnhild Mikkelsen	female
+sex or gender	Ha Jong-hwa (하종화; born 28 August 1969) is a former South Korean male volleyball player.	Ha Jong-hwa	male
+sex or gender	Tan Jian (Chinese: 谭 建; born 20 January 1988 in Chengdu) is a Chinese female discus thrower.	Tan Jian	female
+sex or gender	Jutta Kirst (née Krautwurst; born 10 November 1954 in Dresden, Sachsen) is a retired female track and field athlete who competed for East Germany during her career in the women's high jump.	Jutta Kirst	female
+sex or gender	Mayla Siracusa (born May 21, 1980 in São Paulo) is a female water polo player from Brazil, who won the bronze medal with the Brazil women's national water polo team at the 2003 Pan American Games.	Mayla Siracusa	female
+sex or gender	Mary Rudge (6 February 1842, Leominster -- 22 November 1919, London) was an English female chess master.	Mary Rudge	female
+sex or gender	Song Dan (born 5 July 1990 in Wenjiang District, Chengdu, Sichuan) is a female Chinese javelin thrower.	Song Dan	female
+sex or gender	Derya Aktop Akı (née Derya Aktop) is a Turkish female boxer.	Derya Aktop	female
+sex or gender	Edith Freilich née Seamon (died May 14, 2011) was an American bridge player, ``one of the world's greatest female bridge players''.	Edith Freilich	female
+sex or gender	Flóra Bolonyai (born 5 April 1991 in Budapest) is a Hungarian female water polo goalkeeper.	Flóra Bolonyai	female
+sex or gender	Hafsa Şeyda Burucu (born December 24, 1991 in Serdivan, Sakarya Province, Turkey) is a European champion Turkish female karateka competing currently in the kumite -68 kg division.	Hafsa Şeyda Burucu	female
+sex or gender	Diotima of Mantinea (/ˌdaɪəˈtaɪmə/; Greek: Διοτίμα; Latin: Diotīma) is a female philosopher and priestess who plays an important role in Plato's Symposium.	Diotima of Mantinea	female
+sex or gender	Claudia Wilbourn (born circa 1951) is a former professional female bodybuilder from the United States.	Claudia Wilbourn	female
+sex or gender	(Miguel Barnet, Cuba 1993) ``The Austrian Christian Ide Hintze likes the idea of merging the mundane with the spiritual, the female with the male, the avandgardist with the traditional, the oriental with the occidental, the characters of the alphabet with the new signs of the electronic world.''	Christian Ide Hintze	male
+sex or gender	Pu Wei (simplified Chinese: 浦玮; traditional Chinese: 浦瑋; pinyin: Pǔ Wěi; born August 20, 1980 in Hebei) is a retired female Chinese football (soccer) player.	Pu Wei	female
+sex or gender	The Wiener Zeitung wrote, ``Wendy Barrie-Wilson and Ray Dooley are very convincing as the stubborn nun and the helpless priest whose only channel of escape is through the male-dominated hierarchy of the Catholic Church.''	Ray Dooley	male
+sex or gender	Osvaldo Nieves Morales (born March 20, 1980) is a retired male track and field athlete, who competed in the sprints events during his career.	Osvaldo Nieves	male
+sex or gender	Natalee Scripps (born 9 December 1978) is a female New Zealand cricketer who played one Test and seven One Day Internationals for New Zealand national women's cricket team between 2003 and 2005.	Natalee Scripps	female
+sex or gender	Tima Džebo (born October 24, 1963 in Olovo) is a former Yugoslav and Bosnian female basketball player.	Tima Džebo	female
+sex or gender	This trend continued for a long time and if anything above a normal amount was given then the female giver was called a Megullia Dotata.	Megullia Dotata	female
+sex or gender	Annika Sörenstam (pronounced (ˈan.niː.ka ˌsøː.rɛn.ˈstam); listen ; born 9 October 1970) is a retired Swedish professional golfer whose achievements rank her as one of the most successful female golfers in history.	Annika Sörenstam	female
+sex or gender	Eleanor of Arborea (Sardinian: Elianora de Bas; Catalan: Elionor d'Arborea); 1347 in Molins de Rei -- 1404 in Giudicato of Arborea, was the iuyghissa (``female judge'' or Queen in Sardinian language) of Arborea from 1383 to her death.	Eleanor of Arborea	female
+sex or gender	Jiho Lee (born July 29, 1985) is a South Korean male model.	Jiho Lee	male
+sex or gender	In the poem Lokasenna, where Loki accuses nearly every female in attendance of promiscuity and/or unfaithfulness, an aggressive exchange occurs between the god Loki and the goddess Frigg (and thereafter between Loki and the goddess Freyja about Frigg).	Frigg	female
+sex or gender	Sadie Kneller Miller (October 7, 1867 -- November 21, 1920) was a Baltimore journalist, known for being one of the earliest female baseball reporters, as well as the only female correspondent covering some international events.	Sadie Kneller Miller	female
+sex or gender	Arnold Frick (born 9 July 1966) is a retired male judoka from Liechtenstein, who competed for his native country at the 1988 Summer Olympics in Seoul, South Korea.	Arnold Frick	male
+sex or gender	Alison Rowatt (born 16 February 1981 in Rutherglen) is a female field hockey midfield player from Scotland.	Alison Rowatt	female
+sex or gender	Gabriela Gaja Cover (born March 5, 1972) is a retired female butterfly swimmer from Mexico.	Gabriela Gaja	female
+sex or gender	Karla Nelsen (born December 9, 1965) is a former amateur female bodybuilder from the United States.	Karla Nelsen	female
+sex or gender	Nguyễn Thị Hải (born 17 April 1985) is a Vietnamese female Paralympic javelin and discus thrower.	Nguyễn Thị Hải	female
+sex or gender	Qu Ridong (born 1968-12-22 in Guiyang, Guizhou) is a male Chinese sports shooter.	Qu Ridong	male
+sex or gender	Kateřina Zohnová (Czech pronunciation: (ˈkatɛr̝ɪna ˈtsoːnovaː); born 7 November 1984) is a Czech female basketball player.	Kateřina Zohnová	female
+sex or gender	Oh Ji-young (Hangul: 오지영, Hanja: 吳智永; born 11 July 1988) is a South Korean female professional volleyball player.	Oh Ji-young	female
+sex or gender	Angela Banks (born 23 December 1975) is a former English female footballer.	Angela Banks	female
+sex or gender	Bessie Marchant (1862--1941) was a prolific English writer of adventure novels featuring young female heroines.	Bessie Marchant	female
+sex or gender	Valentina Chepiga (Ukrainian: Валентина Чепіга; born April 27, 1962) is a professional female bodybuilder.	Valentina Chepiga	female
+sex or gender	Anne de Borman (3 February 1881 -- 30 September 1962), née Christine Anne de Selliers de Moranville, was a Belgian female tennis player who represented Belgium at the Olympic Games.	Anne de Borman	female
+sex or gender	Christie Allen gave Countdown something it had been lacking -- a local female artist to appeal to the teeny boppers.	Christie Allen	female
+sex or gender	Marita Petersen (IPA: (ˌmɛaɹɪta ˈpʰeːʰtɛɹsɛn)) (née Johansen (IPA: (ˌjoˈhanːsɛn)); 21 October 1940 in Vágur -- 26 August 2001) was the first and to date only female Prime Minister of the Faroe Islands and the first female speaker of the Løgting (Parliament).	Marita Petersen	female
+sex or gender	Susanna Al-Hassan or Susan Alhassan (27 November 1927 -- 17 January 1997) was a Ghanaian politician, who in 1961 became Ghana's first female parliamentary minister.	Susanna Al-Hassan	female
+sex or gender	According to Skáldskaparmál, Víðarr was one of the twelve presiding male gods seated in their thrones at a banquet for the visiting Ægir.	Víðarr	male
+sex or gender	Juan Carlos Rosero García (November 28, 1962 -- January 23, 2013) was a male road cyclist from Ecuador, who competed for his native country at the 1992 Summer Olympics in Barcelona, Spain.	Juan Carlos Rosero	male
+sex or gender	Luis Barbosa (born January 21, 1953) is a Colombian male long distance athlete.	Luis Barbosa	male
+sport	Nacka HK, officially Nacka Hockeyklubb (English: Nacka Hockey Club), is a Swedish ice hockey club based in the Stockholm suburb of Nacka.	Nacka HK	ice hockey
+sport	The 2003 Brasil Open was a men's tennis tournament played on outdoor hard courts in Salvador, Bahia in Brazil and was part of the International Series of the 2003 ATP Tour.	2003 Brasil Open	tennis
+sport	The All-Star Baseball baseball video game series was developed and published by Acclaim Entertainment.	All-Star Baseball	baseball
+sport	Leonhard Kaufmann (born January 12, 1989) is an Austrian professional association football player currently playing for German 3.	Leonhard Kaufmann	association football
+sport	Sri Lanka Cricket Combined XI was a Sri Lankan Twenty20 cricket team.	Sri Lanka Cricket Combined XI	cricket
+sport	Zoran Planinić (born September 12, 1982) is a Croatian professional basketball player who currently is free agent.	Zoran Planinić	basketball
+sport	Mini footy (known as mini league in Britain) is a form of rugby league developed by the Australian Rugby League.	Mini footy	rugby league
+sport	The 2008 Crystal Skate of Romania was the Crystal Skate of Romania competition for the 2008--2009 figure skating season.	2008 Crystal Skate of Romania	figure skating
+sport	Mateusz Jachlewski (born 27 December 1984 in Gdynia) is a Polish team handball player, playing on the Poland national handball team.	Mateusz Jachlewski	handball
+sport	Carrie Cunningham (born April 28, 1972) is an American former professional tennis player who played on the Women's Tennis Association (WTA) Circuit from 1987-1994.	Carrie Cunningham	tennis
+sport	Christian Ronaldo Sitepu is an Indonesian basketball player for Satria Muda BritAma and Indonesia men's basketball team.	Christian Ronaldo Sitepu	basketball
+sport	The 2009 State of Origin series was the 28th time that the annual three-game series between the Queensland and New South Wales representative rugby league football teams was played entirely under 'state of origin' selection rules.	2009 State of Origin series	rugby league
+sport	Berna Carrasco Araya (Carrasco de Budinich) (19 December 1914 -- 7 July 2013) was a Chilean chess master, born in San Bernardo, Chile.	Berna Carrasco	chess
+sport	Union Sportive Quillan Haute-Vallée or US Quillan is a French rugby union club.	US Quillan	rugby union
+sport	Aicha Mezemate (born June 6, 1991 in Béjaïa) is an Algerian volleyball player, playing as middle-blocker.	Aicha Mezemate	volleyball
+sport	Walter Moyse (born in 1981) is a 6'11`` (210 cm) Canadian basketball player, playing professional basketball in Europe following a successful collegiate career at Acadia University in Canada.	Walter Moyse	basketball
+sport	Jukka Vilander (born November 27, 1962) is a former professional Finnish ice hockey forward.	Jukka Vilander	ice hockey
+sport	Lisalverto Bonilla (born June 18, 1990) is a Dominican professional baseball pitcher who is in the Los Angeles Dodgers organization.	Lisalverto Bonilla	baseball
+sport	The 2001 British and Irish Lions tour to Australia was a series of matches played by the British and Irish Lions rugby union team in Australia.	2001 British and Irish Lions tour to Australia	rugby union
+sport	The Northcote Park Football Club, nicknamed the Cougars, is an Australian rules football club, located 6 km north of Melbourne, in the suburb of Northcote, currently playing in the Northern Football League.	Northcote Park Football Club	Australian rules football
+sport	Scott Glennie (born February 22, 1991) is a Canadian professional ice hockey player who is currently a free agent.	Scott Glennie	ice hockey
+sport	Ognjen Čarapić (Serbian Cyrillic: Огњен Чарапић, born 1 September 1998) is a Montenegrin professional basketball player, currently playing as a guard for Budućnost VOLI of the Montenegrin League.	Ognjen Čarapić	basketball
+sport	The 2012 German Figure Skating Championships (German: Deutsche Meisterschaften im Eiskunstlaufen 2012) were a competition in the 2011--2012 figure skating season.	2012 German Figure Skating Championships	figure skating
+sport	The 1989 Estoril Open was a women's tennis tournament played on outdoor clay courts at the Estoril Court Central in Estoril in Portugal that was part of Tier V of the 1989 WTA Tour.	1989 Estoril Open	tennis
+sport	FC Silmash Kharkiv was a association football club of the Ukrainian SSR and the Russian Empire that was created in 1910 as Sade FC.	FC Silmash Kharkiv	association football
+sport	The Utah Grizzlies are a professional ice hockey team in the ECHL.	Utah Grizzlies	ice hockey
+sport	John Vanbiesbrouck (born September 4, 1963), nicknamed ``the Beezer'', is an American professional ice hockey executive and former player.	John Vanbiesbrouck	ice hockey
+sport	Ryan Lancaster (born October 5, 1985) is an American professional basketball player who most recently played with InderValle, of Colombia's Copa Federacion for the (2011--2012) season.	Ryan Lancaster	basketball
+sport	Merrigum Football Club is an Australian rules football club based in Merrigum in North Eastern Victoria, Australia.	Merrigum Football Club	Australian rules football
+sport	Paul Hâldan (born April 12, 1965 in Craiova, Romania) is a Romanian-born Dutch professional table tennis player.	Paul Hâldan	table tennis
+sport	Sherwood Stewart (born June 6, 1946, in Goose Creek, Texas, United States) played amateur and professional tennis in the 1970s and 1980s.	Sherwood Stewart	tennis
+sport	Takanoiwa Yoshimori (born 26 February 1990 as Adiya Baasandorj) is a sumo wrestler from Ulan-Bator, Mongolia.	Takanoiwa Yoshimori	sumo
+sport	Windsor Racecourse, also known as Royal Windsor Racecourse, is a thoroughbred horse racing venue located in Windsor, Berkshire, England.	Windsor Racecourse	horse racing
+sport	The 1951 NCAA Men's Division I Basketball Tournament involved 16 schools playing in single-elimination play to determine the national champion of men's NCAA Division I college basketball.	1951 NCAA Men's Division I Basketball Tournament	basketball
+sport	The 2012 Serbia Open (also known as Serbia Open 2012 powered by Telekom Srbija for sponsorship reasons) was a tennis tournament play on outdoor clay courts.	2012 Serbia Open	tennis
+sport	The Logan Scorpions were an Australian rugby league football club from the suburb of Slacks Creek in Logan City, Queensland.	Logan Scorpions	rugby league
+sport	Ralph Callachan (born 29 April 1955 in Edinburgh) is a Scottish former association football player, who played for the three modern senior clubs in Edinburgh;	Ralph Callachan	association football
+sport	Eric Jelen (born 11 March 1965) is a former tennis player from Germany, who won one singles (1989, Bristol) and five doubles titles during his professional career.	Eric Jelen	tennis
+sport	Artem Voronin (born July 22, 1991) is a Russian professional ice hockey player.	Artem Voronin	ice hockey
+sport	The World Curling Federation (WCF) is the world governing body for curling accreditation, with offices in Perth, Scotland.	World Curling Federation	curling
+sport	Jonas Holøs (born August 27, 1987) is a Norwegian professional ice hockey defenseman currently playing with Färjestads BK of the Swedish Hockey League (SHL).	Jonas Holøs	ice hockey
+sport	David Struch (born February 11, 1971 in Flin Flon, Manitoba) is a retired Canadian professional ice hockey player and assistant coach and assistant GM of the Regina Pats of the Western Hockey League.	David Struch	ice hockey
+sport	The Djibouti Premier League is the highest division in association football in Djibouti.	Djibouti Premier League	association football
+sport	Darrin Fitzgerald is an American former basketball player who is known for his collegiate career at Butler University.	Darrin Fitzgerald	basketball
+sport	Angie Vaughn (born November 4, 1976) is an American former track and field athlete who specialized in hurdles.	Angie Vaughn	track and field
+sport	Ricoh Coliseum is an arena at Exhibition Place in Toronto, used for agricultural displays, ice hockey and trade shows.	Ricoh Coliseum	ice hockey
+sport	Wylie Cameron Grant (November 24, 1879 -- November 1968) was an American tennis champion.	Wylie Cameron Grant	tennis
+sport	KK Heo Bileća (a.k.a. KK HEO, previously known as KK Hercegovac Bileća) is a Bosnian basketball club that currently competes in the Basketball Championship of Bosnia and Herzegovina.	KK HEO	basketball
+sport	Werner Kruger (born 23 January 1985 in Kempton Park, South Africa) is a rugby union player who plays at prop.	Werner Kruger	rugby union
+sport	Brian Bogusevic (Serbian Latin: Brian Bogušević; born February 18, 1984) is an American professional baseball outfielder for the Orix Buffaloes of Nippon Professional Baseball (NPB).	Brian Bogusevic	baseball
+sport	Bojan Tokič (born 13 January 1981 in Jajce, SR Bosnia and Herzegovina, SFR Yugoslavia, (now) Bosnia and Herzegovina) is a Slovenian table tennis player of Bosnian origin.	Bojan Tokič	table tennis
+sport	Aron Nimzowitsch (Latvian: Ārons Ņimcovičs, Russian: Аро́н Иса́евич Нимцо́вич, Aron Isayevich Nimtsovich; born Aron Niemzowitsch; 7 November 1886 -- 16 March 1935) was a Russian-born, Danish leading chess master and a very influential chess writer.	Aron Nimzowitsch	chess
+sport	Giulio Bisegni (born 4 April 1992) is an Italian rugby union player who plays as a Centre .	Giulio Bisegni	rugby union
+sport	The 2009 Ordina Open is a tennis tournament played on outdoor grass courts.	2009 Ordina Open	tennis
+sport	The International Tennis Federation (ITF) is the governing body of world tennis, made up of 210 national tennis associations or corresponding organizations of independent countries or territories.	International Tennis Federation	tennis
+sport	Sarah Forster (born 19 May 1993) is a Swiss ice hockey defence who plays internationally for the Switzerland women's national ice hockey team.	Sarah Forster	ice hockey
+sport	The 2008 FFSA State League was the third edition of the FFSA State League as the third level domestic association football competition in South Australia.	2008 FFSA State League	association football
+sport	Parramatta District Cricket Club is a cricket club on the Parramatta, New South Wales, Australia.	Parramatta District Cricket Club	cricket
+sport	Matmut Stadium is a rugby union stadium located in Vénissieux, Lyon, France with a capacity of 8,000.	Matmut Stadium	rugby union
+sport	José Antonio Hermida Ramos (born on August 24, 1978 in Puigcerdà, Girona) is a Spanish cyclist of Galician origin specializing in competitive mountain biking.	José Antonio Hermida	mountain biking
+sport	The 2004 Hastings Direct International Championships was a women's tennis tournament played on grass courts at the Eastbourne Tennis Centre in Eastbourne in the United Kingdom that was part of Tier II of the 2004 WTA Tour.	2004 Hastings Direct International Championships	tennis
+sport	Aleksandar Ugrinoski (born May 7, 1988) is a Macedonian and Croatian professional basketball player who last played for Karpoš Sokoli of the Macedonian First League.	Aleksandar Ugrinoski	basketball
+sport	The 1922 Swedish Ice Hockey Championship (Swedish: Svenska Mästerskapet) was the first ever tournament to determine a Swedish champion in ice hockey.	1922 Swedish Ice Hockey Championship	ice hockey
+sport	Dikembe Mutombo Mpolondo Mukamba Jean-Jacques Wamutombo (born June 25, 1966), commonly referred to as Dikembe Mutombo, is a Congolese American retired professional basketball player who played 18 seasons in the National Basketball Association (NBA).	Dikembe Mutombo	basketball
+sport	BG Göttingen (Basketballgemeinschaft Göttingen -- Basketball Association Göttingen) is a German basketball club based in Göttingen, Niedersachsen (Lower Saxony).	BG Göttingen	basketball
+sport	Jeff Kealty (born April 9, 1976 in Newton, Massachusetts) is a former professional ice hockey defenseman.	Jeff Kealty	ice hockey
+sport	The Western Suburbs Red Devils (Wests Illawarra, Wests Wollongong, Wests Red Devils or simply Wests Devils) are an Australian rugby league football team based in Figtree.	Western Suburbs Red Devils	rugby league
+sport	The Panamanian Chess Championship is the individual national chess championship of Panama.	Panamanian Chess Championship	chess
+sport	The 1997 World Junior Figure Skating Championships was a figure skating competition sanctioned by the International Skating Union in which younger figure skaters competed for the title of World Junior Champion.	1997 World Junior Figure Skating Championships	figure skating
+sport	The Women's Victorian Open is an annual golf tournament held in Australia.	Women's Victorian Open	golf
+sport	Dany Roussin (born January 9, 1985) is a Canadian professional ice hockey centre who currently plays for Jonquière Marquis of the LNAH.	Dany Roussin	ice hockey
+sport	The 2009 Internazionali Femminili di Palermo is a tennis tournament played on outdoor clay courts.	2009 Internazionali Femminili di Palermo	tennis
+sport	Joel Antônio Martins (1931--2003) was an association football winger.	Joel Antônio Martins	association football
+sport	Artūras Javtokas (born January 27, 1977 in Šiauliai, Lithuanian SSR, USSR) is a retired Lithuanian professional basketball player.	Artūras Javtokas	basketball
+sport	North Heidelberg Football Club is an Australian rules football club in Heidelberg West, Victoria, currently competing in Division 2 of the Northern Football League.	North Heidelberg Football Club	Australian rules football
+sport	The Sportfreunde Hamborn 07 are a German association football club based in Hamborn, a district in the north of Duisburg.	Hamborn 07	association football
+sport	Libor Pivko (born March 29, 1980 in Nový Jičín, Czechoslovakia) is a professional ice hockey left winger currently with HC Dinamo Minsk of the Kontinental Hockey League (KHL).	Libor Pivko	ice hockey
+sport	The 2011 Movistar Open was a tennis tournament played on clay courts.	2011 Movistar Open	tennis
+sport	Florin Mergea (born 26 January 1985) is a Romanian tennis player and a doubles specialist.	Florin Mergea	tennis
+sport	Essex County Cricket Club is one of eighteen first-class county clubs within the domestic cricket structure of England and Wales.	Essex County Cricket Club	cricket
+sport	The Phantoms Deurne, also known as the Antwerp Phantoms are an ice hockey team in Deurne, Belgium.	Phantoms Deurne	ice hockey
+sport	Joseph Wilson Vaka (born 21 November 1980) in Kolofo'ou, Tonga) is rugby union footballer.	Joseph Wilson Vaka	rugby union
+sport	Rio de Janeiro Vôlei Clube is a women's volleyball team, based in Rio de Janeiro, Rio de Janeiro (state), Brazil.	Rio de Janeiro Vôlei Clube	volleyball
+sport	The NBA Development League All-Star Game is an annual exhibition basketball game held by the National Basketball Association Development League (NBA D-League).	NBA Development League All-Star Game	basketball
+sport	The Rio de Janeiro Open was a men's tennis tournament was played as Banespa Rio de Janeiro Open from 1989 to 1990 on indoor carpet courts.	Rio de Janeiro Open	tennis
+sport	Jean-Louis Schlesser (born 12 September 1948) is a French racing driver with experience in circuit racing and cross-country rallying.	Jean-Louis Schlesser	rallying
+sport	Hokejsko Drsalni Klub Maribor, commonly referred to as HDK Maribor or simply Maribor, is an ice hockey club from Maribor, Slovenia.	HDK Maribor	ice hockey
+sport	Pierre Desjardins (born October 28, 1941) is a former professional Canadian football player with the Canadian Football League Montreal Alouettes.	Pierre Desjardins	Canadian football
+sport	The Pirc Defence (correctly pronounced ``peerts'', but often mispronounced ``perk''), sometimes known as the Ufimtsev Defence or Yugoslav Defence, is a chess opening characterised by Black responding to 1.e4 with 1...d6 and 2...	Pirc Defence	chess
+sport	Andrius Mažutis (born April 21, 1981 in Mažeikiai) is a Lithuanian basketball player.	Andrius Mažutis	basketball
+sport	The Idaho Steelheads are an American professional minor league ice hockey team based in Boise, Idaho.	Idaho Steelheads	ice hockey
+sport	Villa Lidköping BK is a bandy club in Lidköping i Sweden.	Villa Lidköping BK	bandy
+sport	Peter Driscoll (born October 27, 1954) is a former professional ice hockey left wing in the WHA and NHL.	Peter Driscoll	ice hockey
+sport	The Beaumont Open Invitational was a golf tournament on the PGA Tour that played for two years in the early 1960s at the Terrell Park Municipal Golf Course in Beaumont, Texas, an 18-hole, par-72, 6,656 yard city-owned course.	Beaumont Open Invitational	golf
+sport	Patrick Galbraith (born April 16, 1967, in Tacoma, Washington) is a former professional tennis player from the United States.	Patrick Galbraith	tennis
+sport	Petra Goebel (born 24 March 1971), is an Austrian athlete who competes in compound archery.	Petra Goebel	archery
+sport	Kordell Stewart (born October 16, 1972), nicknamed ``Slash,'' is a former American football quarterback who played eleven years in the National Football League (NFL).	Kordell Stewart	American football
+sport	Vinko Jelovac (alternate spelling: Vinto Jelovac) (born September 18, 1948 in Osijek, Croatia), is a former Slovenian basketball player and coach.	Vinko Jelovac	basketball
+sport	Zoran Radović (born February 17, 1961 in Belgrade, PR Serbia, FPR Yugoslavia) is a retired Serbian basketball player and current FIBA administrator.	Zoran Radović	basketball
+sport	Takeru Imamura (今村 猛, born April 17, 1991) is a Japanese professional baseball player.	Takeru Imamura	baseball
+sport	Denis Ignashin (Денис Игнашин, born March 31, 1988) is a Russian ice hockey player.	Denis Ignashin	ice hockey
+sport	FC Sheriff Tiraspol (Russian: ФК Шериф Тирасполь), known simply as Sheriff, is an association football club located in Tiraspol, Transnistria (Moldova).	FC Sheriff Tiraspol	association football
+sport	Harstad Vikings was a Norwegian basketball team.	Harstad Vikings	basketball
+sport	The Calgary Kookaburras are a ladies Australian rules football club based in Calgary, Canada.	Calgary Kookaburras	Australian rules football
+sport	The 2008 Hong Kong Super Series is the twelfth tournament of the 2008 BWF Super Series in badminton.	2008 Hong Kong Super Series	badminton
+sport	Raymond Belmont II (May 31, 1888 - April 5, 1934) was a champion polo player.	Raymond Belmont II	polo
+sport	Ali Ahmed Salem Al-Yazidi (born March 30, 1973) is an athlete from Qatar, who competes in archery.	Ali Ahmed Salem	archery
+sport	The 1993 Australian Men's Hardcourt Championships was an ATP tennis tournament held in Adelaide, Australia from 4 January until 11 January 1993.	1993 Australian Men's Hardcourt Championships	tennis
+sport	The 1981 Cuore Cup was a men's tennis tournament played on indoor carpet courts in Milan in Italy.	1981 Cuore Cup	tennis
+sport	The Australian Rugby Championship, often abbreviated to the ARC (also known as the Mazda Australian Rugby Championship for sponsorship purposes), is a now-defunct domestic professional men's rugby union football competition in Australia, which ran for only one season in 2007.	Australian Rugby Championship	rugby union
+sport	The Edinburgh Cup was a women's professional tennis tournament, held from 1971--1974, and then once more in 1977, in Edinburgh, Scotland.	Edinburgh Cup	tennis
+sport	Dominique Thibault (born August 26, 1988) is an ice hockey player for the Montreal Stars and a former reality tv contestant.	Dominique Thibault	ice hockey
+sport	Jamel Thomas (born July 19, 1976) is an American former professional basketball player who played in the NBA.	Jamel Thomas	basketball
+sport	Osama Mohd Fathi Daghles, commonly known by the nickname Sam Daghles (born September 18, 1979), is a Chinese-born American-Jordanian professional basketball player of Palestinian origin.	Sam Daghles	basketball
+sport	The Federal League of Base Ball Clubs, known simply as the Federal League, was an American professional baseball league that played its first season in 1913 and operated as a ``third major league'', in competition with the established National and American Leagues, from 1914 to 1915.	Federal League	baseball
+sport	The 2008 World University Baseball Championship was an under-23 international college baseball tournament that was held from July 17 to 27, 2008.	2008 World University Baseball Championship	baseball
+sport	The 1999 Tri Nations Series was contested from 10 July to 28 August between the Australia, New Zealand and South Africa national rugby union teams.	1999 Tri Nations Series	rugby union
+sport	The Galt Rockets were a junior ice hockey team based in Galt, Ontario, now a part of the city of Cambridge.	Galt Rockets	ice hockey
+sport	The Ladies' Golf Union (LGU) is the governing body for women's and girls' amateur golf in Great Britain and Ireland.	Ladies' Golf Union	golf
+sport	Jamal Abu-Shamala (Arabic: جمال أبو شمالة‎; born July 25, 1987 in Shakopee, Minnesota) is a Palestinian American basketball player who formerly played college basketball for the Minnesota Golden Gophers.	Jamal Abu-Shamala	basketball
+sport	Thomas Lurz (born 28 November 1979) is a German swimmer who specializes in long-distance freestyle swimming, especially open water swimming.	Thomas Lurz	swimming
+sport	The 2003 Bandy World Championship was a competition between bandy playing nations for men.	2003 Bandy World Championship	bandy
+sport	Michel Palmié (born December 1, 1951 in Béziers, France is a retired French international rugby union player.He played as a Lock for AS Béziers. He earned his first cap with the French national team on 21 June 1975 against South Africa.	Michel Palmié	rugby union
+sport	Levent Tuncat (born July 29, 1988 in Duisburg, North Rhine-Westphalia) is a German taekwondo practitioner of Turkish descent.	Levent Tuncat	taekwondo
+sport	José Oliva (March 3, 1971 -- December 22, 1997), was a professional baseball player who played in the Major Leagues primarily as a 3rd baseman from 1994 to 1995.	José Oliva	baseball
+sport	Loughborough MCC University (previously known as Loughborough University Centre of Cricketing Excellence) is a cricket coaching centre based at Loughborough University in Loughborough, Leicestershire, England, and the name under which the university's cricket team plays.	Loughborough MCC University	cricket
+sport	Jiří Dopita (Czech pronunciation: (ˈjɪr̝iː ˈdopɪta), born December 2, 1968 in Šumperk, Czechoslovakia) is former Czech professional ice hockey player who has played in the Czech Elite League most of his career.	Jiří Dopita	ice hockey
+sport	Stade Poitevin Rugby is a French semi-professional rugby union team based in Poitiers.	Stade Poitevin Rugby	rugby union
+sport	The Phoenix Mustangs were a professional minor league ice hockey team in the West Coast Hockey League (WCHL).	Phoenix Mustangs	ice hockey
+sport	Jonathan Bourhis (born October 10, 1990 in Tours; died November 1, 2009) was a professional basketball player for JDA Dijon.	Jonathan Bourhis	basketball
+sport	The 2014 S.League was the 19th season since the establishment of the S.League, the top-flight Singaporean professional league for association football clubs.	2014 S.League	association football
+sport	The Turkish Airlines Open is a European Tour golf tournament played annually in Turkey since 2013.	Turkish Airlines Open	golf
+sport	Oliver Setzinger (born July 11, 1983 in Horn, Austria) is an Austrian professional ice hockey forward currently playing for EC KAC in the Austrian Hockey League (EBEL).	Oliver Setzinger	ice hockey
+sport	The 2008 Boxing World Cup is a boxing competition between top ranked boxers in different weight categories.	2008 Boxing World Cup	boxing
+sport	Comins Mansfield (14 June 1896 -- 27 March 1984) was a chess problem composer.	Comins Mansfield	chess
+sport	The 2011 FIBA Africa Women's Clubs Champions Cup (17th edition), was an international basketball tournament that took place at the Indoor Sports Hall of the National Stadium in Surulele, Lagos, Nigeria, from December 5 to 11, 2011.	2011 FIBA Africa Women's Clubs Champions Cup	basketball
+sport	Ernest Witty Cotton was an Anglo-Spanish footballer, tennis player and businessman.	Ernest Witty	tennis
+sport	Junior Japan is a national representative rugby union team of the Japan rugby union.	Junior Japan	rugby union
+sport	Pallacanestro Cantù, known for sponsorship reasons as Acqua Vitasnella Cantù (domestically) and FoxTown Cantù (in Europe), is an Italian professional basketball club based in Cantù, Lombardy.	Pallacanestro Cantù	basketball
+sport	Alexander Shabalov (Russian: Александр Анатольевич Шабалов, Aleksandr Anatolyevich Shabalov; Latvian: Aleksandrs Šabalovs; born September 12, 1967) is an American chess grandmaster.	Alexander Shabalov	chess
+sport	ATV Liegnitz was a German association football club from what was then the city of Liegnitz, Lower Silesia in Germany, but is today Legnica, Poland.	ATV Liegnitz	association football
+sport	Sanja Starović (Serbian: Сања Старовић, born 1983) is a Serbian professional volleyball player.	Sanja Starović	volleyball
+sport	Daryl Boyle (born February 24, 1987) is a Canadian-German professional ice hockey Defenseman who is currently playing for EHC Red Bull München of the Deutsche Eishockey Liga (DEL).	Daryl Boyle	ice hockey
+sport	Tommy Plommer (born August 26, 1968 in London, Ontario) is a retired professional ice hockey player who holds dual Canadian and British nationality.	Tommy Plommer	ice hockey
+sport	The 2001 MAC Men's Basketball Tournament, a part of the 2000--01 NCAA Division I men's basketball season, took place at Gund Arena in Cleveland, Ohio.	2001 MAC Men's Basketball Tournament	basketball
+sport	Manchester Giants are a British professional basketball team, based in Manchester, England.	Manchester Giants	basketball
+sport	Anne Migliosi (born 1965) is a Norwegian team handball player from Skien.	Anne Migliosi	handball
+sport	Agustín Figuerola (born January 27, 1985 in Buenos Aires) is an Argentine rugby union footballer for Brive in the Top 14.	Agustín Figuerola	rugby union
+sport	The Rowdies Rugby Football Club is a Division III rugby union team based out of Belleville, Illinois, United States.	Rowdies Rugby Football Club	rugby union
+sport	Eric Chenowith (born March 9, 1979 in Orange, California) is an American basketball player.	Eric Chenowith	basketball
+sport	Timea Bacsinszky (born 8 June 1989) is a Swiss professional tennis player who has won three singles and four doubles titles on the WTA Tour.	Timea Bacsinszky	tennis
+sport	Andrey Zhekov (Bulgarian: Андрей Жеков) is a Bulgarian volleyball player who plays for the Romanian club C.V.M. Tomis Constanţa.	Andrey Zhekov	volleyball
+sport	The Fenway Football Challenge was an association football exhibition between Celtic and Sporting CP at Fenway Park in Boston, Massachusetts, USA, on 21 July 2010.	Fenway Football Challenge	association football
+sport	Arik Shivek (Hebrew: אריק שיבק‎) is an Israeli basketball coach.	Arik Shivek	basketball
+sport	Mary Ewing Outerbridge (February 16, 1852 -- May 3, 1886) was an American woman who imported the lawn game tennis to the United States from Bermuda.	Mary Ewing Outerbridge	tennis
+sport	Radoslav Peković (Serbian Cyrillic: Радослав Пековић, born 23 March 1994) is a Serbian-Slovenian professional basketball player who currently plays for Tamiš.	Radoslav Peković	basketball
+sport	Malcolm Dunford (born 10 January 1963) is a former successful New Zealand association football player who frequently represented his country in the 1980s and 90s.	Malcolm Dunford	association football
+sport	Borbála Tóth Harsányi (born August 8, 1946 in Debrecen) is a former Hungarian handball and Olympic medalist She has a younger sister, Katalin Tóth Harsányi, who was also a Hungarian international handball player.	Borbála Tóth Harsányi	handball
+sport	Asım Pars (born Asim Paščanović; 1 April 1976) is a Bosnian-born Turkish professional basketball player.	Asım Pars	basketball
+sport	Stuart Barnes (born 22 November 1962 in Grays, Essex) is a former English rugby union footballer, and now rugby commentator for Sky Sports.	Stuart Barnes	rugby union
+sport	Cody Prewitt (born December 31, 1992) is an American football safety.	Cody Prewitt	American football
+sport	Sopiko Guramishvili (Georgian: სოფიკო გურამიშვილი; born 1 January 1991 in Tbilisi) is a Georgian chess player.	Sopiko Guramishvili	chess
+sport	The Israeli National Badminton Championships is a tournament organized to crown the best badminton players in Israel.	Israeli National Badminton Championships	badminton
+sport	Yvon Pedneault is a French Canadian sports journalist and television and radio broadcaster from Chicoutimi, Quebec who is known for his coverage of ice hockey.	Yvon Pedneault	ice hockey
+sport	Scott Wastney (born 1970, New Zealand) is a chess FIDE Master (FM).	Scott Wastney	chess
+sport	Henry Wilmore is an American former basketball player who is most known for being an National Collegiate Athletic Association (NCAA) All-American in 1972 while playing for the Michigan Wolverines.	Henry Wilmore	basketball
+sport	Mark Shanks (born 19 May 1959 in Airdrie) is a Scottish former association football player and manager.	Mark Shanks	association football
+sport	The 1999 ATP Tour World Championships (also known for the doubles event as the Phoenix ATP Tour World Doubles Championship for sponsorship reasons) was a tennis tournament played on indoor carpet courts.	1999 ATP Tour World Championships	tennis
+sport	Stade Plabennécois Football (Breton: Plabenneg; commonly referred to as simply Plabennec) is a French association football club based in the commune of Plabennec.	Stade Plabennécois	association football
+sport	Grob's Attack is an unconventional chess opening where White immediately moves the king knight's pawn two squares ahead: 1.	Grob's Attack	chess
+sport	The Los Angeles Rams are a professional American football team based in the Los Angeles metropolitan area.	Los Angeles Rams	American football
+sport	The St. Catharines Saints was a minor league ice hockey team in St. Catharines, Ontario.	St. Catharines Saints	ice hockey
+sport	Simon Dahl (born February 6, 1975 in Skövde) is a beach volleyball player from Sweden, who competed in two consecutive Summer Olympics for his native country, starting in 2000.	Simon Dahl	beach volleyball
+sport	Sebastián Valle Velásquez (born July 24, 1990) is a Mexican professional baseball player in the New York Yankees organization.	Sebastián Valle	baseball
+sport	Brett Swenson (born February 10, 1988) is a former American football placekicker.	Brett Swenson	American football
+sport	Gaioz Nigalidze (Georgian გაიოზ ნიგალიძე; born April 24, 1989) is a Georgian chess player and International Master who was Georgian Chess Champion in 2013 and 2014.	Gaioz Nigalidze	chess
+sport	The Canadian Women's Hockey League (CWHL) is one of two major women's ice hockey leagues in Canada, the other being the Western Women's Hockey League.	Canadian Women's Hockey League	ice hockey
+sport	Johan Jüngling, born 1977, is a Swedish former squash player, representing Växjö SK and living in Jönköping.	Johan Jüngling	squash
+sport	The 2011 BMW Open (also known as The BMW Open by FWU Takaful 2011 for sponsorship reasons) was a tennis tournament played on outdoor clay courts.	2011 BMW Open	tennis
+sport	Earvin N'Gapeth (born 12 February 1991) is a French volleyball player, a member of France men's national volleyball team and Italian club DHL Modena Volley, 2015 European Champion, a gold medalist of the 2015 World League, French Champion (2010).	Earvin N'Gapeth	volleyball
+sport	Slavko Goluža (born 17 September 1971) is a retired Croatian handball player.	Slavko Goluža	handball
+sport	Park Joo-bong (Hangul: 박주봉, Hanja: 朴柱奉) (born December 5, 1964 in Imsil, Jeollabuk-do) is a former badminton player from South Korea who excelled from the early 1980s through the mid-1990s.	Park Joo-bong	badminton
+sport	The Asian Cup Winners' Cup was an association football competition run by the Asian Football Confederation (AFC).	Asian Cup Winners' Cup	association football
+sport	Fencibles United AFC is a semi-professional association football (soccer) club and one of the largest soccer clubs in New Zealand.	Fencibles United	association football
+sport	Georges de la Chapelle (16 July 1868 -- 27 August 1923) was a French tennis player.	Georges de la Chapelle	tennis
+sport	Tuncay Çalışkan (born August 9, 1977 in Söke, Aydın, Turkey) is a Turkish-born Austrian taekwondo practitioner, who competed in the men's featherweight category.	Tuncay Çalışkan	taekwondo
+sport	Jessica Steck (born 6 August 1978, in Bloemfontein) is a South African tennis player, active from 1996 to 2003.	Jessica Steck	tennis
+sport	Lincoln DeWitt (born on April 24, 1967) is an American skeleton racer who competed from 1997 to 2004.	Lincoln DeWitt	skeleton
+sport	The Valparaiso Crusaders football program is the intercollegiate American football team for Valparaiso University located in the U.S. state of Indiana.	Valparaiso Crusaders football	American football
+sport	Courtney Paris (born September 21, 1987) is an American basketball player born in San Jose, California.	Courtney Paris	basketball
+sport	The Army Rugby Union (ARU) is the governing body for rugby union in the British Army and a constituent body of the Rugby Football Union (RFU).	Army Rugby Union	rugby union
+sport	Georgios Tsiaras (alternate spelling: Giorgos Tsiaras) (born May 4, 1982) is a Greek professional basketball player who plays for Aries Trikala of the Greek Basket League.	Georgios Tsiaras	basketball
+sport	The 2012 County Championship season, known as the LV= County Championship for sponsorship reasons, was the 113th cricket County Championship season.	2012 County Championship	cricket
+sport	Dmitry Vorobyov (Russian: Дмитрий Воробьёв; born October 18, 1985 in Tolyatti) is Russian professional ice hockey player.	Dmitry Vorobyov	ice hockey
+sport	Paul W. Barry, a.k.a. Uncle Bill, was an American polo player.	Paul W. Barry	polo
+sport	KB Peja is a professional basketball club based in Kosova.	KB Peja	basketball
+sport	The 1999 Sybase Open was a men's tennis tournament played on indoor hard courts at the San Jose Arena in San Jose, California in the United States and was part of the ATP World Series of the 1999 ATP Tour.	1999 Sybase Open	tennis	tennis
+sport	Saint-Avertin Sports Football is a French association football club founded in 1924.	Saint-Avertin Sports	association football
+sport	Hadia Hosny El Said (born 30 July 1988 in Cairo) is an Egyptian badminton player playing in the London 2012 Olympics.	Hadia Hosny El Said	badminton
+sport	Matt McIlvane (born November 2, 1985 in Naperville, Illinois) is an American retired professional ice hockey player, who is now working as a coach.	Matt McIlvane	ice hockey
+sport	The Saginaw Spirit is a major junior ice hockey team based in Saginaw, Michigan.	Saginaw Spirit	ice hockey
+sport	Lovro Mazalin (born 28 June 1997) is a Croatian professional basketball player, who currently plays as a swingman for Cedevita of the Croatian League.	Lovro Mazalin	basketball
+sport	The FIS Ski Jumping World Cup is the world's highest level of ski jumping competition.	FIS Ski Jumping World Cup	ski jumping
+sport	The International Weightlifting Federation (IWF), headquartered in Budapest, is the international governing body for the sport of Olympic weightlifting.	International Weightlifting Federation	weightlifting
+sport	Vigor Bovolenta (30 May 1974 -- 24 March 2012) was a volleyball player from Italy.	Vigor Bovolenta	volleyball
+sport	The Traktor Ice Hockey Club, also known as HC Traktor (Russian: Трактор) commonly Traktor Chelyabinsk, is a professional ice hockey team based in Chelyabinsk, Russia.	Traktor Chelyabinsk	ice hockey
+sport	Jeremy Ormskerk (born December 17, 1982 in Amsterdam) is a Dutch basketball player for Maxxcom BSW in the Dutch Basketball League.	Jeremy Ormskerk	basketball
+sport	The 2009 Tri Nations Series was the fourteenth annual Tri Nations rugby union series between the national rugby union teams of New Zealand, Australia and South Africa, respectively nicknamed the All Blacks, Wallabies, and Springboks.	2009 Tri Nations Series	rugby union
+sport	Julien Brouillette (born December 5, 1986) is a Canadian professional ice hockey defenseman who is currently under contract with Karlskrona HK of the Swedish Hockey League (SHL).	Julien Brouillette	ice hockey
+sport	Sammy Giammalva Jr. (born March 24, 1963 in Houston, Texas), is a former professional tennis player from the United States.	Sammy Giammalva Jr.	tennis
+sport	The Warilla-Lake South Gorillas (or sometimes simplified to Warilla Gorillas) are an Australian rugby league football team based in Lake Illawarra, a coastal town of the Illawarra region.	Warilla-Lake South Gorillas	rugby league
+sport	Basket Napoli was an Italian professional basketball club based Naples, Campania.	Basket Napoli	basketball
+sport	The Pittsburgh Sledgehammers are a rugby league football team based in the Pittsburgh area.	Pittsburgh Sledgehammers	rugby league
+voice type	Bernabé Martí (born 14 November 1928) is a Spanish Aragonese operatic tenor.	Bernabé Martí	tenor
+voice type	Gustav Neidlinger (March 21, 1910 -- December 26, 1991) was a German bass-baritone, who was most famous for playing Wagner's ``howling-and-spitting'' villains.	Gustav Neidlinger	baritone
+voice type	Aureliano Pertile (9 November 1885, Montagnana - 11 January 1952, Milan) was an Italian lyric-dramatic tenor.	Aureliano Pertile	tenor
+voice type	Mostyn Thomas born Thomas James Thomas (January 14, 1896 - August 17, 1984) was a Welsh operatic baritone, prominent in the first half of the 20th century.	Mostyn Thomas	baritone
+voice type	Armando Chin Yong (simplified Chinese: 陈容; traditional Chinese: 陳容) (6 July 1958 -- 2 February 2011), also known as Chen Rong in Mandarin Chinese pronunciation, was a Malaysian opera singer, the only tenor with an international reputation forged in European and Asian opera houses and concert halls.	Armando Chin Yong	tenor
+voice type	Jia Ruhan (贾茹涵) is a Chinese soprano who performs in plays, as well as in opera, musicals, films, and solo recitals.	Jia Ruhan	soprano
+voice type	Giovanni Battista Rubini (7 April 1794 -- 3 March 1854) was an Italian tenor, as famous in his time as Enrico Caruso in a later day.	Giovanni Battista Rubini	tenor
+voice type	Brenda Miller Cooper (28 February 1916, Cleveland, Ohio -- 3 April 2008, Baltimore, Maryland) was an American operatic soprano.	Brenda Miller Cooper	soprano
+voice type	Nicky Spence (born 1983) is a Scottish tenor performing in opera, oratorio and concerts.	Nicky Spence	tenor
+voice type	Sir James Steuart Wilson (21 July 1889 -- 18 December 1966) was an English singer, known for tenor roles in oratorios and concerts in the first half of the 20th century.	Steuart Wilson	tenor
+voice type	Gino Sinimberghi (August 26, 1913 - December 30, 1996) was a tenor opera singer from Rome, Italy.	Gino Sinimberghi	tenor
+voice type	Margherita de L'Epine (also Francesa Margherita de l'Épine; circa 1680 -- 8 August 1746, London) was an Italian soprano of the Baroque era.	Margherita de L'Epine	soprano
+voice type	Félia Litvinne (October 11, 1860, Saint Petersburg -- October 12, 1936, Paris) was a Russian-born, French-based dramatic soprano.	Félia Litvinne	soprano
+voice type	Italo Campanini (June 30, 1845 -- November 14, 1896) was a leading Italian operatic tenor, whose career reached its height in London in the 1870s and in New York in the 1880s and 1890s.	Italo Campanini	tenor
+voice type	Claire Dux (2 August 1885 -- 8 October 1967), was an operatic and concert soprano with a successful career in continental Europe, England, and the United States.	Claire Dux	soprano
+voice type	Markus Flaig (born 1971) is a German bass-baritone.	Markus Flaig	bass
+voice type	Madeleine Marie Robin (French pronunciation: ​(madlɛn maʁi mado ʁobɛ̃); 29 December 1918 -- 10 December 1960), generally known as Mado Robin, was a French coloratura soprano.	Mado Robin	coloratura soprano
+voice type	Michael Best is an American operatic tenor and voice teacher.	Michael Best	tenor
+voice type	Giulio Neri (May 21, 1909, Torrita di Siena - April 21, 1958, Rome) was an Italian operatic bass, particularly associated with the Italian repertory.	Giulio Neri	bass
+voice type	Daniel Quaiser (born June 7, 1975 in Adliswil, Switzerland) is a Swiss musician und singer (baritone).	Daniel Quaiser	baritone
+voice type	Michel Laplénie is a French tenor, and conductor of the baroque choral ensemble Ensemble Sagittarius (founded 1986) and other ensembles.	Michel Laplénie	tenor
+voice type	Anna Pollak OBE (1 May 1912 -- 28 November 1996) was an English opera singer who sang leading mezzo-soprano roles primarily with the Sadlers Wells Opera Company and the English Opera Group.	Anna Pollak	mezzo-soprano
+voice type	Othalie Graham is a Canadian American dramatic soprano, whose operatic roles to date include the title roles of Puccini's Turandot and Tosca, Verdi's Aida, and Strauss's Ariadne Aux Naxos.	Othalie Graham	soprano
+voice type	Tancredi Pasero (11 January 1893, Turin - 17 February 1983, Milan) was an Italian bass who enjoyed a long and distinguished singing career in his native country and abroad.	Tancredi Pasero	bass
+voice type	Ernest van Dyck (2 April 1861 -- 31 August 1923) was a Belgian dramatic tenor who was closely identified with the Wagnerian repertoire.	Ernest van Dyck	tenor
+voice type	Adolf Krössing (5 January 1848 - 28 January 1933) was a German Bohemian operatic tenor, stage director, and actor of both the stage and film.	Adolf Krössing	tenor
+voice type	Maria di Gerlando (November 23, 1925 -- May 24, 2010) was an American operatic soprano and voice teacher who was a leading performer at the New York City Opera from 1953 to 1969.	Maria di Gerlando	soprano
+voice type	Júlia Várady (Hungarian: Várady Júlia, born Júlia Tözsér, September 1, 1941) is a German soprano of Hungarian origin born in Nagyvárad, Hungary (today Oradea, Romania), who started out as a mezzo-soprano.	Júlia Várady	soprano
+voice type	Anna Renzi (c. 1620 -- after 1661) was an Italian soprano renowned for her acting ability as well as her voice, who has been described as the first diva in the history of opera.	Anna Renzi	soprano
+voice type	Evelyn Mandac (born August 16, 1945 in Malaybalay) is a soprano opera singer, orchestra soloist, recitalist and voice teacher from the Philippines.	Evelyn Mandac	soprano
+voice type	Magda László (1919 -- 2 August 2002) was a Hungarian operatic soprano particularly associated with 20th-century operas.	Magda László	soprano
+voice type	Gigliola Frazzoni (born February 22, 1927), is an Italian operatic soprano.	Gigliola Frazzoni	soprano
+voice type	Anton Sistermans (5 August 1865 -- 18 March 1926) was a Dutch baritone during the late 19th-early 20th century.	Anton Sistermans	baritone

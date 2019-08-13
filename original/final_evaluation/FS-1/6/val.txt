@@ -1,0 +1,625 @@
+airline hub	Air China's flight operations are based in Beijing Capital International Airport.	Air China	Beijing Capital International Airport
+airline hub	Air Busan started operations on October 27, 2008, using Gimhae International Airport as a hub.	Air Busan	Gimhae International Airport
+airline hub	Private Wings Flugcharter GmbH is a German airline, that was founded in 1991 and operates chartered corporate, cargo and air ambulance services out of Berlin Schönefeld Airport.	Private Wings	Berlin Schönefeld Airport
+airline hub	Aerovías is a defunct private passenger and cargo airline formerly based in Guatemala La Aurora International Airport founded by Jimmy K Hall.	Aerovías	La Aurora International Airport
+airline hub	Lufthansa's secondary hub is Munich Airport.	Lufthansa	Munich Airport
+airline hub	In January 2004, WestJet announced that it was moving the focus of its Eastern operations from Hamilton to Toronto the following April, fully moving into the lucrative Toronto-Ottawa-Montreal triangle and tripling the total number of its flights out of Toronto Pearson International Airport.	WestJet	Toronto Pearson International Airport
+airline hub	Global Supply Systems (GSS) was a British cargo airline based at London Stansted Airport.	Global Supply Systems	London Stansted Airport
+airline hub	British Mediterranean Airways Limited, trading as BMED, was an airline with operations from London Heathrow Airport in England.	British Mediterranean Airways	Heathrow Airport
+airline hub	Rotana Jet (Arabic: روتانا جت‎) is an airline with its corporate head office at Al Bateen Executive Airport.	Rotana Jet	Al Bateen Executive Airport
+airline hub	Latavio (Latvian Airlines) was an airline based in Riga International Airport (RIX), Riga, Latvia.	Latavio	Riga International Airport
+airline hub	Delta Air Lines, Inc. (``Delta''; NYSE: DAL) is a major American airline, with its headquarters and largest hub at Hartsfield-- Jackson Atlanta International Airport in Atlanta, Georgia.	Delta Air Lines	Hartsfield-- Jackson Atlanta International Airport
+airline hub	Icaro Air was an airline based in Quito, Ecuador.	Icaro Air	Quito
+airline hub	LLC Air Bashkortostan (Russian: ООО ``Авиакомпания ``Башкортостан'') was an airline based in Ufa, Bashkortostan, Russia. It operated scheduled flights and charters between its base at Ufa International Airport and Moscow Domodedovo Airport on flights operated by VIM Airlines with their aircraft.	Air Bashkortostan	Ufa International Airport
+airline hub	Halcyonair, S.A. was an airline with its head office in Amílcar Cabral International Airport in Espargos, Sal, Cape Verde.	Halcyonair	Amílcar Cabral International Airport
+airline hub	Star Perú, formerly called Star Up, is an airline based at Jorge Chávez International Airport in Lima, Peru.	Star Perú	Jorge Chávez International Airport
+airline hub	Bergen Air Transport AS is an airline based at Bergen Airport, Flesland in Norway.	Bergen Air Transport	Bergen Airport
+airline hub	I-Fly is a Russian charter airline based in Moscow operating mainly out of Vnukovo International Airport.	I-Fly	Vnukovo International Airport
+airline hub	Aloha Air Cargo is an American cargo airline headquartered in Honolulu, Hawaii, operating from a hub at Honolulu International Airport.	Aloha Air Cargo	Honolulu International Airport
+airline hub	Loong Air (simplified Chinese: 长龙航空; traditional Chinese: 長龍航空; pinyin: Chánglóng Hángkōng) is a Chinese airline with its headquarters in the Loong Air Office Building on the property of Hangzhou Xiaoshan International Airport in Xiaoshan District, Hangzhou, Zhejiang.	Loong Air	Hangzhou Xiaoshan International Airport
+airline hub	On 27 January 2014, Ryanair moved into their new €20m, 100,000 sq ft Dublin Head Office in Airside Business Park, having outgrown their previous office based within Dublin Airport.	Ryanair	Dublin Airport
+airline hub	Air Alsie is a Danish charter airline headquartered in Sønderborg and based at Sønderborg Airport, which operates business jet services.	Air Alsie	Sønderborg Airport
+airline hub	Central Charter de Colombia is a charter airline based at El Dorado International Airport in Bogotá, Colombia.	Central Charter de Colombia	El Dorado International Airport
+based on	Power Rangers Wild Force is an American television series and the tenth season and anniversary of the Power Rangers franchise, based on the Super Sentai series Hyakujuu Sentai Gaoranger, which itself was the 25th anniversary of Super Sentai.	Power Rangers Wild Force	Hyakujuu Sentai Gaoranger
+based on	The 13th Warrior is a 1999 American historical fiction action film based on the novel Eaters of the Dead by Michael Crichton and is a loose retelling of the tale of Beowulf.	The 13th Warrior	Eaters of the Dead
+based on	Paradise and Hell is the left and right panels of a minor diptych by Hieronymus Bosch based on The Haywain Triptych.	Paradise and Hell	The Haywain Triptych
+based on	A Master Builder is a 2013 film directed by Jonathan Demme, based on Henrik Ibsen's play The Master Builder.	A Master Builder	The Master Builder
+based on	6-18-67 is a short quasi-documentary film by George Lucas regarding the making of the 1969 Columbia film, Mackenna's Gold.	6-18-67	Mackenna's Gold
+based on	A Rough Passage is a 1922 Australian silent film directed by Franklyn Barrett based on the novel by Arthur Wright.	A Rough Passage	Arthur Wright
+based on	Vi på Saltkråkan (We on Seacrow Island) is a Swedish TV series in 13 25-minute episodes from 1964.	Vi på Saltkråkan	Seacrow Island
+based on	A Man There Was (Swedish: Terje Vigen) is a 1917 Swedish drama directed by Victor Sjöström, based on a poem of the same title by Henrik Ibsen.	A Man There Was	Terje Vigen
+based on	Apache Forrest is a web-publishing framework based on Apache Cocoon.	Apache Forrest	Apache Cocoon
+based on	The Boeing KC-767 is a military aerial refueling and strategic transport aircraft developed from the Boeing 767-200ER.	Boeing KC-767	Boeing 767-200ER
+based on	The Country Bears is a 2002 American family musical comedy film, directed by Peter Hastings, produced by Walt Disney Pictures, and based on the famous Disney attraction Country Bear Jamboree.	The Country Bears	Country Bear Jamboree
+based on	In cryptography, RC6 (Rivest cipher 6) is a symmetric key block cipher derived from RC5.	RC6	RC5
+based on	December Boys is an Australian 2007 drama film directed by Rod Hardy and written by Marc Rosenberg and adapted from the 1963 novel of the same name by Michael Noonan.	December Boys	Michael Noonan
+based on	Clifford's Really Big Movie is a 2004 American children's animated film loosely based on the book series, Clifford the Big Red Dog by Norman Bridwell and more based on the classic PBS Kids TV series adapted from it.	Clifford's Really Big Movie	Clifford the Big Red Dog
+based on	It was an adaptation of the 1972 novel End Play by Russell Braddon.	End Play	Russell Braddon
+based on	Cutter's Way (also known as Cutter and Bone) is a 1981 thriller directed by Ivan Passer.	Cutter's Way	Cutter and Bone
+based on	La ruleta de la fortuna or La ruleta de la suerte is the Spanish version of Wheel of Fortune.	La ruleta de la fortuna	Wheel of Fortune
+based on	Maqbool (Hindi: मक़बूल, Urdu: مقبُول) is a 2003 Indian crime drama film directed by Vishal Bhardwaj and starring Pankaj Kapoor, Irrfan Khan, Tabu and Masumeh Makhija in an adaptation of the play Macbeth by Shakespeare.	Maqbool	Macbeth
+based on	The DCE Distributed File System (DCE/DFS) is the remote file access protocol used with the Distributed Computing Environment.	DCE Distributed File System	Distributed Computing Environment
+based on	Pechino Express is the Italian TV version of the reality show Peking Express created by Ludo Poppe.	Pechino Express	Peking Express
+based on	Adversary in the House (1947) is a biographical novel based on the life of Eugene V. Debs and of his wife Kate, who was opposed to socialism.	Adversary in the House	Eugene V. Debs
+based on	In cryptography, DEAL (Data Encryption Algorithm with Larger blocks) is a symmetric block cipher derived from the Data Encryption Standard (DES).	DEAL	Data Encryption Standard
+based on	It is inspired by Pieter Bruegel the Elder's 1564 painting The Procession to Calvary, and based on Michael Francis Gibson's book The Mill and the Cross.	The Mill and the Cross	The Procession to Calvary
+based on	Snacka om nyheter was the Swedish version of the BBC series Have I Got News for You, broadcast by Sveriges Television.	Snacka om nyheter	Have I Got News for You
+based on	The Animated Portable Network Graphics (APNG) file format is an extension to the Portable Network Graphics (PNG) specification.	APNG	Portable Network Graphics
+based on	Vector Markup Language (VML) is an XML-based file format for two-dimensional vector graphics.	Vector Markup Language	XML
+based on	Timsort is a hybrid stable sorting algorithm, derived from merge sort and insertion sort, designed to perform well on many kinds of real-world data.	Timsort	merge sort	insertion sort
+based on	The film's title is taken from William Craig's nonfiction book Enemy at the Gates:	Enemy at the Gates	William Craig
+based on	Le Corsaire is a ballet typically presented in three acts, with a libretto originally created by Jules-Henri Vernoy de Saint-Georges loosely based on the poem The Corsair by Lord Byron.	Le Corsaire	The Corsair
+based on	Slash'EM (Super Lotsa Added Stuff Hack - Extended Magic) is a variant of the roguelike game NetHack that offers extra features, monsters, and items.	Slash'EM	NetHack
+brother	Henry Thoby Prinsep was born there on 15 July 1793, brother to James Prinsep and the barrister Charles Robert Prinsep.	Henry Thoby Prinsep	James Prinsep
+brother	As Sima Yi's youngest son, Sima Lun had a number of minor titles during the Cao Wei regencies of his brothers Sima Shi and Sima Zhao.	Sima Lun	Sima Shi	Sima Zhao
+brother	George Mason IV's mother, Ann Thomson Mason, was the daughter of a former Attorney General of Virginia who had immigrated from London, and was of a Yorkshire family.	George Mason	Thomson Mason
+brother	Ahmose-Nefertari was born in Thebes, likely during the reign of Senakhtenre Ahmose (not Tao--as this king's nomen has now been discovered to be 'Ahmose' like that of his grandson Ahmose I) .	Ahmose-Nefertari	Ahmose I
+brother	Martin Pizzarelli is a jazz double-bassist who is best known for his work with his brother John Pizzarelli, appearing on many of his albums in a swing trio that includes pianists Ray Kennedy and Larry Fuller.	Martin Pizzarelli	John Pizzarelli
+brother	Georgette Leblanc (8 February 1869 Rouen, -- 27 October 1941 Le Cannet, near Cannes) was a French operatic soprano, actress, author, and the sister of novelist Maurice Leblanc.	Georgette Leblanc	Maurice Leblanc
+brother	Kyansittha ascended to the Pagan throne in 1084 after suppressing a major Mon rebellion that killed King Sawlu.	Kyansittha	Sawlu
+brother	Maria Abdy was born in London, the daughter and first-born child of Richard Smith, a solicitor, and Maria Smith, sister to James and Horace Smith, authors of the book of parodies Rejected Addresses (1812).	Maria Abdy	Horace Smith
+brother	Æthelflæd's date of birth is not known but it was probably sometime between the marriage of her parents in 868 and birth of her brother Edward the Elder, whose own date of birth is not known but presumably took place before 878.	Æthelflæd	Edward the Elder
+brother	Adrianos Komnenos (Greek: Ἁδριανὸς Κομνηνός), sometimes Anglicized as Adrian or Latinized as Adrianus Comnenus, was a Byzantine aristocrat and general, and a younger brother of the Byzantine emperor Alexios I Komnenos (r. 1081--1118).	Adrianos Komnenos	Alexios I Komnenos
+brother	Bartolomeo II della Scala (died 12 July 1381) was lord of Verona from 1375 until his death, together with his brother Antonio I della Scala.	Bartolomeo II della Scala	Antonio I della Scala
+brother	Iuenka's brother was Wetka and he also had one sister.	Iuenka	Wetka
+brother	Wan Guchan joined his twin brother Wan Laiming in most of the animation projects and experimentations.	Wan Guchan	Wan Laiming
+brother	Marcel Riesz was born in Győr, Hungary (Austria-Hungary); he was the younger brother of the mathematician Frigyes Riesz.	Marcel Riesz	Frigyes Riesz
+brother	Eudamidas I (Greek: Εὐδαμίδας, 330 -- c. 300 BC) was a Spartan king of the Eurypontid line, son of Archidamus III and brother of Agis III, whom he succeeded.	Eudamidas I	Agis III
+brother	Cornell Capa (April 10, 1918 -- May 23, 2008) was a Hungarian American photographer, member of Magnum Photos, and photo curator, and the younger brother of photo-journalist and war photographer Robert Capa.	Cornell Capa	Robert Capa
+brother	According to Samuel Gobat, who met with Gigar (whom he called ``Guigar'') while a missionary in Ethiopia, Gigar had been a monk for many years, when on the death of his brother Iyoas II he was proclaimed Emperor.	Gigar	Iyoas II
+brother	Jesse James had two full siblings: his older brother, Alexander Franklin ``Frank'' James, and a younger sister, Susan Lavenia James.	Jesse James	Frank'' James
+brother	From a document by his brother Vytautas the Great from 1401 it is known that Vaidotas and his brother Tautvilas Kęstutaitis were given to rule Navahrudak equally.	Vaidotas	Vytautas	Tautvilas Kęstutaitis
+brother	As a reward for his duties, Sun Ben was made Grand Administrator of Yuzhang, while Sun Fu was sent to Luling.	Sun Ben	Sun Fu
+brother	Princess Tenagnework settled in her second exile, in the Virginia suburbs of Washington D.C. to be near her only surviving sibling, Amha Selassie (Crown Prince Asfaw Wossen).	Princess Tenagnework	Amha Selassie
+brother	Hake, Haki or Haco, the brother of Hagbard, was a famous Scandinavian sea-king, in Norse mythology.	Haki	Hagbard
+brother	Numerian (Latin: Marcus Aurelius Numerius Numerianus Augustus; died November 284) was Roman Emperor from 282 to 284 with his older brother Carinus.	Numerian	Carinus
+brother	Espen Agdestein is the brother of Carlsen's former coach, Simen Agdestein.	Espen Agdestein	Simen Agdestein
+brother	Jacques Joseph Champollion-Figeac (5 October 1778 -- 9 May 1867) was a French archaeologist, elder brother of Jean-François Champollion (decipherer of the Rosetta Stone).	Jacques Joseph Champollion-Figeac	Jean-François Champollion
+brother	Born on 11 April 145 at Leptis Magna (in present-day Libya) as the son of Publius Septimius Geta and Fulvia Pia, Septimius Severus came from a wealthy and distinguished family of equestrian rank.	Septimius Severus	Publius Septimius Geta
+brother	Repeated Danish incursions over the years gradually weakened Mercia militarily and in 868 Burgred was forced to call upon Æthelswith's brother King Æthelred of Wessex to assist him in confronting an entrenched Danish army at Nottingham.	Æthelswith	Æthelred
+brother	Laura Allende (September 3, 1911 -- May 23, 1981) was a Chilean politician, a member of the lower chamber of parliament and sister of former president of Chile Salvador Allende.	Laura Allende	Salvador Allende
+brother	When Zheng Jing died in 1681, the official Feng Xifan allied with Zheng Jing's cousin to launch a coup to kill Zheng Kezang (鄭克𡒉), Zheng Jing's eldest son, and install a 12-year-old Zheng Keshuang on the throne of Tungning.	Zheng Keshuang	Zheng Kezang
+brother	Smendes III was a High Priest of Amun at Thebes during the reign of pharaoh Takelot I of the 22nd Dynasty.	Smendes III	Takelot I
+brother	Alexander de Brus (c. 1285 -- 9 February 1307), Dean of Glasgow, was a younger brother of King Robert I of Scotland, who supported his brother in the struggle for the crown of Scotland.	Alexander de Brus	Robert I of Scotland
+brother	Hedvig Elizabeth von Biron of Courland (1727--1797), was a princess of Courland and a Russian courtier, daughter of the Duke of Courland, Ernst Johann von Biron, and Benigna Gottlieb von Trotha gt Treyden, and the sister of Peter von Biron.	Hedvig Elizabeth von Biron	Peter von Biron
+brother	Konbaung forces led by Hsinbyushin and his elder brother Naungdawgyi were badly defeated at present-day Myingyan District.	Hsinbyushin	Naungdawgyi
+brother	In 221, a year after Cao Jun's elder half-brother Cao Pi ended the Han dynasty and established the state of Cao Wei, Cao Jun was promoted from a marquis to a duke.	Cao Jun	Cao Pi
+brother	Johann Jacob Bach (or Johann Jakob) (baptised 21 February (O.S. 11 February) 1682 -- 16 April 1722) was a German musician, composer and an older brother of Johann Sebastian Bach.	Johann Jacob Bach	Johann Sebastian Bach
+brother	It was later in the temple of Apollo that Polyxena's brothers, Paris and Deiphobus, ambushed Achilles and shot him in the heel with an arrow, supposedly guided by the hand of Apollo himself, steeped in poison.	Polyxena	Paris
+brother	Chagatai Khan was considered hot-headed and somewhat temperamental by his relatives, because of his attitude of non-acceptance of Jochi as Great Khan.	Chagatai Khan	Jochi
+brother	In chapter 75, Meili is listed among names of the Æsir and as a son of Odin (between the god Baldr and the god Víðarr).	Meili	Víðarr
+brother	Yelü Lihu was Lady Shulü's youngest son, although Yelü Abaoji would later have a younger son, Yelü Yaliguo (耶律牙里果), by a Lady Xiao.	Yelü Lihu	Yelü Yaliguo
+brother	Potone (Greek: Πωτώνη Pōtónē or Ποτώνη Potónē; born before 427 BC) daughter of Ariston and Perictione, was Plato's older sister.	Potone	Plato
+brother	Shigeri Sada (born 13 December 1954) is a former Japanese football player.He is the younger brother of singer Masashi Sada.	Shigeri Sada	Masashi Sada
+brother	While the Catholic Encyclopedia (1911) and the Encyclopedia of Canada attribute the founding of the Sisters of St. Joseph to Jean Paul Médaille, at least three congregations of sisters identify his older brother Jean Pierre Médaille (1610-1669) as founder of the Order.	Jean Paul Médaille	Jean Pierre Médaille
+brother	Károly Salbeck of Petris (Galați Moldova, today Romania 17 November 1725 -- Lőcse, Hungary (today part of Slovakia, 15 June 1787) was a doctor of theology, bishop of Szepes County, brother of Ferenc Salbeck and Mihály Salbeck.	Károly Salbeck	Ferenc Salbeck	Mihály Salbeck
+brother	Jocelyn Toynbee was the daughter of Harry Valpy Toynbee, secretary of the Charity Organization Society, and his wife Sarah Edith Marshall (1859--1939); her brother Arnold J. Toynbee was a notable universal historian.	Jocelyn Toynbee	Arnold J. Toynbee
+brother	Some modern Georgians also claim descent from Tubal, Togarmah and Meshech; a Georgian historian, Ivane Javakhishvili, considered Tabal, Tubal, Jabal and Jubal to be ancient Georgian tribal designations.	Tubal	Meshech
+brother	In 1627, Jirgalang took part in the first Manchu campaign against Korea under the command of his older brother Amin.	Jirgalang	Amin
+brother	Alfons Goppel was born in 1905 as one of nine children of the baker Ludwig Goppel and his wife Barbara.	Alfons Goppel	Ludwig Goppel
+brother	Markus Zberg (born June 27, 1974 in Altdorf, Uri) is a retired Swiss professional road bicycle racer; he is the younger brother of Beat Zberg.	Markus Zberg	Beat Zberg
+brother	Jan van Hoogstraten (1628--1654) was a Dutch Golden Age painter who died young in Vienna, where he was living with his older brother Samuel van Hoogstraten.	Jan van Hoogstraten	Samuel van Hoogstraten
+brother	Benedetto Marcello was the brother of Alessandro Marcello, also a notable composer.	Benedetto Marcello	Alessandro Marcello
+brother	Samuel Cooper (1609 -- 5 May 1672), sometimes spelt as Samuel Cowper, was an English miniature painter, and younger brother of Alexander Cooper.	Samuel Cooper	Alexander Cooper
+brother	Charles J. Stumar or Charles J. Stumer (28 August 1890 -- 29 June 1935) was a Hungarian-American cinematographer and brother of cinematographer John Stumar, who shot 110 English and German language films from 1917 until his death in a plane accident.	Charles J. Stumar	John Stumar
+brother	Elijah Blue Allman (born July 10, 1976), known professionally as P. Exeter Blue, is an American musician, the son of singer Cher and her second husband Gregg Allman, and half brother of Chaz Bono, Delilah Allman, Michael Allman, Layla Allman and Devon Allman.	Elijah Blue Allman	Chaz Bono
+brother	He was given the posthumous name Zhong Ding and was succeeded by his brother Wai Ren (外壬).	Zhong Ding	Wai Ren
+brother	Born in the Aisin Gioro clan, the imperial clan of the Qing dynasty, Pujie was the younger brother of Puyi, the Last Emperor.	Pujie	Puyi
+conferred by	The Norwegian Booksellers' Prize is a literature prize was awarded by the Norwegian Booksellers Association.	Norwegian Booksellers' Prize	Norwegian Booksellers Association
+conferred by	The IEEE Edison Medal is presented by the Institute of Electrical and Electronics Engineers (IEEE) ``for a career of meritorious achievement in electrical science, electrical engineering or the electrical arts.''	IEEE Edison Medal	Institute of Electrical and Electronics Engineers
+conferred by	The Thomson Medal and Prize is an award which has been made biennially in even-numbered years since 2008 by the British Institute of Physics for ``distinguished research in atomic (including quantum optics) or molecular physics''.	Thomson Medal and Prize	Institute of Physics
+conferred by	Radiosportens Jerringpris is a prize established by Radiosporten, the sport section of Sveriges Radio, voted by its radio audience who choose the Swedish athlete or team that has made the best sport performance of the year..	Radiosportens Jerringpris	Sveriges Radio
+conferred by	The Henry Stommel Research Award is awarded by the American Meteorological Society to researchers in recognition of outstanding contributions to the advancement of the understanding of the dynamics and physics of the ocean.	Henry Stommel Research Award	American Meteorological Society
+conferred by	The Max Born Prize is a scientific prize awarded yearly by the German Physical Society (DPG) and the British Institute of Physics (IOP) in memory of the German physicist Max Born.	Max Born Prize	Institute of Physics
+conferred by	The Heineken Prizes for Arts and Sciences consist of eleven awards biannually bestowed by Royal Netherlands Academy of Arts and Sciences (KNAW).	Heineken Prizes	Royal Netherlands Academy of Arts and Sciences
+conferred by	Since 2001, the Gruber Prize in Cosmology has been co-sponsored by the International Astronomical Union.	Gruber Prize in Cosmology	International Astronomical Union
+conferred by	The Applied Catalysis Award is awarded by the Royal Society of Chemistry to individuals for ``creativity and excellence in novel approaches or use of catalysis in industry.''	Applied Catalysis Award	Royal Society of Chemistry
+conferred by	The Menéndez Pelayo International Prize has been awarded since 1987 by the Menéndez Pelayo International University (UIMP) with the objective of honoring those persons whose literary or scientific work has a humanistic orientation and application, in the tradition of the University's namesake Marcelino Menéndez y Pelayo.	Menéndez Pelayo International Prize	Menéndez Pelayo International University
+conferred by	Giuseppe Motta Medal is presented annually since 2004 by the Geneva Institute for Democracy and Development to the people from any country or region of the world for exceptional achievement in the promotion of peace and democracy, human rights and sustainable development.	Giuseppe Motta Medal	Geneva Institute for Democracy and Development
+conferred by	The ACM A.M. Turing Award is an annual prize given by the Association for Computing Machinery (ACM) to ``an individual selected for contributions of a technical nature made to the computing community''.	Turing Award	Association for Computing Machinery
+conferred by	The European Human Rights Prize, also known as the Council of Europe Human Rights Prize, was a human rights prize awarded by the Parliamentary Assembly of the Council of Europe in recognition of outstanding contributions to the cause of human rights as enshrined in the European Convention on Human Rights.	European Human Rights Prize	Parliamentary Assembly of the Council of Europe
+discoverer or inventor	1214 Richilde (1932 AA) is a Main-belt asteroid discovered on January 1, 1932, by Max Wolf at Heidelberg.	1214 Richilde	Max Wolf
+discoverer or inventor	Argo Navis is the only one of the 48 constellations listed by the 2nd century astronomer Ptolemy that is no longer officially recognized as a constellation.	Argo Navis	Ptolemy
+discoverer or inventor	33 Polyhymnia is a main belt asteroid that was discovered by French astronomer Jean Chacornac on October 28, 1854 and named after Polyhymnia, the Greek Muse of sacred hymns.	33 Polyhymnia	Jean Chacornac
+discoverer or inventor	176 Iduna is a large main-belt asteroid that was discovered by German-American astronomer Christian Heinrich Friedrich Peters on October 14, 1877, in Clinton, New York.	176 Iduna	Christian Heinrich Friedrich Peters
+discoverer or inventor	Makemake was discovered on March 31, 2005, by a team led by Michael E. Brown, and announced on July 29, 2005.	Makemake	Michael E. Brown
+discoverer or inventor	210 Isabella is a large and dark Main belt asteroid that was discovered by Johann Palisa on November 12, 1879 in Pola.	210 Isabella	Johann Palisa
+discoverer or inventor	Pluto was discovered by Clyde Tombaugh in 1930, and was originally considered the ninth planet from the Sun. After 1992, its status as a planet fell into question following the discovery of several objects of similar size in the Kuiper belt.	Pluto	Clyde Tombaugh
+discoverer or inventor	782 Montefiore is a minor planet orbiting the Sun that was discovered by Austrian astronomer Johann Palisa on March 18, 1914 and named for Clarice Sebag-Montefiore, wife of Alfons von Rothschild of Vienna.	782 Montefiore	Johann Palisa
+discoverer or inventor	880 Herba is a minor planet orbiting the Sun that was discovered by German astronomer Max Wolf on July 22, 1917 in Heidelberg.	880 Herba	Max Wolf
+discoverer or inventor	7345 Happer (1992 OF) is a Mars-crossing asteroid discovered on July 28, 1992, by Robert H. McNaught at Siding Spring.	7345 Happer	Robert H. McNaught
+discoverer or inventor	1494 Savo (1938 SJ) is a main-belt asteroid discovered on September 16, 1938, by Yrjö Väisälä in Turku.	1494 Savo	Yrjö Väisälä
+discoverer or inventor	275 Sapientia is a very large Main belt asteroid that was discovered by Johann Palisa on April 15, 1888 in Vienna.	275 Sapientia	Johann Palisa
+discoverer or inventor	89 Julia is a large main-belt asteroid that was discovered by French astronomer Édouard Stephan on August 6, 1866.	89 Julia	Édouard Stephan
+discoverer or inventor	793 Arizona is a minor planet orbiting the Sun that was discovered in 1907 by American businessman Percival Lowell.	793 Arizona	Percival Lowell
+discoverer or inventor	6489 Golevka is an Apollo, Mars-crosser, and Alinda asteroid discovered in 1991 by Eleanor F. Helin.	6489 Golevka	Eleanor F. Helin
+discoverer or inventor	The name Rusthawelia was kept (and discovery credited to Arend); the name 525 Adelaide was reused for the object 1908 EKa discovered October 21, 1908 by Joel Hastings Metcalf.	525 Adelaide	Joel Hastings Metcalf
+discoverer or inventor	Robert Stirling was a Scottish minister who invented the first practical example of a closed cycle air engine in 1816, and it was suggested by Fleeming Jenkin as early as 1884 that all such engines should therefore generically be called Stirling engines.	Stirling engine	Robert Stirling
+discoverer or inventor	376 Geometria is a main belt asteroid that was discovered by French astronomer Auguste Charlois on September 18, 1893 in Nice, France.	376 Geometria	Auguste Charlois
+discoverer or inventor	575 Renate is a minor planet orbiting the Sun which was discovered by German astronomer Max Wolf on September 19, 1905.	575 Renate	Max Wolf
+discoverer or inventor	564 Dudu is a minor planet orbiting the Sun. It was discovered May 9, 1905 by German astronomer Paul Götz at Heidelberg, and was named for a female character in the novel Thus Spoke Zarathustra by Friedrich Nietzsche.	564 Dudu	Paul Götz
+discoverer or inventor	103 Hera is a moderately large main-belt asteroid that was discovered by Canadian-American astronomer James Craig Watson on September 7, 1868, and named after Hera, queen and fifth in power of the Olympian gods in Greek mythology.	103 Hera	James Craig Watson
+discoverer or inventor	467 Laura (1901 FY) is Main-belt asteroid discovered on January 9, 1901 by Max Wolf at Heidelberg.	467 Laura	Max Wolf
+discoverer or inventor	Plutonium was first produced and isolated on December 14, 1940 by Dr. Glenn T. Seaborg, Joseph W. Kennedy, Edwin M. McMillan, and Arthur C. Wahl by deuteron bombardment of uranium-238 in the 60-inch cyclotron at the University of California, Berkeley.	Plutonium	Joseph W. Kennedy
+discoverer or inventor	Messier 99 was discovered by Pierre Méchain on March 17, 1781 along .	Messier 99	Pierre Méchain
+discoverer or inventor	409 Aspasia is a large main-belt asteroid that was discovered by French astronomer Auguste Charlois on December 9, 1895 from Nice.	409 Aspasia	Auguste Charlois
+discoverer or inventor	897 Lysistrata is a minor planet orbiting the Sun that was discovered by German astronomer Max Wolf on August 3, 1918.	897 Lysistrata	Max Wolf
+distributor	Mayhem in Monsterland was produced by Apex Computer Productions, who had previously made Creatures and Creatures 2, which featured Clyde Radcliffe as the main character.	Mayhem in Monsterland	Apex Computer Productions
+distributor	Chelsea Walls is a 2001 independent film directed by Ethan Hawke and released by Lions Gate Entertainment.	Chelsea Walls	Lions Gate Entertainment
+distributor	Dreams of a Life is a 2011 drama-documentary film, released by Dogwoof Pictures, directed by Carol Morley and starring Zawe Ashton.	Dreams of a Life	Dogwoof Pictures
+distributor	Prisoner of Her Past is a 2010 documentary film, produced by Kartemquin Films, that follows the journey of Chicago Tribune music critic Howard Reich as he travels to Europe to discover why his elderly mother, Sonia Reich, believes people are trying to kill her.	Prisoner of Her Past	Kartemquin Films
+distributor	Her Right to Live is a 1917 dramatic silent film released by the Vitagraph Studios.	Her Right to Live	Vitagraph Studios
+distributor	Columbia Pictures distributed the film, premiering Drylanders in Swift Current, then releasing across the Prairies, a couple of towns at a time.	Drylanders	Columbia Pictures
+distributor	Confidential Agent is a 1945 spy film starring Charles Boyer and Lauren Bacall, and made by Warner Bros. The movie was directed by Herman Shumlin and produced by Robert Buckner with Jack L. Warner as executive producer.	Confidential Agent	Warner Bros.
+distributor	In Windows 8, Minesweeper is not included by default, although an app version of Microsoft Minesweeper developed by Arkadium is available on Windows Store.	Microsoft Minesweeper	Windows Store
+distributor	Q.U.B.E. (Quick Understanding of Block Extrusion) is a physics-based puzzle video game developed and published by Toxic Games, with help from Indie Fund, a group of successful independent game developers.	Q.U.B.E.	Indie Fund
+distributor	How to Train Your Dragon 2 is a 2014 American 3D computer-animated fantasy action film produced by DreamWorks Animation and distributed by 20th Century Fox, loosely based on the British book series of the same name by Cressida Cowell.	How to Train Your Dragon 2	20th Century Fox
+distributor	Upon its initial release on iTunes, The Moron Test became the #1 top selling app in the US App Store.	The Moron Test	App Store
+distributor	Companionate Marriage was a 1928 American silent drama film directed by Erle C. Kenton and starring Betty Bronson, and released by First National Pictures.	Companionate Marriage	First National
+distributor	U Me Aur Hum (You, Me and Us) is a 2008 Bollywood romantic drama film produced and directed by Ajay Devgan under Ajay Devgan Films and Eros International.	U Me Aur Hum	Eros International
+distributor	The After is an American science fiction drama pilot created by Chris Carter for Amazon Studios.	The After	Amazon Studios
+distributor	Trailer Town is a 2003 low-budget film shot on digital video, written and directed by Giuseppe Andrews and distributed by Troma Entertainment.	Trailer Town	Troma Entertainment
+distributor	Mona Lisa Smile is a 2003 drama film produced by Revolution Studios and Columbia Pictures in association with Red Om Films Productions, directed by Mike Newell, written by Lawrence Konner and Mark Rosenthal, and starring Julia Roberts, Kirsten Dunst, Julia Stiles and Maggie Gyllenhaal.	Mona Lisa Smile	Columbia Pictures
+distributor	Sobee has recently reached marketing and sales agreements with both STC and Telecom Egypt for I Can Football.	I Can Football	Telecom Egypt
+distributor	The Saint's Vacation is the title of a 1941 adventure film produced by the British arm of RKO Pictures.	The Saint's Vacation	RKO Pictures
+distributor	Ivan Veramathiri (English: He is different) is a 2013 Indian Tamil action film written and directed by M. Saravanan.film presented by director N. Linguswamy and produced by his brother N. Subash Chandrabose under banner Thirupathi Brothers assocaition with UTV Motion Pictures Ronnie Screwvala and Siddharth Roy Kapur .	Ivan Veramathiri	UTV Motion Pictures
+distributor	Jimmywork is a 2004 mockumentary film written and directed by Simon Sauvé and produced by Atopia.	Jimmywork	Atopia
+distributor	Nina, the Flower Girl is a lost 1917 silent drama film produced by D. W. Griffith through his Fine Arts Films and distributed by Triangle Film Corporation.	Nina, the Flower Girl	Triangle Film Corporation
+distributor	Secret of the Incas was filmed by Paramount Pictures on location in Peru at Cuzco and Machu Picchu, the first time that a major Hollywood studio filmed at this archeological site.	Secret of the Incas	Paramount Pictures
+distributor	The Dancer of Paris is a 1926 American silent drama film produced and distributed by First National Pictures.	The Dancer of Paris	First National
+distributor	Percept Picture Company, an advertising agency has produced Pyaar Mein Kabhi Kabhi with 300 debutantes, an industry first in Indian cinema.	Pyaar Mein Kabhi Kabhi	Percept Picture Company
+distributor	I Married a Witch was in production from 15 April through 27 May 1942, and was one of a number of films sold by Paramount to United Artists in September, when UA did not have enough and Paramount had a surplus.	I Married a Witch	United Artists
+distributor	Staying Single When, released in Cambodia's main cinema, 'Kirirom' (now closed) in March 2007 and premiered on CTN, Cambodia's most popular TV channel, in October 2007, is a 100-minute romantic comedy from the production company Khmer Mekong Films (KMF).	Staying Single When	Khmer Mekong Films
+distributor	Deep Gold is a 2011 action film directed by Michael Gleissner and produced by Bigfoot Entertainment.	Deep Gold	Bigfoot Entertainment
+distributor	Semi-Pro is a 2008 American sports comedy film from New Line Cinema.	Semi-Pro	New Line Cinema
+distributor	Hands Across the Table is a 1935 American romantic screwball comedy film directed by Mitchell Leisen and released by Paramount Pictures.	Hands Across the Table	Paramount Pictures
+distributor	Pyaar Ishq Aur Mohabbat (Hindi: प्यार इश्क और मुहब्बत, English: Love, Amour and Romance) is a Bollywood romance film written and directed by Rajiv Rai and produced by Gulshan Rai under Trimurti Films banner.	Pyaar Ishq Aur Mohabbat	Trimurti Films
+distributor	Dance Dance Revolution Disney Grooves is a video game in the North American Dance Dance Revolution series for the Nintendo Wii by Konami.	Dance Dance Revolution Disney Grooves	Konami
+distributor	The Truth About Youth is a 1930 American Pre-Code drama with songs produced and distributed by First National Pictures, a subsidiary of Warner Bros. The film stars Loretta Young, Conway Tearle, David Manners and Myrna Loy.	The Truth About Youth	First National
+distributor	Chubby Cherub (known in Japan as Obake no Q-tarō: WanWan Panic (オバケのQ太郎 ワンワンパニック Obake no Q-tarō WanWan Panikku, lit. ``Q-tarō the Ghost: BowWow Panic'')) is a video game by Bandai for the Nintendo Entertainment System.	Chubby Cherub	Nintendo
+distributor	Planet Puzzle League; known in Europe as Puzzle League DS, and in Japan as Panel de Pon DS (パネルでポンDS); is a video game for the Nintendo DS handheld video game console in the Puzzle League/Panel de Pon visual matching puzzle game series.	Planet Puzzle League	Nintendo
+distributor	Jai Chiranjeeva is a 2005 Tollywood action comedy-drama film directed by K. Vijaya Bhaskar and produced by Vyjayanthi Movies.	Jai Chiranjeeva	Vyjayanthi Movies
+distributor	Fascist Legacy is a 1989 BBC documentary film about Italian war crimes during World War II. It consists of two parts.	Fascist Legacy	BBC
+distributor	Why Shit So Crazy? is a one-hour stand-up comedy special by Reggie Watts, aired and then released as a dual DVD/CD package by Comedy Central in 2010.	Why Shit So Crazy?	Comedy Central
+distributor	On April 15, 2013, Electronic Arts announced that The Sims Social, along with SimCity Social and Pet Society, would be closed down on June 14, 2013.	The Sims Social	Electronic Arts
+distributor	Pioneers in Petticoats is a 44-minute film produced by The Church of Jesus Christ of Latter-day Saints.	Pioneers in Petticoats	The Church of Jesus Christ of Latter-day Saints
+distributor	The Hollywood Revue of 1929 is an American Pre-Code musical comedy film released by Metro-Goldwyn-Mayer.	The Hollywood Revue of 1929	Metro-Goldwyn-Mayer
+distributor	The Adventures of André and Wally B. is an animated short made in 1984 by The Graphics Group, then a division of Lucasfilm which was later renamed Pixar before being spun off as a separate company on February 3, 1986.	The Adventures of André and Wally B.	Lucasfilm
+distributor	Crysis Warhead is a first-person shooter video game developed by the studio Crytek Budapest in Hungary and published by Electronic Arts.	Crysis Warhead	Electronic Arts
+distributor	Painted Boats (US titles The Girl on the Canal or The Girl of the Canal) is a black-and-white British film directed by Charles Crichton and released by Ealing Studios in 1945.	Painted Boats	Ealing Studios
+distributor	The Lonely Villa was produced by the Biograph Company and shot in Fort Lee, New Jersey.	The Lonely Villa	Biograph Company
+distributor	Dr. Hackenstein is a 1988 comedy horror film written and directed by Richard Clark and distributed by Troma Entertainment.	Dr. Hackenstein	Troma Entertainment
+distributor	'Neath the Arizona Skies is a 1934 Western film directed by Harry L. Fraser, produced by Lone Star Productions, released by Monogram Pictures and starring John Wayne.	'Neath the Arizona Skies	Monogram Pictures
+distributor	The Sawdust Ring is a 1917 American silent drama film distributed by the Triangle Film Corporation and starring Bessie Love.	The Sawdust Ring	Triangle Film Corporation
+distributor	The Mountain of the Lord is a 72-minute film produced by The Church of Jesus Christ of Latter-day Saints.	The Mountain of the Lord	The Church of Jesus Christ of Latter-day Saints
+distributor	Mystery Team premiered at the 2009 Sundance Film Festival as part of the Park City at Midnight series and was then released by Roadside Attractions in select cinemas on September 11 and 18, 2009.	Mystery Team	Roadside Attractions
+end time	The Battle of Konzer Brücke (also: Consaarbrück) was fought as part of the Franco-Dutch War on 11 August 1675 and resulted in an Imperial victory.	Battle of Konzer Brücke	11 August 1675
+end time	The Battle of Dervenakia (Greek: Μάχη των Δερβενακίων) was the Greek victory over the Ottoman forces on 26--28 July 1822, an important event in the Greek War of Independence.	Battle of Dervenakia	28 July 1822
+end time	The Saar Offensive was a French ground operation into Saarland, Germany, during the early stages of World War II, from 7 to 16 September 1939.	Saar Offensive	16 September 1939
+end time	The Rand McNally Building (1889-1911), in Chicago, was designed by Burnham and Root and was the world's first all-steel framed skyscraper.	Rand McNally Building	1911
+end time	The Battle of Elixheim, 18 July 1705, also known as the Passage of the Lines of Brabant was a battle of the War of the Spanish Succession.	Battle of Elixheim	18 July 1705
+end time	The Battle of Elchingen, fought on 14 October 1805, saw French forces under Michel Ney rout an Austrian corps led by Johann Sigismund Riesch.	Battle of Elchingen	14 October 1805
+end time	The Battle of Cap-Français was a naval engagement during the Seven Years' War fought between French and British forces outside the harbour of Cap-Français, Saint-Domingue (present-day Cap-Haïtien, Haiti) on 21 October 1757.	Battle of Cap-Français	21 October 1757
+end time	English Racing Automobiles (ERA) was an English racing car manufacturer active from 1933 to 1954.	English Racing Automobiles	1954
+end time	The Battle of Lemo was fought during the Finnish War, between Sweden and Russia on 19--20 June 1808 (Julian calendar 7--8 June) .	Battle of Lemo	20 June 1808
+end time	Leningrad Strategic Defensive Operation is the name Soviet historiography for the defensive operations of the Red Army and Soviet Navy during World War II from 10 July to 30 September 1941.	Leningrad Strategic Defensive	30 September 1941
+end time	The Battle of Alto de los Godos was a battle that took place on 25 May 1813 in Maturín, Venezuela, in the Spanish colonial Viceroyalty of New Granada.	Battle of Alto de los Godos	25 May 1813
+end time	The Battle of Crysler's Farm, also known as the Battle of Crysler's Field, was fought on 11 November 1813, during the Anglo-American War of 1812 (the name Chrysler's Farm is sometimes used for the engagement, but Crysler is the proper spelling).	Battle of Crysler's Farm	11 November 1813
+end time	The 1899 World Allround Speed Skating Championships took place at 4 and 5 February 1899 at the ice rinks Friedenauer Sportplatz & Westeisbahn in Berlin, Germany.	1899 World Allround Speed Skating Championships	5 February 1899
+end time	The Battle of Kusonje was a two-day clash fought in the village of Kusonje near the town of Pakrac on 8--9 September 1991, during the Croatian War of Independence.	Battle of Kusonje	9 September 1991
+end time	The 2012 Wimbledon Championships took place at the All England Lawn Tennis and Croquet Club in Wimbledon, London, United Kingdom, from 25 June to 8 July 2012.	2012 Wimbledon Championships	8 July 2012
+end time	The Battle of Monte Pelado (``Bald Mountain'') was an engagement of the Spanish Civil War fought on 28 August 1936.	Battle of Monte Pelado	28 August 1936
+end time	The 1950 FIFA World Cup, held in Brazil from 24 June to 16 July 1950, was the fourth FIFA World Cup.	1950 FIFA World Cup	16 July 1950
+end time	The Battle of Arkinholm was fought on 1 May 1455, at Arkinholm near Langholm in Scotland, during the reign of King James II of Scotland.	Battle of Arkinholm	1 May 1455
+end time	The Battle of Nauheim (also known as the Battle of the Johannisberg or Johannesberg) was a battle of the Seven Years' War fought near Bad Nauheim in the Landgraviate of Hessen-Kassel on 30 August 1762.	Battle of Nauheim	30 August 1762
+end time	The Fridge closed on 17 March 2010 and has no link with Electric Brixton which now occupies the building.	The Fridge	17 March 2010
+end time	The Battle of Torroella, also known as Battle of the river Ter, was a battle in the Nine Years' War, fought on 27 May 1694 along the banks and fords of the Ter River near the Puente Mayor in the vicinity of the important town of Girona, Catalonia, Spain.	Battle of Torroella	27 May 1694
+end time	The naval Battle of Bantam took place on 27 December 1601 in Bantam Bay, Indonesia, when an exploration fleet of 5 Dutch vessels defeated a larger Portuguese fleet including galleons and fustas.	Battle of Bantam	27 December 1601
+end time	The Zeehan and Dundas Herald (also seen as Zeehan Dundas Herald) was a newspaper for the West Coast Tasmania community, based in Zeehan and Dundas from 1890 to 1922.	Zeehan and Dundas Herald	1922
+end time	The Battle of Benavente (29 December 1808) was a cavalry clash in which the British cavalry of Lord Paget defeated the elite Chasseurs à cheval of the French Imperial Guard during the Corunna Campaign of the Peninsular War.	Battle of Benavente	29 December 1808
+end time	The Battle of Mas Deu or Battle of Mas d'Eu on 19 May 1793 saw the French Army of the Eastern Pyrenees under Louis-Charles de Flers fighting the Spanish Army of Catalonia led by Antonio Ricardos.	Battle of Mas Deu	19 May 1793
+end time	The Battle of Tettenhall (sometimes called the Battle of Wednesfield or Wōdnesfeld) took place, according to the Anglo-Saxon Chronicle, near Tettenhall on 5 August 910.	Battle of Tettenhall	5 August 910
+end time	The Battle of Sheikh Sa'ad (Turkish: Sağ Sahil) occurred between 6--8 January 1916 during the Mesopotamian Campaign of the First World War.	Battle of Sheikh Sa'ad	8 January 1916
+end time	The Gandhara grave culture, also called Swat culture, emerged c. 1600 BC, and flourished c. 1500 BCE to 500 BCE in Gandhara, which lies in modern-day Pakistan and Afghanistan.	Gandhara grave culture	500 BCE
+end time	The Battle of Weihaiwei (Japanese: Ikaiei-no-tatakai (威海衛の戦い) was a battle of the First Sino-Japanese War. It took place between 20 January and 12 February 1895 in Weihai, Shandong Province, China between the forces of the Empire of Japan and Empire of China.	Battle of Weihaiwei	12 February 1895
+end time	The Battle of Montijo was fought on 26 May 1644, in Montijo, Spain, between Portuguese and Spanish forces.	Battle of Montijo	26 May 1644
+end time	The Battle of Stamford Bridge took place at the village of Stamford Bridge, East Riding of Yorkshire, in England on 25 September 1066, between an English army under King Harold Godwinson and an invading Norwegian force led by King Harald Hardrada and the English king's brother Tostig Godwinson.	Battle of Stamford Bridge	25 September 1066
+end time	The Battle of Taipale was fought between Soviet and Finnish forces during the Winter War, 6-27 December 1939.	Battle of Taipale	27 December 1939
+end time	The Battle of Chemulpo Bay (Korean: 제물포해전 Chemulpo hae jun Japanese: 仁川沖海戦 Jinsen'oki kaisen Russian: Бой в заливе Чемульпо) was an early naval battle in the Russo-Japanese War (1904--1905), which took place on 9 February 1904, off the coast of present-day Incheon, Korea.	Battle of Chemulpo Bay	9 February 1904
+end time	Contrafuego was an Argentinian TV series that aired on Canal 9 from 26 August to 30 September 2002 at 22.00hrs.	Contrafuego	30 September 2002
+end time	The 37th government of Turkey (26 January 1974 -- 17 November 1974) was a coalition government of Republican People's Party (CHP) and National Salvation Party (MSP) in 1974.	37th government of Turkey	1974
+end time	The Battle of Rocheserviere was fought at Rocheservière on the 20 June 1815, between Vendéan Royalists, who had remained loyal to King Louis XVIII during the Hundred Days, and Napoleon's Army of the West, commanded by General Jean Maximilien Lamarque.	Battle of Rocheserviere	20 June 1815
+end time	The Battle of the Bismarck Sea (2--4 March 1943) took place in the South West Pacific Area (SWPA) during World War II when aircraft of the U.S. Fifth Air Force and the Royal Australian Air Force (RAAF) attacked a Japanese convoy carrying troops to Lae, New Guinea.	Battle of the Bismarck Sea	4 March 1943
+found in taxon	Histone H3s are coded by several genes in the human genome, including:	Histone H3	human
+found in taxon	RuvB-like 1 (E. coli), also known as RUVBL1 and TIP49, is a human gene.	RuvB-like 1	human
+found in taxon	Protein kinase LYK5, also known as LYK5 or STRADα, is a human protein and also denotes the gene encoding it.	LYK5	human
+found in taxon	MAS-related GPR, member F, also known as MRGPRF, is a human gene.	MRGPRF	human
+found in taxon	Exosome component 9, also known as EXOSC9, is a human gene, the protein product of which is part of the exosome complex and is an autoantigen is patients with certain auto immune diseases, most notably scleromyositis.	Exosome component 9	human
+found in taxon	Regulator of G-protein signalling 9, also known as RGS9, is a human gene, which codes for a protein involved in regulation of signal transduction inside cells.	RGS9	human
+found in taxon	Calcitonin receptor-like (CALCRL), also known as the calcitonin receptor-like receptor (CRLR), is a human protein.	CALCRL	human
+found in taxon	AHSA2 also known as AHA1, activator of heat shock 90kDa protein ATPase homolog 2 (yeast) is a human gene which encodes a protein which acts as co-chaperone of Hsp90 (heat shock protein 90).	AHSA2	human
+found in taxon	TRAF6 is a TRAF human protein.	TRAF6	human
+found in taxon	Exosome component 8, also known as EXOSC8, is a human gene, the protein product of which is part of the exosome complex.	Exosome component 8	human
+found in taxon	SLITRK1 (``SLIT and NTRK-like family, member 1'') is a human gene on chromosome 13q31.1.	SLITRK1	human
+found in taxon	Resting human cholangiocytes express PD-L1 mRNA, but not the protein, due to translational suppression by microRNA miR-513.	PD-L1	human
+found in taxon	Cytochrome P450, family 3, subfamily A, also known as CYP3A, is a human gene.	CYP3A	human
+found in taxon	CD69 (Cluster of Differentiation 69) is a human transmembrane C-Type lectin protein encoded by the CD69 gene.	CD69	human
+found in taxon	Heat shock 70kDa protein 1B, also known as HSPA1B, is a human gene.	HSPA1B	human
+found in taxon	Ribonucleoprotein, PTB-binding 1 (also known as RAVER1), is a human gene.	RAVER1	human
+found in taxon	BRCA2 and BRCA2 (/ˌbrækəˈtuː/) are a human gene and its protein product, respectively.	BRCA2	human
+found in taxon	β-Lipotropin is the predominant opioid of the anterior human and rat pituitary gland.	Lipotropin	human
+found in taxon	They also discovered a sequence of human cDNA that showed strong homology to GAB1 cDNA, which they termed GAB2.	GAB2	human
+found in taxon	UBE3A-ATS/Ube3a-ATS (human/mouse), otherwise known as ubiquitin ligase E3A-ATS, is the name for the antisense DNA strand that is transcribed as part of a larger transcript called LNCAT (large non-coding antisense transcript) at the Ube3a locus.	Ube3a-ATS	human
+found in taxon	DUF1220 is a protein domain of unknown function that shows a striking human lineage-specific (HLS) increase in copy number and may be important to human brain evolution.	DUF1220	human
+found in taxon	MEFV (Mediterranean fever) is a human gene that provides instructions for making a protein called pyrin (also known as marenostrin).	MEFV	human
+found in taxon	Bartter syndrome, infantile, with sensorineural deafness (Barttin), also known as BSND, is a human gene which is associated with Bartter syndrome.	BSND	human
+found in taxon	HLA-C belongs to the MHC (human = HLA) class I heavy chain receptors.	HLA-C	human
+found in taxon	Tet methylcytosine dioxygenase 2 (TET2) is a human gene.	Tet methylcytosine dioxygenase 2	human
+found in taxon	Both human and bovine ACTH receptors are synthesized as 297 residue long proteins.	ACTH receptor	human
+found in taxon	Splicing factor, arginine/serine-rich 9, also known as SFRS9, is a human gene encoding an SR protein involved in splice site selection in alternative splicing.	SFRS9	human
+found in taxon	Transmembrane protein 131-like(TMEM131L protein), alternatively named uncharacterized protein KIAA0922 (KIAA0922 protein), is an integral transmembrane protein encoded by the human gene KIAA0922 that is significantly conserved in eukaryotes, at least through protists.	KIAA0922	human
+found in taxon	The human PTX3 gene is organized into three exons coding for the leader peptide (which is cleaved from the mature protein), the amino-terminal domain and the pentraxin domain of the protein.	PTX3	human
+found in taxon	TBR1 interacts with various genes and proteins in order to regulate cortical development, specifically within layer VI of the developing six-layered human cortex.	TBR1	human
+found in taxon	The human ADI1 gene encodes the enzyme 1,2-dihydroxy-3-keto-5-methylthiopentene dioxygenase.	ADI1	human
+found in taxon	Enteropeptidase (also called enterokinase) is an enzyme produced by cells of the duodenum and involved in human and animal digestion.	Enteropeptidase	human
+found in taxon	Thymidine kinase 1, soluble (gene name TK1), is a human thymidine kinase.	Thymidine kinase 1	human
+found in taxon	Potassium channel subfamily T, member 2, also known as KCNT2 is a human gene that encodes the KCa4.2 protein.	KCNT2	human
+found in taxon	The human CDAN1 gene encodes the protein Codanin 1.	CDAN1	human
+found in taxon	Motor neuron and pancreas homeobox 1 (MNX1), also known as Homeobox HB9 (HLXB9), is a human protein encoded by the MNX1 gene.	MNX1	human
+found in taxon	In molecular biology, CLRN1 antisense RNA 1 (CLRN1-AS1) (previously known as clarin 1 opposite strand, CLRN1OS or USH critical region pseudogene, UCRP) is a human gene encoding a long non-coding RNA.	CLRN1-AS1	human
+found in taxon	Sorting nexin family member 27, also known as SNX27, is a human gene.	SNX27	human
+found in taxon	Placental growth factor-expression within human atherosclerotic lesions is associated with plaque inflammation and neovascular growth.	Placental growth factor	human
+found in taxon	ASH1L is the human homolog of Drosophila Ash1 (absent, small, or homeotic-like).	ASH1L	human
+found in taxon	C4orf29 is found on the positive strand of the human genome at 4q28.2.	C4orf29	human
+found in taxon	PEX11G is a human gene that encodes the peroxisomal biogenesis factor 11 gamma for peroxisomes.	PEX11G	human
+found in taxon	DNA mismatch repair protein, MutS Homolog 3 (MSH3) is a human homologue of the bacterial mismatch repair protein MutS that participates in the mismatch repair (MMR) system.	MSH3	human
+industry	According to this agreement, all GAÜ organization and activities would be included in the Ada TV news.	Ada TV	news
+industry	Being located in Tokyo, 8-4 has the opportunity to attend and share news about many Japanese video game industry events such as Tokyo Game Show, Capcom's Captivate, and Grasshopper Manufacture's Hoppers.	8-4	video game industry
+industry	CBS Corporation is an American mass media corporation focused on commercial broadcasting, publishing, and television production, with most of its operations in the United States.	CBS Corporation	mass media
+industry	Heidelberger Druckmaschinen AG (English: Heidelberg Printing Machines AG) is a German precision mechanical engineering company with head offices in Heidelberg (Baden-Württemberg).	Heidelberger Druckmaschinen	mechanical engineering
+industry	In November 2003, Delticom won a cash award in the German Internet Prize for its Internet tyre retail concept.	Delticom	retail
+industry	The Energomash Corporation (Cyrillic: ``Энергомаш'') is a Russian power engineering company.	Energomash	power engineering
+industry	In 1998, Jack Schwartz Shoes Inc. sold the British Knights trademarks in many territories to a European company that continued manufacturing British Knights footwear for Europe and South America.	British Knights	footwear
+industry	Taylor Wessing LLP is an international law firm with 28 offices internationally.	Taylor Wessing	law firm
+industry	Hill+Knowlton Strategies is a global public relations company, headquartered in New York City, United States, with 90 offices in 52 countries.	Hill+Knowlton Strategies	public relations
+industry	Ironshore Inc. provides broker-sourced specialty property and casualty insurance coverages for varying risks on a global basis through its platforms in Australia, Bermuda, Canada, Ireland, Singapore, the United States and the United Kingdom.	Ironshore	insurance
+industry	SunEdison's subsidiaries TerraForm Power and TerraForm Global own and operate renewable-energy projects around the globe.	SunEdison	renewable-energy
+industry	Rami Levy Hashikma Marketing (Hebrew: רמי לוי שיווק השקמה‎, Rami Levy Shivuk Hashikma) is the third largest Israeli retail supermarket chain, behind Shufersal Ltd. and Alon Holding--	Rami Levy Hashikma Marketing	retail
+industry	With the increasing dominance of Wal-Mart throughout the country during the 1990s and up to the present, Meijer is facing the effects of an intensely competitive retail industry.	Meijer	retail
+industry	The Económico TV (ETV) is a private Portuguese digital cable business news television channel that is owned by the same group of the Portuguese newspaper Diário Económico and Brazilian Brasil Econômico.	Económico TV	news
+industry	Saddleback Leather Company (SBL) is a Fort Worth, Texas, United States-based, privately owned American leather goods retailer founded in 2003 by Dave Munson.	Saddleback Leather Company	leather
+industry	That same year Saatva launched Loom and Leaf, an ecofriendly brand of luxury memory foam mattresses.	Saatva	memory foam
+industry	Sovran Bank was a US-based regional bank that operated in Virginia between 1983 and 1990, and was the leading subsidiary of Sovran Financial Corporation.	Sovran Bank	bank
+industry	CNBC Europe (referred to on air simply as CNBC) is a business and financial news television channel which airs across Europe, the Middle East and Africa.	CNBC Europe	news
+industry	Al Jazeera English (AJE) is an international state-funded 24-hour English-language news and current affairs TV channel owned and operated by Al Jazeera Media Network, which is headquartered in Doha, Qatar.	Al Jazeera English	news
+industry	Xiaomi designs, develops, and sells smartphones, mobile apps, and related consumer electronics.	Xiaomi	consumer electronics
+industry	Higgs and Hill was a major British construction company responsible for building some of London's finest buildings.	Higgs and Hill	construction
+industry	In 1986, Valmet sold its shipbuilding operations to Wärtsilä Oy, which merged them with its own shipyards to form Wärtsilä Marine.	Valmet	shipbuilding
+industry	Founded in 2010 and launched the following year, Saatva is credited as being the oldest mattress e-tailer.	Saatva	mattress
+industry	OSN News is a 24-hour satellite and cable channel offering exclusively American news programming from ABC, CBS, NBC, PBS, and MSNBC to U.S. expats and other viewers abroad, primarily geared towards an audience in the Arab countries.	OSN News	news
+industry	RTP3 is a Portuguese 24-hour news channel operated by Rádio e Televisão de Portugal (RTP), the public-service broadcaster.	RTP3	news
+industry	Al Jazeera Balkans (AJB) is an international news television station headquartered in Sarajevo, Bosnia and Herzegovina aimed at the media markets of the countries that used to be constituent units of SFR Yugoslavia.	Al Jazeera Balkans	news
+industry	Fiat S.p.A., or Fabbrica Italiana Automobili Torino (Italian Automobile Factory of Turin), was an Italian holding company whose original and core activities were in the automotive industry, and that was succeeded by Fiat Chrysler Automobiles NV (FCA).	Fiat S.p.A.	automotive industry
+league	FC Baku (Azerbaijani: ``Bakı'' Futbol Klubu) is an Azerbaijani football club based in Baku, Azerbaijan, that currently plays in the Azerbaijan Premier League.	FC Baku	Azerbaijan Premier League
+league	The Durham Bulls are a Triple-A minor league baseball team that currently plays in the International League.	Durham Bulls	International League
+league	The new club was named FK Amica Wronki and in just 4 years, the club won promotion from the Fourth Division to the Orange Ekstraklasa.	Amica Wronki	Ekstraklasa
+league	Metro F.C. is a New Zealand amateur association football club, based in Auckland, that will compete in the Lotto Sport Italia NRFL Division 1 for the 2014 season.	Metro F.C.	Lotto Sport Italia NRFL Division 1
+league	The Chicago Riot was an indoor soccer team that played in the Major Indoor Soccer League.	Chicago Riot	Major Indoor Soccer League
+league	Welshpool Town F.C. is a football team, based in Welshpool, playing in the Mid Wales Football League.	Welshpool Town F.C.	Mid Wales Football League
+league	Union Sportive de la Médina d'El Harrach (Arabic: الاتحاد الرياضي لمدينة الحراش‎), known more commonly as USM El Harrach, is an Algerian football club based in El Harrach, Algiers, that plays in the Algerian Ligue Professionnelle 1.	USM El Harrach	Algerian Ligue Professionnelle 1
+league	Erie Commodores FC is an American professional soccer team based in Erie, Pennsylvania which competes in the National Premier Soccer League (NPSL), a nationwide amateur league at the fourth tier of the American Soccer Pyramid.	Erie Commodores FC	National Premier Soccer League
+league	The Denver Avalanche was an American soccer team based out of Denver, Colorado that played in the Major Indoor Soccer League from 1980 to 1982.	Denver Avalanche	Major Indoor Soccer League
+league	The Corpus Christi Hooks are a minor league baseball team of the Texas League, and are the Double-A affiliate of the Houston Astros.	Corpus Christi Hooks	Texas League
+league	Today, after a stint in the tier seven Landesliga FC Stahl Brandenburg play in the Brandenburg-Liga (VI) as a lower table side.	FC Stahl Brandenburg	Brandenburg-Liga
+league	San Jose CyberRays was a professional soccer team that played in the Women's United Soccer Association.	San Jose CyberRays	Women's United Soccer Association
+league	The Metropolitanos of Havana was a baseball team in the Cuban National Series.	Metropolitanos	Cuban National Series
+league	Universal Peace Foundation was a Palauan association football club which competed in the Palau Soccer League, the top level league in Palau, in 2006-07, when they finished bottom of the league, losing all their games and ending with a -29 goal difference.	Universal Peace Foundation	Palau Soccer League
+league	KF Poliçani is currently in the Albanian Second Division.	KF Poliçani	Albanian Second Division
+league	The Western New York Flash (WNYF) is an American professional soccer club based in Elma, New York, that competes in the National Women's Soccer League.	Western New York Flash	National Women's Soccer League
+league	FC Alga Bishkek is a Kyrgyz football club based in Bishkek, Kyrgyzstan that plays in the top division in Kyrgyzstan, the Kyrgyzstan League.	FC Alga Bishkek	Kyrgyzstan League
+league	Indianapolis Braves were an American soccer team, the men's professional team of the Indianapolis-based soccer organization, FC Pride, which competed in the National Premier Soccer League (NPSL), the fourth tier of the American Soccer Pyramid, for just one season, in 2007.	Indianapolis Braves	National Premier Soccer League
+league	The club is most noted for competing in the early Italian Football Championship competitions during the 1920s, after that period they began to decline spending the 1940s in Serie C. The last season of Ilva Bagnolese was played out in Serie D where they were relegated to Prima Categoria.	Ilva Bagnolese	Serie D
+league	After renaming itself as Montedio Yamagata in 1996, it has been playing in J. League Division 2 since its inaugural 1999 season.	Montedio Yamagata	J. League Division 2
+league	Columbus Crew SC is a professional soccer club based in Columbus, Ohio, United States, which competes in Major League Soccer (MLS) in the Eastern Conference of the league.	Columbus Crew SC	Major League Soccer
+league	The Staten Island Vipers were a soccer club that competed in the USL A-League in 1998 and 1999.	Staten Island Vipers	A-League
+league	The Worcester Worcesters were a 19th-century Major League Baseball team from 1880 to 1882 in the National League.	Worcester Worcesters	Major League Baseball
+league	In July 2008, Polonia Warsaw merged with Dyskobolia Grodzisk Wielkopolski (3rd in the Ekstraklasa in 2007/08) and took over its place in the Polish top division.	Polonia Warsaw	Ekstraklasa
+league	The North Melbourne Football Club, nicknamed the Kangaroos or less formally the Roos, the Kangas or North, is the fourth oldest Australian rules football club in the Australian Football League (AFL) and is one of the oldest sporting clubs in Australia and the world.	North Melbourne Football Club	Australian Football League
+located on astronomical body	Mons Hadley is a massif in the northern portion of the Montes Apenninus, a range in the northern hemisphere of the Moon.	Mons Hadley	Moon
+located on astronomical body	Discovery Rupes is an escarpment on Mercury approximately 650 kilometers (400 mi) long and 2 kilometers (6,562 feet) high, located at latitude 56.3 S and longitude 38.3 W. It was formed by a thrust fault, thought to have occurred due to the shrinkage of the planet's core as it cooled over time.	Discovery Rupes	Mercury
+located on astronomical body	Arrakis Planitia is a planitia (plain) on Titan, the largest moon of the planet Saturn.	Arrakis Planitia	Titan
+located on astronomical body	Larry's Lookout is located on Husband Hill, Gusev Crater, Mars.	Larry's Lookout	Mars
+located on astronomical body	Planum Boreum (Latin: ``the northern plain'') is the northern polar plain on Mars.	Planum Boreum	Mars
+located on astronomical body	Lyctos Facula is a bright mountain on one of Jupiter's smallest moons Amalthea.	Lyctos Facula	Amalthea
+located on astronomical body	Dorsum Nicol is a wrinkle ridge on the Moon at 18.0°N 23.0°E in Mare Serenitatis near the border of Mare Tranquilitatis.	Dorsum Nicol	Moon
+located on astronomical body	Atlantis Chaos is a region of disrupted terrain in the Phaethontis quadrangle of Mars.	Atlantis Chaos	Mars
+located on astronomical body	Sinus Fidei (latin for ``Bay of Faith'') is a small basaltic mare feature in the Terra Nivium region of the Moon.	Sinus Fidei	Moon
+located on astronomical body	Lacus Aestatis (latin for ``Summer Lake'') consists of two relatively small areas of lunar mare located near the western limb of the Moon.	Lacus Aestatis	Moon
+located on astronomical body	Dorsum Bucher is a wrinkle-ridge at 31.0°N 39.0°W in the border region between Oceanus Procellarum and Mare Imbrium on the Moon.	Dorsum Bucher	Moon
+located on astronomical body	Lacus Autumni (Latin for ``Lake of Autumn'') is a region of lunar mare that lies near the western limb of the Moon.	Lacus Autumni	Moon
+located on astronomical body	Gomul Catena is a chain of craters on Jupiter's moon, Callisto.	Gomul Catena	Callisto
+located on astronomical body	Like most of the other maria on the Moon, Mare Humorum was named by Giovanni Riccioli, whose 1651 nomenclature system has become standardized.	Mare Humorum	Moon
+located on astronomical body	Nili Fossae is a group of large, concentric grabens on Mars, located in the Syrtis Major quadrangle.	Nili Fossae	Mars
+located on astronomical body	Capri Mensa is a mesa in the Coprates quadrangle of Mars at 14° south latitude and 47.4° west longitude.	Capri Mensa	Mars
+located on astronomical body	Zisa Corona is a corona found on the planet Venus at Latitude 12° North, Longitude 221° East.	Zisa Corona	Venus
+located on astronomical body	Terra Sabaea is a large area on Mars.	Terra Sabaea	Mars
+located on astronomical body	Vallis Planck is a long, linear valley located on the far side of the Moon.	Vallis Planck	Moon
+located on astronomical body	Mons Agnes is a hill (``mountain'') on the Moon, in Lacus Felicitatis, inside crater-like feature Ina, at 18.66°N 5.34°E. It has maximal width of approximately 650 m (the smallest of all named lunar mountains ar for 2014).	Mons Agnes	Moon
+located on astronomical body	Reiner Gamma (γ) is an albedo feature of the Moon.	Reiner Gamma	Moon
+located on astronomical body	Promethei Terra was named for a classic albedo feature of Mars, with the original name derived from that of the Greek god Prometheus.	Promethei Terra	Mars
+located on astronomical body	The Michelangelo quadrangle is in the southern hemisphere of the planet Mercury, where the imaged part is heavily cratered terrain that has been strongly influenced by the presence of multiring basins.	Michelangelo quadrangle	Mercury
+located on astronomical body	Ciuacoatl Mons is a mountain on Venus.	Ciuacoatl Mons	Venus
+located on astronomical body	The Small Dark Spot, sometimes also called Dark Spot 2 or The Wizard's Eye, was a southern cyclonic storm on the planet Neptune.	Small Dark Spot	Neptune
+located on astronomical body	Palus Somni (Latin for ``Marsh of Sleep'') is an area on the Moon of relatively level but somewhat uneven terrain that lies along the northeastern edge of Mare Tranquillitatis and the Sinus Concordiae.	Palus Somni	Moon
+located on astronomical body	Kachina Chasmata is the longest canyon or system of canyons on the surface of the Uranian moon Ariel.	Kachina Chasmata	Ariel
+located on astronomical body	Stura Vallis is an ancient river valley in the Elysium quadrangle of Mars, located at 22.9° north latitude and 217.6° west longitude.	Stura Vallis	Mars
+location of formation	This Burning Effigy were an Irish gothic rock/ethereal wave band, originally formed in Dublin in 1993, and consisting of members Stephen Carey (guitar and keyboards), Ger Egan (vocals), Micheal Cowley (bass), Brian Fallon (drums).	This Burning Effigy	Dublin
+location of formation	Granulocytes are produced via granulopoiesis in the bone marrow.	Granulocyte	bone marrow
+location of formation	Cat the Dog were an English indie rock band formed in Brighton, East Sussex, in 2005.	Cat the Dog	Brighton
+location of formation	Deaf School are an English art rock/new wave band, formed in Liverpool in 1973.	Deaf School	Liverpool
+location of formation	Lansing-Dreiden was founded in Miami, Florida.	Lansing-Dreiden	Miami
+location of formation	Soundgarden is an American rock band formed in Seattle, Washington, in 1984 by singer and rhythm guitarist Chris Cornell, lead guitarist Kim Thayil, and bassist Hiro Yamamoto.	Soundgarden	Seattle
+location of formation	Kid British, often styled as KiD BRiTiSH, were a six-piece British band from Manchester, United Kingdom.	Kid British	Manchester
+location of formation	Rotary Watches Ltd was established at La Chaux-de-Fonds, Switzerland, by Moise Dreyfuss in 1895.	Rotary Watches	La Chaux-de-Fonds
+location of formation	Che Sudaka is a four-piece band, composed of Argentinians and Colombians resident in Barcelona.	Che Sudaka	Barcelona
+location of formation	The Dandy Warhols is an American rock band, formed in Portland, Oregon, in 1994 by singer-guitarist Courtney Taylor-Taylor and guitarist Peter Holmström.	The Dandy Warhols	Portland
+location of formation	Rapids! were an indie rock band from Bournemouth, England, which formed in August 2009.	Rapids!	Bournemouth
+location of formation	Die Antwoord (pronounced (di'ɑnt.ʋoːrt), Afrikaans for ``The Answer'') is a South African rap-rave group formed in Cape Town in 2008.	Die Antwoord	Cape Town
+location of formation	Hi-Rise is an English dance music act from Manchester.	Hi-Rise	Manchester
+location of formation	Hooters of America, Incorporated, based in Atlanta, Georgia, and Hooters, Incorporated, based in Clearwater, Florida.	Hooters	Clearwater
+location of formation	The Fray is an American rock band from Denver, Colorado.	The Fray	Denver
+location of formation	Thirty Seconds to Mars (commonly stylized as 30 Seconds to Mars) is an American rock band from Los Angeles, California, formed in 1998.	Thirty Seconds to Mars	Los Angeles
+location of formation	Viper Solfa is an extreme / gothic metal band from Kristiansand, Norway.	Viper Solfa	Kristiansand
+location of formation	Hot Club de Paris are an English band from Liverpool.	Hot Club de Paris	Liverpool
+location of formation	Poppy & the Jezebels were a pop band based in Birmingham, United Kingdom.	Poppy & the Jezebels	Birmingham
+location of formation	Jersey Street are a band from Manchester, England, which began releasing deep house in 1998, before broadening its output to include a wide range of styles including soul, jazz, afro-funk and Latin.	Jersey Street	Manchester
+location of formation	The Hague Conference on Private International Law (HCCH, for Hague Conference/Conférence de La Haye) is the preeminent organisation in the area of private international law.	Hague Conference on Private International Law	The Hague
+location of formation	Ruoska (In Finnish ``whip'') is a Finnish metal band from the Juva municipality.	Ruoska	Juva
+location of formation	Koroivos B.C. or Koroivos Amaliadas B.C. (alternate spellings: Koroibos Amaliada) (Greek: Κόροιβος Αμαλιάδας KAE), is a Greek professional basketball club that is based in Amaliada, Greece.	Koroivos B.C.	Amaliada
+location of formation	Veridia, often stylized in all capital letters as VERIDIA, is an American alternative rock band from Nashville, Tennessee.	Veridia	Nashville
+location of formation	The Sand Band are a British alternative folk band from Liverpool consisting of songwriter/producer and guitarist David McDonnell, bass guitarist Ben Curtis and Phil Murphy drums.	The Sand Band	Liverpool
+location of formation	The Mindbenders (originally the backing group for Wayne Fontana) were a 1960s beat group from Manchester, England.	The Mindbenders	Manchester
+location of formation	The Cardigans are a Swedish rock band formed in Jönköping, Sweden, in 1992, by guitarist Peter Svensson, bassist Magnus Sveningsson, drummer Bengt Lagerberg, keyboardist Lars-Olof Johansson and lead singer Nina Persson, with the line-up remaining unchanged to this day.	The Cardigans	Jönköping
+location of formation	The Grateful Dead was an American rock band formed in 1965 in Palo Alto, California.	Grateful Dead	Palo Alto
+location of formation	Sugarplum Fairy is a pop-rock band from Borlänge, Sweden.	Sugarplum Fairy	Borlänge
+noble family	Anna Maria Luisa de' Medici (11 August 1667 -- 18 February 1743) was the last scion of the House of Medici.	Anna Maria Luisa de' Medici	House of Medici
+noble family	Mishaal bin Hamad bin Khalifa Al Thani (born 2 July 1972) (Arabic: مشعل بن حمد بن خليفة الثاني ) is a member of the Royal House of Thani.	Mishaal bin Hamad bin Khalifa Al Thani	House of Thani
+noble family	Princess Magdalena Augusta of Anhalt-Zerbst (13 October 1679 -- 11 October 1740) was, by birth, a Princess of Anhalt-Zerbst and, by marriage, a Duchess of Saxe-Gotha-Altenburg.	Princess Magdalena Augusta of Anhalt-Zerbst	Saxe-Gotha-Altenburg
+noble family	Chlodio (c. 392/395--445/448; also spelled Clodio, Clodius, Clodion, Cloio or Chlogio) was a king of the Salian Franks from the Merovingian dynasty.	Chlodio	Merovingian dynasty
+noble family	Pope Urban III (Latin: Urbanus III; died 20 October 1187), born Uberto Crivelli, reigned from 25 November 1185 to his death in 1187.	Pope Urban III	Crivelli
+noble family	Elisabeth of Mecklenburg-Güstrow (3 September 1668 - 25 August 1738), was a German noblewoman member of the House of Mecklenburg and by marriage Duchess of Saxe-Merseburg-Spremberg (during 1692-1731) and Saxe-Merseburg (during 1731-1738).	Elisabeth of Mecklenburg-Güstrow	House of Mecklenburg
+noble family	The son of Duke Leto Atreides and the Lady Jessica, Paul Atreides is the heir of House Atreides, a nuclear-armed aristocratic family that rules the planet Caladan.	Paul Atreides	House Atreides
+noble family	Shapur Mihran (Middle Persian: 𐭱𐭧𐭯𐭥𐭧𐭥𐭩 𐭬𐭲𐭥), known in Armenian sources as Shapuh Mihran (Armenian: Շապուհ Միհրան), was a Sasanian nobleman from the House of Mihran.	Shapur Mihran	House of Mihran
+noble family	Princess Margareta of Romania, now using the style Crown Princess Margareta of Romania, Custodian of the Romanian Crown, formerly also Princess of Hohenzollern-Sigmaringen (born 26 March 1949 in Lausanne, Switzerland), is the eldest daughter of former King Michael I of Romania and his wife Queen Anne.	Princess Margareta of Romania	Hohenzollern
+noble family	Edmund Crouchback (16 January 1245 -- 5 June 1296), a member of the House of Plantagenet, was the second surviving son of Henry III of England and Eleanor of Provence.	Edmund Crouchback	House of Plantagenet
+noble family	Anne of Bohemia (11 May 1366 -- 7 June 1394) was Queen of England as the first wife of King Richard II. A member of the House of Luxembourg, she was the eldest daughter of Charles IV, Holy Roman Emperor and King of Bohemia, and Elizabeth of Pomerania.	Anne of Bohemia	House of Luxembourg
+noble family	Elisabeth of Swabia (renamed Beatrice; March/May 1205 -- 5 November 1235), was a German princess member of the House of Hohenstaufen and by marriage Queen consort of Castile and Leon.	Elisabeth of Swabia	House of Hohenstaufen
+noble family	Siemomysł or Ziemomysł (died c. 950--960) was the third pagan Polans duke of the Piast dynasty, and the father of Poland's first Christian ruler, Mieszko I. He was listed by Gallus Anonymous in his Gesta principum Polonorum and was the son of Lestek, the second known Duke of the Polans.	Siemomysł	Piast dynasty
+noble family	Haakon, Crown Prince of Norway (Norwegian pronunciation: (ˈhoːkʊn); born 20 July 1973), with the full name Haakon Magnus, is the heir apparent to the Throne of Norway and the son of the reigning King, Harald V. He is also a member of the House of Glücksburg.	Haakon, Crown Prince of Norway	House of Glücksburg
+noble family	Infante João, Duke of Beja (Portuguese pronunciation: (ʒuˈɐ̃w̃); English: John; 16 March 1842 -- 27 December 1861) was a Portuguese infante (prince) and member of the House of Braganza.	Infante João, Duke of Beja	House of Braganza
+noble family	Mahmud ibn Muhammad (10 July 1757 -- 28 March 1824) (Arabic: أبو الثناء محمود باشا باي‎) was the seventh leader of the Husainid Dynasty and the ruler of Tunisia from 1814 until his death in 1824.	Mahmud ibn Muhammad	Husainid Dynasty
+noble family	Margrave Charles Philip of Brandenburg-Schwedt (5 January 1673 in Sparnberg -- 23 July 1695 in Casale Monferrato) was a Hohenzollern prince and a titular Margrave of Brandenburg-Schwedt.	Charles Philip of Brandenburg-Schwedt	Hohenzollern
+noble family	Pushya Varman (Reign 350--374) was first historical ruler of Kamarupa (Assam), who established the Varman dynasty in 350 AD.	Pushya Varman	Varman dynasty
+noble family	Archduke Ludwig Viktor of Austria (Ludwig Viktor Joseph Anton; 15 May 1842 -- 18 January 1919) from the House of Habsburg was the youngest son born to Archduke Franz Karl of Austria and Princess Sophie of Bavaria and younger brother of Emperor Franz Joseph I of Austria.	Archduke Ludwig Viktor of Austria	House of Habsburg
+noble family	Da Geng or Tai Geng (Chinese: 太庚) was a king of the Shang dynasty of ancient China.	Tai Geng	Shang dynasty
+noble family	Sophie Marie of Hesse-Darmstadt (7 May 1661, Darmstadt -- 22 August 1712, Gotha) was a member of the House of Hesse and by marriage Duchess of Saxe-Eisenberg.	Sophie Marie of Hesse-Darmstadt	House of Hesse
+noble family	Frederick, Margrave of Brandenburg-Bayreuth (May 10, 1711 in Weferlingen -- February 26, 1763 in Bayreuth), was a member of the House of Hohenzollern and Margrave of Brandenburg-Bayreuth.	Frederick, Margrave of Brandenburg-Bayreuth	Hohenzollern
+noble family	Burkhard I, Count of Zollern (born: before 1025; killed as part of a feud in 1061) is considered the first well-documented ancestor of the Hohenzollern dynasty.	Burkhard I, Count of Zollern	Hohenzollern
+noble family	Ernest I, Prince of Anhalt-Dessau (died Dessau, 12 June 1516), was a German prince of the House of Ascania and ruler of the principality of Anhalt-Dessau.	Ernest I, Prince of Anhalt-Dessau	House of Ascania
+noble family	Childebert I (c. 496 -- 13 December 558) was a Frankish King of the Merovingian dynasty, as third of the four sons of Clovis I who shared the kingdom of the Franks upon their father's death in 511.	Childebert I	Merovingian dynasty
+noble family	Cleopatra was a member of the Ptolemaic dynasty, a family of Macedonian Greek origin that ruled Egypt after Alexander the Great's death during the Hellenistic period.	Cleopatra	Ptolemaic dynasty
+occupant	Negoesco Stadium is a 3,000 seat soccer stadium located in San Francisco, on the campus of University of San Francisco.	Negoesco Stadium	University of San Francisco
+occupant	Swampoodle Grounds aka Capitol Park (II) was the home of the Washington Nationals baseball team of the National League from 1886 to 1889.	Swampoodle Grounds	Washington Nationals
+occupant	The Paul-Janes-Stadion in Düsseldorf-Flingern is one of the home grounds of Fortuna Düsseldorf (1930-1972, early 2002-2005).	Paul-Janes-Stadion	Fortuna Düsseldorf
+occupant	Currently, 20 Canada Square is home to the London Trading offices (IST) of BP and the UK headquarters of American company McGraw-Hill.	20 Canada Square	BP	McGraw-Hill
+occupant	The Pavilhão da Luz Nº 1, known as Pavilhão Fidelidade for sponsorship reasons, is the main arena of Portuguese multi-sport club S.L. Benfica.	Pavilhão da Luz Nº 1	S.L. Benfica
+occupant	Today, Cicero Stadium is used by the Eritrea national football team for its qualifying matches in the World Cup, CAN, CECAFA Cup and COMESA Cup.	Cicero Stadium	Eritrea national football team
+occupant	FedExField is the home of the Washington Redskins football team.	FedExField	Washington Redskins
+occupant	Dell Diamond is the home stadium of the Round Rock Express, the AAA minor league baseball affiliate of the Texas Rangers major league baseball team.	Dell Diamond	Round Rock Express
+occupant	Suplizio Field is the primary home for Colorado Mesa University and local high school baseball, and has been the home of the Junior College World Series since 1958.	Suplizio Field	Colorado Mesa University
+occupant	Yeshurun Hall (Hebrew: אולם ישורון‎) is an indoor basketball hall in Netanya, Israel and the home of Barak Netanya.	Yeshurun Hall	Barak Netanya
+occupant	Goldsberry Track is the home of the Ohio Bobcats women's track and field team.	Goldsberry Track	Ohio Bobcats
+occupant	Busch Stadium, also referred to informally as ``New Busch Stadium'' or ``Busch Stadium III'', is a baseball park located in St. Louis, Missouri, and the home of the St. Louis Cardinals , the city's Major League Baseball (MLB) franchise.	Busch Stadium	St. Louis Cardinals
+occupant	Kenan Memorial Stadium is located in Chapel Hill, North Carolina and is the home field of the North Carolina Tar Heels.	Kenan Memorial Stadium	North Carolina Tar Heels
+occupant	Palazzo Ghisilardi Fava is a Renaissance style palace, located on Via Manzoni in Bologna, region of Emilia Romagna, Italy; in 2015 it was housing the Medieval Civic Museum of Bologna and served as a site for changing exhibitions.	Palazzo Ghisilardi Fava	Medieval Civic Museum
+occupant	Hardwood Ski and Bike was the site of the mountain biking events for the 2015 Pan American Games in Toronto which took place between July 10 and July 26, 2015.	Hardwood Ski and Bike	2015 Pan American Games
+occupant	The Irwin Belk Complex is a multi-use 4,500 seat stadium on the campus of Johnson C. Smith University (JCSU) in Biddleville, Charlotte, North Carolina, United States.	Irwin Belk Complex	Johnson C. Smith University
+occupant	LaBahn Arena is the home ice of the Wisconsin Badgers women's ice hockey team.	LaBahn Arena	Wisconsin Badgers
+occupant	Pete Taylor Park is a baseball stadium located in Hattiesburg, Mississippi, that is home to the Southern Miss Golden Eagles baseball team.	Pete Taylor Park	Southern Miss Golden Eagles baseball
+occupant	Haugesund Stadion is the home ground of Norwegian Premier League team FK Haugesund and Second Division team SK Vard Haugesund.	Haugesund Stadion	FK Haugesund
+occupant	The Tom Tellez Track at Carl Lewis International Complex, also known as simply Tom Tellez Track or Carl Lewis International Complex, is home to the Houston Cougars outdoor track & field teams.	Tom Tellez Track at Carl Lewis International Complex	Houston Cougars
+occupant	Chessa Field is the women's soccer field of the Ohio Bobcats.	Chessa Field	Ohio Bobcats
+occupant	30 St Mary Axe (widely known informally as The Gherkin and previously as the Swiss Re Building) is a commercial neo-futuristic skyscraper in London's primary financial district, the City of London.	30 St Mary Axe	Swiss Re
+occupant	The Show Me Center is a multi-purpose arena, located on the campus of Southeast Missouri State University, in Cape Girardeau, Missouri.	Show Me Center	Southeast Missouri State University
+occupant	Originally opened in 2002 as the home of the Carolina Courage of the WUSA, WakeMed Soccer Park is now the home to the Carolina RailHawks of the North American Soccer League.	WakeMed Soccer Park	Carolina Courage
+occupant	Varden Kunstgress Field is located in Bergen, Norway, and is currently home to the NoAFF's Bergen Storm, as well as the football (soccer) teams Bergen Sparta and Fyllingen Kvinner.	Varden Kunstgress	Bergen Storm
+occupant	Stadion Anđelko Herjavec (Croatian pronunciation: (stâdijoːn ǎnd͡ʑeːlko xěrjaʋet͡s)), also known as Stadion NK Varteks or Stadion Varteksa, is a football stadium in Varaždin, Croatia, and the home ground of NK Varaždin.	Stadion Anđelko Herjavec	NK Varteks
+occupant	Korsvollbanen is the home ground of the Norwegian sports club Korsvoll IL.	Korsvollbanen	Korsvoll IL
+occupant	Nymeo Field at Harry Grove Stadium, located in Frederick, Maryland, is the home of the Frederick Keys, a class A minor league affiliate of the Baltimore Orioles.	Nymeo Field at Harry Grove Stadium	Frederick Keys
+occupant	Cap Timm Field is a ballpark located in Ames, Iowa and has been the home of the Iowa State Cyclones baseball program for four decades, a span that includes its time as both a varsity intercollegiate sport and a club sport.	Cap Timm Field	Iowa State Cyclones baseball
+occupant	Torfnesvöllur is a football stadium in Ísafjörður, Iceland and the home of division I club BÍ/Bolungarvík.	Torfnesvöllur	BÍ/Bolungarvík
+occupant	BBVA Compass Stadium is an American soccer-specific stadium located in Houston, Texas that is home to the Houston Dynamo, a Major League Soccer club, the Houston Dash of the National Women's Soccer League, and to Texas Southern Tigers football.	BBVA Compass Stadium	Houston Dynamo
+occupant	Bezerrão is owned by the Government of the Distrito Federal and it is the stadium where Sociedade Esportiva do Gama sometimes plays its home matches.	Bezerrão	Sociedade Esportiva do Gama
+occupant	Lambeau Field is an outdoor athletic stadium in Green Bay, Wisconsin, the home field of the Green Bay Packers of the National Football League.	Lambeau Field	Green Bay Packers
+occupant	Save Mart Center at Fresno State is a multi-purpose arena, on the campus of the California State University, Fresno, located in Fresno, California.	Save Mart Center	California State University, Fresno
+occupant	Tegera Arena is an arena in Leksand, Sweden primarily used for ice hockey, and is the home arena of Leksands IF.	Tegera Arena	Leksands IF
+occupant	Great American Ball Park is a baseball stadium in Cincinnati, Ohio, which is the home field of Major League Baseball's Cincinnati Reds.	Great American Ball Park	Cincinnati Reds
+occupant	Mariucci Arena is the home arena for the Minnesota Golden Gophers men's ice hockey team of the University of Minnesota.	Mariucci Arena	Minnesota Golden Gophers men's ice hockey
+occupant	Velodromo Paolo Borsellino is a multi-use stadium in Palermo, Italy, located in the ZEN neighbourhood of the city, and currently home to local American football club Sharks Palermo and rugby football club Palermo Rugby 2005.	Velodromo Paolo Borsellino	American football
+occupant	The Waldstadion Homburg is the home stadium of Oberliga Südwest club FC 08 Homburg.	Waldstadion Homburg	FC 08 Homburg
+occupant	Four Winds Field at Coveleski Stadium is a baseball stadium in South Bend, Indiana, home to the South Bend Cubs, a minor league baseball team which plays in the Class-A Midwest League.	Four Winds Field at Coveleski Stadium	South Bend Cubs
+occupant	Owsley B. Frazier Stadium is a multi-purpose stadium on the campus of Bellarmine University in Louisville, Kentucky.	Owsley B. Frazier Stadium	Bellarmine University
+occupant	Houston Field House is a multi-purpose arena located on the campus of Rensselaer Polytechnic Institute (RPI) in Troy, New York.	Houston Field House	Rensselaer Polytechnic Institute
+occupant	The Centennial Park Pan Am BMX Centre is a BMX cycling facility at Centennial Park in Toronto, Ontario, Canada, that hosted BMX Cycling at the 2015 Pan American Games.	Centennial Park Pan Am BMX Centre	2015 Pan American Games
+occupant	Since its opening in 1951, Estadio Eduardo Santos has been home to the football club Unión Magdalena, and witnessed the birth of prominent figures of Colombian football, including former captain Colombia Carlos 'El pibe' ('The Kid') Valderrama.	Estadio Eduardo Santos	Unión Magdalena
+occupant	Harmsworth Park is a football ground in Wick in the Scottish Highlands of Scotland, which is the home ground of Highland Football League side Wick Academy F.C..	Harmsworth Park	Wick Academy F.C.
+parent company	Caribair was the parent company of Caribintair.	Caribintair	Caribair
+parent company	Stamicarbon is the licensing and IP center of Maire Tecnimont SpA and market leader in licensing technology for manufacturing urea as well as provide follow-up services designed to ensure the best possible operation of the urea plant throughout its working life.	Stamicarbon	Maire Tecnimont
+parent company	Deram Records was a subsidiary record label of Decca Records established in the United Kingdom in 1966.	Deram Records	Decca Records
+parent company	In late 1994, Le Méridien was acquired by UK hotel company Forte Group, which in turn was acquired by Granada plc in 1996.	Le Méridien	Forte Group	Granada plc
+parent company	Nintendo Software Technology (or NST) is an American video game developer located inside of Nintendo of America main headquarters, based in Redmond, Washington.	Nintendo Software Technology	Nintendo of America
+parent company	In 2001, ALZA was acquired by Johnson & Johnson via a stock-for-stock transaction worth US$10.5 billion.	ALZA	Johnson & Johnson
+parent company	Sam's West, Inc. (doing business as Sam's Club) is an American chain of membership-only retail warehouse clubs owned and operated by Walmart, founded in 1983 and named after Walmart founder Sam Walton.	Sam's Club	Walmart
+parent company	InteliSpend Prepaid Solutions is a private company formed as a joint venture by American Express and Maritz, Inc in 1997.	InteliSpend Prepaid Solutions	American Express
+parent company	Veolia Environmental Services (in French Veolia Propreté) was a division of Veolia Environnement, now Veolia which includes the Water division without proper entities.	Veolia Environmental Services	Veolia Environnement
+parent company	North American Airlines was a subsidiary of Global Aviation Holdings, Inc., formerly Global Aero Logistics, Inc. Unlike the other airlines that are or were a part of Global Aviation, ATA Airlines (now defunct) and World Airways (now defunct), North American was founded after airline deregulation in the United States.	North American Airlines	Global Aviation Holdings
+parent company	DASA (officially Deutsche Aerospace AG, later Daimler-Benz Aerospace AG, then DaimlerChrysler Aerospace AG), was the former aerospace subsidiary of Daimler-Benz AG (later DaimlerChrysler) from 1989.	DASA	Daimler-Benz
+parent company	Avianca El Salvador, formerly Transportes Aereos del Continente Americano, simply known as TACA Airlines is an airline owned by the Synergy Group based in El Salvador.	TACA Airlines	Synergy Group
+parent company	Software AG agreed to buy IDS Scheer for €487 million in July 2009.	IDS Scheer	Software AG
+parent company	Nick Records (also known as Nickelodeon Records or Nick Music) is the moribund record label for the children's television channel Nickelodeon.	Nick Records	Nickelodeon
+parent company	Eagle Records is a record label and a division of Eagle Rock Entertainment.	Eagle Records	Eagle Rock Entertainment
+parent company	HMSHost is a highway and airport food-service company, a subsidiary of the Italian company Autogrill S.p.A..	HMSHost	Autogrill
+parent company	As of late 2009, Audi's operating profit of €1.17-billion ($1.85-billion) made it the biggest contributor to parent Volkswagen Group's nine-month operating profit of €1.5-billion, while the other marques in Group such as Bentley and SEAT had suffered considerable losses.	Audi	Volkswagen Group
+parent company	SF Airlines (Chinese: 顺丰航空有限公司; pinyin: Shùnfēng Hángkōng Yǒuxiàngōngsī) is a Chinese cargo airline owned by SF Express (Group) Co. The company is headquartered in the No.1 Freight Depot of the International Shipping Center of Bao'an International Airport in Bao'an District, Shenzhen, Guangdong province.	SF Airlines	SF Express
+parent company	On March 15, 2007, Cisco Systems announced it would acquire WebEx for $3.2 billion.	WebEx	Cisco Systems
+parent company	HK Television Entertainment Company Limited (Chinese: 香港電視娛樂有限公司, known as HKTVE) is a television service operator in a Hong Kong operated by Hong Kong billionaire Richard Li's PCCW, who also owns a IPTV platform, Now TV.	HK Television Entertainment	PCCW
+parent company	On 8 February 2013 MIPS Technologies, Inc. was acquired by Imagination Technologies after CEVA, Inc. pulled out of the bidding.	MIPS Technologies	Imagination Technologies
+parent company	The Office for National Statistics (ONS) is the executive office of the UK Statistics Authority, a non-ministerial department which reports directly to the UK Parliament.	Office for National Statistics	UK Statistics Authority
+parent company	Virgin Galactic is a spaceflight company within the Virgin Group.	Virgin Galactic	Virgin Group
+parent company	UTair Express was a Russian regional airline headquartered in Syktyvkar, Komi, and a subsidiary of UTair Aviation.	UTair Express	UTair Aviation
+parent company	Slovenian Spirit was the name of a subsidiary of the Austrian airline Styrian Spirit.	Slovenian Spirit	Styrian Spirit
+parent company	In November 2006, Motorola announced plans to acquire Good Technology as part of its plan to compete with Research in Motion's Blackberry product line in the enterprise sector, and expressed its intention to continue licensing its technology to other phone manufacturers.	Good Technology	Motorola
+parent company	The Association for Library Service to Children (ALSC) is a division of the American Library Association, and it is the world's largest organization dedicated to library service to children.	Association for Library Service to Children	American Library Association
+parent company	Novatek and Gazprom plan to build a liquefied natural gas plant in Yamalo-Nenets Autonomous Okrug.	Novatek	Gazprom
+parent company	In 2009, 51% shares of Sotelma were acquired by Maroc Telecom, a subsidiary of Vivendi.	Sotelma	Maroc Telecom
+parent company	On May 2, 2011, French luxury, sport, and lifestyle group Kering (previously known as Pinault-Printemps-Redoute and PPR until 18 June 2013) launched a friendly takeover offer to buy Volcom Inc. for US$24.50 a share, valuing the company at US$608 million.	Volcom	Kering
+parent company	The Economist Intelligence Unit (EIU) is an independent business within The Economist Group providing forecasting and advisory services through research and analysis, such as monthly country reports, five-year country economic forecasts, country risk service reports, and industry reports.	Economist Intelligence Unit	Economist Group
+parent company	The acquisition of XTO Energy in 2010 made ExxonMobil the largest producer of natural gas in the U.S. Since then, XTO Energy's resource portfolio has tripled through several acquisitions.	XTO Energy	ExxonMobil
+parent company	Transdev Auckland, formerly Veolia Transport Auckland, Ltd., and before that Connex Auckland, Ltd., is a Transdev Australasia company.	Transdev Auckland	Transdev Australasia
+parent company	Christopher Kane (born 26 July 1982) is a Scottish fashion designer based in London whose brand is now part of Kering.	Christopher Kane	Kering
+parent company	Marvel Productions Ltd., later known as New World Animation Ltd., was a television and film studio subsidiary of the Marvel Entertainment Group, based in Hollywood, Los Angeles, California.	Marvel Productions	Marvel Entertainment
+parent company	Woodford Reserve is an American brand of premium small batch Kentucky Straight Bourbon Whiskey produced by the Brown-Forman Corporation.	Woodford Reserve	Brown-Forman
+parent company	Carrefour Market is created in 2007, to eventually replace the older supermarkets of the Carrefour Group like Champion (Internationally), GB Supermarkets (Belgium) and GS (Italy).	Carrefour Market	Carrefour Group
+parent company	YTL Power, a subsidiary of YTL Corporation, generates and sells power as an independent power producer to Tenaga Nasional for uploading onto the National Grid, Malaysia.	YTL Power	YTL Corporation
+parent company	Uterqüe is a company owned by the Spanish Inditex group dedicated to manufacturing fashion accessories and garments such as scarves and sunglasses.	Uterqüe	Inditex
+parent company	Jean-Marc XO Vodka is a premium vodka distilled in the Cognac region of France by Jean-Marc Daucourt and owned by the Campari Group.	Jean-Marc XO Vodka	Campari Group
+parent company	In March 2015, Digital Bros, through subsidiary 505 Games, purchased 2.67% stock of Swedish game developer Starbreeze Studios.	505 Games	Digital Bros
+parent company	Partner Communications Company Ltd. (operating under the Orange brand name until February 2016, soon will change to Partner) is a mobile network operator, internet Wi-Fi and fixed telephony service provider in Israel.	Partner Communications Company	Orange
+parent company	The Musée de Radio France was a museum operated by Radio France and located in the Maison de Radio-France, near the Pont de Grenelle in the XVIe arrondissement at 116, avenue du Président Kennedy, Paris, France.	Musée de Radio France	Radio-France
+parent company	On February 5, 2010, Intel announced that it had acquired Virtutech and that Simics will now be maintained by Intel's subsidiary Wind River Systems.	Virtutech	Intel
+parent company	Dassault Aviation SA (French pronunciation: ​(daso)) is an international French aircraft manufacturer of military, regional, and business jets, a subsidiary of Dassault Group.	Dassault Aviation	Dassault Group
+replaced by	Glywysing seems to have been a sub-kingdom or principality of the Kingdom of Morgannwg, along with Gwent.	Glywysing	Kingdom of Morgannwg
+replaced by	HTTP Switchboard has been replaced by uMatrix.	HTTP Switchboard	uMatrix
+replaced by	On 1 January 2009, Louis Pasteur University became part of the refounded University of Strasbourg and lost its status as an independent university.	Louis Pasteur University	University of Strasbourg
+replaced by	On 16 March, the Congress selected Zhang Gaoli, Liu Yandong, Wang Yang, and Ma Kai as vice premiers following their respective nominations from Li Keqiang.	Li Keqiang	Zhang Gaoli
+replaced by	Northrop Corporation was a leading United States aircraft manufacturer from its formation in 1939 until its merger with Grumman to form Northrop Grumman in 1994.	Northrop Corporation	Northrop Grumman
+replaced by	The Northern Territory was part of colonial New South Wales from 1825 to 1863, except for a brief time from February to December 1846, when it was part of the short lived colony of North Australia.	Northern Territory	North Australia
+replaced by	On 1 January 2013, Agnières-en-Dévoluy, La Cluse, Saint-Disdier, and Saint-Étienne-en-Dévoluy amalgamated into the new commune of Le Dévoluy.	La Cluse	Dévoluy
+residence	Matilda Coxe Stevenson (née Evans) (May 12, 1849 -- June 24, 1915), who also wrote under the name Tilly E. Stevenson, was an American ethnologist, born in San Augustine, Texas.	Matilda Coxe Stevenson	Texas
+residence	Martín Cuevas Urroz (born January 14, 1992, in Salto, Uruguay) is a Uruguayan professional tennis player.	Martín Cuevas	Salto
+residence	Otmar Bernhard (born October 6, 1946 in Munich) is a German politician, representative of the Christian Social Union of Bavaria.	Otmar Bernhard	Munich
+residence	Ivo Heuberger was born in the small town of Altstätten, Switzerland on February 19, 1976.	Ivo Heuberger	Altstätten
+residence	Born and raised on a Dell Rapids, South Dakota, farm to Ernest and Clara Mortvedt, John Mortvedt earned a bachelor's degree in agronomy from South Dakota State University in 1953.	John Mortvedt	Dell Rapids
+residence	Ivo Karlović (Croatian pronunciation: (ǐːv̞ɔ kâːrlɔv̞itɕ); born 28 February 1979, Zagreb) is a Croatian tennis player.	Ivo Karlović	Zagreb
+residence	Abdul Hadi al Iraqi (Arabic: عبد الهادي العراقي‎) is the nom de guerre of Nashwan Abdulrazaq Abdulbaqi ( نشوان عبد الرزاق عبد الباقي ), an alleged senior member of al-Qaeda who is now in US custody at Guantanamo Bay detention camp in Cuba.	Abdul Hadi al Iraqi	Guantanamo Bay detention camp
+residence	Euphantus (Greek: Εὔφαντος; fl. c. 320 BCE) of Olynthus was a philosopher of the Megarian school as well as an historian and tragic poet.	Euphantus	Olynthus
+residence	Theophilus Eugene Connor, known as Bull Connor (July 11, 1897 -- March 10, 1973), was an American politician who served as a Commissioner of Public Safety for the city of Birmingham, Alabama, during the American Civil Rights Movement.	Bull Connor	Birmingham
+residence	Valeriy Brezdenyuk (Ukrainian: Валерій Олександрович Брезденюк; June 17, 1963 -- February 18, 2014) was a Ukrainian painter from Zhmerynka, Vinnytska Oblast, practicing paper marbling.	Valeriy Brezdenyuk	Zhmerynka
+residence	Kaajal Oza Vaidya is an author, screenwriter, radio personality and journalist from Ahmedabad, India.	Kaajal Oza Vaidya	Ahmedabad
+residence	Anja Huber (born 20 May 1983 in Berchtesgaden) is a German skeleton racer who has competed since 2003.	Anja Huber	Berchtesgaden
+residence	Karl Meltzer (born December 8, 1967, nicknamed ``Speedgoat Karl'') is an ultrarunner and ultrarunning coach based in Sandy, Utah.	Karl Meltzer	Sandy
+residence	Brigitte D'Ortschy grew up in Berlin.	Brigitte D'Ortschy	Berlin
+residence	Mohamed Youcef Belaïli (born March 14, 1992 in Oran) is an Algerian footballer who plays as a forward for Algerian Ligue Professionnelle 1 club USM Alger and the Algeria national team.	Youcef Belaïli	Oran
+residence	Mária Földes was born to a Jewish Hungarian family in Arad, Romania on September 5, 1925.	Mária Földes	Arad
+residence	Manisha Malhotra (Hindi: मनीषा मल्होत्रा Manīṣā Maľhōtrā; born 19 September 1976, in Mumbai) is a retired professional tennis player from India.	Manisha Malhotra	Mumbai
+residence	Ľudmila Cervanová (Ludmila Cervanova) (born 15 October 1979 in Piešťany, Czechoslovakia) is a retired professional female tennis player from Slovakia.	Ľudmila Cervanová	Piešťany
+residence	Judy Dater now lives in Berkeley, California with her husband Jack B. von Euw.	Judy Dater	Berkeley, California
+residence	Dzmitry Zhyrmont (Belarusian: Дзмітрый Жырмонт; Russian: Дмитрий Жирмонт; born 1 March 1989 in Minsk) is a Belarusian tennis player.	Dzmitry Zhyrmont	Minsk
+residence	Eugène Dodeigne (27 July 1923 -- 24 December 2015) was a French sculptor living and working at Bondues (Nord-Pas-de-Calais).	Eugène Dodeigne	Bondues
+residence	Norbert van Bloemen, called Cefalus or Cephalos (1670, Antwerp -- 1746, Amsterdam), was a Flemish painter and draughtsman who worked mainly in Italy and the Dutch Republic.	Norbert van Bloemen	Antwerp	Amsterdam
+residence	Nathalia Edenmont, née Nathalie Nicole Edenmont, (born 7 February 1970 in Yalta, Soviet Union) is a Swedish-Ukrainian photo-based artist who moved to Sweden and Stockholm in 1991.	Nathalia Edenmont	Stockholm
+residence	Andrea Bowers (born 1965) is a Los Angeles-based American artist working in a variety of media including video, drawing, and installation.	Andrea Bowers	Los Angeles
+residence	Charles Pratt Huntington (1871 -- 1919) was an American architect, born in Logansport, Indiana and educated at Harvard University, from which he graduated in 1893, and the École nationale supérieure des Beaux-Arts in Paris, from which he graduated in 1901.	Charles Pratt Huntington	Logansport	Paris
+residence	Mariona Ribas (born June 18, 1984 in Sabadell, Catalonia) is a Spanish actress.	Mariona Ribas	Sabadell
+residence	Trudi Musgrave (born 10 September 1977) is an Australian retired professional tennis player, based in Newcastle, Australia.	Trudi Musgrave	Newcastle
+residence	Rosa Rosita Baltazar was born on 16 August 1960 in Livingston, Guatemala to Enes and Merejilda Baltazar and was raised in Punta Gorda, Belize, attending St. Peter Claver Primary School.	Rosita Baltazar	Punta Gorda
+residence	Belus Prajoux Nadjar (born February 27, 1955 in Santiago) is a retired professional tennis player from Chile.	Belus Prajoux	Santiago
+residence	María Corda (Mária Antónia Farkas, 4 May 1898 in Déva, Hungary (now Deva, Romania) -- 15 February 1976 in Thônex, Switzerland) was a Hungarian actress and a star of the silent film era in Germany and Austria.	María Corda	Hungary
+residence	Jesse Witten (born October 15, 1982, in Naples, Florida) is an American professional tennis player.	Jesse Witten	Naples
+residence	Gabriel Porras (born Carlos Gabriel Porras Flores, February 13, 1968 in Mexico City, Mexico) is a Mexican actor.	Gabriel Porras	Mexico City
+residence	Christian Frederik von Schalburg (15 April 1906 -- 2 June 1942) was a Danish army officer, the second commander of Free Corps Denmark and brother of Vera von Schalburg.	Christian Frederik von Schalburg	Denmark
+residence	Wojciech Jerzy Has (1 April 1925 in Kraków -- 3 October 2000 in Łódź, Poland) was a Polish film director, screenwriter and film producer.	Wojciech Jerzy Has	Kraków
+residence	Zuzana Kučová (born 26 June 1982 in Bratislava) is a Slovakian former professional tennis player.	Zuzana Kučová	Bratislava
+residence	Antonio Zugarelli (born January 17, 1950, in Rome) is a retired professional tennis player from Italy.	Antonio Zugarelli	Rome
+residence	Ann Trason (born August 30, 1960) is an American ultramarathon runner from Kensington, California.	Ann Trason	Kensington
+residence	Harriet Elam-Thomas is a United States diplomat and university professor who directs the Diplomacy Program at the University of Central Florida (UCF) in Orlando, Florida.	Harriet Elam-Thomas	Orlando
+residence	In 2012, State Government of Rajasthan posthumously awarded Jagjit Singh its highest civilian award, the Rajasthan Ratna.	Jagjit Singh	Rajasthan
+sister	Of her seven siblings, her younger sister Pilar Pellicer also became an actress best known for her roles in numerous telenovelas; another younger sister, Ana, is a sculptor and the co-author of Pina Pellicer's 2006 biography.	Pina Pellicer	Pilar Pellicer
+sister	Sir Mark Thatcher, 2nd Baronet (born 15 August 1953) is a British businessman and the son of Margaret, Lady Thatcher, former Conservative British Prime Minister, and Sir Denis Thatcher, 1st Baronet, and is the twin brother of Carol Thatcher.	Mark Thatcher	Carol Thatcher
+sister	She also gave birth to a sister of Li Jiancheng's, the eventual Princess Pingyang, although it was not clear whether she was older or younger than Li Jiancheng.	Li Jiancheng	Princess Pingyang
+sister	Currie is best known for playing in a band with her identical twin Cherie Currie in their band called Cherie & Marie Currie.	Marie Currie	Cherie Currie
+sister	Charles Lamb (10 February 1775 -- 27 December 1834) was an English writer and essayist, best known for his Essays of Elia and for the children's book Tales from Shakespeare, which he produced with his sister, Mary Lamb (1764--1847).	Charles Lamb	Mary Lamb
+sister	The Greenland Saga describes a voyage made by Bjarni Herjolfsson, and the subsequent voyages of Leif Eriksson, his brother Thorvald Eiriksson, his sister Freydís Eiríksdóttir, and the Icelandic merchant Thorfinn Karsefni.	Thorvald Eiriksson	Freydís Eiríksdóttir
+sister	Bronisława Dłuska (née Skłodowska, 1865 -- 15 April 1939) was a Polish physician, wife of political activist Kazimierz Dłuski, and older sister of physicist Marie Curie.	Bronisława Dłuska	Marie Curie
+sister	In 523--24, possibly at the instigation of his mother Clotilde, who was eager to avenge her nephew who had been assassinated by Sigismund of Burgundy, Chlodomer joined with his brothers in an expedition against the Burgundians.	Chlodomer	Clotilde
+sister	Giuliana De Sio (born in Salerno 2 April 1957) is an Italian actress and the sister of folk singer Teresa De Sio.	Giuliana De Sio	Teresa De Sio
+sister	Mirjana Marić was introduced to chess at the age of four, together with her 20-minutes-older twin sister Alisa Marić.	Mirjana Marić	Alisa Marić
+sister	Teffi's sister Mirra Lokhvitskaya (1869--1905) was a notable Russian poet.	Teffi	Mirra Lokhvitskaya
+sister	Raymond Duncan (1874 -- 1966) was an American dancer, artist, poet, craftsman, and philosopher, and brother of dancer Isadora Duncan.	Raymond Duncan	Isadora Duncan
+sister	Adah the daughter of Elon the Hittite, and Oholibamah the daughter of Anah, the daughter of Zibeon the Hivite, and Basemath Ishmael's daughter, sister of Nebaioth... (Book of Genesis 36:2-3) Nebaioth is again mentioned as Ishmael's firstborn in the genealogies of the First Book of Chronicles: ...	Nebaioth	Basemath
+sister	Natalie Imbruglia is the elder sister of singer-songwriter Laura Imbruglia.	Natalie Imbruglia	Laura Imbruglia
+sister	Danilo Šerbedžija's father is Rade Šerbedžija and his sister is Lucija Šerbedžija, both actors.	Danilo Šerbedžija	Lucija Šerbedžija
+sister	She gave birth to fourteen children, six daughters and eight sons, among whom were nationalist leader Sarat Chandra Bose, Netaji Subhas Chandra Bose and distinguished cardiologist Dr. Sunil Chandra Bose.	Sarat Chandra Bose	Sunil Chandra Bose
+start time	The Whitechapel murders were committed in or near the impoverished Whitechapel district in the East End of London between 3 April 1888 and 13 February 1891.	Whitechapel murders	3 April 1888
+start time	The Golovnin Incident involved the capture of Russian explorer and naval captain, Vasily Golovnin in 1811, by soldiers of the Japanese Shogunate in accordance of Japan's policy of isolationism (Sakoku).	Golovnin Incident	1811
+start time	The Bahr Halvorsen's Second Cabinet governed Norway between 6 March 1923 and 30 May 1923.	Bahr Halvorsen's Second Cabinet	1923
+start time	The Kavli Prize was awarded the first time in Oslo, 9 September 2008.	Kavli Prize	2008
+start time	The Jaguar C-Type (also called the Jaguar XK120-C) is a racing sports car built by Jaguar and sold from 1951 to 1953.	Jaguar C-Type	1951
+start time	The failure of the treaty to satisfy British goals of improved trade and diplomatic relations led to the Second Opium War (1856--60).	Second Opium War	1856
+start time	The First National Bank of Haxtun building, at 145 S. Colorado Ave. in Haxtun, Colorado was built in 1917.	First National Bank of Haxtun	1917
+start time	The 48th government of Turkey (23 June 1991 -- 20 November 1991) was a government led by Mesut Yılmaz of Motherland Party (ANAP).	48th government of Turkey	1991
+start time	The Toyota Corona (Japanese: トヨタ・コロナ) is an automobile manufactured by the Japanese automaker Toyota between 1957 and 2002.	Toyota Corona	1957
+start time	Alejo & Valentina is an Argentine flash animated sitcom by Alejandro Szykula of LoCoARTS, created in 2002, aimed at teens and ``adults with a childish mind''.	Alejo & Valentina	2002
+start time	The Labor Forward movement was an organizing program of the American Federation of Labor from roughly 1910 to 1920.	Labor Forward	1910
+start time	Porthcawl Lifeboat Station (based in Porthcawl, Bridgend, Wales) opened in 1860 and a boathouse was subsequently built on the promenade to house the lifeboat.	Porthcawl Lifeboat Station	1860
+start time	The Tyrrell 001 is a Formula One racing car which was designed for the end of the 1970 and the beginning of the 1971 Formula One season by Tyrrell Racing's Chief Designer, Derek Gardner.	Tyrrell 001	1970
+start time	The Vere Street Coterie were a group of men arrested at a molly house in Vere Street, London in 1810 for sodomy and attempted sodomy.	Vere Street Coterie	1810
+start time	The First Sino-Japanese War (1 August 1894 -- 17 April 1895) was fought between the Qing Empire of China and the Empire of Japan, primarily over control of Korea.	First Sino-Japanese War	1 August 1894
+start time	The Ghost Dance War was an armed conflict in the United States between the Lakota Sioux and the United States government from 1890 until 1891.	Ghost Dance War	1890
+start time	The 55th government of Turkey (30 June 1997 -- 11 January 1999) was a coalition government led by Mesut Yılmaz of Motherland Party.	55th government of Turkey	1997
+start time	Los hombres de Paco (English: Paco's Men) is a Spanish-produced television series, a drama, that originally aired from 9 October 2005 to 19 May 2010 on the Antena 3.	Los hombres de Paco	9 October 2005
+start time	One of the most enduring characters in the history of Italian comics, Pedrito el Drito was created by Terenghi in 1952, making his first appearances as a naive cowboy in the appendix to comic books Forza John! and Rocky Rider.	Pedrito el Drito	1952
+start time	Stichting SYPO is a Dutch NGO established in 2003, with the objective to 'offer structural aid in Uganda by initiating and supporting projects with a sustainable, entrepreneurial character'.	SYPO	2003
+start time	The Eleventh Doctor first appears in the final scene of The End of Time (2010) when his previous incarnation regenerates.	Eleventh Doctor	2010
+start time	The Volkswagen Gol is a subcompact car that has been manufactured by Volkswagen do Brasil since 1980 as Volkswagen's entry-level car in the Latin American market--where it succeeded the Volkswagen Type 1 (Fusca).	Volkswagen Gol	1980
+start time	A Touch of Frost is a television detective series produced by Yorkshire Television (later ITV Studios) for ITV from 6 December 1992 until 5 April 2010, initially based on the Frost novels by R. D. Wingfield.	A Touch of Frost	1992
+start time	The Second Utrecht Civil War took place between 1481 and 1483.	Second Utrecht Civil War	1481
+start time	The Birmingham Church Building Society was formed in 1838 in Birmingham, England, with the purpose of building ten new churches.	Birmingham Church Building Society	1838
+start time	The De Gasperi V Cabinet held office from 23 May 1948 until 27 June 1950, a total of 614 days, or 1 year, 8 months and 5 days.	De Gasperi V Cabinet	1948
+start time	Fingal is one of three counties into which County Dublin was divided in 1994.	Fingal	1994
+start time	The First War of Scottish Independence was the initial chapter of engagements in a series of warring periods between English and Scottish forces lasting from the invasion by England in 1296 until the de jure restoration of Scottish independence with the Treaty of Edinburgh--	First War of Scottish Independence	1296
+start time	The Commer FC was a commercial vehicle produced by Commer from 1960 to 1976.	Commer FC	1960
+start time	Spiegel Online first went up on 25 October 1994, making it the first online presence of an established news magazine, one day before the Time site.	Spiegel Online	25 October 1994
+start time	The Volkswagen Polo Mk3 is the third generation of the Volkswagen Polo supermini car and was produced from 1994 until late 1999 and some models in 2000.	Volkswagen Polo Mk3	1994
+start time	The United Indonesia Cabinet (Indonesian: Kabinet Indonesia Bersatu) is the official name of the presidential cabinet of Indonesia led by President Susilo Bambang Yudhoyono during his first period in office 2004-2009.	United Indonesia Cabinet	2004
+start time	The Pella Cabinet was the cabinet of the Italian Parliament which held office from 17 August 1953 until 18 June 1954, a total of 154 days, or 5 months and 1 day.	Pella Cabinet	1953
+start time	Operation Jackal, or alternatively Operation June Dawns, commenced on 7 June 1992.	Operation Jackal	7 June 1992
+start time	The National Library of Australia combined eight different online discovery tools that had been developed over a period of twelve years into a new single discovery interface that was released as a prototype in May 2009 for public comment before launching in November 2009 as Trove.	Trove	2009
+start time	The Royal Indian Navy revolt (also called the Royal Indian Navy mutiny or Bombay mutiny) encompasses a total strike and subsequent revolt by Indian sailors of the Royal Indian Navy on board ship and shore establishments at Bombay (Mumbai) harbour on 18 February 1946.	Royal Indian Navy mutiny	18 February 1946
+start time	The Beloit water tower is a historic 1889 octagonal limestone water tower in Beloit, Wisconsin.	Beloit water tower	1889
+start time	Chotti Bahu - Sindoor Bin Suhagan (Season 1) was scheduled to premiere on 10 November 2008, but was delayed until 8 December 2008 due to the ``Indian Television Strike'' .	Chotti Bahu	8 December 2008
+start time	The Hagerup's Second Cabinet governed Norway between 22 October 1903 and 11 March 1905.	Hagerup's Second Cabinet	1903
+start time	The Avignon Papacy was the period from 1309 to 1377, during which seven successive popes resided in Avignon (then in the Kingdom of Arles, part of the Holy Roman Empire, and now in today's France) rather than in Rome.	Avignon Papacy	1309
+start time	The first edition of Fawlty Towers was originally broadcast on 19 September 1975.	Fawlty Towers	19 September 1975
+start time	The Battle off Horaniu (Japanese: 第一次ベララベラ海戦) was a minor naval battle of the Pacific campaign of World War II fought on the night of 17 August 1943 near the island of Vella Lavella in the Solomon Islands	Battle off Horaniu	17 August 1943
+start time	The Fifth National Government of New Zealand is the current government of New Zealand, taking office on 19 November 2008.	Fifth National Government of New Zealand	2008
+start time	38 Parrots (Russian: 38 попугаев, translit. Tridtsat vosem popugaev) is a series of ten children's cartoons produced in the Soviet Union between 1976 and 1991 by Soyuzmultfilm.	38 Parrots	1976
+start time	TPH Club as known as Tú Puedes Hacerlo was an Spanish children's program aired on Televisión Española between 13 September 1999 and September 2004 and hosted by Paloma Lago.	TPH Club	13 September 1999
+start time	The Ruskin Pottery was an English pottery studio founded in 1898 by Edward R. Taylor, the first Principal of both the Lincoln School of Art and the Birmingham School of Art, to be run by his son, William Howson Taylor, formerly a student there.	Ruskin Pottery	1898
+start time	Thread-locking fluid was developed by American professor Vernon K. Krieble in 1953.	Thread-locking fluid	1953
+start time	The Jicarilla War began in 1849 and was fought between the Jicarilla Apaches and the United States military in the New Mexico Territory.	Jicarilla War	1849
+start time	The Second Cabinet of Alexis Tsipras was sworn in on 23 September 2015, following the Greek legislative election in September 2015.	Second Cabinet of Alexis Tsipras	23 September 2015
+start time	The Tenth Menzies Ministry was the forty-first Australian Commonwealth ministry, and ran from 18 December 1963 to 21 January 1966.	Tenth Menzies Ministry	1963
+start time	The 53rd government of Turkey (6 March 1996 -- 28 June 1996), known as ``ANAYOL'' or ``Second Mesut Yılmaz government,'' was a coalition government formed by True Path Party (DYP) and Motherland Party (ANAP).	53rd government of Turkey	1996
+start time	The Evangelical Magazine was a monthly magazine published in London from 1793 to 1904, and aimed at Calvinist Christians.	Evangelical Magazine	1793
+time of discovery	The first discovery of the diffuse nebulous nature of the Orion Nebula is generally credited to French astronomer Nicolas-Claude Fabri de Peiresc, on 26 November 1610 when he made a record of observing it with a refracting telescope purchased by his patron Guillaume du Vair.	Orion Nebula	26 November 1610
+time of discovery	The Speyer wine bottle most likely holds wine, and was originally found in 1867, in what is now the Rhineland-Palatinate region of Germany, near the town of Speyer, one of the oldest settlements in the area.	Speyer wine bottle	1867
+time of discovery	Penicillin was discovered in 1928 by Scottish scientist Alexander Fleming.	Penicillin	1928
+time of discovery	Vidovdanka is a Late Mesolithic anthropomorphic figurine (cult image) made of terracotta regarded as symbol of the Vinča culture, which flourished in prehistoric Serbia in 5500 BC. It was excavated at 6.2 metres (20 ft) deep at Vinča, Serbia on the day of Vidovdan (hence the name) in 1930.	Vidovdanka	1930
+time of discovery	2997 Cabrera, provisional designation 1974 MJ, is a main-belt asteroid discovered by the Felix Aguilar Observatory at Leoncito Astronomical Complex, Argentina, on 17 June 1974.	2997 Cabrera	17 June 1974
+time of discovery	1784 Benguella, provisional designation 1935 MG, is an asteroid from the asteroid belt discovered by English-born South African astronomer Cyril Jackson at Union Observatory, Johannesburg on 30 June 1935.	1784 Benguella	30 June 1935
+time of discovery	The Venus of Brassempouy was discovered in the Pope's Cave in 1894, accompanied by at least eight other human figures.	Venus of Brassempouy	1894
+time of discovery	Iodine was discovered by French chemist Bernard Courtois in 1811.	Iodine	1811
+time of discovery	In 2008 the extrasolar planet WASP-12b was discovered orbiting WASP-12 by the transit method.	WASP-12	2008
+time of discovery	The Esquiline Treasure is an ancient Roman silver treasure that was found in 1793 on the Esquiline Hill in Rome.	Esquiline Treasure	1793
+time of discovery	1064 Aethusa, provisional designation 1926 PA, is a main-belt asteroid, discovered by German astronomer Karl Reinmuth at Heidelberg Observatory on 2 August 1926.	1064 Aethusa	2 August 1926

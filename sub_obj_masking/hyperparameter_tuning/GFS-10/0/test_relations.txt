@@ -1,0 +1,10 @@
+author
+award received
+country
+country of origin
+director
+employer
+founder
+occupation
+screenwriter
+series

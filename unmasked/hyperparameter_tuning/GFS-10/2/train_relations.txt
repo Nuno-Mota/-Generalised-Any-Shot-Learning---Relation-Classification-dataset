@@ -1,0 +1,25 @@
+author
+cast member
+child
+constellation
+country
+country of citizenship
+date of birth
+developer
+dissolved or abolished
+employer
+father
+headquarters location
+inception
+instrument
+located in the administrative territorial entity
+member of sports team
+narrative location
+parent taxon
+participant of
+performer
+place of birth
+position played on team / speciality
+publisher
+spouse
+voice type

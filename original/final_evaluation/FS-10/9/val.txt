@@ -1,0 +1,625 @@
+IUCN conservation status	The ingenuity and adaptability of Homo sapiens has led to its becoming, arguably, the most influential species on the planet; it is currently deemed of least concern on the Red List of endangered species by the International Union for the Conservation of Nature.	Homo sapiens	least concern
+IUCN conservation status	Due to overfishing, the Chinese paddlefish is critically endangered now, and officially recognized by the People's Republic in 1983 to prevent fishing of paddlefish young or adults.	Chinese paddlefish	critically endangered
+IUCN conservation status	The Maranhão red-handed howler (Alouatta ululata) is an endangered species of howler monkey endemic to forests (for example Babaçu forests) in the northeastern Brazilian states of Ceará, Maranhão and Piauí.	Maranhão red-handed howler	endangered species
+IUCN conservation status	One, the coastal dunes milkvetch, Astragalus tener var. titi, is a rare plant treated as an endangered species on the federal level.	Astragalus tener	endangered species
+IUCN conservation status	The Siberut macaque (Macaca siberu) is a vulnerable species of macaque, which is endemic to Siberut Island in Indonesia.	Siberut macaque	vulnerable
+IUCN conservation status	The Patagonian mara is considered to be a near threatened species.	Patagonian mara	near threatened
+IUCN conservation status	Amphitecna molinae is an endangered species of plant in the Bignoniaceae family.	Amphitecna molinae	endangered species
+IUCN conservation status	The Coahuilan box turtle (Terrapene coahuila), or aquatic box turtle, is an endangered species of turtle in the Emydidae family.	Coahuilan box turtle	endangered species
+IUCN conservation status	In 2011, the Sumatran elephant has been classified as critically endangered by IUCN as the population has declined by at least 80% over the last three generations, estimated to be about 75 years.	Sumatran elephant	critically endangered
+IUCN conservation status	The South China tiger (Panthera tigris amoyensis) is a tiger subspecies that was native to the provinces of Fujian, Guangdong, Hunan, Jiangxi in southern China, and has been classified as critically endangered by IUCN since 1996 as it is possibly extinct in the wild, making it the most threatened tiger subspecies.	South China tiger	critically endangered
+IUCN conservation status	Due to ongoing habitat loss, limited range and illegal trapping for cage-bird trade, the Timor sparrow is evaluated as near threatened on the IUCN Red List of Threatened Species.	Timor sparrow	near threatened
+IUCN conservation status	The Cape eagle-owl is classified as being of least concern by the IUCN, since its range is fairly large and populations appear to be stable.	Cape eagle-owl	least concern
+IUCN conservation status	Salvelinus evasus, is a vulnerable deepwater char or trout living in the Ammersee lake in Bavaria, Southern Germany.	Salvelinus evasus	vulnerable
+IUCN conservation status	Clarias maclareni is a critically endangered species of catfish in the Clariidae family.	Clarias maclareni	critically endangered
+IUCN conservation status	The International Union for Conservation of Nature considers Lycodon alcalai to be a species of least concern, based on a survey in 2007.	Lycodon alcalai	least concern
+IUCN conservation status	The skunk frog Aromobates nocturnus is a species of critically endangered frog endemic to Trujillo State in Venezuela.	Aromobates nocturnus	critically endangered
+IUCN conservation status	Austroglanis barnardi is an endangered species of catfish (order Siluriformes).	Austroglanis barnardi	endangered species
+IUCN conservation status	Spix's red-handed howler (Alouatta discolor) is a vulnerable species of howler monkey native to the southeastern Amazon in Brazil.	Spix's red-handed howler	vulnerable
+IUCN conservation status	Eriocaulon rouxianum is a critically endangered monocotyledonous plant endemic to Mumbai and Nashik in the state of Maharashtra, India.	Eriocaulon rouxianum	critically endangered
+IUCN conservation status	Smith's dwarf chameleon or the Elandsberg dwarf chameleon, Bradypodion taeniabronchum, is an endangered species of lizard in the Chamaeleonidae family endemic to South Africa.	Smith's dwarf chameleon	endangered species
+IUCN conservation status	Lygodactylus williamsi is a critically endangered species of lizard, endemic to a small area of Tanzania.	Lygodactylus williamsi	critically endangered
+IUCN conservation status	Hogna ingens, the Deserta Grande wolf spider, is a critically endangered spider species endemic to the Deserta Grande Island of the Madeira archipelago - specifically a remote valley, the Vale de Castalheira.	Hogna ingens	critically endangered
+IUCN conservation status	Abronia deppii is an endangered species of arboreal alligator lizard, described in 1828 by Arend Friedrich August Wiegmann, which is endemic to Mexico.	Abronia deppii	endangered species
+IUCN conservation status	Telmatobius gigas is a critically endangered species of frog in the Telmatobiidae family.	Telmatobius gigas	critically endangered
+IUCN conservation status	Lethrinops microdon is an endangered species of cichlid endemic to the southern part of Lake Malawi where it occurs at depths of 35 to 100 metres (115 to 328 ft) in areas with soft substrates.	Lethrinops microdon	endangered species
+IUCN conservation status	Rothschild's 1907 book Extinct Birds included a depiction of a specimen in the Liverpool Museum which was presented as a Cuban macaw.	Cuban macaw	Extinct
+IUCN conservation status	The conservation status of Pavona bipartita has been assessed by the International Union for Conservation of Nature as being ``vulnerable''.	Pavona bipartita	vulnerable
+IUCN conservation status	The Ganges shark (Glyphis gangeticus) is a critically endangered species of requiem shark found in the Ganges River and the Brahmaputra River of India.	Ganges shark	critically endangered
+IUCN conservation status	Liparis bautingensis is listed as an endangered species.	Liparis bautingensis	endangered species
+IUCN conservation status	Eriocaulon ratnagiricum is a critically endangered monocotyledonous plant only recorded near Ratnagiri in the state of Maharashtra, India.	Eriocaulon ratnagiricum	critically endangered
+IUCN conservation status	Preuss's monkey is an endangered species, due to habitat loss and hunting.	Preuss's monkey	endangered species
+IUCN conservation status	Cochlearia tatrae is an IUCN Red List vulnerable species.	Cochlearia tatrae	vulnerable
+IUCN conservation status	The International Union for Conservation of Nature considers Lycodon butleri to be a species of least concern, based on a 2011 survey.	Lycodon butleri	least concern
+IUCN conservation status	According to the IUCN Red List of Threatened Species in 2008 the Argentine swamp rat was classified as least concern because of ``its wide distribution, presumed large population, and because it is unlikely to be declining at nearly the rate required to qualify for listing in a threatened category.''	Argentine swamp rat	least concern
+architect	Sliced Porosity Block - CapitaLand Raffles City Chengdu is a building complex built in Chengdu, China designed by Steven Holl Architects.	Sliced Porosity Block - CapitaLand Raffles City Chengdu	Steven Holl
+architect	The Capitol Skyline Hotel is a hotel located near the United States Capitol in Capitol Hill, Washington, D.C. Designed by Morris Lapidus, the hotel opened in November 1962 as the Skyline Inn, and was once part of the Best Western chain.	Capitol Skyline Hotel	Morris Lapidus
+architect	Orleans House was a Palladian villa built by the architect John James in 1710 near the Thames at Twickenham, England, for the politician and diplomat James Johnston.	Orleans House	John James
+architect	The Merchandise Mart was designed by the Chicago architectural firm of Graham, Anderson, Probst and White to be a ``city within a city''.	Merchandise Mart	Graham, Anderson, Probst and White
+architect	Hiram Bithorn Stadium (Estadio Hiram Bithorn in Spanish) is a baseball park in San Juan, Puerto Rico, operated by the municipal government of the city of San Juan.	Hiram Bithorn Stadium	San Juan
+architect	Casa Pinyol is a building designed in Reus, Catalonia, Spain, designed by the Modernist architect Pere Caselles i Tarrats.	Casa Pinyol	Pere Caselles i Tarrats
+architect	360 Architecture and Image Architects, Inc. designed Saluki Stadium and J. E. Dunn Construction Group/Holland Construction Services Joint Venture is the general contractor.	Saluki Stadium	360 Architecture
+architect	The Yodokō Guest House was built as the summer villa for the well-to-do brewer of Sakura-Masamune sake, Tazaemon Yamamura, and is the only surviving Frank Lloyd Wright residence in Japan.	Yodokō Guest House	Frank Lloyd Wright
+architect	Intiö Water Tower has been designed by architect J. S. Sirén and it was completed in 1927.	Intiö Water Tower	J. S. Sirén
+architect	Emerson Tower often referenced as Emerson Bromo-Seltzer Tower is a 15-story, 88 m (289 ft) skyscraper erected in 1911 at the corner of Eutaw and Lombard Streets in Baltimore, Maryland, designed by Joseph Evans Sperry for Bromo-Seltzer inventor ``Captain'' Isaac E. Emerson.	Emerson Bromo-Seltzer Tower	Joseph Evans Sperry
+architect	The Tour Initiale was designed by architects Jean de Mailly and Jacques Depussé and engineer Jean Prouvé who designed the building's glass facade.	Tour Initiale	Jean de Mailly
+architect	Torre El Pedregal is the tallest building in El Salvador by Mexican architect Ricardo Legorreta, located in Antiguo Cuscatlan.	Torre El Pedregal	Ricardo Legorreta
+architect	One Piccadilly Gardens opened in 2003 as part of the redevelopment of Piccadilly Gardens; the building was designed by Allies and Morrison and has large glazed facades behind a red brick grid.	One Piccadilly Gardens	Allies and Morrison
+architect	Aurora Place is the common name of Renzo Piano's award-winning office tower and residential block on Macquarie Street in Sydney, Australia.	Aurora Place	Renzo Piano
+architect	Kotelnicheskaya Embankment Building is one of seven Stalinist skyscrapers laid down in September 1947 and completed in 1952, designed by Dmitry Chechulin (then Chief Architect of Moscow) and Andrei Rostkovsky.	Kotelnicheskaya Embankment Building	Dmitry Chechulin
+architect	Immeuble Clarté is an apartment building in Geneva designed by Le Corbusier and Pierre Jeanneret starting from 1928 and built in 1931-32.	Immeuble Clarté	Le Corbusier
+architect	Villa Wartholz was designed by Heinrich von Ferstel in the historicist style in the years 1870 to 1872 for Archduke Karl Ludwig of Austria.	Villa Wartholz	Heinrich von Ferstel
+architect	Designed by César Pelli, the architect of the Petronas Towers in Malaysia, the BOK Center is the flagship project of Tulsa County's Vision 2025 long-range development initiative.	BOK Center	César Pelli
+architect	Habitation de Québec was an ensemble of buildings interconnected by Samuel de Champlain when he founded Québec during 1608.	Habitation de Québec	Samuel de Champlain
+architect	Renzo Piano, Torre Intesa Sanpaolo's architect, described the skyscraper as ``bioclimatic building'', being naturally ventilated and cooled; with a substantial amount of its power requirement to be generated from photovoltaic panels that cover the southern façade.	Torre Intesa Sanpaolo	Renzo Piano
+architect	2 Willow Road is part of a terrace of three houses in Hampstead, London designed by architect Ernő Goldfinger and completed in 1939.	2 Willow Road	Ernő Goldfinger
+architect	The Bolshoi Theatre (Russian: Большо́й теа́тр, tr. Bol'shoy Teatr. Translation: Big Theatre; IPA: (bɐlʲˈʂoj tʲɪˈatər)) is a historic theatre in Moscow, Russia, designed by architect Joseph Bové, which holds performances of ballet and opera.	Bolshoi Theatre	Joseph Bové
+architect	The Wave in Vejle is designed by Henning Larsen Architects and contains 115 luxury apartments distributed on 14,000 square metres (150,000 sq ft).	The Wave in Vejle	Henning Larsen Architects
+architect	At 60, rue des Archives, this Hôtel de Guénégaud was built between 1651 and 1655 for Jean-François de Guénégaud des Brosses, secrétaire du Roi, maître des Comptes and conseiller d'État, by François Mansart (the only hôtel particulier this architect built to have fully survived).	Hôtel de Guénégaud	François Mansart
+architect	Designed by sport architect DLR Group, PK Park has 3,000 fixed seats in the main seating bowl and a total capacity of 4,000 spectators.	PK Park	DLR Group
+architect	The architects of the new Portsmouth Dockland Stadium were Herzog & de Meuron, renowned for their design of the Allianz Arena and Beijing National Stadium.	Portsmouth Dockland Stadium	Herzog & de Meuron
+architect	King Christian VI commissioned architect Elias David Häusser to build the first Christiansborg Palace (Danish, Christiansborg Slot), and in 1733 work started on a magnificent baroque palace.	Christiansborg Palace	Elias David Häusser
+architect	Bushy House was originally built in 1663 by William Samwell for Edward Proger, at a cost of £4000, as a keeper's lodge in what was at the time North Park.	Bushy House	William Samwell
+architect	Construction of Uppatasanti Pagoda began on 12 November 2006, with the stake-driving ceremony, and completed in March 2009, built under the guidance of Than Shwe, head of Burma's ruling State Peace and Development Council.	Uppatasanti Pagoda	Than Shwe
+architect	The Pioneer Hotel, designed by Tucson architect Roy Place, was one of Tucson's first high-rise buildings.	Pioneer Hotel	Roy Place
+architect	The Walter Rudin House is a Frank Lloyd Wright-designed Marshall Erdman prefab building located at 110 Marinette Trail, Madison, Wisconsin.	Walter Rudin House	Frank Lloyd Wright
+architect	Crisler Center was designed by Dan Dworsky, a member of the 1948 Rose Bowl team.	Crisler Center	Dan Dworsky
+architect	The Panum Building was built from 1971--1986 by the architects Eva and Nils Koppel, Gert Edstrand, Poul Erik Thyrring and reflects Brutalism.	Panum Building	Eva and Nils Koppel
+architect	The Jervois is a 35-storey tower designed by Florent Nédélec and located on 89 Jervois Street in Sheung Wan, Hong Kong.	The Jervois	Florent Nédélec
+architect	W Barcelona, popularly known as the Hotel Vela (Sail Hotel) due to its shape, is a building designed by Ricardo Bofill is located in the Barceloneta district of Barcelona, in the expansion of the Port of Barcelona.	W Barcelona	Ricardo Bofill
+architect	270 Park Avenue, also known as the JPMorgan Chase Tower and formerly the Union Carbide Building, is a skyscraper in Midtown Manhattan, New York City, designed by Natalie de Blois for Skidmore, Owings & Merrill.	270 Park Avenue	Skidmore, Owings & Merrill
+architectural style	Taganka Theatre (Театр на Таганке) is a theater located in the Art Nouveau building on Taganka Square in Moscow.	Taganka Theatre	Art Nouveau
+architectural style	The Musée de l'École de Nancy is a museum devoted to the École de Nancy, an Art Nouveau movement founded in 1901 by Émile Gallé, Victor Prouvé, Louis Majorelle, Antonin Daum and Eugène Vallin in the city of Nancy in Lorraine, western France.	Musée de l'École de Nancy	Art Nouveau
+architectural style	The First United Building, formerly known and still commonly referred to as Perez-Samanillo Building, is an Art Deco building on Escolta Street in Binondo, Manila, Philippines.	First United Building	Art Deco
+architectural style	Casa Amatller (Catalan pronunciation: (ˈkazə əməʎˈʎe)) is a building in the Modernisme style in Barcelona, designed by Josep Puig i Cadafalch.	Casa Amatller	Modernisme
+architectural style	The Prima Esposizione Internazionale d'Arte Decorativa Moderna (English: First International Exposition of Modern Decorative Arts), held in Turin, Italy, in 1902 (opened 10 May), was a world arts exhibition that was important in spreading the popularity of Art Nouveau design, especially to Italy.	Prima Esposizione Internazionale d'Arte Decorativa Moderna	Art Nouveau
+architectural style	The Clockarium is a museum in Schaerbeek, in the Brussels-Capital Region, Belgium, devoted to the Art Deco ceramic clock.	Clockarium	Art Deco
+architectural style	Edificio La Nacional is an Art Deco office building located in Avenida Juárez, in the Historical Centre of Mexico City, just across the street from Palacio de Bellas Artes.The building's architect was Manuel Ortiz Monasterio.	Edificio La Nacional	Art Deco
+architectural style	Diagonal Zero Zero is an example of high-tech architecture.	Diagonal Zero Zero	high-tech architecture
+architectural style	The design is based on ancient Mayan temples, and along with other buildings by Frank Lloyd Wright, such as the A. D. German Warehouse in Wisconsin and Aline Barnsdall Hollyhock House in Hollywood, the Ennis House is sometimes referred to as an example of the Mayan Revival architecture.	Ennis House	Mayan Revival architecture
+brother	Frans Breydel was a younger brother of the painter Karel Breydel.	Frans Breydel	Karel Breydel
+brother	Hartman Bache was the youngest son of journalist Benjamin Franklin Bache (who died a week after his birth) and the great grandson of Benjamin Franklin.	Hartman Bache	Benjamin Franklin Bache
+brother	Gianstefano Ferrero's younger brother Bonifacio Ferrero also became a cardinal.	Gianstefano Ferrero	Bonifacio Ferrero
+brother	Not much is known about Zhang Tianxi's early life other than that in 354, when his older brother Zhang Zuo formally broke away from Jin, Zhang Zuo created him the Marquess of Changning.	Zhang Tianxi	Zhang Zuo
+brother	In 1608, Anaukpetlun captured Prome and made Thalun the governor of Prome.	Thalun	Anaukpetlun
+brother	Prince Constantijn of the Netherlands (given names: Constantijn Christof Frederik Aschwin; born 11 October 1969) is the third and youngest son of the former Dutch queen, Beatrix, and her husband, Claus von Amsberg, and is the younger brother of the current Dutch monarch, King Willem-Alexander of the Netherlands.	Prince Constantijn of the Netherlands	Willem-Alexander of the Netherlands
+brother	Born in Milan, Italy, Claudio Abbado was the son of violinist and composer Michelangelo Abbado, and the brother of the musician Marcello Abbado (born 1926).	Claudio Abbado	Marcello Abbado
+brother	Born in Leipzig in 1870 as the son of Wilhelm Liebknecht and the brother of Karl Liebknecht, Theodor Liebknecht studied law and worked as a lawyer in Berlin from 1899 on, becoming politically active after his brother's murder in January 1919.	Theodor Liebknecht	Karl Liebknecht
+brother	Gabriel Voisin was born at Belleville-sur-Saône, France, and his brother Charles Voisin, two years younger than him, was his main childhood companion.	Gabriel Voisin	Charles Voisin
+brother	Sarah Aaronsohn (5 January 1890 -- 9 October 1917) was a member of Nili, a ring of Jewish spies working for the British in World War I, and a sister of notable botanist Aaron Aaronsohn.	Sarah Aaronsohn	Aaron Aaronsohn
+brother	Eli Skolmen Ryg is related to several actors; she is the mother of Anne Ryg, former mother-in-law of Harald Eia, sister of Jon Skolmen and aunt of Christian and Tine Skolmen.	Eli Skolmen Ryg	Jon Skolmen
+brother	Morrison Foster (June 10, 1823 -- May 14, 1904 ), is best known as the older brother, business agent and biographer for Early American Music composer and lyricist Stephen Foster.	Morrison Foster	Stephen Foster
+brother	In 884, Li Changyan became seriously ill. He commissioned his brother Li Changfu as acting military governor, and thereafter died.	Li Changyan	Li Changfu
+brother	Thomas Rutherford Bacon came from a family of preachers: he was the son of Leonard Bacon and the brother of Leonard Woolsey Bacon, Edward Woolsey Bacon (of New London, Connecticut), and George B. Bacon, all Congregational preachers.	Thomas Rutherford Bacon	Leonard Woolsey Bacon	Edward Woolsey Bacon	George B. Bacon
+brother	Lucius Aemilius Lepidus Paullus (flourished 1st century BC) was the brother of triumvir Marcus Aemilius Lepidus and son to an elder Marcus Aemilius Lepidus.	Lucius Aemilius Lepidus Paullus	Marcus Aemilius Lepidus
+brother	Bintanath (or Bentanath) was the firstborn daughter and later Great Royal Wife of the Egyptian Pharaoh Ramesses II.	Bintanath	Ramesses
+brother	Anthony Shirley was the second son of Sir Thomas Shirley of Wiston, Sussex, and Anne Kempe, the daughter of Sir Thomas Kempe (d. 7 March 1591) of Olantigh in Wye, Kent.	Anthony Shirley	Thomas Shirley
+brother	Teleutias (Greek: Τελευτίας) was the brother of the Spartan king Agesilaus II, and a Spartan naval commander in the Corinthian War.	Teleutias	Agesilaus II
+brother	He ruled for 17 years, was given the posthumous name Xiao Jia and was succeeded by brother Yong Ji (雍己).	Xiao Jia	Yong Ji
+brother	He participated in the Second Persian invasion of Greece, as one of the four admirals of the fleet of his brother Xerxes I, and was killed in the Battle of Salamis in 480 BC. Ariabignes was the commander of the Carian and Ionian forces.	Ariabignes	Xerxes
+brother	However, during the Japanese occupation, in 1943, he was expelled from the city due to his relationship with Sutan Sjahrir -- who had married Soedjatmoko's sister Siti Wahyunah -- and participation in protests against the occupation.	Soedjatmoko	Sutan Sjahrir
+brother	It is unknown what became of Neferneferuaten Tasherit, but it has been suggested she died before Tutankhamun and Ankhesenpaaten came to the throne.	Neferneferuaten Tasherit	Tutankhamun
+brother	Cornelis Visscher (1629, Haarlem -- 1658, Haarlem), was a Dutch Golden Age engraver and the brother of Jan de Visscher and Lambert Visscher.	Cornelis Visscher	Jan de Visscher	Lambert Visscher
+brother	Nicolaus II Bernoulli, a.k.a. Niklaus Bernoulli, Nikolaus Bernoulli, (6 February 1695, Basel, Switzerland -- 31 July 1726, St. Petersburg, Russia) was a Swiss mathematician as were his father Johann Bernoulli and one of his brothers, Daniel Bernoulli.	Nicolaus II Bernoulli	Daniel Bernoulli
+brother	Archibald Campbell Swinton (15 July 1812 -- 27 November 1890), was a Scottish author and politician: the elder brother of James Rannie Swinton; and professor of civil law at Edinburgh, 1862-72.	Archibald Campbell Swinton	James Rannie Swinton
+brother	Eventually, Huan was forced to withdraw when his food supplies ran out, but Fu Sheng's older brother Fu Chang (苻萇) the Crown Prince suffered an arrow wound during the campaign, and died in winter 354.	Fu Sheng	Fu Chang
+brother	In 336 BC, Philip cemented his ties to Alexander I of Epirus by offering him the hand of his and Olympias' daughter Cleopatra in marriage, a fact that led Olympias to further isolation as she could no longer count on her brother's support.	Olympias	Alexander I of Epirus
+brother	Sayyid Jafar al-Hakim is brother to Sayyid Ali al-Hakim.	Jafar al-Hakim	Ali al-Hakim
+brother	Daughter of actress Glória Pires and singer-songwriter Fábio Júnior, Cléo Pires is also half-sister of the actor and singer-songwriter Filipe Galvão.	Cléo Pires	Filipe Galvão
+brother	Sigismund von Braun was born in Berlin in 1911, the eldest son of the East Prussian landowner and later Reich Food Minister Magnus von Braun (senior).	Sigismund von Braun	Magnus von Braun
+brother	In 1894, his half-brother Crown Prince Vajirunhis died, and Vajiravudh was appointed the new Crown Prince of Siam.	Vajiravudh	Vajirunhis
+brother	Being the younger brother of the Emperor Trần Thánh Tông and holding the position of grand chancellor of the Trần Dynasty for many years, Trần Quang Khải was one of the most important figures of the Trần family and the royal court during the reigns of emperors Thánh Tông and Nhân Tông.	Trần Quang Khải	Trần Thánh Tông
+brother	Shensheng (Chinese: 申生; pinyin: Shēnshēng, died 20 February 655 BCE), ancestral name Ji (姬), was the eldest son of Duke Xian of Jin and the Crown Prince of the State of Jin before being replaced by his half-brother Xiqi.	Shensheng	Xiqi
+brother	Hubert Marischka (27 August 1882 -- 4 December 1959), brother of Ernst Marischka, was an Austrian operetta tenor, actor, film director and screenwriter.	Hubert Marischka	Ernst Marischka
+brother	Gerard Reve was born in Amsterdam, Netherlands, and was the brother of the Slavicist and essayist Karel van het Reve, who became a staunch anti-communist in his own way; the personal rapport between the brothers was not good.	Gerard Reve	Karel van het Reve
+brother	The palace suppressed details of the adoption to obscure the origin of Cao Xun and his brother Cao Fang, but Sun Sheng's Chronicle of the House of Wei claims the brothers may have been sons of the emperor's cousin Cao Kai (曹楷).	Cao Xun	Cao Fang
+brother	Hachiun was said to have a very good relationship with his brother Hasar but a poorer one with Temüge.	Hachiun	Temüge
+brother	Sir Balan le Savage, brother of Sir Balin from Northumberland, is a minor character mentioned in various Arthurian legends.	Sir Balan	Sir Balin
+brother	Princess Margaret of Prussia (Margarete Beatrice Feodora; 22 April 1872 -- 22 January 1954) was a daughter of Frederick III, German Emperor and Victoria, Princess Royal and the younger sister of Kaiser Wilhelm II and a granddaughter of Queen Victoria.	Princess Margaret of Prussia	Wilhelm II
+brother	Cleopatra Thea was a daughter of Ptolemy VI of Egypt and Cleopatra II. She had two brothers named Ptolemy Eupator and Ptolemy respectively.	Cleopatra Thea	Ptolemy Eupator
+brother	Sir Richard Grey (1457 -- 25 June 1483) was an English knight and the half-brother of King Edward V of England.	Richard Grey	Edward V of England
+brother	Adolf Jensen (12 January 1837 -- 23 January 1879) was a German pianist, composer and music teacher, and was the brother of Gustav Jensen (1843--1895) who was a violinist and composer.	Adolf Jensen	Gustav Jensen
+brother	Dirk Verhofstadt (b. Dendermonde 1955) is a Belgian social liberal (Rawlsian) theorist and brother of former Belgian prime minister Guy Verhofstadt.	Dirk Verhofstadt	Guy Verhofstadt
+brother	Because of very limited historical sources, Vaidotas is sometimes confused with Vaidutis (Waydutte), son of Butautas and grandson of Kęstutis.	Vaidotas	Butautas
+brother	In the Book of Genesis 10:25 it reads: ``And unto Eber were born two sons: the name of one was Peleg; for in his days was the earth divided; and his brother's name was Joktan.''	Joktan	Peleg
+brother	Mao Zemin (who took Runlian 润莲 as his courtesy name) was a brother of communist leaders Mao Zedong and Mao Zetan.	Mao Zemin	Mao Zetan
+brother	According to Xenophon, Cyrus the Younger was born after the accession of his father in 424 BC. He had an elder brother, Arsicas (whose name changed to Artaxerxes II when he ascended the throne), and two younger brothers named Ostanes and Oxathres.	Cyrus the Younger	Ostanes
+brother	Andrew the Apostle (Greek: Ἀνδρέας, Andreas; from the early 1st century -- mid to late 1st century AD), also known as Saint Andrew and called in the Orthodox tradition Prōtoklētos (Πρωτόκλητος) or the First-called, was a Christian Apostle and the elder brother of Saint Peter.	Andrew the Apostle	Peter
+brother	Margaret Travolta is an American actress and a sister of actor John Travolta.	Margaret Travolta	John Travolta
+brother	Moritz Traube was a younger brother of the famous Berlin physician Ludwig Traube (physician), the co-founder of the German experimental pathology.	Moritz Traube	Ludwig Traube
+brother	Osmany Cienfuegos Gorriarán (born February 4, 1931) is a Cuban politician and older brother of Camilo Cienfuegos.	Osmany Cienfuegos	Camilo Cienfuegos
+brother	Thomas Schäuble (23 July 1948 -- 3 January 2013) was a longtime German politician and younger brother of Wolfgang Schäuble and personal friend of Winfried Kretschmann.	Thomas Schäuble	Wolfgang Schäuble
+brother	After Empress Wang was displaced by Empress Wu (later known as Wu Zetian) in 655, however, Li Zhong was caught in Empress Wu's crosshairs and was forced the yield the crown prince position to his younger brother Li Hong, born of Empress Wu, in 656.	Li Zhong	Li Hong
+brother	In July 2003, Édouard de Rothschild was made head of Rothschild & Cie Banque, the Paris-based bank he founded in 1987 with his half-brother David René de Rothschild and cousin Éric de Rothschild.	Édouard de Rothschild	David René de Rothschild
+brother	Princess Cecilie of Greece and Denmark (Greek: Πριγκίπισσα Καικιλία της Ελλάδας και Δανίας) (22 June 1911 -- 16 November 1937) was the wife of Hereditary Grand Duke Georg Donatus of Hesse and third eldest sister to Prince Philip, Duke of Edinburgh.	Princess Cecilie of Greece and Denmark	Prince Philip, Duke of Edinburgh
+brother	Edmund Hobhouse, born in London on 17 April 1817, was elder brother of Arthur Hobhouse, 1st Baron Hobhouse, and was second son of Henry Hobhouse, under-secretary of state for the home department (Home Office).	Edmund Hobhouse	Arthur Hobhouse, 1st Baron Hobhouse
+brother	Glaucon (/ˈɡlɔːkɒn/; Greek: Γλαύκων; c. 445 BC -- 4th century BC) son of Ariston, was an ancient Athenian and the philosopher Plato's older brother.	Glaucon	Plato
+brother	Andrés Pico was the younger brother of Pío Pico, who twice served as governor of Alta California.	Andrés Pico	Pío Pico
+brother	She also bore two older brothers of his, Xiao Baojuan, Xiao Baoxuan (蕭寶玄), and a younger brother, Xiao Baorong, but died in 489, when Xiao Baoyin was just two.	Xiao Baoyin	Xiao Baojuan
+brother	She named Nkosi Ntsikayezwe Sigcau's daughter HRH Princess Stella Sigcau II (Founder: Lwandlolubomvu Rural Development Project; Founder and Festival Director: Ntsikayezwe Lamampondo Cultural and Heritage Festival) after her.	Stella Sigcau	Nkosi Ntsikayezwe Sigcau
+brother	Peter Miller Cunningham was the fifth son of John Cunningham, land steward and farmer (1743--1800), and brother of Thomas Mounsey Cunningham (1776--1834) and of Allan Cunningham (1784--1842).	Peter Miller Cunningham	Allan Cunningham
+brother	Majid Al Futtaim is the brother of fellow billionaire Abdulla Al Futtaim, the head of the Al-Futtaim Group, from whom he is estranged.	Majid Al Futtaim	Abdulla Al Futtaim
+brother	On 24 April 2015, Femi Kuti headlined the 2 Kings concert alongside his brother Seun Kuti.	Femi Kuti	Seun Kuti
+brother	Martin Laciga (born January 25, 1975 in Aarberg) is a retired beach volleyball player from Switzerland, who won the silver medal in the men's beach team competition at the 1999 Beach Volleyball World Championships in Marseille, France, partnering his older brother Paul Laciga (born 1970).	Martin Laciga	Paul Laciga
+brother	Another source says that Bofu lived and contended for the throne with Queen Shen's son, King Ping of Zhou.	Bofu	King Ping of Zhou
+brother	Abbot was the fifth and youngest son of Maurice Abbot, a cloth-worker of Guildford who died in 1606, and was the brother of Archbishop George Abbot and of Robert, who became Bishop of Salisbury.	Maurice Abbot	George Abbot
+brother	After his brother Ratchis became king, Aistulf succeeded him in Friuli.	Aistulf	Ratchis
+brother	Mary Arthur McElroy (July 5, 1841 -- January 8, 1917) was the sister of the 21st President of the United States, Chester A. Arthur, and served as a hostess for his administration (1881--1885).	Mary Arthur McElroy	Chester A. Arthur
+brother	As noted in Genesis 10:26 - 10:29, Joktan became the father of Almodad and Sheleph and Hazarmaveth and Jerah and Hadoram and Uzal and Diklah and Obal and Abimael and Sheba and Ophir and Havilah and Jobab.	Uzal	Almodad	Hazarmaveth
+brother	William Henry Leonard Poe, often referred to as Henry Poe, (January 30, 1807 -- August 1, 1831) was a sailor, amateur poet and the older brother of Edgar Allan Poe and Rosalie Poe.	William Henry Leonard Poe	Edgar Allan Poe
+brother	Váli has numerous brothers including Baldr and Thor.	Váli	Thor
+brother	After James Prinsep's death, his brother Henry Thoby Prinsep published in 1844 a volume exploring the numismatist's work on collections made from Afghanistan.	James Prinsep	Henry Thoby Prinsep
+brother	Dafydd Iwan Jones was born in Brynaman in Carmarthenshire, Wales, and is the elder brother of politician Alun Ffred Jones.	Dafydd Iwan	Alun Ffred Jones
+brother	Princess Anka Obrenović (later Anka Konstantinović, Serbian Cyrillic: Анка Обреновић; 1 April 1821 -- 10 June 1868 (29 May o.s.)) was a member of the Serbian royal Obrenović dynasty as the niece of the dynasty's founder Miloš Obrenović I, Prince of Serbia.	Princess Anka Obrenović	Miloš Obrenović
+brother	Princess Shahnaz Pahlavi (Persian: شهناز پهلوی‎‎, born 27 October 1940) is the first child of the Shah of Iran, Mohammad Reza Pahlavi, and his first wife, Princess Fawzia of Egypt.	Shahnaz Pahlavi	Reza Pahlavi
+brother	A brother of King Binnya U of Hanthawaddy, Laukpya ruled the Irrawaddy delta like an independent king during his brother's 35-year reign.	Laukpya	Binnya U
+brother	In the 1530s, during the reign of King Thohanbwa of Mohnyin, Sithu Kyawhtin was governor of Salin, a strategic city on the Irrawaddy about 250 km south of Ava (Inwa).	Sithu Kyawhtin	Thohanbwa
+brother	Born in Paris, the son of Jean-André Barrot, and thus the brother of Odilon Barrot and Adolphe Barrot, Ferdinand Barrot pursued law studies and became an avocat under the Restoration.	Ferdinand Barrot	Adolphe Barrot
+brother	Besides, Cao Pi's younger brother Cao Zhang (also born to Lady Bian) had arrived in Luoyang in a hurry, resulting in rumours that he was intending to seize power from his elder brother.	Cao Pi	Cao Zhang
+brother	Catharina Ebba Horn was born as the child of the colonel Baron Krister Horn and Anna Regina Sjöblad and the sister of count Fredric Horn af Åminne and Gustaf Adolf Horn af Åminne.	Catharina Ebba Horn	Fredric Horn af Åminne	Gustaf Adolf Horn af Åminne
+canonization status	Boniface of Valperga (Italian: Bonifacio di Valperga) (died 25 April 1243), venerated as a blessed in the Catholic Church, was a thirteenth-century Bishop of Aosta.	Boniface of Valperga	blessed
+canonization status	The British Museum has in its collection an enameled reliquary sometimes misidentified as that of St. Valeria of Milan, but the reliquary is actually associated with Valerie of Limoges, a different saint.	Valeria of Milan	saint
+canonization status	Saint Alphonsa (19 August 1910 -- 28 July 1946) was a Syro-Malabar Catholic Franciscan nun who is now honoured as a saint.	Saint Alphonsa	saint
+canonization status	Eurosia (or Orosia) is the patron saint of Jaca, a city in the province of Huesca of northeastern Spain, in the Pyrenees, the center of her cult.	Eurosia	saint
+canonization status	Saint Robert of Molesme (1028 -- 17 April 1111) was a Christian saint and abbot, one of the founders of the Cistercian Order in France.	Robert of Molesme	saint
+canonization status	Saint Paschal Baylon (also Pascal or Pascual, 16 May 1540 -- 17 May 1592) was a Spanish friar and is a saint in the Roman Catholic Church.	Paschal Baylon	saint
+canonization status	Melor (also known in Latin as Melorius; in Cornish as Mylor; in French as Méloir; and other variations) was a Breton saint who, in England, was venerated particularly in Wiltshire where he was titular of Amesbury Abbey, which claimed his relics.	Melor	saint
+canonization status	Jacob of Nisibis (Syriac: ܝܥܩܘܒ ܢܨܝܒܢܝܐ‎, Yaʿqôḇ Nṣîḇnāyâ; died c. AD 338 or 350), is an Assyrian saint.	Jacob of Nisibis	saint
+canonization status	Saint Benedict Joseph Labre, T.O.S.F., (French: Benoît-Joseph Labre) (25 March 1748 -- 16 April 1783) was a French mendicant, Franciscan tertiary and Catholic saint.	Benedict Joseph Labre	Catholic saint
+canonization status	In the Eastern Orthodox Church, Eastern Catholic Churches, and the Oriental Orthodox Churches, Saints Cosmas and Damian are venerated as a type of saint known as Unmercenary Physicians (Greek: ἀνάργυροι, anargyroi, ``without money'').	Saints Cosmas and Damian	saint
+canonization status	Saint Magnus of Anagni (Italian: San Magno di Anagni), also known as Magnus of Trani or Magnus of Fabrateria Vetus, is venerated as the patron saint of Anagni.	Magnus of Anagni	saint
+canonization status	Maria Bertilla Boscardin (1888--1922) was an Italian nun and nurse who displayed a pronounced devotion to duty in working with sick children and victims of the air raids of World War I. She was later canonised a saint by the Roman Catholic Church.	Maria Bertilla Boscardin	saint
+canonization status	The Orthodox Church considers Mark of Ephesus a saint, calling him, together with St. Photius the Great and St. Gregory Palamas, a Pillar of Orthodoxy.	Mark of Ephesus	saint
+canonization status	Saint Felix of Nicosia, O.F.M. Cap., (Italian: Felice di Nicosia) (November 5, 1715 -- May 31, 1787), was a Capuchin friar, and is honored as a saint in the Roman Catholic Church.	Felix of Nicosia	saint
+canonization status	Palladius of Antioch, Saint Palladius the Desert Dweller (died 309) is an Orthodox and Catholic saint.	Palladius of Antioch	saint
+canonization status	Thecla or Tecla (Ancient Greek: Θέκλα, Thékla) was a saint of the early Christian Church, and a reported follower of Paul the Apostle.	Thecla	saint
+canonization status	Severinus of Noricum (c. 410 -- 8 January 482) is a saint, known as the ``Apostle to Noricum''.	Severinus of Noricum	saint
+canonization status	Humbert of Maroilles (died ca. 680) was a Frankish monk, abbot, and saint.	Humbert of Maroilles	saint
+canonization status	Saint Ursinus of Bourges (French: Ursin) (3rd or 4th century) is venerated as a saint by the Catholic Church and is considered the first bishop of Bourges.	Ursinus of Bourges	saint
+canonization status	Saint Justus of Urgell (Catalan: Sant Just, Spanish: San Justo) (died c. 527 AD) was a Spanish bishop and saint.	Justus of Urgell	saint
+canonization status	Saint Homobonus (Italian: Sant'Omobono, German: Sankt Gutmann) is the patron saint of business people, tailors, shoemakers, and clothworkers, as well as of Cremona, Italy.	Saint Homobonus	saint
+canonization status	Saint Coloman of Stockerau (Irish: Colmán; Latin: Colomannus; died 18 October 1012) was an Irish saint.	Coloman of Stockerau	saint
+canonization status	Saint Budoc of Dol (also Budeaux or Beuzec) was a Bishop of Dol, venerated after his death as a saint in both Brittany (now in France) and Devon (now in England).	Budoc	saint
+collection	Paolo and Francesca da Rimini is a watercolour by English artist and poet Dante Gabriel Rossetti, painted in 1855 and currently housed at Tate Britain.	Paolo and Francesca da Rimini	Tate Britain
+collection	Mother and Children (also known as La Promenade) is an Impressionist painting by Pierre-Auguste Renoir that is housed in the Frick Collection.	Mother and Children	Frick Collection
+collection	Standing Cavalier is a painting by Judith Leyster in the Royal Collection.	Standing Cavalier	Royal Collection
+collection	Woman with a Lute, also known as Woman with a Lute Near a Window, is a painting created about 1662--1663 by Dutch painter Johannes Vermeer and now at the Metropolitan Museum of Art in New York.	Woman with a Lute	Metropolitan Museum of Art
+collection	Tryggevælde Runestone, designated as DR 230 under Rundata, is a runestone housed in the National Museum of Denmark, in Copenhagen.	Tryggevælde Runestone	National Museum of Denmark
+collection	The Great Masturbator (1929) is a painting by Salvador Dalí executed during the surrealist epoch, and is currently displayed at Museo Nacional Centro de Arte Reina Sofía, Madrid.	The Great Masturbator	Museo Nacional Centro de Arte Reina Sofía
+collection	The Rape of Orithyia by Boreas is a 1620 painting by Peter Paul Rubens, now in the Academy of Fine Arts Vienna.	The Rape of Orithyia by Boreas	Academy of Fine Arts Vienna
+collection	Donated by Mr. and Mrs. Sigmund Kunstadter in 1959, Woman with a Fan forms part of the permanent collection in Gallery 391B (Medieval to Modern European Painting and Sculpture) at the Art Institute of Chicago.	Woman with a Fan	Art Institute of Chicago
+collection	Portrait of Camilla Gonzaga and Her Three Sons is a painting attributed to the Italian Mannerist artist Parmigianino and others, executed around 1539-1540 and housed in the Museo del Prado, Madrid, Spain.	Portrait of Camilla Gonzaga and Her Three Sons	Museo del Prado
+collection	Saint Ambrose barring Theodosius from Milan Cathedral is a 1619--1620 painting by Anthony van Dyck, now in the National Gallery in London.	Saint Ambrose barring Theodosius from Milan Cathedral	National Gallery
+collection	Portrait of Dürer's Father at 70 (or The Painter's Father) is a 1497 oil on lime painting attributed to the German painter and printmaker Albrecht Dürer, now in the National Gallery, London.	Portrait of Dürer's Father at 70	National Gallery
+collection	The Blue Boy (c. 1770) is a full-length portrait in oil by Thomas Gainsborough, now in the Huntington Library, San Marino, California.	The Blue Boy	Huntington Library
+collection	The Worship of Venus is an oil on canvas painting by the Italian artist Titian completed between 1518--1519, housed at the Museo del Prado in Madrid, Spain.	The Worship of Venus	Museo del Prado
+collection	The Portrait of Lorenzo di Credi is a painting by the Italian Renaissance artist Perugino, dating to around 1504 and housed in the National Gallery of Art, Washington, DC, United States.	Portrait of Lorenzo di Credi	National Gallery of Art
+collection	Self-Portrait in a Striped T-shirt (1906) is a painting in oil on canvas by Henri Matisse from his Fauvism period, in the collection of Statens Museum for Kunst, Copenhagen, Denmark.	Self-Portrait in a Striped T-shirt	Statens Museum for Kunst
+collection	Team Building (Align) is a public artwork by American artist collective Type A, located on the Indianapolis Museum of Art, which is in Indianapolis, Indiana, USA.	Team Building (Align)	Indianapolis Museum of Art
+collection	The Joshua Roll is a Byzantine illuminated manuscript of highly unusual format, probably of the 10th century Macedonian Renaissance, believed to have been created by artists of the Imperial workshops in Constantinople, and now in the Vatican Library.	Joshua Roll	Vatican Library
+collection	The National Library of Wales hold the only known copy of Yny lhyvyr hwnn.	Yny lhyvyr hwnn	National Library of Wales
+collection	Cubi XXVI is an abstract sculpture by David Smith, in the National Gallery of Art Sculpture Garden in Washington, D.C., USA.	Cubi XXVI	National Gallery of Art Sculpture Garden
+collection	Pieter Tjarck is a portrait painting by the Dutch Golden Age painter Frans Hals, painted in 1638 and now in the Los Angeles County Museum of Art, Los Angeles.	Pieter Tjarck	Los Angeles County Museum of Art
+collection	Sited along Forbes Avenue near Schenley Plaza and the lawn of the University of Pittsburgh's Cathedral of Learning, Dippy stands adjacent to the entrances of the Carnegie Music Hall and the Carnegie Museum of Natural History.	Dippy	Carnegie Museum of Natural History
+collection	The couple gifted/sold their collection of miniatures, including Beauty Revealed, to the Metropolitan Museum of Art in 2006.	Beauty Revealed	Metropolitan Museum of Art
+collection	The Battle of Alexander at Issus and four others that were part of William's initial set are in the Alte Pinakothek art museum in Munich.	The Battle of Alexander at Issus	Alte Pinakothek
+collection	The Baptism of the Eunuch is a 1626 painting by the Dutch artist Rembrandt van Rijn, owned by the Museum Catharijneconvent in Utrecht since 1976.	The Baptism of the Eunuch	Museum Catharijneconvent
+collection	In 1942, Blue Horses was purchased by the Walker Art Center in Minneapolis, Minnesota through The T. B. Walker Foundation and its Gilbert M. Walker Memorial Fund.	Blue Horses	Walker Art Center
+collection	Cattleya Orchid and Three Hummingbirds (1871) is an oil on mahogany panel picture by Martin Johnson Heade acquired by the National Gallery of Art in 1982.	Cattleya Orchid and Three Hummingbirds	National Gallery of Art
+film editor	In Which We Serve is a 1942 British patriotic war film directed by Noël Coward and David Lean.	In Which We Serve	David Lean
+film editor	Vanna Vanna Pookkal (English: Colourful Flowers) is a 1992 Indian Tamil film, directed by Balu Mahendra, starring Prashanth, Mounika and Vinodhini.	Vanna Vanna Pookkal	Balu Mahendra
+film editor	A Dog's Life (1918) is a silent film written, produced and directed by Charlie Chaplin.	A Dog's Life	Charlie Chaplin
+film editor	Lage Raho Munna Bhai (pronounced (ləˈɡeː rəˈɦoː mʊnnaːˈbʱaːi) meaning ``Carry On, Munna Bhai'') is a 2006 Indian comedy film directed by Rajkumar Hirani and produced by Vidhu Vinod Chopra.	Lage Raho Munna Bhai	Rajkumar Hirani
+film editor	Schmetterlinge is a German film directed by Wolfgang Becker.	Schmetterlinge	Wolfgang Becker
+film editor	Master of the House (Danish: Du skal ære din hustru, literally Thou Shalt Honour Thy Wife) is a 1925 Danish silent drama film directed and written by acclaimed filmmaker Carl Theodor Dreyer.	Master of the House	Carl Theodor Dreyer
+film editor	Coffee and Cigarettes is the title of three short films and a 2003 anthology film by independent film director Jim Jarmusch.	Coffee and Cigarettes	Jim Jarmusch
+film editor	According to Lee Unkrich, one of the original editors of Toy Story, a scene was cut out of the original final edit.	Toy Story	Lee Unkrich
+film editor	Hercules of the Desert (Italian: La valle dell'eco tonante) is a 1964 Italian peplum film directed by Tanio Boccia and starring Kirk Morris.	Hercules of the Desert	Tanio Boccia
+film editor	Old Wives for New is a 1918 American drama film directed by Cecil B. DeMille.	Old Wives for New	Cecil B. DeMille
+film editor	This Is Not a Film (Persian: In film nist - این فیلم نیست‎‎) is an Iranian documentary film by Jafar Panahi and Mojtaba Mirtahmasb.	This Is Not a Film	Jafar Panahi
+film editor	His Musical Career (also known as Musical Tramp) is a 1914 American comedy silent film made by Keystone Studios starring Charlie Chaplin.	His Musical Career	Charlie Chaplin
+film editor	The Howl (Italian: L'urlo) is a 1970 Italian comedy film directed by Tinto Brass.	The Howl	Tinto Brass
+film editor	3-Iron (Hangul: 빈집; RR: Bin-jip; lit. ``Empty House'') is a 2004 South Korean romantic drama film directed by Kim Ki-duk.	3-Iron	Kim Ki-duk
+film editor	Meshes of the Afternoon (1943) is a short experimental film directed by wife-and-husband team, Maya Deren and Alexander Hammid.	Meshes of the Afternoon	Maya Deren
+film editor	From What Is Before (Tagalog: Mula sa Kung Ano ang Noon) is a 2014 Filipino drama film directed by Lav Diaz.	From What Is Before	Lav Diaz
+film editor	Assassin(s) is a 1997 French drama film directed, co-written, co-edited by and starring Mathieu Kassovitz.	Assassin(s)	Mathieu Kassovitz
+film editor	True Lies is a 1994 American action comedy film written and directed by James Cameron, starring Arnold Schwarzenegger, Jamie Lee Curtis, Tom Arnold, Art Malik, Tia Carrere, Bill Paxton, Eliza Dushku, Grant Heslov and Charlton Heston.	True Lies	James Cameron
+film editor	Shoot the Living and Pray for the Dead (Italian: Prega il Morto e Ammazza il Vivo) is the original release title of the 1971 Italian dramatic spaghetti western film directed by Giuseppe Vari, and starring Klaus Kinski and Dante Maggio.	Shoot the Living and Pray for the Dead	Giuseppe Vari
+film editor	Future Lasts Forever (Turkish: ''Gelecek Uzun Sürer'') is a 2011 Turkish drama film, written and directed by Özcan Alper, starring Gaye Gürsel as an Istanbul music student who travels to south-east Turkey to record traditional music and confront her own past.	Future Lasts Forever	Özcan Alper
+film editor	Take Care of Your Scarf, Tatiana (Finnish: Pidä huivista kiinni, Tatjana), also translated as Take Care of Your Scarf, Tatjana, is a 1994 Finnish/German film directed, produced and co-written by Aki Kaurismäki.	Take Care of Your Scarf, Tatiana	Aki Kaurismäki
+film editor	Glory Sky (Greek: Ouranos) is a 1962 Greek war film directed by Takis Kanellopoulos.	Glory Sky	Takis Kanellopoulos
+film editor	Nerosubianco, styled as nEROSubianco and also released with the international title Attraction, is an Italian black comedy (part collage film) directed by Tinto Brass.	Nerosubianco	Tinto Brass
+film editor	The Seafarers is Stanley Kubrick's fourth film and third short documentary, made for the Seafarers International Union, directed in June 1953.	The Seafarers	Stanley Kubrick
+from fictional universe	Sweet refuted the rumor, saying that he conceptualized and developed the He-Man/Masters of the Universe franchise in late 1980 (two years before the release of the Universal Pictures film).	He-Man	Masters of the Universe
+from fictional universe	Tyroc is a fictional character in the DC Universe, a member of the Legion of Super-Heroes in the 30th and 31st centuries.	Tyroc	DC Universe
+from fictional universe	Leo Zelinsky is a fictional tailor in the Marvel Universe, who owns Leos Tailoring on 23rd near 8th in New York.	Leo Zelinsky	Marvel Universe
+from fictional universe	Pepper Potts will appear in the Marvel Universe:	Pepper Potts	Marvel Universe
+from fictional universe	The series takes place in Jim Lee's Wildstorm Universe, and Gen¹³'s stories and history intertwine with those from his own works, such as Wildcats and Team 7 (in fact, each of the main characters in Gen¹³ is the child of a Team 7 member).	Gen¹³	Wildstorm Universe
+from fictional universe	Dr. Terrance Thirteen (his name sometimes became corrupted to the more common ``Terrence''), known simply as Doctor Thirteen or Dr. 13, is a fictional character in comic books set in the DC Universe.	Doctor Thirteen	DC Universe
+from fictional universe	The Spacing Guild is an organization in Frank Herbert's science fiction Dune universe.	Spacing Guild	Dune universe
+from fictional universe	Aryvandaar is a fictional kingdom in the Forgotten Realms setting for the Dungeons & Dragons fantasy role-playing game.	Aryvandaar	Forgotten Realms
+from fictional universe	In the Ultimate Marvel Universe, Omega Red is an enemy of Spider-Man.	Omega Red	Marvel Universe
+from fictional universe	Sheev Palpatine (also known as Darth Sidious, or simply The Emperor) is a fictional character of the Star Wars universe, mainly portrayed by Ian McDiarmid.	Palpatine	Star Wars universe
+from fictional universe	Sunset Bain received an entry in the All-New Official Handbook of the Marvel Universe A-Z #1 (2006).	Sunset Bain	Marvel Universe
+from fictional universe	Dr. Jeremiah Arkham appears in DC Universe Online, voiced by David Jennison.	Jeremiah Arkham	DC Universe
+from fictional universe	The National Force was a fictional organization in the Marvel Universe.	National Force	Marvel Universe
+from fictional universe	Across the assorted continuities of the original Transformers universe, there have been various interpretations of Optimus Prime.	Optimus Prime	Transformers universe
+from fictional universe	Chessure is a fictional creature in the DC Universe.	Chessure	DC Universe
+from fictional universe	Like its Marvel Universe counterpart, this version of S.T.R.I.K.E. is the British division of S.H.I.E.L.D. S.T.R.I.K.E. also has ties with S.H.I.E.L.D.'s sister organization in Europe, the European Defense Initiative.	S.T.R.I.K.E.	Marvel Universe
+from fictional universe	Gorgolla, or Gargolla the Living Gargoyle is a fictional monster character from the Marvel Universe that first appeared in Strange Tales vol. 1 #74 (April 1960).	Gorgolla	Marvel Universe
+from fictional universe	B'wana Beast is a fictional character, a superhero, in the DC Universe, who can communicate with and merge animals.	B'wana Beast	DC Universe
+from fictional universe	Opul Lun Sat-Yr-9 (also spelled Sat-Yr-nin) is a fictional character and supervillainess in the Marvel Universe.	Sat-Yr-9	Marvel Universe
+from fictional universe	Greedo (or Greedo the Young) is a fictional character from the Star Wars universe.	Greedo	Star Wars universe
+from fictional universe	The Xorn entry in the Official Handbook of the Marvel Universe:	Xorn	Marvel Universe
+from fictional universe	Black Spectre has two meanings in the Marvel Universe.	Black Spectre	Marvel Universe
+from fictional universe	Natasha Irons is a fictional character, a superhero in the DC Universe and the niece of John Henry Irons (the superhero Steel).	Natasha Irons	DC Universe
+from fictional universe	The Larcenous Three is a fictional team of supervillains in the Marvel Universe.	Larcenous Three	Marvel Universe
+from fictional universe	House Harkonnen (/ˈhɑːrkoʊnən/ or /hɑːrˈkoʊnən/) is a powerful noble family in Frank Herbert's fictional Dune universe.	House Harkonnen	Dune universe
+from fictional universe	Power Pack is the first team of preteen superheroes in the Marvel Universe and the first in comics to operate without adult supervision.	Power Pack	Marvel Universe
+from fictional universe	Man-At-Arms is the primary title of Duncan, a fictional character in the Masters of the Universe franchise.	Man-At-Arms	Masters of the Universe
+from fictional universe	In the fictional fantasy setting of the Forgotten Realms, the Border Kingdoms are a fictional country.	Border Kingdoms	Forgotten Realms
+from fictional universe	This issue reveals the origin of the original Batwoman in current DC Universe continuity; she is Bruce's aunt by marriage, making Bruce and the Kate Kane Batwoman cousins.	Batwoman	DC Universe
+from fictional universe	Googam is a fictional character and that appears in the Marvel Universe.	Googam	Marvel Universe
+from fictional universe	Doctor Demonicus (Douglas Birely) is a fictional character, a supervillain in the Marvel Universe.	Doctor Demonicus	Marvel Universe
+from fictional universe	Eli Wallace is a fictional character in the Canadian-American television series Stargate Universe, a science fiction drama centering on the adventures of a present-day, multinational scientific team unable to return to Earth after an evacuation to the Ancient spaceship Destiny, which is traveling in a distant corner of the universe.	Eli Wallace	Stargate
+illustrator	Night of the Moonjellies (Simon & Schuster 1992) is a children's picture book written and illustrated by Mark Shasha.	Night of the Moonjellies	Mark Shasha
+illustrator	Awful Auntie is a children's book written by David Walliams and illustrated by Tony Ross.	Awful Auntie	Tony Ross
+illustrator	Little Brown Bushrat is a children's book by writer and illustrator Georgie Ripper, that tells the story of a little brown bushrat discovering that he has special talent.	Little Brown Bushrat	Georgie Ripper
+illustrator	``The Cats of Copenhagen'' is a posthumously-published short story written by Irish author James Joyce and illustrated by American artist Casey Sorrow.	The Cats of Copenhagen	Casey Sorrow
+illustrator	The Grouchy Ladybug, also known as The Bad-Tempered Ladybird, is a 1977 children's book written by Eric Carle Published by Greenwillow Books., best known as the author of The Very Hungry Caterpillar.	The Grouchy Ladybug	Eric Carle
+illustrator	Abel's Island is a children's novel written and illustrated by William Steig.	Abel's Island	William Steig
+illustrator	Doctor Dolittle's Caravan is a novel written by Hugh Lofting and published in 1926 by Frederick A. Stokes.	Doctor Dolittle's Caravan	Hugh Lofting
+illustrator	Captain Underpants and the Wrath of the Wicked Wedgie Woman is the fifth book in the Captain Underpants series by Dav Pilkey.	Captain Underpants and the Wrath of the Wicked Wedgie Woman	Dav Pilkey
+illustrator	The Birds of America is a book by naturalist and painter John James Audubon, containing illustrations of a wide variety of birds of the United States.	The Birds of America	John James Audubon
+illustrator	Biswasghatak is a 1974 Bengali novel by Narayan Sanyal based on the events related to the Atomic Bomb under the Manhattan Project.	Biswasghatak	Narayan Sanyal
+illustrator	Madman's Drum is a 1930 wordless novel by American artist Lynd Ward (1905--1985).	Madman's Drum	Lynd Ward
+illustrator	Comet in Moominland (Swedish: Kometjakten / Mumintrollet på kometjakt / Kometen kommer) is the second in Tove Jansson's series of Moomin books.	Comet in Moominland	Tove Jansson
+illustrator	When a Monster is Born is a children's book written by Sean Taylor and illustrated by Nick Sharratt, published in 2006.	When a Monster is Born	Nick Sharratt
+illustrator	The Little White Horse is a low fantasy children's novel by Elizabeth Goudge, first published by the University of London Press in 1946 with illustrations by C. Walter Hodges.	The Little White Horse	C. Walter Hodges
+illustrator	One Red Sun, a Counting Book is a 1998 children's picture book that emulates and includes the work of American author and illustrator Ezra Jack Keats.	One Red Sun, a Counting Book	Ezra Jack Keats
+illustrator	Call It Courage (published as The Boy Who Was Afraid in the United Kingdom) is a 1940 children's novel written and illustrated by American author Armstrong Sperry.	Call It Courage	Armstrong Sperry
+illustrator	It's Halloween is a picture book written by Jack Prelutsky and illustrated by Marylin Hafner, published in 1977.	It's Halloween	Marylin Hafner
+illustrator	The Asylum for Wayward Victorian Girls is an autobiographical/psychological thriller novel by Emilie Autumn.	The Asylum for Wayward Victorian Girls	Emilie Autumn
+illustrator	The Monster Bed is a children's book by Jeanne Willis and illustrated by Susan Varley that revolves around the twist on the common ``monsters under the bed'' story that frighten children.	The Monster Bed	Susan Varley
+illustrator	Queen Zixi of Ix, or The Story of the Magic Cloak is a children's book written by L. Frank Baum and illustrated by Frederick Richardson.	Queen Zixi of Ix	Frederick Richardson
+illustrator	Waterless Mountain is a novel by Laura Adams Armer that was awarded the Newbery Medal for excellence in American children's literature in 1932.	Waterless Mountain	Laura Adams Armer
+illustrator	Asterix in Corsica is the twentieth volume of the Asterix comic book series, by René Goscinny (stories) and Albert Uderzo (artwork).	Asterix in Corsica	Albert Uderzo
+illustrator	The Composer Is Dead is a composition for narrator and orchestra, released both as a musical recording and as a book with a CD insert, with text by Lemony Snicket, music by Nathaniel Stookey, and illustrations by Carson Ellis.	The Composer Is Dead	Carson Ellis
+language of work or name	Bismoi is a leading entertainment Assamese monthly magazine published from Guwahati, Assam since 1968.	Bismoi	Assamese
+language of work or name	Kumppani is published in Finnish and focuses on global issues.	Kumppani	Finnish
+language of work or name	The Seagull (Russian: Чайка, Chayka) is a play by Russian dramatist Anton Chekhov, written in 1895 and first produced in 1896.	The Seagull	Russian
+language of work or name	``De mallemolen'' (``The Merry-go-round'') was the Dutch entry in the Eurovision Song Contest 1977, performed in Dutch by Heddy Lester.	De mallemolen	Dutch
+language of work or name	Kampioen (meaning Champion in English) is a Dutch general interest and family magazine published in The Hague, Netherlands.	Kampioen	Dutch
+language of work or name	Le Journal Hebdomadaire (French for The Weekly Journal; often shortened to Le Journal Hebdo), was a French-language, Moroccan weekly magazine, published between 1997 and 2010.	Le Journal Hebdomadaire	French
+language of work or name	Nursery Cryme is the third studio album from the English rock band Genesis, released in November 1971 on Charisma Records.	Nursery Cryme	English
+language of work or name	Marjatta (IPA: (marjatːa)) is a Finnish female given name.	Marjatta	Finnish
+language of work or name	``Eviva España'' (alternatively ``Y Viva España'') is a Belgian pop song, originally written by composer Leo Caerts and lyricist Leo Rozenstraten in Dutch.	Y Viva España	Dutch
+language of work or name	Vancouver Magazine is an English-language lifestyle magazine focused on Vancouver, British Columbia and the Lower Mainland.	Vancouver Magazine	English
+language of work or name	``We Gather Together'' is a Christian hymn of Dutch origin written in 1597 by Adrianus Valerius as ``Wilt heden nu treden'' to celebrate the Dutch victory over Spanish forces in the Battle of Turnhout.	We Gather Together	Dutch
+language of work or name	VeryCD is a Chinese website that shares files via eD2k links.	VeryCD	Chinese
+language of work or name	Angelicuss is the first Romanian LGBT magazine and is published by Be An Angel, an LGBT rights organisation from Cluj-Napoca.	Angelicuss	Romanian
+language of work or name	Sămănătorul or Semănătorul (pronounced (səmənəˈtorul / semənəˈtorul), Romanian for ``The Sower'') was a literary and political magazine published in Romania between 1901 and 1910.	Sămănătorul	Romanian
+language of work or name	Ermione (1819) is a tragic opera (azione tragica) in two acts by Gioachino Rossini to an Italian libretto by Andrea Leone Tottola, based on the play Andromaque by Jean Racine.	Ermione	Italian
+language of work or name	Sandarbh is a bimonthly magazine on science and education in Hindi published since September, 1994 in Bhopal, India.	Sandarbh	Hindi
+language of work or name	Le Scienze is an Italian monthly science magazine, Italian edition of Scientific American.	Le Scienze	Italian
+language of work or name	Les Inrockuptibles (French pronunciation: ​(lezɛ̃ʁɔkypˈtiblə)) is a French cultural magazine.	Les Inrockuptibles	French
+language of work or name	Visão is a Portuguese news magazine published weekly in Lisbon, Portugal.	Visão	Portuguese
+language of work or name	Kom Chad Luek (Thai: คมชัดลึก; rtgs: Khom Chat Luek; literally ``Sharp, Clear, Deep'') is a mass-circulation Thai-language daily newspaper launched in 2001 and published in Bangkok, Thailand, by the Nation Multimedia Group.	Kom Chad Luek	Thai
+language of work or name	Vsyakaya vsyachina (Russian: ``Всякая всячина'', which may be translated as Tutti-Frutti or All Sorts and Sundries) was a Russian weekly magazine, established in 1769.	Vsyakaya vsyachina	Russian
+language of work or name	Le Parisien (French pronunciation: ​(ləpaʁiˈzjɛ̃); French for ``The Parisian'') is a French daily newspaper covering both international and national news, and local news of Paris and its suburbs.	Le Parisien	French
+language of work or name	A Tragedian in Spite of Himself (Russian: Трагик поневоле, also known as A Reluctant Tragic Hero) is an 1899 one-act play by Anton Chekhov.	A Tragedian in Spite of Himself	Russian
+language of work or name	Kladivo (meaning Hammer in English) was a Slovene and German language cultural-political magazine published from Klagenfurt, Austria, from 1970 to 1989.	Kladivo	German
+language of work or name	Hospodářské noviny (English: ``Economic Newspaper'') is a daily newspaper in Prague, the Czech Republic.	Hospodářské noviny	Czech
+language of work or name	``Het is een nacht... (Levensecht)'' (English: ``It is a Night... (Lifelike)'') is the debut single by Dutch artist Guus Meeuwis.	Het is een nacht... (Levensecht)	Dutch
+language of work or name	With the Beatles is the second studio album by the English rock group the Beatles.	With the Beatles	English
+language of work or name	Entekhab (Persian: انتخاب Choice in English) was a Persian language newspaper published in Iran between 1991 and 2004.	Entekhab	Persian
+language of work or name	``Jag borde förstås vetat bättre'' (``I should of course have known better'') is a single by Swedish pop group Gyllene Tider.	Jag borde förstås vetat bättre	Swedish
+language of work or name	Exame Informática is a Portuguese monthly computer magazine published in Portugal.	Exame Informática	Portuguese
+language of work or name	Pokémon Puzzle League features the same gameplay as in Panel de Pon, which is likely why Pokémon Puzzle League was not released in Japan (Panel de Pon never had an English release).	Pokémon Puzzle League	English
+language of work or name	Seura is a Finnish women's magazine published 49 issues per year in Helsinki, Finland.	Seura	Finnish
+language of work or name	Élet és Irodalom (also known as ÉS; meaning Life and Literature in English) is a weekly Hungarian magazine about literature and politics.	Élet és Irodalom	Hungarian
+language of work or name	Flappie is the name of a Dutch Christmas song written by comedian Youp van 't Hek in 1978.	Flappie	Dutch
+language of work or name	Politikin Zabavnik (Serbian Cyrillic: Политикин Забавник) is a popular magazine in Serbia, published by Politika Newspapers and Magazines.	Politikin Zabavnik	Serbian
+language of work or name	2000'e Doğru (English: Towards 2000) was a weekly Turkish news magazine.	2000'e Doğru	Turkish
+language of work or name	Valstybė (lith. for Nation, State) is a Lithuanian monthly magazine about economics, politics and leisure.	Valstybė	Lithuanian
+language of work or name	PlayStation Magazine Ufficiale, also known by the acronym PSMU, initially named as Ufficiale PlayStation Magazine and after as PlayStation 2 Magazine Ufficiale, is the Italian edition of PlayStation:	PlayStation Magazine Ufficiale	Italian
+language of work or name	Bukan Pasar Malam (English title: It's Not an All Night Fair) is an Indonesian novel that published in 1951 by Balai Pustaka.	It's Not an All Night Fair	English
+language of work or name	Vinduet (The Window in English) is a Norwegian literary magazine.	Vinduet	Norwegian
+language of work or name	The Zertifikat Deutsch (ZD) is an internationally recognized exam of German language ability.	Zertifikat Deutsch	German
+language of work or name	Le Mauricien is a French-language newspaper, based and distributed in Mauritius.	Le Mauricien	French
+language of work or name	Élie is the French equivalent of ``Elias'' or ``Elijah.''	Élie	French
+language of work or name	Ulenspiegel was a bi-weekly German satirical magazine published in Berlin after World War II. The magazine was an important cultural outlet in the new era of democracy and freedom following the fall of the Third Reich.	Ulenspiegel	German
+language of work or name	Le Siècle opposed the rise of Napoleon III. The paper's relevance waned during the Third French Republic to the point where it was forced to cease publication in 1932 due to a lack of readers.	Le Siècle	French
+language of work or name	``Vauvoja'' (English: Babies) is a song by Finnish singer Kasmir from his forthcoming second studio album.	Vauvoja	Finnish
+language of work or name	Aku Ankka (Finnish for Donald Duck) is a Finnish weekly Disney comic book magazine published by the Sanoma Magazines.	Aku Ankka	Finnish
+language of work or name	Kvir (Квир, from English queer) was a Russian gay lifestyle magazine.	Kvir	Russian
+language of work or name	IRIB Mostanad (Persian: شبکه‌ی مستند‎‎ English: Documentary channel) is a national documentary TV channel in Iran.	IRIB Mostanad	Persian
+language of work or name	Evan is a Welsh masculine given name derived from ``lefen'', a Welsh form for the name John.	Evan	Welsh
+language of work or name	Pnai Plus (Hebrew: פנאי פלוס‎, lit. Leisure Plus) is an Israeli magazine published weekly, which covers the world of entertainment and television worldwide and is a local TV guide.	Pnai Plus	Hebrew
+language of work or name	Hrvatska revija (English: Croatian Review or HR) is a Croatian quarterly published by Matica hrvatska (MH) based in Zagreb.	Hrvatska revija	Croatian
+language of work or name	Tajrobeh (Persian: تجربه‎) is an Iranian monthly magazine published in Tehran.	Tajrobeh	Persian
+language of work or name	La Padania was an Italian daily newspaper, and the official press organ of the political party Lega Nord.	La Padania	Italian
+language of work or name	France Dimanche is a French weekly celebrity news magazine published by Hachette with a circulation of about 524,000--650,000 copies.	France Dimanche	French
+language of work or name	The Souterliedekens (literal: Psalter-songs) is a Dutch metrical psalter, published in 1540 in Antwerp, and which remained very popular throughout the century.	Souterliedekens	Dutch
+language of work or name	The miller who was a wizard, a cheat and a matchmaker (title in Russian Мельник -- колдун, обманщик и сват (Melnik -- koldun, obmanshchik i svat)) -- is a Russian ballad opera in three acts with a libretto by Alexander Ablesimov that premiered on 31 January (O.S. 20 January) 1779.	The miller who was a wizard, a cheat and a matchmaker	Russian
+language of work or name	Dead Souls (Russian: Мёртвые ду́ши, Myórtvyjye dúshi) is a novel by Nikolai Gogol, first published in 1842, and widely regarded as an exemplar of 19th-century Russian literature.	Dead Souls	Russian
+language of work or name	Giochi per il mio computer (Italian: Games for my PC), also known by the acronym GMC, was an Italian magazine about computer video games and every thing concerns this topic.	Giochi per il mio computer	Italian
+language of work or name	In Portugal the single was released (in English) with a minor typing error on the front sleeve as ``What's Another Year!''	What's Another Year	English
+language of work or name	Kalevipoeg (Kalev's Son) is an epic poem by Friedrich Reinhold Kreutzwald held to be the Estonian national epic.	Kalevipoeg	Estonian
+language of work or name	José María (abbreviated José Mª) is a Spanish language male given name, usually considered a single given name rather than two names, and is a combination of the Spanish names of Joseph and Mary, the parents of Jesus Christ.	José María	Spanish
+language of work or name	The Overseas Weekly was an English-language newspaper published in Frankfurt, Germany, from 1950 to 1975.	Overseas Weekly	English
+language of work or name	Studia theologica (ISSN 1212-8570, in Czech and Slovak languages with English abstracts) is a peer-reviewed quarterly academic journal of theology, philosophy and church history.	Studia theologica	Czech
+language of work or name	Iton 77 (Hebrew: עיתון 77‎) is an Israeli monthly literature and culture magazine published in Israel.	Iton 77	Hebrew
+language of work or name	The Government Inspector, also known as The Inspector General (original title: Russian: Ревизор, Revizor, literally: ``Inspector''), is a satirical play by the Russian and Ukrainian dramatist and novelist Nikolai Gogol.	The Government Inspector	Russian
+language of work or name	Land of Scoundrels (Russian: Страна негодяев, Strana Negodyayev) is a poem by Russian poet Sergei Yesenin completed in 1923.	Land of Scoundrels	Russian
+language of work or name	Hot Vidéo is a French trade journal that covers the adult video industry.	Hot Vidéo	French
+language of work or name	Unus pro omnibus, omnes pro uno is a Latin phrase that means ``One for all, all for one'' in English.	Unus pro omnibus, omnes pro uno	Latin
+language of work or name	The bi-monthly Forum Mleczarskie Handel is the oldest Polish business magazine about the dairy products trade.	Forum Mleczarskie	Polish
+language of work or name	Winter Story 2007 is the fourth release in the Winter Story album series of South Korean boy band Shinhwa.	Winter Story 2007	Korean
+language of work or name	Donna Moderna (meaning Modern Woman in English) is an Italian language weekly women's and fashion magazine based in Milan, Italy.	Donna Moderna	Italian
+language of work or name	Don't Believe the Truth is the sixth studio album by the English rock band Oasis, released on 30 May 2005 through Big Brother Records.	Don't Believe the Truth	English
+language of work or name	Common German variants for Johannes are Johann, Hans (diminutized to Hänschen or Hänsel, known from ``Hansel and Gretel'', a fairy tale by the Grimm brothers), Hannes, Jens (from Danish) and Jan (from Dutch).	Johannes	German
+language of work or name	Game World Navigator (Russian: Навигатор игрового мира) is a Russian computer games magazine founded in 1997.	Game World Navigator	Russian
+language of work or name	Tygodnik Cieszyński (``Cieszyn Weekly'') was a weekly Polish magazine published in Cieszyn (Teschen) in 1848--1851.	Tygodnik Cieszyński	Polish
+language of work or name	In September 1981, the translator of This Earth of Mankind into English, Maxwell Lane, a staff member of the Australian Embassy in Jakarta, was recalled home by the Australian Government.	This Earth of Mankind	English
+located next to body of water	Omsk stretches along the banks of the north-flowing Irtysh at its confluence with the smaller Om River.	Omsk	Om River
+located next to body of water	Tell Hadar ('splendid hill') is an archaeological site on the eastern coast of the Sea of Galilee.	Tell Hadar	Sea of Galilee
+located next to body of water	The Palazzo Ferro Fini is located on the north bank of the Grand Canal in the section between the Ponte dell'Accademia and Piazza San Marco, opposite the Church of Santa Maria della Salute built by the 17th century architect Baldassarre Longhena.	Palazzo Ferro Fini	Grand Canal
+located next to body of water	Smith Mountain Dam is a concrete arch dam located on the Roanoke River in Virginia, creating Smith Mountain Lake.	Smith Mountain Dam	Roanoke River	Smith Mountain Lake
+located next to body of water	Merseburg ((ˈmɛɐzəbʊrk)) is a town in the south of the German state of Saxony-Anhalt on the river Saale, approx. 14 km south of Halle (Saale).	Merseburg	Saale
+located next to body of water	Kanslikajen (Swedish: ``Chancellery Quay'') is a quay in Gamla stan, the old town of Stockholm, Sweden, leading west along the southern shore of the canal Stallkanalen from Stallbron and Mynttorget to Vasabron.	Kanslikajen	Stallkanalen
+located next to body of water	The city on the Neckar is a former Imperial Free City and is the seat of Heilbronn County.	Heilbronn	Neckar
+located next to body of water	Vyadhapura was a city located along the Mekong River, likely in what is now known as Cambodia in the province of Prey Veng.	Vyadhapura	Mekong River
+located next to body of water	Kassel (German pronunciation: (ˈkasəl); spelt Cassel until 1928) is a city located on the Fulda River in northern Hesse, Germany.	Kassel	Fulda
+located next to body of water	Palazzo Grassi (also known as the Palazzo Grassi-Stucky) is an edifice in the Venetian Classical style located on the Grand Canal, between the Palazzo Moro Lin and the campo San Samuele, in Venice, Italy.	Palazzo Grassi	Grand Canal
+located next to body of water	Arfurt is a village on the river Lahn.	Arfurt	Lahn
+located next to body of water	Tartessos (Greek: Ταρτησσός) or Tartessus was a semi-mythical harbor city and the surrounding culture on the south coast of the Iberian Peninsula (in modern Andalusia, Spain), at the mouth of the Guadalquivir River.	Tartessos	Guadalquivir
+located next to body of water	Färingsö or Svartsjölandet is an island in Sweden's Lake Mälaren.	Färingsö	Mälaren
+located next to body of water	Novaya Ladoga (Russian: Но́вая Ла́дога) is a town in Volkhovsky District of Leningrad Oblast, Russia, located at the point where the Volkhov River flows into Lake Ladoga, 140 kilometers (87 mi) east of St. Petersburg.	Novaya Ladoga	Lake Ladoga
+located next to body of water	Listowel (/lɪsˈtoʊl/; Irish: Lios Tuathail, meaning ``Tuathal's ringfort'') is a Heritage town and a market town in County Kerry, Ireland, and is situated on the River Feale, 28 km (17 mi) from the county town, Tralee.	Listowel	River Feale
+located next to body of water	Eilean Aigas (NH4641) (Scottish Gaelic: Eilean Àigeis, pronounced (elanˈaɡ̊ʲəʃ)) is an island in the River Beauly, Scotland, in Kiltarlity parish in traditional Inverness-shire, now Highland Region.	Eilean Aigas	River Beauly
+located next to body of water	Karelia stretches from the White Sea coast to the Gulf of Finland.	Karelia	White Sea	Gulf of Finland
+located next to body of water	The Hook of Holland (Dutch: Hoek van Holland) is a town in the southwestern corner of Holland, at the mouth of the New Waterway shipping canal into the North Sea.	Hook of Holland	North Sea
+located next to body of water	Oregon is bordered on the west by the Pacific Ocean, on the north by Washington, on the south by California, on the east by Idaho, and on the southeast by Nevada.	Oregon	Pacific Ocean
+nominated for	Freedom on My Mind is a 1994 feature documentary film that premiered at the Sundance Film Festival, won that year's Grand Jury Prize for Best Documentary, and was nominated for an Academy Award for Best Documentary Feature.	Freedom on My Mind	Academy Award for Best Documentary Feature
+nominated for	Libeled Lady was nominated for the Academy Award for Best Picture.	Libeled Lady	Academy Award for Best Picture
+nominated for	At the 72nd Academy Awards, Topsy-Turvy received the Academy Award for Best Costume Design and the Academy Award for Makeup, and was nominated for Best Art Direction and Best Original Screenplay, losing these to Sleepy Hollow and American Beauty, respectively.	Topsy-Turvy	Academy Award for Best Costume Design	Academy Award for Makeup
+nominated for	No Time for Nuts was nominated for the 2007 Academy Award for Best Animated Short Film.	No Time for Nuts	Academy Award for Best Animated Short Film
+nominated for	Patrick Vollrath is a German filmmaker, best known for his short-film Everything Will Be Okay that earned him critical appraisal and several awards and nominations including Best Foreign Film Award Bronze Medal at 42nd Annual Student Film Awards, and Academy Award for Best Live Action Short Film nomination at the 88th Academy Awards.	Patrick Vollrath	Academy Award for Best Live Action Short Film
+nominated for	Black Orpheus won the Palme d'Or at the 1959 Cannes Film Festival, the 1960 Academy Award for Best Foreign Language Film, the 1960 Golden Globe Award for Best Foreign Film and the 1961 BAFTA Award for Best Foreign Language Film.	Black Orpheus	Academy Award for Best Foreign Language Film
+nominated for	Kung Fu Panda had been nominated for the Academy Award for Best Animated Feature and the Golden Globe Award for Best Animated Feature Film, but both awards were won by Pixar's WALL-E instead.	Kung Fu Panda	Academy Award for Best Animated Feature
+nominated for	On April 2, 1974, at age 10, Tatum O'Neal won the Academy Award for Best Supporting Actress and the Golden Globe Award for New Star Of The Year - Actress for her performance in Paper Moon, released in May 1973.	Tatum O'Neal	Academy Award for Best Supporting Actress
+nominated for	At the 83rd Academy Awards, The King's Speech won the Academy Award for Best Picture, Best Director (Hooper), Best Actor (Firth), and Best Original Screenplay (Seidler).	The King's Speech	Academy Award for Best Picture
+nominated for	An Officer and a Gentleman is a 1982 American drama/romance film that stars Richard Gere, Debra Winger and Louis Gossett, Jr., who won the Academy Award for Best Supporting Actor for the film, and was produced by Lorimar Productions for Paramount Pictures.	An Officer and a Gentleman	Academy Award for Best Supporting Actor
+product	Skillsoft is an American educational technology company that produces learning management system software and content.	Skillsoft	educational technology	learning management system	content
+product	Service Corporation International is an American provider of funeral goods and services as well as cemetery property and services.	Service Corporation International	funeral
+product	Listerine is a brand of antiseptic mouthwash product.	Listerine	mouthwash
+product	The Foundery or Foundry was the first London foundry for casting brass cannon for the British Board of Ordnance (later the Royal Arsenal).	The Foundery	cannon
+product	The Mir mine (Russian: Кимберлитовая алмазная трубка ``Мир'' Kimberlitovaya Almaznaya Trubka ``Mir''; English: kimberlite diamond pipe ``Peace''), also called the Mirny mine, is a former open pit diamond mine, now inactive, located in Mirny, Eastern Siberia, Russia.	Mir mine	diamond
+product	Kenner Products was an American toy company founded in 1947.	Kenner Products	toy
+product	UniFirst Corporation is a uniform rental company based in Wilmington, Massachusetts, United States, that manufactures, sells, and rents uniforms and protective clothing.	UniFirst	uniform
+product	The Buckles Mine is an historical uranium mine located approximately 4.5 km southeast of Elliot Lake, Ontario, owned and operated by Rio Algom Ltd. The site has been rehabilitated.	Buckles Mine	uranium
+product	The Titan mine is one of the largest titanium mines in Canada.	Titan mine	titanium
+product	The Juomasuo mine is one of the largest cobalt mines in Finland.	Juomasuo mine	cobalt
+product	Halo 4 was the first title released by 343 Industries in which they played a lead development role.	343 Industries	Halo 4
+product	The Coniagas Mine is an abandoned silver mine in Cobalt, Ontario, Canada, located on the western side of Cobalt Lake.	Coniagas Mine	silver
+product	The Prominent Hill Mine is a major copper, silver and gold mine in north west South Australia, 130 km south-east of Coober Pedy, which has been developed by Oxiana Limited, later to become OZ Minerals.	Prominent Hill Mine	gold
+product	With headquarters in Elswick, Newcastle upon Tyne, Armstrong Whitworth engaged in the construction of armaments, ships, locomotives, automobiles, and aircraft.	Armstrong Whitworth	aircraft
+product	The Midnite Mine is an inactive uranium mine near the American state of Washington which was operated from 1955 until 1981.	Midnite Mine	uranium
+product	In 1965, Keeley-Frontier Mine closed with a total production of 19,000,000 oz (540,000,000 g) of silver, 3,300,000 lb (1,500,000 kg) of cobalt, 27,000 lb (12,000 kg) of nickel and 10,000 lb (4,500 kg) of copper.	Keeley-Frontier Mine	silver	cobalt	nickel
+product	It also is the brand name appearing on Manwich brand sloppy joes products as well as Hunt's Snack Pack Pudding.	Hunt's	Manwich
+product	The Jericho Diamond Mine is a dormant diamond mine located in Canada's Nunavut territory.	Jericho Diamond Mine	diamond
+production company	The Mummy's Hand is a 1940 black-and-white horror film, produced by Ben Pivar for Universal Studios.	The Mummy's Hand	Universal Studios
+production company	The Saint in Palm Springs is a crime melodrama released by RKO Pictures in early 1941.	The Saint in Palm Springs	RKO Pictures
+production company	Camp Cuddly Pines Powertool Massacre is a 2005 pornographic horror comedy film released by Wicked Pictures.	Camp Cuddly Pines Powertool Massacre	Wicked Pictures
+production company	Antz is the first animated film, as well as the first CGI-animated film, by DreamWorks Animation and the second feature-length computer-animated film after Disney/Pixar's Toy Story.	Antz	DreamWorks Animation
+production company	The Hell Diggers is a 1921 silent film drama produced by Famous Players-Lasky and distributed through Paramount Pictures.	The Hell Diggers	Famous Players-Lasky
+production company	Civilian Clothes is a surviving 1920 silent film produced by Famous Players-Lasky and distributed by Paramount Pictures.	Civilian Clothes	Famous Players-Lasky
+production company	How to Hook Up Your Home Theater is a 2007 theatrical cartoon from Walt Disney Animation Studios, directed by Kevin Deters and co-directed by Stevie Wermers-Skelton.	How to Hook Up Your Home Theater	Walt Disney Animation Studios
+production company	Mr & Mrs Murder is an Australian crime comedy television series produced by FremantleMedia Australia in association with Bravado Productions which premiered on Network Ten on Wednesday 20 February 2013 at 8:30 p.m. The 13-part murder mystery series follows the adventures of married couple Nicola and Charlie Buchanan, who run an industrial cleaning business.	Mr & Mrs Murder	FremantleMedia
+production company	Passport to Pimlico is a 1949 British comedy film made by Ealing Studios and starring Stanley Holloway, Margaret Rutherford and Hermione Baddeley.	Passport to Pimlico	Ealing Studios
+production company	Song of China (Chinese: 天伦; pinyin: Tiān lún) also known as Filial Piety is a 1935 Chinese film directed by Fei Mu and Luo Mingyou for the Lianhua Film Company.	Song of China	Lianhua Film Company
+production company	The Scarlet Empress is a 1934 historical drama film made by Paramount Pictures about the life of Catherine the Great.	The Scarlet Empress	Paramount Pictures
+production company	Nacho Libre is a 2006 American comedy film directed by Jared Hess with music by Danny Elfman and written by Jared and Jerusha Hess and Mike White.	Nacho Libre	Jared and Jerusha Hess
+production company	Bluebeard's Seven Wives was a 1926 American silent comedy film produced and released by First National Pictures.	Bluebeard's Seven Wives	First National
+production company	Love Has Many Faces is a 1965 drama film in Eastman Color made by Columbia Pictures.	Love Has Many Faces	Columbia Pictures
+production company	2-Headed Shark Attack is a horror film with an ensemble cast by The Asylum, released on January 31, 2012 in the United States.	2-Headed Shark Attack	The Asylum
+production company	Fame Gurukul was an Indian prime-time show on Sony Entertainment Television (India) which premiered on 27 June 2005.	Fame Gurukul	Sony
+production company	The Blair Witch Project is a 1999 American found footage horror film written, directed and edited by Daniel Myrick and Eduardo Sánchez and produced by Haxan Films.	The Blair Witch Project	Haxan Films
+production company	Beauty for the Asking is a 1939 film drama produced by RKO Pictures, and starring Lucille Ball and Patric Knowles.	Beauty for the Asking	RKO Pictures
+production company	Hillside Cannibals is a 2006 American horror film directed by Leigh Scott and produced by The Asylum.	Hillside Cannibals	The Asylum
+production company	Sport Goofy in Soccermania is an animated television special produced by The Walt Disney Company.	Sport Goofy in Soccermania	The Walt Disney Company
+production company	Dhoom was the first action film produced by Yash Raj Films in 16 years, since Yash Chopra directed Vijay (1988).	Dhoom	Yash Raj Films
+production company	Produced by the National Film Board of Canada Cree Hunters of Mistassini received the award for Best Documentary over 30 minutes at the Canadian Film Awards as well as the Robert Flaherty Award for best one-off documentary from the British Academy of Film and Television Arts.	Cree Hunters of Mistassini	National Film Board of Canada
+production company	The score to Bride Wars was composed by Edward Shearmur, who recorded his score with a 77-piece ensemble of the Hollywood Studio Symphony at the Newman Scoring Stage at 20th Century Fox.	Bride Wars	20th Century Fox
+production company	Ye Meri Life Hai was a Hindi TV serial that aired on Sony TV.	Ye Meri Life Hai	Sony
+production company	After the success of the first film and the animated series The Real Ghostbusters, Columbia Pictures pressured the producers to make a sequel.	Ghostbusters	Columbia Pictures
+production company	Khotey Sikkey was a crime series that aired on Sony Entertainment Television (India).	Khotey Sikkey	Sony
+production company	Mounted as a title to fill out double and triple bills (a B-movie), Tennessee Champ was one of several films Metro-Goldwyn-Mayer shot in its pet process of Ansco Color, a ruddy-looking process employed on the same year's Brigadoon.	Tennessee Champ	Metro-Goldwyn-Mayer
+production company	Penguins of Madagascar is a 2014 American 3D computer-animated action comedy adventure film, produced by DreamWorks Animation and distributed by 20th Century Fox.	Penguins of Madagascar	DreamWorks Animation
+production company	The Girl Who Had Everything (1953) is a feature film directed by Richard Thorpe and produced by Armande Deutsch for Metro-Goldwyn-Mayer.	The Girl Who Had Everything	Metro-Goldwyn-Mayer
+production company	You'll Never Get Rich (Columbia Pictures) is a 1941 Hollywood musical comedy film with a wartime theme starring Fred Astaire, Rita Hayworth, Robert Benchley, Cliff Nazarro, with music and lyrics by Cole Porter.	You'll Never Get Rich	Columbia Pictures
+production company	Aqua Heroes (戀愛自由式) is a twenty episode modern series by Television Broadcasts Limited in Hong Kong.	Aqua Heroes	Television Broadcasts Limited
+production company	StarDate is a science radio program of the University of Texas at Austin McDonald Observatory, broadcast on over 360 radio stations.	StarDate	University of Texas at Austin
+production company	The First Turn-On! is a 1983 comedy film directed by Lloyd Kaufman and Michael Herz of Troma Entertainment.	The First Turn-On!	Troma Entertainment
+production company	Airline Disaster is a disaster film by The Asylum directed by John J. Willis III and starring Meredith Baxter, Scott Valentine, Lindsey McKeon and Jay Beyers.	Airline Disaster	The Asylum
+production company	Bura Na Mano Holi Hai was a one week comedy show that aired on Sony TV channel from March 17 to March 23.	Bura Na Mano Holi Hai	Sony
+production company	Down to Their Last Yacht is a 1934 comedy adventure produced and distributed by RKO Pictures.	Down to Their Last Yacht	RKO Pictures
+production company	Alice's Day at Sea is an animated short film that is part of the Alice Comedies that were released by The Walt Disney Company in 1924.	Alice's Day at Sea	The Walt Disney Company
+production company	Thar She Blows! is a 1931 short Australian film, the first production from Cinesound Productions.	Thar She Blows!	Cinesound Productions
+production company	Bluebeard's Eighth Wife is a 1938 American romantic comedy film made by Paramount Pictures, directed by Ernst Lubitsch, and starring Claudette Colbert and Gary Cooper.	Bluebeard's Eighth Wife	Paramount Pictures
+production company	Hum Pardesi Ho Gaye was a Hindi language Indian television series that aired on Sony TV, which premiered on March 4, 2001.	Hum Pardesi Ho Gaye	Sony
+production company	Tinker Bell and the Great Fairy Rescue is a 2010 computer-animated comedy adventure film and the third installment of the Disney Fairies franchise produced by DisneyToon Studios.	Tinker Bell and the Great Fairy Rescue	DisneyToon Studios
+production company	Xinwen Lianbo (, literally ``News Simulcast'') is a daily news programme produced by China Central Television (CCTV).	Xinwen Lianbo	China Central Television
+production company	Ramona and Beezus was released in theaters on July 23, 2010, by 20th Century Fox and Walden Media to 2,719 theaters nationwide, and was rated G by MPAA, becoming the studio's fourth film to be rated G since 1997's Anastasia.	Ramona and Beezus	20th Century Fox
+production company	Napoleon Dynamite is a 2004 American comedy film written by Jared and Jerusha Hess and directed by Jared Hess.	Napoleon Dynamite	Jared and Jerusha Hess
+production company	La orgía de los muertos (translated as The Orgy of the Dead) or the The Hanging Woman (title from the video release; also known as Beyond the Living Dead and Terror of the Living Dead in the US) is a 1973 horror film directed by José Luis Merino and distributed by Troma Entertainment.	The Hanging Woman	Troma Entertainment
+production company	The Ridin' Renegade (also known as The Riding Renegade) is a 1928 American Western directed by Wallace Fox for Film Booking Offices of America (FBO) starring Bob Steele, Nancy Drexel and Lafe McKee.	The Ridin' Renegade	Film Booking Offices of America
+production company	You Never Know Women is a 1926 American silent romantic drama film from director William Wellman that was produced by Famous Players-Lasky and distributed by Paramount Pictures.	You Never Know Women	Famous Players-Lasky
+production company	Code-E is a Japanese anime television series animated by Studio Deen.	Code-E	Studio Deen
+production company	Although the original planned buyer of the picture went out of business, Kubrick was able to sell Day of the Fight to RKO Pictures for $4,000, making a small benefit of $100 above the $3,900 cost of making the film.	Day of the Fight	RKO Pictures
+production company	Wish Upon a Star is a 1996 television film directed by Blair Treu, written by Jessica Barondes, and starring Katherine Heigl and Danielle Harris.	Wish Upon a Star	Blair Treu
+production company	John and Michael was co-produced by Avni and Michael Fukushima of the National Film Board of Canada.	John and Michael	National Film Board of Canada
+production company	The Wife of the Centaur is a 1924 American silent drama film directed by King Vidor, and released by Metro-Goldwyn-Mayer shortly after it formed from a merger of Metro Pictures, Goldwyn Pictures, and Mayer Pictures in April 1924.	The Wife of the Centaur	Metro-Goldwyn-Mayer
+production company	Good Deeds was released through Liongate and Tyler Perry Studios``Good Deeds''.	Good Deeds	Tyler Perry Studios
+production company	Torch Singer is a 1933 American Pre-Code Paramount Pictures film, directed by Alexander Hall and George Somnes, and starring Claudette Colbert, Ricardo Cortez, David Manners and Lyda Roberti.	Torch Singer	Paramount Pictures
+production company	Mr. Incredible and Pals is a 2005 animated short film produced by Pixar, and included as a bonus on the DVD edition of its 2004 feature film The Incredibles.	Mr. Incredible and Pals	Pixar
+production company	Blackie & Kanuto (or for some specific countries in a different version -- editing & dialogues - called Head over Hooves) is an animated comedy adventure film directed by Francis Nielsen and produced by Baleuko, Lumiq Studios, Film Investment Piedmont, Art'Mell and Talape.	Blackie & Kanuto	Lumiq Studios
+production company	Artful Kate is a one reel silent film produced and released by IMP, the Independent Moving Pictures Company.	Artful Kate	Independent Moving Pictures
+production company	The Fighting Temptations is a 2003 American musical comedy-drama film directed by Jonathan Lynn, written by Elizabeth Hunter and Saladin K. Patterson, and distributed by Paramount Pictures and MTV Films.	The Fighting Temptations	MTV Films
+production company	Half a Bride was released on June 16, 1928 by Paramount Pictures in the United States.	Half a Bride	Paramount Pictures
+production company	Jeevan Naiya is a 1936 Hindi film directed by Franz Osten, and produced by Himanshu Rai for his studio Bombay Talkies.	Jeevan Naiya	Bombay Talkies
+production company	The Pixar Story, directed by Leslie Iwerks, is a documentary of the history of Pixar Animation Studios.	The Pixar Story	Leslie Iwerks
+production company	I Am Cuba (Spanish: Soy Cuba; Russian: Я Куба, Ya Kuba) is a 1964 Soviet-Cuban film directed by Mikhail Kalatozov at Mosfilm.	I Am Cuba	Mosfilm
+production company	Walking the Streets of Moscow (Russian: Я шагаю по Москве, translit. Ya shagayu po Moskve; I walk across Moscow) is a 1963 Soviet film directed by Georgiy Daneliya and produced by Mosfilm studios.	Walking the Streets of Moscow	Mosfilm
+production company	The Saint (film series) refers to eight B movies made by RKO Pictures between 1938 and 1941, based on some of the books in British author Leslie Charteris' long-running series about the fictional character Simon Templar, better known as The Saint.	The Saint (film series)	RKO Pictures
+production company	Big Gus, What's the Fuss? (also known as Ha-Balash Ha'Amitz Shvartz and Fat Spy) was a 1973 Israeli comedy film directed by Ami Artzi and American director Lloyd Kaufman, the president of Troma Entertainment.	Big Gus, What's the Fuss?	Troma Entertainment
+programming language	Blackbox is written in C++ and contains completely original code.	Blackbox	C++
+programming language	DokuWiki is a wiki application licensed under GPLv2 and written in the PHP programming language.	DokuWiki	PHP
+programming language	Qtile is a free and open source tiling window manager written in Python for the X Window System.	Qtile	Python
+programming language	ImpressCMS is an open source content management system for building and maintaining dynamic web sites, written in the PHP programming language and using a MySQL database.	ImpressCMS	PHP
+programming language	Tigase is an open source (AGPL3) project started by Artur Hefczyc in October 2004 to develop an XMPP server implementation in Java.	Tigase	Java
+programming language	ZNC is written in C++ and licensed under the Apache License.	ZNC	C++
+programming language	Glossword is an open source tool written in PHP intended to create and publish an online multilingual dictionary, glossary, or reference.	Glossword	PHP
+programming language	Ghemical is a computational chemistry software package written in C++ and released under the GNU General Public License.	Ghemical	C++
+programming language	Its core is a computer program written in Java distributed on several hundred computers, as of September 2006, so-called YaCy-peers.	YaCy	Java
+programming language	To develop a solution that includes external C++ code may not only require a competent C++ developer, but also a PowerBuilder expert to guide the developer through the myriad subtleties of the language and the PowerBuilder Virtual Machine.	PowerBuilder	C++
+programming language	CoNTub is a software project written in Java which runs on Windows, Mac OS X, Linux and Unix Operating systems through any Java-enabled web browser.	CoNTub	Java
+programming language	Apache Roller is a Java-based Open Source ``full-featured, Multi-blog, Multi-user, and group-blog server suitable for blog sites large and small''.	Apache Roller	Java
+programming language	Remmina, written in C, is a front-end of FreeRDP, a fork of rdesktop aiming at modularizing the code, addressing various issues, and implementing new features.	Remmina	C
+programming language	EPrints is a Web and command-line application based on the LAMP architecture (but is written in Perl rather than PHP).	EPrints	Perl
+programming language	Apache Tapestry is an open-source component-oriented Java web application framework conceptually similar to JavaServer Faces and Apache Wicket.	Apache Tapestry	Java
+programming language	NetBeans is a software development platform written in Java.	NetBeans	Java
+programming language	Apache Lucene is a free and open-source information retrieval software library, originally written in Java by Doug Cutting.	Apache Lucene	Java
+programming language	Spree Commerce (also known as Spree) is an open source e-commerce solution based on Ruby on Rails.	Spree Commerce	Ruby on Rails
+programming language	Instiki is a wiki software written in Ruby on Rails, created by David Heinemeier Hansson and maintained by physicist Jacques Distler.	Instiki	Ruby
+programming language	YaST is implemented in the Ruby programming language.	YaST	Ruby
+programming language	Snes9x is an SNES emulator written in C++ with official ports for Linux, Microsoft Windows, AmigaOS 4, Mac OS X, MorphOS, iOS, PSP, and Android.	Snes9x	C++
+programming language	Tixati is a proprietary cross-platform BitTorrent client written in C++ designed to be light on system resources.	Tixati	C++
+programming language	PyPy is a Python interpreter and just-in-time compiler.	PyPy	Python
+programming language	Phire CMS is licensed under the New BSD Licence, is written using the MySQL database and the PHP programming language.	Phire CMS	PHP
+programming language	CP2K is a freely available (GPL) program, written in Fortran 2003, to perform atomistic and molecular simulations of solid state, liquid, molecular and biological systems.	CP2K	Fortran
+programming language	GNU Emacs is written in C and provides Emacs Lisp, also implemented in C, as an extension language.	GNU Emacs	C	Emacs Lisp
+programming language	Zope is a community project concerned with a free and open-source, object-oriented web application server written in the Python programming language.	Zope	Python
+programming language	SQLite (/ˌɛskjuːɛlˈlaɪt/ or /ˈsiːkwəl.laɪt/) is a relational database management system contained in a C programming library.	SQLite	C
+programming language	SimPy is a process-based discrete-event simulation framework based on standard Python.	SimPy	Python
+programming language	Pantheios is an open source C/C++ logging API library, whose design focus is performance, robustness and transparency.	Pantheios	C++
+programming language	Since the fork, ArX has been extensively rewritten in C++, with many new features.	ArX	C++
+programming language	Written in Erlang, Riak has fault tolerance data replication and automatic data distribution across the cluster for performance and resilience.	Riak	Erlang
+programming language	Waarp is a project that provides among other an open source massive file transfer monitor in Java, also known as managed file transfer.	Waarp	Java
+programming language	Epydoc is a documentation generator that processes its own lightweight markup language Epytext for Python documentation strings.	Epydoc	Python
+programming language	ImpressPages is an open-source PHP framework with built-in content editor.	ImpressPages	PHP
+programming language	Gensim is an open-source vector space modeling and topic modeling toolkit, implemented in the Python programming language, using NumPy, SciPy and optionally Cython for performance.	Gensim	Python
+programming language	JWM is written in C and uses only Xlib at a minimum.	JWM	C
+programming language	Unlike FOX, TnFOX supports only a restricted set of C++ compilers and operating systems.	TnFOX	C++
+programming language	DaviX is written in C++ and provide several command line tools and a C++ shared library.	DaviX	C++
+programming language	Because it is programmed entirely in C++, (except the first version (0.1), which was Java-based ), Xinox Software has asserted that JCreator is faster than competing Java-based Java IDEs.	JCreator	C++
+programming language	OpenLaszlo Server is a Java servlet that compiles LZX applications into executable binaries for targeted run-time environments.	OpenLaszlo	Java
+programming language	SQLAlchemy is an open source SQL toolkit and object-relational mapper (ORM) for the Python programming language released under the MIT License.	SQLAlchemy	Python
+programming language	YouTrack is cross-platform and works on any Java-enabled operating system, including Microsoft Windows, Linux (*nix), Mac OS X and Solaris.	YouTrack	Java
+replaced by	On 1 January 2015, Saint-Laurent-de-Vaux was annexed by the commune of Vaugneray.	Saint-Laurent-de-Vaux	Vaugneray
+replaced by	Eidos Interactive (/ˈaɪdɒs/) was a British software technology developer and video game publisher, now operating as Square Enix Europe.	Eidos Interactive	Square Enix Europe
+replaced by	The new Gates of Prayer, the New Union Prayer Book was announced in October 1975 as a replacement for the UPB, incorporating more Hebrew content and was updated to be more accessible to modern worshipers.	Union Prayer Book	Gates of Prayer
+replaced by	In 1955, the CIO rejoined the AFL, forming the new entity known as the American Federation of Labor-Congress of Industrial Organizations (AFL-CIO).	Congress of Industrial Organizations	AFL-CIO
+replaced by	The municipalities of Chapelle-sur-Moudon, Correvon, Denezy, Martherenges, Neyruz-sur-Moudon, Peyres-Possens, Saint-Cierges, Thierrens and Chanéaz merged on 1 January 2013 into the new municipality of Montanaire.	Chapelle-sur-Moudon	Montanaire
+replaced by	The Kasernierte Volkspolizei (KVP, German for Barracked People's Police) was the precursor to the National People's Army (NVA) in East Germany.	Kasernierte Volkspolizei	National People's Army
+replaced by	In 1806 the commune of Saint-Leu-la-Forêt merged with the neighboring commune of Taverny, resulting in the creation of the commune of Saint-Leu-Taverny.	Saint-Leu-la-Forêt	Saint-Leu-Taverny
+replaced by	For a brief time between 1927 and 1931 the Northern Territory was divided into North Australia and Central Australia at the 20th parallel of South latitude.	Northern Territory	Central Australia
+site of astronomical discovery	1581 Abanderada (1950 LA1) is a main belt asteroid discovered on June 15, 1950, by Miguel Itzigsohn at the La Plata Astronomical Observatory in La Plata, Argentina.	1581 Abanderada	La Plata Astronomical Observatory
+site of astronomical discovery	7389 Michelcombes (1982 UE) is a main-belt asteroid discovered on October 17, 1982 by E. Bowell at the Anderson Mesa Station of the Lowell Observatory.	7389 Michelcombes	Anderson Mesa Station
+site of astronomical discovery	6229 Tursachan (1983 VN7) is a main-belt asteroid discovered on November 4, 1983 by B. A. Skiff at the Anderson Mesa Station of the Lowell Observatory.	6229 Tursachan	Anderson Mesa Station
+site of astronomical discovery	1922 Zulu, provisional designation 1949 HC, is an outer main-belt asteroid discovered on April 25, 1949 by Ernest Leonard Johnson at Johannesburg Union Observatory in South Africa.	1922 Zulu	Union Observatory
+site of astronomical discovery	498 Tokio (1902 KU) is a main-belt asteroid discovered on December 2, 1902 by Auguste Charlois at the Nice Observatory.	498 Tokio	Nice Observatory
+site of astronomical discovery	1763 Williams, provisionally designated 1953 TN2, is a main-belt asteroid discovered on October 13, 1953 by the Indiana Asteroid Program at Goethe Link Observatory, Indiana, United States.	1763 Williams	Goethe Link Observatory
+site of astronomical discovery	21561 Masterman (1998 QR93) is a main-belt asteroid discovered on August 28, 1998 by the Lincoln Laboratory Near-Earth Asteroid Research Team at Socorro.	21561 Masterman	Lincoln Laboratory
+site of astronomical discovery	2019 van Albada, provisional designation 1935 SX1, is a main-belt asteroid discovered on September 28, 1935 by Dutch astronomer Hendrik van Gent at Leiden Southern Station, annex to the Johannesburg Observatory in South Africa.	2019 van Albada	Leiden Southern Station
+site of astronomical discovery	1189 Terentia, provisional designation 1930 SG, is a main-belt asteroid discovered on September 17, 1930, by Russian astronomer Grigory Neujmin at the Crimean Simeiz Observatory.	1189 Terentia	Simeiz Observatory
+site of astronomical discovery	4177 Kohman (1987 SS1) is an outer main-belt asteroid discovered on September 21, 1987 by Edward L. G. Bowell at the Anderson Mesa Station of the Lowell Observatory.	4177 Kohman	Anderson Mesa Station
+start time	Only one type of coin, the one-cent piece, was struck for the Prince Edward Island dollar, in 1871.	Prince Edward Island dollar	1871
+start time	Filming of Midsomer Murders began in Autumn 1996, with the first episode (``The Killings at Badger's Drift'') broadcast in the United Kingdom on 23 March 1997.	Midsomer Murders	23 March 1997
+start time	The 28th government of Turkey (25 December 1963 -- 20 February 1965) is the third coalition government of Turkey.	28th government of Turkey	1963
+start time	The Tambroni Cabinet was the cabinet of the government of Italy from 25 March 1960 to 26 July 1960.	Tambroni Cabinet	1960
+start time	Zoats were not included in the ``bestiary'' for the first (1983) and second (1984) editions of Warhammer Fantasy Battle but were brought into the 3rd (1987) edition and appeared in Warhammer Armies as an ally contingent available to the Wood Elf army.	Zoat	1983
+start time	Thirteen of the episodes were broadcast on ITV, from the pilot on 1 January 1990, until ``Goodnight Mr. Bean'' on 31 October 1995.	Mr. Bean	1 January 1990
+start time	The Second Northern War (1655--60, also First or Little Northern War) was fought between Sweden and its adversaries the Polish--	Second Northern War	1655
+start time	On the afternoon of 29 April 1975, Hubert van Es, a Saigon-based photographer for United Press International, took the iconic photo of Operation Frequent Wind of an Air America UH-1 on a rooftop picking up Vietnamese evacuees.	Operation Frequent Wind	29 April 1975
+start time	As a consequence, Dudley Borough Police was created, with effect from 1 April 1920.	Dudley Borough Police	1 April 1920
+start time	Bratteli's Second Cabinet governed Norway between 16 October 1973 and 15 January 1976.	Bratteli's Second Cabinet	1973
+start time	The Åndalsnes landings took place in Åndalsnes in Romsdal, Norway in 1940 during the Norwegian Campaign of World War II. After the German invasion of Norway in April 1940, British troops landed in Åndalsnes as part of a pincer movement to take mid-Norwegian city Trondheim.	Åndalsnes landings	April 1940
+start time	EMI Televisa Music was a record label established in 2005 as a partnership between EMI Latin and Televisa.	EMI Televisa Music	2005
+start time	The Moro III Cabinet held office from 23 February 1966 until 5 June 1968, a total of 852 days, or 2 years, 4 months and 1 day.	Moro III Cabinet	1966
+start time	The Kinakh Government was created after the Ukrainian parliament had ousted the previous Cabinet of Viktor Yushchenko on April 26, 2001; it contained most of the ministers of its predecessor.	Kinakh Government	2001
+start time	A+D Museum was founded by Stephen Kanner and Bernard Zimmerman in 2001.	A+D Museum	2001
+start time	Expedition 4 was the fourth expedition to the International Space Station (7 December 2001 - 15 June 2002).	Expedition 4	7 December 2001
+start time	Here Comes the Grump is an animated cartoon series produced by DePatie-Freleng Enterprises and aired on NBC from 1969 to 1970.	Here Comes the Grump	1969
+start time	The Mowinckel's Second Cabinet governed Norway between 15 February 1928 and 12 May 1931.	Mowinckel's Second Cabinet	1928
+start time	The Thorn Ministry was the government of Luxembourg between 15 June 1974 and 16 July 1979.	Thorn Ministry	1974
+start time	The Deepwater Horizon oil spill (also referred to as the BP oil spill, the BP oil disaster, the Gulf of Mexico oil spill, and the Macondo blowout) began on 20 April 2010 in the Gulf of Mexico on the BP-operated Macondo Prospect.	Deepwater Horizon oil spill	20 April 2010
+start time	Bondånger is a Swedish comedy TV series, originally airing over SVT 2 between 25 November 1997 -- 8 December 1998.	Bondånger	25 November 1997
+start time	The Eighty Years' War or Dutch War of Independence (1568--1648) was a revolt of the Seventeen Provinces against the political and religious hegemony of Philip II of Spain, the sovereign of the Habsburg Netherlands.	Eighty Years' War	1568
+start time	It was established in 2005 by the merger of the previous Otto Hahn Prize for Chemistry and Physics and the Otto Hahn Prize of the City of Frankfurt am Main.	Otto Hahn Prize	2005
+start time	The Turtle-Flambeau Flowage was created in 1926 when the Chippewa and Flambeau Improvement Company built a dam on the Flambeau River downstream from its confluence with the Turtle River.	Turtle-Flambeau Flowage	1926
+start time	First broadcast on 2 September 1958, Aktuellt was Sweden's first television news programme.	Aktuellt	2 September 1958
+start time	The Bristol Fletcher Terry Homestead (also known as the Terry Homestead and Fletcher Terry House) was a historical building in Bristol, Connecticut dating to 1748.	Terry Homestead	1748
+start time	Oi frouroi tis Achaias (Greek: Οι φρουροί της Αχαΐας, ``The Guardians of Achaea'') is a Greek popular television series that was broadcast on Mega Channel in 1992.	Oi frouroi tis Achaias	1992
+start time	The 45th government of Turkey (13 December 1983 -- 21 December 1987) was the first civilian government founded after the 1980 Turkish coup d'état.	45th government of Turkey	1983
+start time	Scalextric was unveiled at the Harrogate Toy Fair in 1957 to immediate acclaim.	Scalextric	1957
+start time	The Revolt of the Batavi took place in the Roman province of Germania Inferior (S. Netherlands/North Rhineland) between AD 69 and 70.	Revolt of the Batavi	69
+start time	The Soviet invasion of Poland was a Soviet military operation that started without a formal declaration of war on 17 September 1939.	Soviet invasion of Poland	17 September 1939
+start time	The 2011 Estonian cyclists abduction was a kidnapping case involving seven Estonian cyclists who were abducted shortly after crossing into Lebanon from Syria on 23 March 2011.	2011 Estonian cyclists abduction	23 March 2011
+start time	Two Pints of Lager and a Packet of Crisps is a British comedy television series sitcom that ran from 26 February 2001 to 24 May 2011 and starred Sheridan Smith, Will Mellor, Ralf Little, Natalie Casey, Kathryn Drysdale and Luke Gell.	Two Pints of Lager and a Packet of Crisps	26 February 2001
+start time	The Mantova doping investigation is an (as of 2013) ongoing investigation for doping in cycling, centered on the Lampre cycling team, named after the Italian town Mariana Mantovana.	Mantova doping investigation	2013
+start time	The Albigensian Crusade or Cathar Crusade (1209--1229) was a 20-year military campaign initiated by Pope Innocent III to eliminate Catharism in Languedoc, in the south of France.	Albigensian Crusade	1209
+start time	The Carbon County Strikes took place in Carbon County, Utah from 1903--1904.	Carbon County Strike	1903
+start time	The Cabinet of Jarosław Kaczyński was appointed on July 14, 2006, and passed the vote of confidence in Sejm on July 19, 2006.	Cabinet of Jarosław Kaczyński	2006
+start time	Yo soy Bea is a Spanish television comedy-drama series which aired on Telecinco from 10 July 2006 to 16 August 2009.	Yo soy Bea	10 July 2006
+start time	The Anarchy was a civil war in England and Normandy between 1135 and 1154, which resulted in a widespread breakdown in law and order.	The Anarchy	1135
+start time	The University of Osuna (Spanish: Universidad de Osuna), officially the Colegio-Universidad de la Purísima Concepción en Osuna (``College-University of the Immaculate Conception in Osuna'') was a university in Osuna, Kingdom of Seville, Spain from 1548 until 1824.	University of Osuna	1548
+start time	The 29th government of Turkey (20 February 1965 -- 27 October 1965) was a caretaker government in Turkey.	29th government of Turkey	1965
+start time	The Gallipoli Campaign, also known as the Dardanelles Campaign, the Battle of Gallipoli or the Battle of Çanakkale (Turkish: Çanakkale Savaşı), was a campaign of World War I that took place on the Gallipoli peninsula (Gelibolu in modern Turkey) in the Ottoman Empire between 25 April 1915 and 9 January 1916.	Gallipoli Campaign	25 April 1915
+start time	The Sixth Menzies Ministry was the thirty-seventh Australian Commonwealth ministry, and ran from 9 July 1954 to 11 January 1956.	Sixth Menzies Ministry	1954
+stock exchange	In August 2009, Ocwen completed the distribution of its Ocwen Solutions (OS) line of business via the spin-off of a separate publicly traded company, Altisource (NASDAQ: ASPS).	Ocwen	NASDAQ
+stock exchange	SkyWest, Inc. (NASDAQ: SKYW) is the holding company for two scheduled passenger airline operations, SkyWest Airlines and ExpressJet, and an aircraft leasing company and is headquartered in St. George, Utah, USA.	SkyWest, Inc.	NASDAQ
+stock exchange	Best Buy debuted on the New York Stock Exchange in 1987.	Best Buy	New York Stock Exchange
+stock exchange	2009 Duoyuan Global Water, Inc. becomes the only water treatment equipment manufacturing company from China listed on the New York Stock Exchange, with an initial public offering on June 29 of $16.00 per share.	Duoyuan Global Water	New York Stock Exchange
+stock exchange	Himax Technologies, Inc. (NASDAQ: HIMX) is a fabless semiconductor company headquartered in Tainan City, Taiwan founded on June 12, 2001.	Himax	NASDAQ
+stock exchange	Iridium Satellite LLC merged with a special purpose acquisition company (GHQ) created by the investment bank Greenhill & Co. (NYSE: GHL) in September 2009 to create Iridium Communications, Inc. The public company trades on NASDAQ under the symbol ``IRDM''.	Iridium Communications	NASDAQ
+stock exchange	In June 1994, Ferrellgas issued partnership units of Ferrellgas Partners, L.P. on the New York Stock Exchange (NYSE) under the ticker symbol FGP.	Ferrellgas	New York Stock Exchange
+stock exchange	Internap Corporation (NASDAQ: INAP) is an Internet infrastructure provider that offers cloud hosting, colocation, Internet Protocol (IP) services, data center and Content Delivery Network (CDN) services.	Internap	NASDAQ
+stock exchange	ReachLocal, Inc. (``ReachLocal'')(NASDAQ: RLOC) is an online marketing and advertising solution provider for small, medium, and large businesses, advertising to consumers in local markets.	ReachLocal	NASDAQ
+stock exchange	Farstad Shipping has been listed on the Oslo Stock Exchange since 1988.	Farstad Shipping	Oslo Stock Exchange
+stock exchange	In 1992 Eni became a joint stock company by Law Decree, and was listed to the Italian and New York Stock Exchange in 1995.	Eni	New York Stock Exchange
+stock exchange	In 2010, A shares and H shares of Agricultural Bank of China were listed on the Shanghai Stock Exchange and the Hong Kong Stock Exchange respectively.	Agricultural Bank of China	Shanghai Stock Exchange	Hong Kong Stock Exchange
+stock exchange	On December 8, 2010, Youku was listed at the New York Stock Exchange for its first time.	Youku	New York Stock Exchange
+stock exchange	Washington Federal (NASDAQ: WAFD) is a Washington Corporation headquartered in Seattle, Washington.	Washington Federal	NASDAQ
+stock exchange	On May 17, 2001, Krispy Kreme switched to the New York Stock Exchange, with the ticker symbol KKD, which is its current symbol.	Krispy Kreme	New York Stock Exchange
+stock exchange	RPX Corporation (NASDAQ: RPXC) is an American worldwide provider of patent risk management services, offering defensive buying, acquisition syndication, patent intelligence and advisory services.	RPX Corporation	NASDAQ
+stock exchange	After listing as a NASDAQ Company in 2007, in 2013 May 23 China Sunergy opened its first international manufacturing base in Turkey.	China Sunergy	NASDAQ
+stock exchange	Gold Fields Limited is a South African gold mining firm, one of the world's largest, which is listed on both the Johannesburg Stock Exchange (JSE) and the New York Stock Exchange (NYSE).	Gold Fields	New York Stock Exchange
+stock exchange	Finally, in 2005, Essilor entered the French CAC 40 stock market.	Essilor	CAC 40
+stock exchange	Autobytel Inc. (NASDAQ: ABTL) is an automotive media and marketing services company in the United States.	Autobytel	NASDAQ
+stock exchange	TTI Telecom shares have been traded on the NASDAQ Global Market under the symbol NASDAQ:	TTI Telecom	NASDAQ
+stock exchange	JetBlue Airways Corporation (NASDAQ: JBLU), stylized as jetBlue, is an American low-cost airline and the 5th largest airline in the United States.	JetBlue	NASDAQ
+stock exchange	Swift Transportation went public once again on December 16, 2010, trading on the New York Stock Exchange (NYSE).	Swift Transportation	New York Stock Exchange
+stock exchange	Tejon Ranch is the largest private landholding in California, and today is owned by Tejon Ranch Company, a company listed on the New York Stock Exchange.	Tejon Ranch	New York Stock Exchange
+stock exchange	On May 11, 2000, Ramtron International Corporation (NASDAQ: RMTR) and its subsidiary, Enhanced Memory Systems, announced an agreement to acquire Mushkin through a merge.	Mushkin	NASDAQ
+stock exchange	WPCS International Incorporated (NASDAQ: WPCS) is an American corporation with global operations that is headquartered in Exton, Pennsylvania.	WPCS International	NASDAQ
+stock exchange	In 1979, Family Dollar stock began trading at the New York Stock Exchange.	Family Dollar	New York Stock Exchange
+stock exchange	Ultralife Corporation (NASDAQ: ULBI) is a United States company that sells products ranging from portable power solutions to communications and electronics systems.	Ultralife Corporation	NASDAQ
+stock exchange	Vivus (NASDAQ: VVUS) is a small pharmaceutical company headquartered in Mountain View, California, working in obesity, sleep, and sexual health.	Vivus	NASDAQ
+stock exchange	M.video is the largest Russian consumer electronic retail chain by revenue and the first and the only publicly traded company in its market sector, listed in Moscow Exchange.	M.video	Moscow Exchange
+stock exchange	Shares of Parker Hannifin stock (NYSE: PH) were traded on the New York Stock Exchange for the first time.	Parker Hannifin	New York Stock Exchange
+stock exchange	Visteon trades on the New York Stock Exchange.	Visteon	New York Stock Exchange
+stock exchange	After returning to public ownership on the NASDAQ on April 22, 1992, Younkers purchased the 22 stores of the H.C. Prange chain in Wisconsin and Michigan.	Younkers	NASDAQ
+time of discovery	1952 Hesburgh, provisionally designated 1951 JC, is an asteroid of the main-belt, discovered on 3 May 1951 at Goethe Link Observatory, United States by the Indiana Asteroid Program, which discovered more than a 100 minor planets during 1949--1967.	1952 Hesburgh	3 May 1951
+time of discovery	The Fornax Dwarf Spheroidal is an elliptical dwarf galaxy in the constellation Fornax that was discovered in 1938 by Harlow Shapley.	Fornax Dwarf	1938
+time of discovery	C/2013 A1 (Siding Spring) is an Oort cloud comet discovered on 3 January 2013 by Robert H. McNaught at Siding Spring Observatory using the 0.5-meter (20 in) Uppsala Southern Schmidt Telescope.	C/2013 A1	3 January 2013
+time of discovery	The Grouville Hoard is a hoard of an estimated 70,000 late Iron Age and Roman coins reported in June 2012.	Grouville Hoard	June 2012
+time of discovery	The Piraeus Athena was discovered in 1959, by workers who were drilling underground to install pipes.	Piraeus Athena	1959
+time of discovery	Samarium was discovered in 1879 by the French chemist Paul Émile Lecoq de Boisbaudran and named after the mineral samarskite from which it was isolated.	Samarium	1879
+time of discovery	The first astronomer to record the Butterfly Cluster's existence was Giovanni Battista Hodierna in 1654.	Butterfly Cluster	1654
+time of discovery	258 Tyche is a relatively large main belt asteroid discovered by Robert Luther at Düsseldorf-Bilk Observatory on 4 May 1886.	258 Tyche	4 May 1886
+time of discovery	596 Scheila is a main-belt asteroid and main-belt comet orbiting the Sun. It was discovered on 21 February 1906 by August Kopff from Heidelberg.	596 Scheila	21 February 1906
+time of discovery	Gliese 1214 b (Often shortened to GJ 1214 b) is an exoplanet that orbits the star Gliese 1214, and was discovered in December 2009.	Gliese 1214 b	2009
+time of discovery	The Canterbury Astrolabe Quadrant is a medieval astrolabe believed to date from 1388, and which was found in an archeological dig at the House of Agnes, a bed and breakfast hotel in Canterbury, Kent, England in 2005.	Canterbury Astrolabe Quadrant	2005
+time of discovery	Methylphenidate was first synthesized in 1944, and was identified as a stimulant in 1954.	Methylphenidate	1944

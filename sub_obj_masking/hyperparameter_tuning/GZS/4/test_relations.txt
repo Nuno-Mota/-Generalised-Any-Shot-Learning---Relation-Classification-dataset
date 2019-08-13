@@ -1,0 +1,10 @@
+constellation
+country of citizenship
+director
+employer
+founder
+headquarters location
+languages spoken or written
+member of political party
+member of sports team
+performer

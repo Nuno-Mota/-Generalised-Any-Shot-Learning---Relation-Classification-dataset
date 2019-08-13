@@ -1,0 +1,10 @@
+continent
+creator
+educated at
+occupation
+parent taxon
+publication date
+publisher
+sport
+taxon rank
+voice type

@@ -1,0 +1,20 @@
+brother
+cause of death
+date of official opening
+designer
+distributor
+found in taxon
+home venue
+illustrator
+manner of death
+military rank
+noble title
+parent company
+place of burial
+point in time
+product
+programming language
+religious order
+replaced by
+residence
+service entry

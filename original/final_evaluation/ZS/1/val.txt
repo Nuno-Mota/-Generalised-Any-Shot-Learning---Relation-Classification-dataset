@@ -1,0 +1,625 @@
+IUCN conservation status	The Philippine crocodile, the species endemic only to the country, became data deficient to critically endangered in 2008 from exploitation and unsustainable fishing methods, such as dynamite fishing.	Philippine crocodile	critically endangered
+IUCN conservation status	Atelopus senex (common name: pass stubfoot toad) is a critically endangered, possibly extinct species of toad in the family Bufonidae.	Atelopus senex	critically endangered
+IUCN conservation status	Pedder galaxias (Galaxias pedderensis) is a critically endangered Australian freshwater fish.	Pedder galaxias	critically endangered
+IUCN conservation status	The Andean flamingo is considered a vulnerable species due to unnatural changes in its habitat.	Andean flamingo	vulnerable
+IUCN conservation status	The adult African bush elephant generally has no natural predators due to its great size, but the calves (especially the newborns) are vulnerable to lion and crocodile attacks, and (rarely) to leopard and hyena attacks.	African bush elephant	vulnerable
+IUCN conservation status	The Monte Cristo arboreal alligator lizard (Abronia montecristoi) is an endangered species of lizard.	Monte Cristo arboreal alligator lizard	endangered species
+IUCN conservation status	The Nicobar shrew or Nicobar white-tailed shrew (Crocidura nicobarica) is a critically endangered species of mammal in the family Soricidae.	Nicobar shrew	critically endangered
+IUCN conservation status	Hygrophila madurensis is a critically endangered aquatic plant in the acanthus family.	Hygrophila madurensis	critically endangered
+IUCN conservation status	The IUCN Red List of Threatened Species lists Acropora pulchra as being of ``least concern'' because it has a large range and although often uncommon, it is the dominant species in some localities.	Acropora pulchra	least concern
+IUCN conservation status	The Potato cod, Epinephelus tukula (also called potato grouper or potato bass) is a least concern fish as labeled by the IUCN Red List, and a native fish in Australia The Potato Cod is also a native to many other Asian countries, including Malaysia.	Potato cod	least concern
+IUCN conservation status	Paretroplus polyactis is a vulnerable species of cichlid found widely in fresh and brackish water in coastal regions and associated river basins in eastern Madagascar.	Paretroplus polyactis	vulnerable
+IUCN conservation status	The Jamaican flower bat (Phyllonycteris aphylla) is a critically endangered species of bat in the family Phyllostomidae.	Jamaican flower bat	critically endangered
+IUCN conservation status	On the IUCN ``Red List of Threatened Species,'' the Kirtland's warbler was classified as vulnerable to extinction since 1994, but was downlisted to near threatened in 2005 due to its encouraging recovery.	Kirtland's warbler	near threatened
+IUCN conservation status	The Nauru reed warbler is potentially threatened by introduced predators and habitat loss, and its small range means that it could be vulnerable to chance occurrences, such as tropical cyclones.	Nauru reed warbler	vulnerable
+IUCN conservation status	The Lesser Caymans iguana (Cyclura nubila caymanensis), also known as the Cayman Brac iguana, Cayman Island brown iguana or Sister Isles iguana, is a critically endangered subspecies of the Cuban iguana (Cyclura nubila).	Cyclura nubila caymanensis	critically endangered
+IUCN conservation status	Craugastor lineatus, also known as the Montane robber frog, is a critically endangered frog in the Craugastoridae family.	Craugastor lineatus	critically endangered
+IUCN conservation status	The Buxton's jird is classified as vulnerable on the IUCN Red List.	Buxton's jird	vulnerable
+IUCN conservation status	Aponogeton ranunculiflorus, the Sehlabathebe water lily, is a tiny and endangered species of aquatic plant, that belongs to the pondweed family Aponogetonaceae.	Aponogeton ranunculiflorus	endangered species
+IUCN conservation status	Telescopus hoogstraali, common names of which are Hoogstraal's cat snake and Sinai cat snake, is an endangered species of snake in the family Colubridae.	Telescopus hoogstraali	endangered species
+IUCN conservation status	Pinus squamata, Qiaojia pine, zh: 巧家五针松) southern lacebark pine, is a critically endangered pine native to a single locality consisting of about 20 trees in northeast Yunnan, China, at about 2,200 m (7,200 ft) elevation.	Pinus squamata	critically endangered
+IUCN conservation status	Ctenosaura bakeri, also known as the Utila iguana, Baker's spinytail iguana, swamper or wishiwilly del suampo, is a critically endangered species of spinytail iguana endemic to the island of Utila, one of the Islas de la Bahía off the coast of Honduras.	Ctenosaura bakeri	critically endangered
+IUCN conservation status	While the IUCN considers the Apache trout to be critically endangered, it is listed as threatened under the Endangered Species Act.	Apache trout	critically endangered
+IUCN conservation status	Typhlichthys subterraneus is listed as near threatened on the IUCN Red List.	Typhlichthys subterraneus	near threatened
+IUCN conservation status	The Tennessee dace is listed as G3 (globally vulnerable to extirpation) and S3 (state vulnerable to extirpation and extinction).	Tennessee dace	vulnerable
+IUCN conservation status	Indian peacock softshell turtle (Nilssonia hurum) is a species of turtle found in South Asia, and is listed on the IUCN Red List as a vulnerable species.	Indian peacock softshell turtle	vulnerable
+IUCN conservation status	Franklin's bumblebee (Bombus franklini) is known to be one of the most narrowly distributed bumblebee species, making it a critically endangered bee of the western United States.	Franklin's bumblebee	critically endangered
+IUCN conservation status	The Thyolo alethe (Pseudalethe choloensis) is an endangered species of bird in the family Turdidae.	Thyolo alethe	endangered species
+IUCN conservation status	Because of range expansion, the American mink is classed as a least-concern species by the IUCN.	American mink	least-concern
+IUCN conservation status	The IUCN, however, ranks the Canada warbler as a species of least concern.	Canada warbler	least concern
+IUCN conservation status	Kemp's ridley sea turtle (Lepidochelys kempii ), or the Atlantic ridley sea turtle, is the rarest species of sea turtle and is critically endangered.	Kemp's ridley sea turtle	critically endangered
+IUCN conservation status	Torreya taxifolia became one of the first federally listed endangered plant species in the United States in 1984; the IUCN lists the species as critically endangered.	Torreya taxifolia	critically endangered
+IUCN conservation status	Streptocephalus woottoni is a federally listed endangered species of the United States.	Streptocephalus woottoni	endangered species
+IUCN conservation status	Schistura papulifera is a critically endangered species of ray-finned fish in the genus Schistura endemic to the state of Meghalaya in India.	Schistura papulifera	critically endangered
+IUCN conservation status	Barau's petrel is considered to be an endangered species.	Barau's petrel	endangered species
+architectural style	Laon Cathedral (Cathédrale Notre-Dame de Laon) is one of the most important examples of the Gothic architecture of the 12th and 13th centuries, earlier than the cathedrals of Sens and Notre Dame of Paris and ranking with them in importance.	Laon Cathedral	Gothic architecture
+architectural style	In the Spanish Colonial Revival architecture style centuries later, it was differentiated from the earlier and plainer Mission Revival style with the additional refinement of Plateresque and Churrigueresque detailing.	Plateresque	Spanish Colonial Revival architecture
+architectural style	The Tour de la Bourse was designed by Luigi Moretti and Pier Luigi Nervi and is considered to be of the International Style.	Tour de la Bourse	International Style
+architectural style	The Witte Huis (Dutch pronunciation: (ˌʋɪtə ˈɦœys)) or White House is a building and National Heritage Site in Rotterdam, Netherlands, built in 1898 in the Art Nouveau style.	Witte Huis	Art Nouveau
+architectural style	The Finley Guy Building is noteworthy for its use of Spanish Colonial Revival architecture.	Finley Guy Building	Spanish Colonial Revival architecture
+architectural style	Fotografiska is housed at Stadsgården, in a former customs house in the Art Nouveau style dating from 1906.	Fotografiska	Art Nouveau
+architectural style	Curtin House is a six storey Art Nouveau building on Swanston Street in the Melbourne city centre.	Curtin House	Art Nouveau
+cause of death	Gaetano Sanseverino died in Naples of cholera on November 16, 1865, at age 54.	Gaetano Sanseverino	cholera
+cause of death	On December 18, 1950, William Garwood died of cirrhosis due to alcoholism in Los Angeles at the age of 66.	William Garwood	cirrhosis
+cause of death	Guillaume Depardieu died on 13 October 2008, at the Garches hospital, aged 37, after contracting severe viral pneumonia at a filming location, where he had been working on a new film, L'Enfance d'Icare.	Guillaume Depardieu	pneumonia
+cause of death	Mary Martin died a month before her 77th birthday from colorectal cancer at her home in Rancho Mirage, California, on November 3, 1990.	Mary Martin	colorectal cancer
+cause of death	Melvyn Douglas died a year later, in 1981, aged 80, from pneumonia and cardiac complications in New York City.	Melvyn Douglas	pneumonia
+cause of death	Roy Dowling died of a heart attack on 15 April 1969 in Canberra Hospital.	Roy Dowling	heart attack
+cause of death	Yegor Letov died of heart failure in his sleep on 19 February 2008 at his home in Omsk.	Yegor Letov	heart failure
+cause of death	Thayer David died July 17, 1978, from a heart attack in New York City at the age of 51.	Thayer David	heart attack
+cause of death	Ingrid von Rosen died of stomach cancer in 1995, aged 65.	Ingrid von Rosen	stomach cancer
+cause of death	Steven Rothenberg died of stomach cancer in Burbank, California, on July 17, 2009, at the age of 50.	Steven Rothenberg	stomach cancer
+cause of death	George Kuchar died on 6 September 2011 in San Francisco, just past his 69th birthday on August 31, of complications related to prostate cancer.	George Kuchar	prostate cancer
+cause of death	Claire Windsor died of a heart attack on October 24, 1972 at the age of 80 in Los Angeles, California.	Claire Windsor	heart attack
+cause of death	Fred Fish died at his home in Idaho on Friday April 20, 2007 of a heart attack.	Fred Fish	heart attack
+cause of death	Junior Kimbrough died of a heart attack in 1998 in Holly Springs following a stroke, at the age of 67.	Junior Kimbrough	heart attack
+cause of death	Diane Cilento died of cancer at Cairns Base Hospital on 6 October 2011, the day after her 78th birthday.	Diane Cilento	cancer
+cause of death	Richie Ginther died of a heart attack while on vacation with his family in France on September 20, 1989.	Richie Ginther	heart attack
+cause of death	Kazi Lhendup Dorjee died of a heart attack on July 28, 2007 at his home in Kalimpong, North Bengal in the Indian State of West Bengal.	Kazi Lhendup Dorjee	heart attack
+cause of death	Rito Romero suffered a fatal heart attack on January 17, 2001.	Rito Romero	heart attack
+cause of death	From 1973 until her death from complications of a stroke in 2006, Philippa Pearce lived once again in Great Shelford, down the lane where she was raised.	Philippa Pearce	stroke
+cause of death	In 1973 Adelle Davis was diagnosed with multiple myeloma and later died of the same disease in 1974 in her home at the age of seventy.	Adelle Davis	multiple myeloma
+cause of death	Linda Kay Manns died in Fairbanks, Alaska, aged 43, on August 19, 2008, as the result of a long battle with breast cancer.	Linda Kay Manns	breast cancer
+cause of death	Thomas Peploe Wood suffered from ill health throughout his life, and succumbed to tuberculosis at the young age of 28.	Thomas Peploe Wood	tuberculosis
+cause of death	Nelson Gonçalves died of a heart attack at the age of 79.	Nelson Gonçalves	heart attack
+cause of death	Georges Baal died of a heart attack on 6 December 2013, aged 75, in Saint-Mandé, Paris, France, where he had lived since 1956.	Georges Baal	heart attack
+cause of death	Emory Rains died on March 4, 1878, of an apparent stroke, and is buried in the City Cemetery in Emory, Texas.	Emory Rains	stroke
+cause of death	Saleh Meki died on Friday, October 2, 2009, following a heart attack at the age of 62.	Saleh Meki	heart attack
+cause of death	On November 16, 1994, Nicholas Bianco died of amyotrophic lateral sclerosis (ALS), otherwise known as Lou Gehrig's disease at the Federal Medical Center (FMC) in Springfield, Missouri.	Nicholas Bianco	amyotrophic lateral sclerosis
+cause of death	On March 19, 2004, Magool died in a hospital in Amsterdam of breast cancer.	Magool	breast cancer
+cause of death	Patsy Swayze suffered a stroke in September 2013.	Patsy Swayze	stroke
+cause of death	``Captain'' Jack McDuff, as he later became known, died of heart failure at the age of 74 in Minneapolis, Minnesota.	Jack McDuff	heart failure
+cause of death	Stu Calver had an incredible vocal range, which was remarkable given that he was a cystic fibrosis sufferer.	Stu Calver	cystic fibrosis
+cause of death	John Yeon died on Sunday, March 13, 1994, in Portland of congestive heart failure.	John Yeon	heart failure
+cause of death	John Vlissides died on Thanksgiving 2005 (November 24, 2005) following a struggle with complications from a brain tumor.	John Vlissides	brain tumor
+cause of death	Major general Maxwell Murray died of a heart attack on August 4, 1948 at the age of 63 years at his home in Siasconset, Massachusetts.	Maxwell Murray	heart attack
+cause of death	Robert Berning died at his home in Fallbrook of bone cancer on July 19, 2008, at the age of 73.	Robert Berning	bone cancer
+cause of death	Georgi Georgiev-Getz died as a result of a stroke on September 2, 1996 in Sofia.	Georgi Georgiev-Getz	stroke
+cause of death	Chuck Taliano died of multiple myeloma on June 4, 2010, at his home in Beaufort, South Carolina, at the age of 65.	Chuck Taliano	multiple myeloma
+cause of death	Captain Mikey died on November 16, 1997 of leukemia at age 62 in Fremont, California.	Captain Mikey	leukemia
+cause of death	Giorgio Perlasca died of a heart attack in 1992.	Giorgio Perlasca	heart attack
+cause of death	A Canadian Youth's War followed in 2001, in which he recounted his days as a bomber pilot in World War II. Harlo Jones died on October 1, 2005, in Winnipeg, Manitoba after suffering a stroke.	Harlo Jones	stroke
+cause of death	Coccinelle was hospitalized in July 2006 following a stroke and died that October at Marseille.	Coccinelle	stroke
+cause of death	Andrew Ray died, at the age of 64, in 2003 from a heart attack.	Andrew Ray	heart attack
+cause of death	Robert Creeley died at sunrise on March 30, 2005, in Odessa, Texas of complications from pneumonia.	Robert Creeley	pneumonia
+cause of death	Roger Crozier died after a battle with cancer on January 11, 1996, at the age of 53.	Roger Crozier	cancer
+cause of death	Paul Arden died on April 2, 2008, at 67 years old, after suffering a heart attack.	Paul Arden	heart attack
+cause of death	Tabu Ley Rochereau died on 30 November 2013, aged 76, at Saint-Luc hospital in Brussels, Belgium where he had been undergoing treatment for a stroke he suffered in 2008.	Tabu Ley Rochereau	stroke
+cause of death	Kate Wilkinson died from bone cancer in 1993, aged 76.	Kate Wilkinson	bone cancer
+cause of death	Dick Haymes died from lung cancer in Los Angeles in 1980.	Dick Haymes	lung cancer
+cause of death	Four-and-a-half years later, Thelma Scott died of a heart attack at the Royal North Shore Hospital in Sydney.	Thelma Scott	heart attack
+cause of death	On April 12, 1892, Ogarita Booth Henderson died from pneumonia at age 32 while on the road with Floy Crowell's Dramatic Company in Binghamton, New York.	Ogarita Booth Henderson	pneumonia
+cause of death	Cinthia Régia Gomes do Livramento was killed in a small plane crash in Manaus, Brazil, on May 13, 2010, at the age of 46.	Cinthia Régia Gomes do Livramento	plane crash
+cause of death	The final years of Mircea Nedelciu's life witnessed his publicized struggle with Hodgkin's lymphoma, which shaped the themes in his unfinished novel, Zodia Scafandrului (``Sign of the Deep-sea Diver'').	Mircea Nedelciu	lymphoma
+cause of death	Kevin Stoney died on his 87th birthday, 22 January 2008, in Chiswick, after a long battle with skin cancer.	Kevin Stoney	skin cancer
+cause of death	On July 11, 2010, Bishop Walter Hawkins died of pancreatic cancer at the age of 61 in the family home in Ripon, California at 2:42pm.	Walter Hawkins	pancreatic cancer
+cause of death	On December 7, 2010, Federico Vairo died in a hospital in Buenos Aires, Argentina, in a battle against stomach cancer.	Federico Vairo	stomach cancer
+cause of death	Henry Brainerd McClellan died of a stroke in Lexington, Kentucky.	Henry Brainerd McClellan	stroke
+cause of death	Helen Forrest died on July 11, 1999 from congestive heart failure at the Motion Picture & Television Country House and Hospital in Woodland Hills, Los Angeles.	Helen Forrest	heart failure
+cause of death	Barbara Orbison was hospitalised from May 2011 until her death on 6 December 2011, aged 61, from pancreatic cancer, 23 years to the day after her husband's death.	Barbara Orbison	pancreatic cancer
+cause of death	In 1929, Harry Frazee died of kidney failure in his Park Avenue home with his wife and son at his side.	Harry Frazee	kidney failure
+cause of death	Forest Sale died of a heart attack on December 4, 1985, at St. Joseph Hospital in Lexington, Kentucky.	Forest Sale	heart attack
+cause of death	Ronaldo Cunha Lima died of complications from lung cancer at his family's home in João Pessoa, Brazil, on July 7, 2012, at the age of 76.	Ronaldo Cunha Lima	lung cancer
+cause of death	Mark Mandala died of a heart attack while playing golf in Dorset, Vermont, on July 11, 2009, at the age of 72.	Mark Mandala	heart attack
+cause of death	Zózimo Bulbul died from a heart attack at his apartment in the Flamengo neighborhood of Rio de Janeiro on January 24, 2013, at the age of 75.	Zózimo Bulbul	heart attack
+cause of death	Dana Wynter died on 5 May 2011 from congestive heart failure at the Ojai Valley Community Hospital's Continuing Care Center; she was 79 years old.	Dana Wynter	heart failure
+cause of death	Elin Danielson-Gambogi died of pneumonia in Antagnano and was buried in Livorno.	Elin Danielson-Gambogi	pneumonia
+cause of death	J. Fred Duckett died after a short battle with leukemia, aged 74.	J. Fred Duckett	leukemia
+cause of death	Solomon Abudarham (died 1804) was Chief Rabbi of the British Overseas Territory of Gibraltar until his death from yellow fever in December 1804.	Solomon Abudarham	yellow fever
+convicted of	Michelle Knotek is a former Raymond, Washington, woman who was convicted in 2004 of second-degree murder and manslaughter in the torture and deaths of Kathy Loreno and Ronald Woodworth, who were both boarders in Knotek's home.	Michelle Knotek	murder
+convicted of	Caleb Powers (February 1, 1869 -- July 25, 1932) was a United States Representative from Kentucky and the first Secretary of State of Kentucky convicted as an accessory to murder.	Caleb Powers	murder
+convicted of	Kenneth Biros (June 24, 1958 -- December 8, 2009) was an American convicted murderer who was sentenced to death and executed for the aggravated murder, attempted rape, aggravated robbery and felonious sexual penetration of a young woman.	Kenneth Biros	murder
+convicted of	Khadijeh Shahla Jahed (10 May 1969 -- 1 December 2010) was an Iranian nurse who was sentenced to death for her alleged involvement in the murder of her boyfriend's wife.	Shahla Jahed	murder
+convicted of	Rhoda Willis (14 August 1867 - 14 August 1907) was an English baby farmer convicted of murder.	Rhoda Willis	murder
+convicted of	Charles Thomas Wooldridge (c.1866 -- 7 July 1896) was a Trooper in the Royal Horse Guards who was executed in Reading Gaol for the murder of his wife and who, as 'C.T.W', was the dedicatee of Oscar Wilde's The Ballad of Reading Gaol.	Charles Thomas Wooldridge	murder
+convicted of	Gary Critchley (born 13 August 1962) is a British man who was convicted of murder in 1981.	Gary Critchley	murder
+convicted of	Consequently, Satpal Ram was arrested for murder and convicted in 1987.	Satpal Ram	murder
+convicted of	James Charles Kopp (born August 2, 1954) is an American citizen who was convicted in 2003 for the 1998 sniper-style murder of Barnett Slepian, an American physician from Amherst, New York who performed abortions.	James Charles Kopp	murder
+convicted of	Shareef Cousin (born 1979) is an American man who was wrongfully convicted of the murder of Michael Gerardi in 1996.	Shareef Cousin	murder
+convicted of	Glen Sabre Valance, age 21, was hanged in Adelaide Gaol for the murder of Richard Strang.	Glen Sabre Valance	murder
+convicted of	Robert Anthony Buell (September 10, 1940 -- September 24, 2002) was a former Akron, Ohio Planning Department worker, convicted of the murder of 11-year-old Krista Lea Harrison on July 17, 1982.	Robert Anthony Buell	murder
+convicted of	Edward Earl Johnson (1961 -- May 20, 1987) was a man convicted and executed by the U.S. state of Mississippi for the murder of a policeman, J.T. Trest and the sexual assault of a 69-year-old woman, Sally Franklin.	Edward Earl Johnson	murder
+convicted of	Carl Dobson (born 31 January 1983), better known by his stage name Crazy Titch, is an English Grime MC who is currently serving a life sentence for murder.	Crazy Titch	murder
+convicted of	Melady was the last person to be publicly executed in Canada when he was hanged on December 7, 1869, on the outside wall of a jail located in Goderich, Ontario, for the murder of his father, Nicholas Melady Senior and his stepmother Ellen.	Nicholas Melady	murder
+crosses	The Red Wing Bridge is a cantilever bridge which carries U.S. Route 63 across the Mississippi River from Wisconsin to Red Wing, Minnesota.	Red Wing Bridge	Mississippi River
+crosses	The Pont de Normandie is a cable-stayed road bridge that spans the river Seine linking Le Havre to Honfleur in Normandy, northern France.	Pont de Normandie	Seine
+crosses	The Quincy Rail Bridge carries rail lines across the Mississippi River between West Quincy, Missouri, and Quincy, Illinois, USA.	Quincy Rail Bridge	Mississippi River
+crosses	The Ada Bridge (Serbian: Мост на Ади / Most na Adi) or alternatively Sava Bridge is a cable-stayed bridge over the Sava river in Belgrade, Serbia.	Ada Bridge	Sava
+crosses	The Podolsko Bridge is an arch bridge that spans the Vltava between Podolsko and Temešvár in Písek District, Czech Republic.	Podolsko Bridge	Vltava
+crosses	The Henry Hudson Bridge is a steel arch toll bridge in New York City across the Spuyten Duyvil Creek.	Henry Hudson Bridge	Spuyten Duyvil Creek
+crosses	The Sault Ste. Marie International Bridge spans the St. Marys River between the United States and Canada connecting the twin cities of Sault Ste. Marie, Michigan and Sault Ste. Marie, Ontario.	Sault Ste. Marie International Bridge	St. Marys River
+crosses	Al Garhoud Bridge (In Arabic: جسر القرهود) is one of four road bridges over Dubai Creek, and one of five crossings, in Dubai, United Arab Emirates.	Al Garhoud Bridge	Dubai Creek
+crosses	The Grand Tower Pipeline Bridge is a suspension bridge carrying a natural gas pipeline across the Mississippi River between Wittenberg, Missouri and Grand Tower, Illinois.	Grand Tower Pipeline Bridge	Mississippi River
+crosses	DeSoto Bridge was a trussed deck-arch bridge that spanned the Mississippi River in St. Cloud, Minnesota.	DeSoto Bridge	Mississippi River
+crosses	Porthill Bridge, also often referred to as Port Hill Footbridge, is a suspension bridge for pedestrians crossing the River Severn in Shrewsbury, Shropshire, England.	Porthill Bridge	Severn
+crosses	The Nijmegen railway bridge is a truss bridge spanning the River Waal, connecting the city of Nijmegen to the town of Lent in the Netherlands.	Nijmegen railway bridge	Waal
+crosses	The Malleco Viaduct (Spanish: Viaducto del Malleco) is a railway bridge located in central Chile, passing over the Malleco River valley, south of Collipulli in the Araucania Region.	Malleco Viaduct	Malleco River
+crosses	The Fuller Warren Bridge is a prestressed concrete girder bridge that carries I-95 across the St. Johns River in Jacksonville, Florida.	Fuller Warren Bridge	St. Johns River
+crosses	The Smithfield Street Bridge is a lenticular truss bridge crossing the Monongahela River in Pittsburgh, Pennsylvania, USA.	Smithfield Street Bridge	Monongahela River
+crosses	The Royal Albert Bridge is a railway bridge which spans the River Tamar in England between Plymouth, Devon and Saltash, Cornwall bank.	Royal Albert Bridge	Tamar
+crosses	The Alassalmi Ferry is a cable ferry linking Manamansalo island and mainland, across the Alassalmi strait on lake Oulujärvi, in Finland.	Alassalmi Ferry	Oulujärvi
+crosses	Cavendish Bridge is the name of a bridge over the River Trent, connecting the counties of Leicestershire and Derbyshire; it is also the name of a hamlet on the Leicestershire side of the river within the Castle Donington parish.	Cavendish Bridge	River Trent
+crosses	The Helena Bridge is a cantilever bridge carrying U.S. Route 49 across the Mississippi River between Helena, Arkansas and Lula, Mississippi.	Helena Bridge	Mississippi River
+crosses	The Bridge of Regeringsgatan (Swedish: Regeringsgatans bro) or more correctly Bridge of Regeringsgatan over Kungsgatan (Regeringsgatans viadukt över Kungsgatan) is a bridge in central Stockholm, Sweden, taking the street Regeringsgatan (``The Government Street'') over Kungsgatan (``The King's Street'').	Bridge of Regeringsgatan	Kungsgatan
+crosses	Norrbro (Swedish: ``North Bridge'') is an arch bridge over Norrström in central Stockholm.	Norrbro	Norrström
+crosses	The Pont del Diable (Spanish: Puente del Diablo, English: Devil's bridge), also known as Sant Bartomeu Bridge, is a medieval bridge crossing the river Llobregat and straddling the municipalities of Martorell and Castellbisbal in Catalonia, Spain.	Pont del Diable	Llobregat
+crosses	The Reichsbrücke (German for Empire Bridge) is Vienna's most famous bridge, linking Mexicoplatz in Leopoldstadt with the Donauinsel in Donaustadt on the other side of the Danube.	Reichsbrücke	Danube
+crosses	Prístavný most (literally Harbour Bridge, until 1993 known as Most hrdinov Dukly or Dukla Heroes' Bridge) is a double-floor motorway-railroad truss bridge over the Danube in Bratislava, Slovakia, near the Port of Bratislava.	Prístavný most	Danube
+crosses	The Sherman Minton Bridge is a double-deck through arch bridge spanning the Ohio River, carrying I-64 and US 150 over the river between Kentucky and Indiana.	Sherman Minton Bridge	Ohio River
+crosses	The Puente de Occidente (Bridge of the West), so named because it is located in western Antioquia, Colombia, is a suspension bridge that connects the municipalities of Olaya and Santa Fe de Antioquia, east and west of the Cauca River, respectively.	Puente de Occidente	Cauca River
+crosses	The Vanport Bridge is a four-lane continuous truss bridge that carries Interstate 376 (former Pennsylvania Route 60) across the Ohio River in Vanport Township, Pennsylvania.	Vanport Bridge	Ohio River
+crosses	The Pont du Carrousel is a bridge in Paris, which spans the River Seine between the Quai des Tuileries and the Quai Voltaire.	Pont du Carrousel	Seine
+crosses	The Healdsburg Memorial Bridge is a steel truss bridge across the Russian River in Healdsburg, California, listed in the National Register of Historic Places.	Healdsburg Memorial Bridge	Russian River
+crosses	Braunston Tunnel is on the Grand Union Canal about 830 yds (760 m) east of Braunston, Northamptonshire, England top lock.	Braunston Tunnel	Grand Union Canal
+crosses	The Charlestown Bridge (also called the North Washington Street Bridge) is located in Boston and spans the Charles River.	Charlestown Bridge	Charles River
+crosses	The Laviolette Bridge (in French, pont Laviolette) is an arch bridge connecting the city of Trois-Rivières, Quebec, Canada to Bécancour on the south shore of the Saint Lawrence River via Autoroute 55.	Laviolette Bridge	Saint Lawrence River
+crosses	The Memphis & Arkansas Bridge (per its nameplates), also known as the Memphis-Arkansas Bridge or Memphis-Arkansas Memorial Bridge, is a cantilevered through truss bridge carrying Interstate 55 across the Mississippi River between West Memphis, Arkansas and Memphis, Tennessee.	Memphis & Arkansas Bridge	Mississippi River
+crosses	The Ostrovul Mare Bridge is a suspension bridge over the Gogoșu branch of the Danube, close to the Iron Gate II Hydro Power Plant and part of the Iron Gate II border crossing point between Romania and Serbia.	Ostrovul Mare Bridge	Danube
+discoverer or inventor	2691 Sersic (1974 KB) is a main-belt binary asteroid discovered on May 18, 1974 by Félix Aguilar Observatory at El Leoncito.	2691 Sersic	Félix Aguilar Observatory
+discoverer or inventor	19738 Calinger, provisionally designated 2000 AS97, is a main-belt asteroid discovered on January 4, 2000 by LINEAR, the Lincoln Near-Earth Asteroid Research, at Magdalena Ridge Observatory in New Mexico, United States.	19738 Calinger	Lincoln Near-Earth Asteroid Research
+discoverer or inventor	2145 Blaauw (1976 UF) is an outer main-belt asteroid discovered on October 24, 1976 by Richard Martin West at La Silla.	2145 Blaauw	Richard Martin West
+discoverer or inventor	620 Drakonia is a minor planet orbiting the Sun. It was discovered October 26, 1906 in Taunton, Massachusetts by American astronomer Joel Hastings Metcalf and given the preliminary designation 1906 WE.	620 Drakonia	Joel Hastings Metcalf
+discoverer or inventor	3568 ASCII is a small main belt asteroid discovered by Marguerite Laugier on October 17, 1936.	3568 ASCII	Marguerite Laugier
+discoverer or inventor	The Zeeman effect (/ˈzeɪmən/; Dutch pronunciation: (ˈzeːmɑn)), named after the Dutch physicist Pieter Zeeman, is the effect of splitting a spectral line into several components in the presence of a static magnetic field.	Zeeman effect	Pieter Zeeman
+discoverer or inventor	605 Juvisia is a minor planet orbiting the Sun that was discovered August 27, 1906 in Heidelberg by German astronomer Max Wolf.	605 Juvisia	Max Wolf
+discoverer or inventor	463 Lola (1900 FS) is Main-belt asteroid discovered on October 31, 1900 by Max Wolf at Heidelberg.	463 Lola	Max Wolf
+discoverer or inventor	The Newtonian telescope is a type of reflecting telescope invented by the British scientist Sir Isaac Newton (1642--1727), using a concave primary mirror and a flat diagonal secondary mirror.	Newtonian telescope	Isaac Newton
+discoverer or inventor	Tellurium was discovered in the Habsburg Empire, in 1782 by Franz-Joseph Müller von Reichenstein in a mineral containing tellurium and gold.	Tellurium	Franz-Joseph Müller von Reichenstein
+discoverer or inventor	461 Saskia is a Themistian asteroid discovered by Max Wolf on October 22, 1900.	461 Saskia	Max Wolf
+discoverer or inventor	Potassium metal was first isolated in 1807 in England by Sir Humphry Davy, who derived it from caustic potash (KOH, potassium hydroxide) by the use of electrolysis of the molten KOH with the newly discovered voltaic pile.	Potassium	Humphry Davy
+discoverer or inventor	651 Antikleia is a main-belt asteroid discovered on October 4, 1907 by August Kopff at the Heidelberg-Königstuhl State Observatory.	651 Antikleia	August Kopff
+discoverer or inventor	227 Philosophia is a large main-belt asteroid that was discovered by the French astronomer Paul-Pierre Henry on August 12, 1882, in Paris and named after the topic of philosophy.	227 Philosophia	Paul-Pierre Henry
+discoverer or inventor	Stigler's law of eponymy is a process proposed by University of Chicago statistics professor Stephen Stigler in his 1980 publication ``Stigler's law of eponymy''.	Stigler's law of eponymy	Stephen Stigler
+discoverer or inventor	2572 Annschnell, provisional designation 1950 DL, is a main-belt asteroid discovered on February 17, 1950 by Karl Wilhelm Reinmuth at Heidelberg Observatory in Germany.	2572 Annschnell	Karl Wilhelm Reinmuth
+discoverer or inventor	1233 Kobresia (1931 TG2) is a main-belt asteroid discovered on October 10, 1931, by Karl Wilhelm Reinmuth at Heidelberg.	1233 Kobresia	Karl Wilhelm Reinmuth
+discoverer or inventor	9767 Midsomer Norton (1992 EB1) is an outer main-belt asteroid discovered on March 10, 1992 by Duncan Steel at Siding Spring.	9767 Midsomer Norton	Duncan Steel
+discoverer or inventor	N rays (or N-rays) were a hypothesized form of radiation, described by French physicist Prosper-René Blondlot in 1903, and initially confirmed by others, but subsequently found to be illusory.	N ray	Prosper-René Blondlot
+discoverer or inventor	1503 Kuopio (1938 XD) is a main-belt asteroid discovered on December 15, 1938, by Yrjö Väisälä at Turku.	1503 Kuopio	Yrjö Väisälä
+discoverer or inventor	1286 Banachiewicza (1933 QH) is a main-belt asteroid discovered on August 25, 1933, by Sylvain Arend at Uccle.	1286 Banachiewicza	Sylvain Arend
+discoverer or inventor	1569 Evita (1948 PA) is a main-belt asteroid discovered on August 3, 1948, by Miguel Itzigsohn.	1569 Evita	Miguel Itzigsohn
+discoverer or inventor	The Great Comet of 1819, officially designated as C/1819 N1, also known as Comet Tralles, was an easily visible brilliant comet, approaching an apparent magnitude of 1--2, discovered July 1, 1819 by Johann Georg Tralles in Berlin, Germany.	Great Comet of 1819	Johann Georg Tralles
+discoverer or inventor	Promulgated by American attorney and author Mike Godwin in 1990, Godwin's law originally referred specifically to Usenet newsgroup discussions.	Godwin's law	Mike Godwin
+discoverer or inventor	I²C (Inter-Integrated Circuit), pronounced I-squared-C, is a multi-master, multi-slave, single-ended, serial computer bus invented by Philips Semiconductor (now NXP Semiconductors).	I²C	NXP Semiconductors
+discoverer or inventor	The Archimedean spiral (also known as the arithmetic spiral or spiral of Archimedes) is a spiral named after the 3rd century BC Greek mathematician Archimedes.	Archimedean spiral	Archimedes
+discoverer or inventor	3794 Sthenelos (1985 TF3) is a Jupiter Trojan discovered on October 12, 1985 by Carolyn S. Shoemaker and Eugene Merle Shoemaker at Palomar.	3794 Sthenelos	Carolyn S. Shoemaker	Eugene Merle Shoemaker
+discoverer or inventor	3551 Verenia (or 1983 RD) is an Amor asteroid and a Mars crosser discovered September 12, 1983 by R. Scott Dunbar.	3551 Verenia	R. Scott Dunbar
+discoverer or inventor	585 Bilkis is a minor planet orbiting the Sun. It was discovered by German astronomer August Kopff in 1906 February and was given the Koran name for the Queen of Sheba.	585 Bilkis	August Kopff
+discoverer or inventor	1582 Martir (1950 LY) is a main-belt asteroid discovered on June 15, 1950, by Miguel Itzigsohn at La Plata.	1582 Martir	Miguel Itzigsohn
+discoverer or inventor	The Pockels effect (after Friedrich Carl Alwin Pockels who studied the effect in 1893), or Pockels electro-optic effect, produces birefringence in an optical medium induced by a constant or varying electric field.	Pockels effect	Friedrich Carl Alwin Pockels
+discoverer or inventor	C/2007 K5 (Lovejoy) is a periodic comet, discovered on 26 May 2007 by amateur astronomer Terry Lovejoy.	C/2007 K5 (Lovejoy)	Terry Lovejoy
+discoverer or inventor	393 Lampetia is a fairly large main belt asteroid that was discovered by German astronomer Max Wolf on November 4, 1894 in Heidelberg.	393 Lampetia	Max Wolf
+discoverer or inventor	167 Urda is a main-belt asteroid that was discovered by German-American astronomer Christian Heinrich Friedrich Peters on August 28, 1876, in Clinton, New York, and named after Urd, one of the Norns in Norse mythology.	167 Urda	Christian Heinrich Friedrich Peters
+discoverer or inventor	Relational art or relational aesthetics is a mode or tendency in fine art practice originally observed and highlighted by French art critic Nicolas Bourriaud.	Relational art	Nicolas Bourriaud
+discoverer or inventor	182 Elsa is a Main belt asteroid that was discovered by Johann Palisa on February 7, 1878.	182 Elsa	Johann Palisa
+discoverer or inventor	The Dracone Barge was invented in 1956 by Professor William Hawthorne as a new type of oil tanker.	Dracone Barge	William Hawthorne
+discoverer or inventor	761 Brendelia is a minor planet orbiting the Sun that was discovered by German astronomer Franz Kaiser on September 8, 1913, and named after Otto Rudolf Martin Brendel.	761 Brendelia	Franz Kaiser
+discoverer or inventor	1302 Werra (1924 SV) is a main-belt asteroid discovered on September 28, 1924, by Karl Wilhelm Reinmuth at Heidelberg-Königstuhl State Observatory.	1302 Werra	Karl Wilhelm Reinmuth
+discoverer or inventor	11573 Helmholtz (1993 SK3) is an outer main-belt asteroid discovered on September 20, 1993, by Freimut Börngen and Lutz D. Schmadel at Tautenburg.	11573 Helmholtz	Freimut Börngen	Lutz D. Schmadel
+discoverer or inventor	In proof theory, the Dialectica interpretation is a proof interpretation of intuitionistic arithmetic (Heyting arithmetic) into a finite type extension of primitive recursive arithmetic, the so-called System T. It was developed by Kurt Gödel to provide a consistency proof of arithmetic.	Dialectica interpretation	Kurt Gödel
+distributor	Sold for Marriage is a 1916 American drama film directed by Christy Cabanne for Triangle Film Corporation.	Sold for Marriage	Triangle Film Corporation
+distributor	Most Welcome is an 2012 Bangladeshi action film directed by Anonno Mamun and produced by Ananta Jalil under his production banner Monsoon Films.	Most Welcome	Monsoon Films
+distributor	Columbia Pictures released The Night the World Exploded theatrically as a double bill with The Giant Claw (1957).	The Night the World Exploded	Columbia Pictures
+distributor	The Blonde Saint is a 1926 silent romantic-adventure film produced by Sam E. Rork and released through First National Pictures.	The Blonde Saint	First National
+distributor	The Song and Dance Man is a 1926 American silent film comedy-drama produced by Famous Players-Lasky and released through Paramount Pictures.	The Song and Dance Man	Paramount Pictures
+distributor	Slide, Kelly, Slide is a 1927 American comedy film, released by Metro-Goldwyn-Mayer, directed by Edward Sedgwick, and starring William Haines and Harry Carey.	Slide, Kelly, Slide	Metro-Goldwyn-Mayer
+distributor	Those Who Dance is a 1930 American Pre-Code crime film produced and distributed by Warner Bros. and directed by William Beaudine.	Those Who Dance	Warner Bros.
+distributor	Might & Magic Heroes VI (often shortened to Heroes VI) is a turn-based strategy video game for Microsoft Windows developed by Black Hole Entertainment and published by Ubisoft.	Might & Magic Heroes VI	Ubisoft
+distributor	Sing, Boy, Sing is a 1958 musical-drama film, released by 20th Century Fox.	Sing, Boy, Sing	20th Century Fox
+distributor	Fishing Child (Chinese: 渔童) is a Chinese animated featurette produced by the Shanghai Animation Film Studio.	Fishing Child	Shanghai Animation Film Studio
+distributor	Love by the Light of the Moon is a 1901 film by Edwin S. Porter, produced by the Edison Manufacturing Company.	Love by the Light of the Moon	Edison Manufacturing Company
+distributor	Through September 2007, Grand Theft Auto III had sold 12 million units according to Take-Two Interactive.	Grand Theft Auto III	Take-Two Interactive
+distributor	Aliens versus Predator 2 is a science fiction first-person shooter video game developed by Monolith Productions and published by Fox Interactive for Microsoft Windows and Mac OS X computers in 2001.	Aliens versus Predator 2	Fox Interactive
+distributor	Universal Studios bankrolled Smokey and the Bandit for $5.3 million, figuring it was a good risk.	Smokey and the Bandit	Universal Studios
+distributor	Dishonored is a 2012 stealth action-adventure video game developed by Arkane Studios and published by Bethesda Softworks.	Dishonored	Bethesda Softworks
+distributor	Fine Manners is a 1926 American black-and-white silent comedy film directed initially by Lewis Milestone and completed by Richard Rosson for Famous Players-Lasky/Paramount Pictures.	Fine Manners	Paramount Pictures
+distributor	The 3rd Voice (also known as The Third Voice) is a 1960 American crime drama/thriller film, directed by Hubert Cornfield and distributed by 20th Century Fox.	The 3rd Voice	20th Century Fox
+distributor	Plymouth Adventure is a 1952 Technicolor drama film with an ensemble cast starring Spencer Tracy, Gene Tierney, Van Johnson and Leo Genn, made by Metro-Goldwyn-Mayer, directed by Clarence Brown, and produced by Dore Schary.	Plymouth Adventure	Metro-Goldwyn-Mayer
+distributor	The Brotherhood of Satan was released on VHS in 1986 by RCA/Columbia Pictures Home Video (OCLC 22091401).	The Brotherhood of Satan	Columbia Pictures
+distributor	Kingdom Rush is a tower defense game developed by Ironhide Game Studio and published by Armor Games, released as a free flash browser game on July 28, 2011, on the iPad on December 19, 2011, on Android in May 2013, and a Unity port in January 2014 via Steam.	Kingdom Rush	Armor Games
+distributor	The Woman on the Jury is a lost 1924 silent film drama produced and released by Associated First National and directed by Harry Hoyt.	The Woman on the Jury	First National
+distributor	With Vivien Leigh's star turn due to her performance as Scarlett O'Hara in Gone with the Wind (1939), Korda shelved 21 Days for two years before releasing it to Columbia Pictures.	21 Days	Columbia Pictures
+distributor	You're Not So Tough is a 1940 Universal Studios film that starred Dead End Kids and the Little Tough Guys.	You're Not So Tough	Universal Studios
+distributor	In Gay Madrid (1930) is an American Pre-Code musical comedy, directed by Robert Z. Leonard, starring Ramón Novarro and Dorothy Jordan, and released by Metro-Goldwyn-Mayer.	In Gay Madrid	Metro-Goldwyn-Mayer
+distributor	The Sharkfighters was filmed in Cinemascope and Technicolor on location in Cuba with an opening narration by Charles Collingwood and released in November 1956 by United Artists.	The Sharkfighters	United Artists
+distributor	Flame & Citron was domestically distributed by Sandrew Metronome; it was released on DVD and Blu-Ray Disc on 30 September 2008.	Flame & Citron	Sandrew Metronome
+distributor	Crash 'N Score is a 2 player arcade game by Atari Inc., originally released in 1975.	Crash 'N Score	Atari
+distributor	Heart Talk (Khmer:ទំនួញបេះដូង ) is a 2008 Khmer horror film, a second film produced by Khmer Mekong Films after the successful of 2007's romantic comedy Staying Single When and a television series, the Taste of Life.	Heart Talk	Khmer Mekong Films
+distributor	Moments of Love is a 2006 Filipino romance film directed by Mark Reyes, and released in March as a summer offering by GMA Films.	Moments of Love	GMA Films
+distributor	Rubber Heels is a 1927 silent film comedy produced by Famous Players-Lasky and distributed through Paramount Pictures.	Rubber Heels	Paramount Pictures
+distributor	Frankenstein Must Be Destroyed is a British horror film directed by Terence Fisher for Hammer Film Productions from 1969.	Frankenstein Must Be Destroyed	Hammer Film Productions
+distributor	SketchFighter 4000 Alpha is a scrolling shooter with a focus on exploration for Mac OS X. The game was created by Lost Minds together with Ambrosia Software.	SketchFighter 4000 Alpha	Ambrosia Software
+distributor	The Water Hole (1928) is a Western film starring Jack Holt, Nancy Carroll, and John Boles, based on a novel by Zane Grey, and released by Paramount Pictures.	The Water Hole	Paramount Pictures
+distributor	Three Little Girls in Blue is a 1946 Technicolor musical film from 20th Century-Fox that starred June Haver along with George Montgomery, Vivian Blaine, Celeste Holm, and Vera-Ellen.	Three Little Girls in Blue	20th Century-Fox
+distributor	Nightmare Weekend is a 1986 horror B-movie directed by Henry Sala and distributed by Troma Entertainment.	Nightmare Weekend	Troma Entertainment
+distributor	Dance Dance Dragon (Chinese: 龙众舞; pinyin: lóng zhòng wǔ) is a Singaporean comedy film from MediaCorp Raintree Pictures and Golden Village Pictures that was released for Lunar New Year on January 19, 2012 in Singapore and in March in Malaysia.	Dance Dance Dragon	Golden Village
+distributor	Dance, Fools, Dance (1931) is a pre-code Metro-Goldwyn-Mayer feature film starring Joan Crawford, Clark Gable, and Lester Vail in a story about a reporter investigating the murder of a colleague.	Dance, Fools, Dance	Metro-Goldwyn-Mayer
+distributor	The Demi-Paradise (also known as Adventure for Two) is a 1943 British comedy film made by Two Cities Films.	The Demi-Paradise	Two Cities Films
+distributor	The first film, Harold & Kumar Go to White Castle, was released on July 30, 2004, by New Line Cinema and spawned a sequel titled Harold & Kumar Escape from Guantanamo Bay, released four years later.	Harold & Kumar	New Line Cinema
+distributor	Tiger Fangs (1943) is an American adventure/thriller film starring Frank Buck and June Duprez, directed by Sam Newfield for Producers Releasing Corporation.	Tiger Fangs	Producers Releasing Corporation
+distributor	Palm Springs Weekend is a 1963 Warner Bros. bedroom comedy film directed by Norman Taurog.	Palm Springs Weekend	Warner Bros.
+distributor	The Bad News Bears Go to Japan (also known as The Bad News Bears 3) is a 1978 film release by Paramount Pictures and was the third and last of a series, following The Bad News Bears and The Bad News Bears in Breaking Training.	The Bad News Bears Go to Japan	Paramount Pictures
+distributor	Ek Tho Chance is a 2009 Bollywood erotic thriller film directed by Saeed Akhtar Mirza and produced by Rangita Pritish Nandy under Pritish Nandy Communications.	Ek Tho Chance	Pritish Nandy Communications
+distributor	Destined for mainly television broadcast in 1969 on NBC, Lost Flight was re-broadcast in dubbed versions in Brazil, France and West Germany.	Lost Flight	NBC
+distributor	Don't Raise the Bridge, Lower the River is a British-made comedy film produced by Walter Shenson starring Jerry Lewis and was released on 12 July 1968 by Columbia Pictures.	Don't Raise the Bridge, Lower the River	Columbia Pictures
+distributor	You, John Jones! (1943) is a short film directed by Mervyn LeRoy, written by Carey Wilson, and released by Metro-Goldwyn-Mayer, and starring James Cagney, Ann Sothern, and Margaret O'Brien.	You, John Jones!	Metro-Goldwyn-Mayer
+editor	The Best American Poetry 2000 (ISBN 0-7432-0033-0), a volume in The Best American Poetry series, was edited by David Lehman and by guest editor Rita Dove.	The Best American Poetry 2000	David Lehman	Rita Dove
+editor	History Compass (ISSN 1478-0542) is a peer-reviewed online-only academic journal published by Wiley-Blackwell and edited by historian Felice Lifshitz.	History Compass	Felice Lifshitz
+editor	The Oxford Book of Twentieth Century English Verse is a poetry anthology edited by Philip Larkin.	The Oxford Book of Twentieth Century English Verse	Philip Larkin
+editor	Rebel Angels: 25 Poets of the New Formalism (ISBN 1-885266-33-2) is an anthology of poets edited by Mark Jarman and David Mason, published by Story Line Press in 1996.	Rebel Angels: 25 Poets of the New Formalism	Mark Jarman	David Mason
+editor	August Pauly, Georg Wissowa, Wilhelm Kroll, Kurt Witte, Karl Mittelhaus, Konrat Ziegler, eds. Paulys Realencyclopädie der classischen Altertumswissenschaft: neue Bearbeitung, Stuttgart:	Realencyclopädie der classischen Altertumswissenschaft	Wilhelm Kroll	Kurt Witte	Karl Mittelhaus	Konrat Ziegler
+editor	1001 Books You Must Read Before You Die (ISBN 978-1844037407) is a literary reference book compiled by over one hundred literary critics worldwide and edited by Peter Boxall, Professor of English at Sussex University, with an introduction by Peter Ackroyd.	1001 Books You Must Read Before You Die	Peter Boxall
+editor	The Malachite Box or The Malachite Casket (Russian: Малахитовая шкатулка, tr. Malakhitovaya Shkatulka; IPA: (mɐləˈxʲitəvɐjə ʂkɐˈtulkə)) is a book of fairy tales and folk tales (also known as skaz) of the Ural region of Siberia compiled by Pavel Bazhov and published from 1936 to 1945.	The Malachite Box	Pavel Bazhov
+found in taxon	The human ortholog MYD88 seems to function similarly to mice, since the immunological phenotype of human cells deficient in MYD88 is similar to cells from MyD88 deficient mice.	MYD88	human
+found in taxon	Triadin, also known as TRDN, is a human gene associated with the release of Calcium ions from the sarcoplasmic reticulum triggering muscular contraction through calcium-induced calcium release.	Triadin	human
+found in taxon	Ubiquitin specific peptidase 18 (USP18), also known as UBP43, is an enzyme that in human is encoded by the USP18 gene.	USP18	human
+found in taxon	The human C9orf72 gene is located on the short (p) arm of chromosome 9 open reading frame 72, from base pair 27,546,542 to base pair 27,573,863.	C9orf72	human
+found in taxon	The rat GHB receptor was first cloned and characterised in 2003 followed by the human receptor in 2007.	GHB receptor	human
+found in taxon	Further experiments have indicated that human ZIC3 is also able to inhibit Wnt signalling and that the Zinc finger domains are absolutely critical for this role.	ZIC3	human
+found in taxon	Neuropeptides B/W receptor 1, also known as NPBW1, is a human protein encoded by the NPBWR1 gene.	Neuropeptides B/W receptor 1	human
+found in taxon	Mutations in human PHOX2B cause a rare disease of the visceral nervous system (dysautonomia):	PHOX2B	human
+found in taxon	LFNG O-fucosylpeptide 3-beta-N-acetylglucosaminyltransferase, also known as LFNG and Lunatic Fringe, is a human gene.	LFNG	human
+found in taxon	HLA-DQ5 (DQ5) is a human leukocyte antigen serotype subgroup within HLA-DQ(DQ) serotypes.	HLA-DQ5	human
+found in taxon	High expression of L-selectin on human bone marrow progenitor cells is an early sign of cells becoming committed to lymphoid differentiation.	L-selectin	human
+found in taxon	Mesothelin is a 40 kDa protein present on normal mesothelial cells and overexpressed in several human tumors, including mesothelioma and ovarian and pancreatic adenocarcinoma.	Mesothelin	human
+found in taxon	CD47 is ubiquitously expressed in human cells and has found to be overexpressed in many different tumor cells.	CD47	human
+found in taxon	Regulator of chromosome condensation 1, also known as RCC1, is the name for a human gene and protein.	RCC1	human
+found in taxon	Kalirin's other name, DUO, comes from the fact that it is 98% identical to rat DUO protein and 80.6% identical to a human protein named TRIO.	Kalirin	human
+found in taxon	DNA directed RNA polymerase II polypeptide J-related gene, also known as POLR2J2, is a human gene.	POLR2J2	human
+found in taxon	Gene knockdown of Oct-4 promotes differentiation, thereby demonstrating a role for these factors in human embryonic stem cell self-renewal.	Oct-4	human
+found in taxon	CD1D is the human gene that encodes the protein CD1d, a member of the CD1 (cluster of differentiation 1) family of glycoproteins expressed on the surface of various human antigen-presenting cells.	CD1D	human
+found in taxon	Aequorin is a calcium-activated photoprotein isolated from the hydrozoan Aequorea victoria.	Aequorin	Aequorea victoria
+found in taxon	UBA1 is one of only two human ubiquitin-activating enzymes (E1), the other being UBA6, and thus is largely responsible for protein ubiquitination in humans.	UBA1	human
+found in taxon	The human ATF5 protein is made up of 282 amino acids.	ATF5	human
+found in taxon	Neuropeptide FF receptor 2, also known as NPFF2 is a human protein encoded by the NPFFR2 gene.	Neuropeptide FF receptor 2	human
+found in taxon	Fc fragment of IgA receptor (FCAR) also known as CD89 (Cluster of Differentiation 89), is a human gene.	FCAR	human
+found in taxon	The human KDM2B gene encodes the protein Lysine (K)-specific demethylase 2B.	KDM2B	human
+found in taxon	Tripartite motif-containing 33 (TRIM33) also known as transcriptional intermediary factor 1 gamma (TIF1-γ), is a human gene.	TRIM33	human
+found in taxon	The CCDC82 gene is expressed in nearly all of human tissues at somewhat low rates.	CCDC82	human	human
+found in taxon	Splicing factor 3B, 14 kDa subunit, also known as SF3B14, is a human gene.	SF3B14	human
+found in taxon	DEAD (Asp-Glu-Ala-Asp) box polypeptide 27, also known as DDX27, is a human gene.	DDX27	human
+found in taxon	Mre11, an ortholog of human MRE11A, occurs in the prokaryote archaeon Sulfolobus acidocaldarius.	MRE11A	human
+found in taxon	Killer cell lectin-like receptor subfamily B, member 1, also known as NK1.1,KLRB1, NKR-P1A or CD161 (cluster of differentiation 161), is a human gene.	KLRB1	human
+found in taxon	HSD3B2 is a human gene that encodes for 3beta-hydroxysteroid dehydrogenase/delta(5)-delta(4)isomerase type II or hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 2.	HSD3B2	human
+found in taxon	KIAA0895 is a human gene that encodes a protein known as KIAA0895 protein or hypothetical protein LOC23366.	KIAA0895	human
+found in taxon	Analysis of human cancer genomics database revealed that IRF8 is not significantly focally amplified across the entire dataset of 3131 tumors, but is significantly focally deleted across the entire dataset of 3131 tumors, suggesting that IRF8 is potentially a tumor suppressor in humans.	IRF8	human
+found in taxon	Two-pore channels are a small family of putatively cation-selective ion channels, with two known paralogs in the human genome.	Two-pore channel	human
+found in taxon	However, HIV-1 has not exerted selection pressure on the human population for long enough to drive CCR5 Δ32 to its current frequencies.	CCR5	human
+found in taxon	PRNP (PRioN Protein) is the human gene encoding for the major prion protein PrP (for prion protein or protease-resistant protein), also known as CD230 (cluster of differentiation 230).	PRNP	human
+found in taxon	HLA-DM (human leukocyte antigen DM) is an intracellular protein involved in peptide presentation by MHC class II. It is encoded by the genes HLA-DMA and HLA-DMB.	HLA-DM	human
+found in taxon	KIAA1841 is expressed at low levels in a wide range of tissues throughout the human body.	KIAA1841	human
+found in taxon	Herpesvirus entry mediator (HVEM), also known as tumor necrosis factor receptor superfamily member 14 (TNFRSF14), is a human cell surface receptor of the TNF-receptor superfamily.	Herpesvirus entry mediator	human
+found in taxon	The TRPV6 calcium transporter also found in the human placenta, pancreas and prostate gland and in some species in the kidney, where the related channel TRPV5 is strongly expressed.	TRPV6	human
+found in taxon	Chloride channel CLIC-like 1 also known as CLCC1 is a human gene.	CLCC1	human
+found in taxon	RNA, ribosomal 3, also known as RNR3, is a human gene.	RNR3	human
+home venue	The Idaho State Bengals football program represents Idaho State University in college football and plays its home games at Holt Arena, an indoor facility on campus in Pocatello.	Idaho State Bengals football	Holt Arena
+home venue	The Victoria Vistas played their home games in the 1990 season at Royal Athletic Park.	Victoria Vistas	Royal Athletic Park
+home venue	São José de Ribamar Esporte Clube play their home games at Estádio Nhozinho Santos, in São Luís.	São José de Ribamar Esporte Clube	Estádio Nhozinho Santos
+home venue	Atlético Choloma is a Honduran football club that plays its home games at Estadio Rubén Deras in Choloma, Cortés.	Atlético Choloma	Estadio Rubén Deras
+home venue	The Washington Spirit play their home games at Maryland SoccerPlex located in Germantown, Maryland.	Washington Spirit	Maryland SoccerPlex
+illustrator	Duck, Death and the Tulip (German title: Ente, Tod und Tulpe) is a 2007 children's book by German author and illustrator Wolf Erlbruch.	Duck, Death and the Tulip	Wolf Erlbruch
+illustrator	Asterix and the Chieftain's Shield (original title: Le bouclier arverne) is the eleventh volume in the Asterix comic book series, written by René Goscinny and drawn by Albert Uderzo.	Asterix and the Chieftain's Shield	Albert Uderzo
+illustrator	Writings and Drawings is a collection of lyrics and personal drawings from Bob Dylan.	Writings and Drawings	Bob Dylan
+illustrator	A People's History of American Empire is a 2008 graphic history by Howard Zinn, Mike Konopacki, and Paul Buhle.	A People's History of American Empire	Mike Konopacki
+illustrator	Esio Trot is a children's novel written by British author Roald Dahl and illustrated by Quentin Blake, published in 1990.	Esio Trot	Quentin Blake
+illustrator	The Velveteen Rabbit (or How Toys Become Real) is a children's book written by Margery Williams (also known as Margery Williams Bianco) and illustrated by William Nicholson.	The Velveteen Rabbit	William Nicholson
+illustrator	The Good Master (1935) is a children's novel written and illustrated by Kate Seredy.	The Good Master	Kate Seredy
+illustrator	Trouble Under Oz is a 2006 novel by Sherwood Smith, illustrated by William Stout and published by Harper Collins.	Trouble Under Oz	William Stout
+illustrator	Toilers of the Sea (French: Les Travailleurs de la mer) is a novel by Victor Hugo published in 1866.	Toilers of the Sea	Victor Hugo
+illustrator	Once a Mouse is a 1961 book by Marcia Brown.	Once a Mouse	Marcia Brown
+illustrator	The Biggest Bear is a children's picture book by Lynd Ward, first published in 1952.	The Biggest Bear	Lynd Ward
+illustrator	The Great Redwall Feast was written by Brian Jacques and illustrated by the well-known Redwall artist Christopher Denise.	The Great Redwall Feast	Christopher Denise
+illustrator	The Brightonomicon is a novel by British fantasy author Robert Rankin, the title parodying that of the fictional grimoire the Necronomicon from the Cthulhu Mythos.	The Brightonomicon	Robert Rankin
+illustrator	Eulalia! is the 19th book in the Redwall novel series by author Brian Jacques and illustrated by David Elliot.	Eulalia!	David Elliot
+illustrator	So You Want to Be President? is a children's picture book written by Judith St. George and illustrated by David Small.	So You Want to Be President?	David Small
+illustrator	The House on East 88th Street is a children's book written by Bernard Waber first published in 1962.	The House on East 88th Street	Bernard Waber
+illustrator	Schtroumpf Vert et Vert Schtroumpf is the ninth comic book adventure of the Smurfs, written and drawn by Peyo with Yvan Delporte as co-writer.	Schtroumpf Vert et Vert Schtroumpf	Peyo
+illustrator	The Story of Mankind was written and illustrated by Dutch-American journalist, professor, and author Hendrik Willem van Loon and published in 1921.	The Story of Mankind	Hendrik Willem van Loon
+illustrator	The Penguins of Doom is an epistolary humor novel for children written and illustrated by Greg R. Fishbone.	The Penguins of Doom	Greg R. Fishbone
+illustrator	Kunstformen der Natur (known in English as Art Forms in Nature) is a book of lithographic and halftone prints by German biologist Ernst Haeckel.	Kunstformen der Natur	Ernst Haeckel
+illustrator	The Gruffalo is a children's book by writer and playwright Julia Donaldson, illustrated by Axel Scheffler, that tells the story of a mouse, the protagonist of the book, taking a walk in a European forest.	The Gruffalo	Axel Scheffler
+illustrator	Captain Underpants and the Perilous Plot of Professor Poopypants is the fourth book in the Captain Underpants series written by Dav Pilkey.	Captain Underpants and the Perilous Plot of Professor Poopypants	Dav Pilkey
+instrumentation	Fiori musicali (``Musical Flowers'') is a collection of liturgical organ music by Girolamo Frescobaldi, first published in 1635.	Fiori musicali	organ
+instrumentation	Davidsbündlertänze (Dances of the League of David), Op. 6, is a group of eighteen pieces for piano composed in 1837 by Robert Schumann, who named them after his Davidsbündler.	Davidsbündlertänze	piano
+instrumentation	Schübler Chorales is a name usually given to the Sechs Chorale von verschiedener Art ('Six Chorales of Various Kinds') for organ (BWV 645--650), a collection of six chorale preludes by Johann Sebastian Bach, issued around 1748.	Schübler Chorales	organ
+instrumentation	The Passacaglia on DSCH is a large-scale composition for solo piano by the British composer Ronald Stevenson.	Passacaglia on DSCH	piano
+instrumentation	L'isle joyeuse, L. 106 (The Joyful Island) is an extended solo piano piece by Claude Debussy composed in 1904.	L'isle joyeuse	piano
+instrumentation	Années de pèlerinage (French for Years of Pilgrimage) (S.160, S.161, S.163) is a set of three suites for solo piano by Franz Liszt.	Années de pèlerinage	piano
+located on astronomical body	Amazonis Planitia is one of the smoothest plains on Mars.	Amazonis Planitia	Mars
+located on astronomical body	Antarctica (US English i/æntˈɑːrktɪkə/, UK English /ænˈtɑːktɪkə/ or /ænˈtɑːtɪkə/ or /ænˈɑːtɪkə/) is Earth's southernmost continent, containing the geographic South Pole.	Antarctica	Earth
+located on astronomical body	Shalbatana Vallis is an ancient water-worn channel on Mars, located in the Oxia Palus quadrangle at 7.8° north latitude and 42.1° west longitude.	Shalbatana Vallis	Mars
+located on astronomical body	Elysium Mons is a volcano on Mars located in the volcanic province Elysium, at 25.02°N 147.21°E, in the Martian eastern hemisphere.	Elysium Mons	Mars
+located on astronomical body	Simeiz Vallis is a valley at 13.2 S, 64.3 W on Mercury.	Simeiz Vallis	Mercury
+located on astronomical body	Dorsum Azara is a wrinkle ridge at 26.7°N 19.2°E in Mare Serenitatis on the Moon.	Dorsum Azara	Moon
+located on astronomical body	Lepaute is a small lunar crater that is located along the western edge of the Palus Epidemiarum, a minor lunar mare in the southwestern part of the Moon's near side.	Lepaute	Moon
+located on astronomical body	Naktong Vallis is an ancient river valley in the Arabia quadrangle of Mars, located at 5.3 degrees north latitude and 327.1 degrees west longitude.	Naktong Vallis	Mars
+located on astronomical body	Protonilus Mensae is an area of Mars in the Ismenius Lacus quadrangle.	Protonilus Mensae	Mars
+located on astronomical body	Mad Vallis is a valley in the Hellas quadrangle of Mars, with its location centered at 56.5° S and 283.9° W. It is 524 km long and was named after the Mad River in Vermont, USA.	Mad Vallis	Mars
+located on astronomical body	Ra Patera is an extraterrestrial volcano located on Io.	Ra Patera	Io
+located on astronomical body	The Amenthes Fossae are a system of troughs in the Amenthes quadrangle of Mars centered at 9.07°N and 102.68°E. They are 850 km across and were named after a classical albedo feature.	Amenthes Fossae	Mars
+located on astronomical body	Cassini Regio is the enigmatic dark area that covers the leading half of Saturn's moon Iapetus.	Cassini Regio	Iapetus
+located on astronomical body	Al-Fakik is an impact crater in the northern hemisphere of Saturn's moon Enceladus.	Al-Fakik	Enceladus
+located on astronomical body	Uruk Sulcus is a bright region of grooved terrain adjacent to Galileo Regio on Jupiter's moon Ganymede.	Uruk Sulcus	Ganymede
+located on astronomical body	The Borealis quadrangle is a quadrangle on Mercury surrounding the north pole down to 65° latitude (see also: geography of Mars).	Borealis quadrangle	Mercury
+located on astronomical body	Dorsum Heim is a wrinkle ridge at 32.0°N 29.8°W in Mare Imbrium on the Moon.	Dorsum Heim	Moon
+located on astronomical body	Nanedi Valles is a large valley in the Lunae Palus quadrangle of Mars, located at 4.9° N and 49.0° W. It is 508.0 km long and was named for the word for ``planet'' in Sesotho, the national language of Lesotho, Africa.	Nanedi Valles	Mars
+located on astronomical body	Centauri Montes is a group of mountains in the Hellas quadrangle of Mars, located at 38.67°S 95.52°E. It is 270 km across and was named after the albedo feature Centauri Lacus.	Centauri Montes	Mars
+located on astronomical body	Resolution Rupes is an escarpment on Mercury approximately 190 kilometers long located in the southern hemisphere of Mercury.	Resolution Rupes	Mercury
+located on astronomical body	Vallis Inghirami (latin for Inghirami Valley) is a valley on far side of the Moon which is a natural satellite of planet Earth.	Vallis Inghirami	Moon
+located on astronomical body	Tinia Valles is an ancient valley in the Memnonia quadrangle of Mars, located at 4.7° south latitude and 149° west longitude.	Tinia Valles	Mars
+located on astronomical body	The Ulysses Fossae are a group of troughs in the Tharsis quadrangle of Mars at 10.06° north latitude and 123.07° west longitude.	Ulysses Fossae	Mars
+located on astronomical body	Heng-O Corona is a corona in Guinevere Planitia on the planet Venus at Latitude 2° North, Longitude 355° East.	Heng-O Corona	Venus
+located on astronomical body	Mamers Valles is a long, winding canyon in the north of Mars.	Mamers Valles	Mars
+located on astronomical body	Montes Haemus is a curving range of mountains that forms the southwestern edge of the Mare Serenitatis basin on the Moon.	Montes Haemus	Moon
+located on astronomical body	Dorsum Grabau is a wrinkle ridge at 29.4°N 15.9°W north of Timocharis crater in Mare Imbrium on the Moon.	Dorsum Grabau	Moon
+located on astronomical body	The Victoria quadrangle is a region on Mercury from 0 to 90° longitude and 20 to 70 ° latitude.	Victoria quadrangle	Mercury
+located on astronomical body	The Medusae Fossae Formation is a large geological unit of uncertain origin on the planet Mars.	Medusae Fossae Formation	Mars
+located on astronomical body	Padus Vallis is a valley in the Memnonia quadrangle on Mars that empties into the Medusa Fossae Formation.	Padus Vallis	Mars
+located on astronomical body	Lunokhod 2 (Russian: Луноход-2, moon walker) was the second of two unmanned lunar rovers landed on the Moon by the Soviet Union as part of the Lunokhod programme.	Lunokhod 2	Moon
+located on astronomical body	Sinus Roris (Latin for ``Bay of Dew'') is an extension of the northern edge of Oceanus Procellarum on the Moon.	Sinus Roris	Moon
+located on astronomical body	The Beethoven quadrangle is located in the equatorial region of Mercury, in the center of the area imaged by Mariner 10.	Beethoven quadrangle	Mercury
+located on astronomical body	Sif Mons is a shield volcano in Eistla Regio on Venus.	Sif Mons	Venus
+located on astronomical body	Claritas Rupes is a scarp in the Phoenicis Lacus quadrangle of Mars, located at 26° South and 105.4° West.	Claritas Rupes	Mars
+located on astronomical body	Mons Huygens is the Moon's tallest mountain (but not its highest point).	Mons Huygens	Moon
+located on astronomical body	The Marius Hills are a set of volcanic domes located in Oceanus Procellarum on Earth's Moon.	Marius Hills	Moon
+located on astronomical body	Apsus Vallis is a channel in the Cebrenia quadrangle of Mars, located at 35.1° north latitude and 225° west longitude.	Apsus Vallis	Mars
+location of formation	On 1 October 2010, Marconi Union performed a 150-minute set of improvised soundscapes within Manchester's City Art Gallery.	Marconi Union	Manchester
+location of formation	Rezonance Q (also known as BCD Project) is an English electronic group from Liverpool formed by producers Mike Di Scala, Lee Butler and Les Calvert.	Rezonance Q	Liverpool
+location of formation	Guns N' Roses is an American hard rock band from Los Angeles formed in 1985.	Guns N' Roses	Los Angeles
+location of formation	The Cape Race are a five-piece British rock band from Manchester, England.	The Cape Race	Manchester
+location of formation	The Dodos began playing music together in 2005, when musician Meric Long, who had been gigging steadily in San Francisco as a solo singer-songwriter, was introduced to Logan Kroeber through a mutual friend (a college acquaintance of Long's that happened to be Kroeber's cousin).	The Dodos	San Francisco
+location of formation	Plutonik formed in 1999 in Birmingham UK.	Plutonik	Birmingham
+location of formation	Beat Union was a pop-punk band from Birmingham, Bromsgrove and Redditch, United Kingdom.	Beat Union	Birmingham
+location of formation	Fall of Because was an English industrial music band formed in 1982 in Birmingham by bass guitarist G. C. Green and guitarist Paul Neville.	Fall of Because	Birmingham
+location of formation	Falling in Reverse is an American rock band from Las Vegas, Nevada, formed in 2008, signed to Epitaph Records.	Falling in Reverse	Las Vegas
+location of formation	Botellita de Jerez was a Mexican rock band, formed in Mexico City in 1982.	Botellita de Jerez	Mexico City
+location of formation	Zombina and The Skeletones are a horror punk band from Liverpool, England, formed in 1998 around the nucleus of vocalist Zombina and songwriter Doc Horror.	Zombina and The Skeletones	Liverpool
+location of formation	The Sisters of Providence of the Institute of Charity, more commonly called the Rosiminian Sisters of Providence, are a Roman Catholic religious institute for women founded in Italy in 1832.	Sisters of Providence of the Institute of Charity	Italy
+location of formation	Ocean Colour Scene (often abbreviated to OCS) are an English Britpop band formed in Moseley, Birmingham, in 1989.	Ocean Colour Scene	Birmingham
+location of formation	The Toy Hearts are an English Bluegrass and Western Swing band from Birmingham.	The Toy Hearts	Birmingham
+location of formation	The Morning Dew was an American garage rock band formed in Topeka, Kansas, and active between 1966 and 1971.	The Morning Dew	Topeka
+location of formation	Einstellung are a krautrock/shoegaze band from Birmingham, England.	Einstellung	Birmingham
+location of formation	TheLights are an English pop band from Birmingham, UK.	TheLights	Birmingham
+location of formation	Gocompare.com was established in November 2006 and is based in Newport, Wales.	Gocompare.com	Newport
+location of formation	The Blue Angels Motorcycle Club (BAMC) is a one-percenter motorcycle club that was formed by Allan Morrison and Billy Gordon in MARYHILL District of Glasgow Glasgow, Scotland in 1963.	Blue Angels Motorcycle Club	Glasgow Glasgow
+location of formation	Fury UK is a heavy metal band based in Manchester, UK.	Fury UK	Manchester
+location of formation	The Bandits were an English blues rock band from Liverpool.	The Bandits	Liverpool
+location of formation	Anajo (German pronunciation: (aˈnaːjo)) was an indie pop band from Augsburg, Germany that was active between 1999 and 2014.	Anajo	Augsburg
+location of formation	Extremoduro (Spanish pronunciation: (e(k)stɾemoˈðuɾo)) are a Spanish hard rock band from Plasencia, Extremadura.	Extremoduro	Plasencia
+location of formation	Swiss Lips were a five-piece electropop band from Manchester.	Swiss Lips	Manchester
+location of formation	Helicon Home Colony was an experimental community formed by author Upton Sinclair in Englewood, New Jersey, United States, with proceeds from his novel The Jungle.	Helicon Home Colony	Englewood
+location of formation	Søstrene Grene, (translated in English as the Sisters Grene) is a retail chain established in Aarhus, Denmark in 1973 by sisters Inger and Ruth Grene.	Søstrene Grene	Aarhus
+location of formation	And Why Not? were a British pop trio, from Birmingham, West Midlands, England.	And Why Not?	Birmingham
+location of formation	New Fast Automatic Daffodils (later shortened to New FADS) were an alternative rock group from Manchester, England, active between 1988 and 1995.	New Fast Automatic Daffodils	Manchester
+location of formation	Makthaverskan are a Swedish post punk band from Gothenburg, Sweden.	Makthaverskan	Gothenburg
+location of formation	Joint-stock company ``Audimas'' was established in 1931 in Kaunas (Lithuania) and opened its own manufacturing facilities, producing sportswear.	Audimas	Kaunas
+material used	The Rape of Proserpina is a large Baroque marble sculptural group by Italian artist Gian Lorenzo Bernini, executed between 1621 and 1622.	The Rape of Proserpina	marble
+material used	The Farnese Cup (Tazza Farnese) is a 2nd-century BC cameo cup of Hellenistic Egypt in four-layered sardonyx agate.	Farnese Cup	cameo	agate
+material used	Crown Princess Märtha is a bronze statue of Princess Märtha of Sweden, by Kirsten Kokkin.	Crown Princess Märtha	bronze
+material used	Beef chow fun is a staple Cantonese dish, made from stir-frying beef, hor fun (wide rice noodles) and bean sprouts.	Beef chow fun	beef
+material used	The Rhind Mathematical Papyrus (RMP; also designated as: papyrus British Museum 10057, and pBM 10058), is the best example of Egyptian mathematics.	Rhind Mathematical Papyrus	papyrus
+material used	Beer soup is a soup which is usually roux-based and made with beer.	Beer soup	beer
+material used	Café au lait (pronounced: (kafe o lɛ); French for ``coffee with milk'') is coffee with hot milk added.	Café au lait	coffee	milk
+material used	The Monteverde Angel or Angel of the Resurrection (Italian Angelo di Monteverde and Angelo della Resurrezione) is the name given to a marble statue of 1882 that guards the tomb of the Oneto family in the cemetery of Staglieno in Genoa, Northern Italy.	Monteverde Angel	marble
+material used	Couronne lochoise is a soft and creamy raw goat's milk cheese originating in the farmlands of the Loches area of Touraine in the Loire Valley, France.	Couronne lochoise	goat's milk
+material used	The Quai Saint-Michel and Notre-Dame is a 1901 oil on canvas painting by the French artist Maximilien Luce.	The Quai Saint-Michel and Notre-Dame	canvas
+material used	The Negress is a bronze sculpture by French artist Jean-Baptiste Carpeaux.	The Negress	bronze
+material used	Columbia Railroad Bridge, also known as ``Columbia Bridge'', is a 1920 concrete arch bridge in Philadelphia, Pennsylvania, that carries CSX Trenton Subdivision rail lines over the Schuylkill River.	Columbia Railroad Bridge	concrete
+material used	Leckwith Bridge, can refer to the medieval Grade II* listed stone bridge over the river Ely at Leckwith, Cardiff, or its 20th century replacement.	Leckwith Bridge	stone
+material used	Feta (Greek: φέτα, féta, ``slice'') is a brined curd white cheese made in Greece from sheep's milk, or from a mixture of sheep and goat's milk.	Feta	sheep's milk	goat's milk
+material used	St. Mary's Parish Hall is a historic sandstone building in the Mission District of Calgary.	St. Mary's Parish Hall	sandstone
+material used	Portrait of Ms Ruby May, Standing is a oil on canvas painting made in 2012 by the British visual artist Leena McCall, portraying her friend Ruby May.	Portrait of Ms Ruby May, Standing	canvas
+material used	The Capitoline Wolf (Italian: Lupa Capitolina) is a bronze sculpture of a she-wolf suckling twin human infants, inspired by the legend of the founding of Rome.	Capitoline Wolf	bronze
+material used	Broken Chair is a monumental sculpture in wood by the Swiss artist Daniel Berset, constructed by the carpenter Louis Genève.	Broken Chair	wood
+material used	Funkturm Stuttgart is a reinforced concrete transmitting tower, built in 1966 on the Raichberg of Stuttgart, Germany (Geographical coordinates: 48°46′27``N 9°13′23''E).	Funkturm Stuttgart	concrete
+material used	The structure of Mont Pèlerin TV Tower, whose foundations are 1075 meters above sea level, weighs 13000 tons and consists of 7500 cubic metres of concrete.	Mont Pèlerin TV Tower	concrete
+material used	The Veroli Casket is an ivory and metal casket, made in Constantinople (now Istanbul) in the late tenth or early eleventh century, and now in the Victoria and Albert Museum, London.	Veroli Casket	ivory
+material used	The Lonely Tree (German: Der einsame Baum) is an 1822 oil-on-canvas painting by German painter Caspar David Friedrich.	The Lonely Tree	canvas
+material used	Shamishi are semolina fried pies that have been produced in Cyprus since at least the 19th century and they are considered a traditional delicacy of the cuisine of Cyprus.	Shamishi	semolina
+material used	Still Life with Lemons, Oranges and a Rose is an oil-on-canvas painting by Baroque Spanish artist Francisco de Zurbarán completed in 1633.	Still Life with Lemons, Oranges and a Rose	canvas
+material used	The Antinous Mondragone is a unique colossal 0.95 m high marble example of the iconographic type of the deified Antinous, of c. 130 AD.	Antinous Mondragone	marble
+material used	The Rheinturm (pronounced (ˈʁaɪ̯ntʊʁm)) (Rhine Tower) is a 240.5 metre high concrete telecommunications tower in Düsseldorf, capital of the federal state (Bundesland) of North Rhine-Westphalia, Germany.	Rheinturm	concrete
+material used	Badly damaged and with its once jewelled front missing, the Brussels Cross takes the form of a large piece of cross-shaped wood covered with a silver plate bearing medallions engraved with the evangelists' symbols at the end of the arms and an Agnus Dei at the center.	Brussels Cross	wood	silver
+material used	Gaperon is a cow's milk cheese flavored with cracked peppercorns and garlic.	Gaperon	cow's milk
+material used	Bobotie is a well-known South African dish consisting of spiced minced meat baked with an egg-based topping.	Bobotie	minced meat
+material used	Amphitrite, the wave and the sea birds (Norwegian: Amfitrite, bølgen og havfuglene) is a 4 m (13 ft) tall stainless steel sculpture by Jørleif Uthaug located in Porsgrunn, Norway.	Amphitrite, the wave and the sea birds	stainless steel
+material used	Marble Arch is a 19th-century white marble faced triumphal arch and London landmark.	Marble Arch	marble
+material used	Landscape with Ascanius Shooting the Stag of Sylvia is an 1682 oil on canvas painting by Claude Lorrain, a painter of the style of Classicism.	Ascanius Shooting the Stag of Sylvia	canvas
+material used	The Youth of Agde (l'Éphèbe d'Agde) is a bronze statue discovered on September 13, 1964, on the bed of the river Herault on the south-eastern coast of France, by Denis Fanquerle and divers from the Agde Marine Archaeological Research Group.	The Youth of Agde	bronze
+material used	Buckypaper is a thin sheet made from an aggregate of carbon nanotubes or carbon nanotube grid paper.	Buckypaper	carbon nanotube
+material used	The Roseville Bridge, a concrete box girder bridge located adjacent to the suburb of Roseville, crosses the Middle Harbour in Sydney, New South Wales, Australia.	Roseville Bridge	concrete
+material used	The Crucifixion, seen from the Cross is a c. 1890 watercolor painting by the French painter James Tissot.	Crucifixion, seen from the Cross	watercolor
+material used	Giske Bridge (Norwegian: Giskebrua) is a concrete beam bridge between the islands of Valderøya and Giske in Giske Municipality in Møre og Romsdal county, Norway.	Giske Bridge	concrete
+material used	Advent and Triumph of Christ is an oil painting on a panel of wood, painted c.1480 by German-born Early Netherlandish painter Hans Memling.	Advent and Triumph of Christ	wood
+material used	Self-Portrait with Beret and Turned-Up Collar is a 1659 oil on canvas painting by the Dutch artist Rembrandt.	Self-Portrait with Beret and Turned-Up Collar	canvas
+material used	The Albani lion is a 1st-century Roman green basalt lion statue with a yellow marble sphere under one paw, in the Albani Collection in the Denon Wing of the Louvre (inventory number Ma 1355) in Paris, France.	Albani lion	basalt
+material used	The Order of the Red Star is a red enamelled 47mm to 50mm wide (depending on the variant) silver five pointed star.	Order of the Red Star	silver
+material used	Matinée de Septembre (English: September Morn) is a controversial oil painting on canvas completed in 1911 by the French artist Paul Émile Chabas.	September Morn	canvas
+material used	The Situla of the Pania is an ivory situla or pyxis from the end of the seventh century BC, found in the Tomb of the Pania in Chiusi and conserved in the Museo archeologico nazionale di Firenze.	Situla of the Pania	ivory
+material used	Charles I at the Hunt - also known under its French title, Le Roi à la chasse - is an oil-on-canvas portrait of Charles I of England by Anthony van Dyck c.1635.	Charles I at the Hunt	canvas
+material used	Exelberg Telecommunication Tower is a 358-foot (109 m) tall tower built of reinforced concrete on Exel Mountain near Vienna, Austria.	Exelberg Telecommunication Tower	concrete
+material used	Other automobile sculptures were subsequently added to the location of Carhenge, which is now known as the Car Art Reserve.	Carhenge	automobile
+material used	The Kadin most (Bulgarian: Кадин мост, ``bridge of the qadi'') or Nevestin most (Невестин мост, ``Nevestino bridge'') is a 15th-century stone arch bridge over the Struma River at Nevestino, Kyustendil Province, in southwestern Bulgaria.	Kadin most	stone
+material used	Belisarius Begging for Alms (French: Bélisaire demandant l'aumône) is a large-format (288 × 312 cm) history painting in oil on canvas by Jacques-Louis David.	Belisarius Begging for Alms	canvas
+material used	The Galena Creek Bridge is a twin-span concrete arch bridge in Washoe County, Nevada.	Galena Creek Bridge	concrete
+material used	The Inspiration of the Poet is an oil-on-canvas by artist in the classical style Nicolas Poussin, painted between 1629 and 1630.	The Inspiration of the Poet	canvas
+material used	Friedrich Clemens Gerke Tower is a 230 metre tall telecommunication tower of reinforced concrete in Cuxhaven in Germany.	Friedrich Clemens Gerke Tower	concrete
+material used	The Bronco Buster (also spelled ``Broncho Buster'' as per convention at the time of sculpting) is a sculpture made of bronze copyrighted in 1895 by American artist Frederic Remington.	Bronco Buster	bronze
+material used	Da Tung and Xi'an Bao Bao (``Universal Peace and Baby Elephant'' in English), is an outdoor 2002 bronze sculpture, located at the North Park Blocks in downtown Portland, Oregon, United States.	Da Tung and Xi'an Bao Bao	bronze
+material used	Papyrus Oxyrhynchus 655 (P. Oxy. 655) is a papyrus fragment of the logia of Jesus written in Greek.	Papyrus Oxyrhynchus 655	papyrus
+material used	The Anji Bridge (simplified Chinese: 安济桥; traditional Chinese: 安濟橋; pinyin: Ānjì Qiáo; literally: ``Safe crossing bridge'') is the world's oldest open-spandrel segmental arch bridge of stone construction.	Anji Bridge	stone
+material used	Aline Chassériau is an 1835 oil on canvas painting by French romantic artist Théodore Chassériau, which represents Aline Chassériau (1822--1871), the painter's younger sister.	Aline Chassériau	canvas
+material used	Galaktoboureko (Greek: γαλακτομπούρεκο) is a Greek dessert of semolina custard in filo.	Galaktoboureko	semolina
+material used	America's Response Monument, subtitled De Oppresso Liber, is a life-and-a-half scale bronze statue in front of One World Trade Center, across from the National September 11 Memorial in New York City.	America's Response Monument	bronze
+material used	Grand Marnier (French pronunciation: ​(ɡʁɑ̃ maʁnje)) Cordon Rouge is an orange-flavored liqueur created in 1880 by Alexandre Marnier-Lapostolle.	Grand Marnier	orange
+material used	The Farnese Atlas is a 2nd-century Roman marble copy of a Hellenistic sculpture of Atlas kneeling with the celestial spheres, not a globe, weighing heavily on his shoulders.	Farnese Atlas	marble
+material used	The Coussin de Lyon is a sweet specialty of Lyon, France composed of chocolate and marzipan.	Coussin de Lyon	chocolate	marzipan
+parent company	Fox Television Stations, Inc. (FTS; alternately Fox Television Stations Group, Inc.), is a group of television stations located within the United States which are owned-and-operated by the Fox Broadcasting Company, a subsidiary of the Fox Entertainment Group, part of 21st Century Fox.	Fox Television Stations	21st Century Fox
+parent company	SABCA (Sociétés Anonyme Belge de Constructions Aéronautiques) is a Belgian aerospace company, controlled by Dassault Group and Stork.	SABCA	Dassault Group
+parent company	Thales Nederland B.V. (formerly Hollandse Signaalapparaten B.V. or in short Signaal) is a subsidiary of Thales Group involved primarily in naval defence systems (sensors, radars and infrared systems).	Thales Nederland	Thales Group
+parent company	Comair was a wholly owned subsidiary airline of Delta Air Lines, headquartered on the grounds of Cincinnati-Northern Kentucky International Airport in Boone County, Kentucky, United States, west of Erlanger, and south of Cincinnati.	Comair	Delta Air Lines
+parent company	Avianca Costa Rica, formerly known as Lacsa (Spanish: Lineas Aéreas Costarricenses S.A.), minority owned by the Synergy Group, is the national airline of Costa Rica and is based in San José.	Avianca Costa Rica	Synergy Group
+parent company	Broad Sustainable Building Co., LTD (BSB) 远大可建科技 is a construction company wholly owned subsidiary of Broad Group, specialized in developing prefabricated buildings.	Broad Sustainable Building	Broad Group
+parent company	Mainova AG was formed in 1998 through the merger of Stadtwerke Frankfurt am Main GmbH and Maingas AG.	Mainova	Stadtwerke Frankfurt
+parent company	On June 8, 2010 Ampad was acquired by Esselte.	Ampad	Esselte
+parent company	Strategy& is a global strategy consulting firm originally established as Booz Allen Hamilton in the United States in 1914 and is now part of PricewaterhouseCoopers, which acquired the former Booz & Co. on April 4, 2014.	Strategy&	PricewaterhouseCoopers
+parent company	Sunstate Airlines is a subsidiary of Qantas which operates regional flights under the QantasLink banner throughout Queensland, and between Brisbane and Canberra.	Sunstate Airlines	Qantas
+parent company	Novair International Airways was formed on 7 December 1988 following the sole acquisition of Cal Air International by the Rank Organisation.	Novair International Airways	Rank Organisation
+parent company	Brewers Fayre is a chain of around 130 licensed family and casual dining pub restaurants in the United Kingdom, owned by Whitbread.	Brewers Fayre	Whitbread
+parent company	Milka is a traditional brand of chocolate confection which originated in Switzerland in 1825 and has been manufactured internationally by the US confectionery company Mondelēz International (formerly known as Kraft Foods) since 1990.	Milka	Kraft Foods
+parent company	Spiegel & Grau is a publishing imprint of Random House founded by Celina Spiegel and Julie Grau.	Spiegel & Grau	Random House
+parent company	Wanadoo was the ISP division of Orange S.A. It operated in France, Spain, the United Kingdom, Belgium, the Netherlands, Tunisia, Algeria, Morocco, Senegal, Mauritius, Madagascar, Lebanon, and Jordan.	Wanadoo	Orange
+parent company	North Cyprus Airlines (Turkish: Kuzey Kıbrıs Hava Yolları (KKHY)) was founded by the government of the Turkish Republic of Northern Cyprus (TRNC) shortly after the bankruptcy of Cyprus Turkish Airlines in June 2010.	North Cyprus Airlines	Turkish Airlines
+parent company	Citibank is the consumer division of financial services multinational Citigroup.	Citibank	Citigroup
+parent company	Since 1998, GSD&M has been part of the Omnicom Group.	GSD&M	Omnicom Group
+parent company	Keolis Downer is a joint venture between Keolis, the largest private sector French transport group, and Downer Rail, an Australian railway engineering company, that operates bus and tram services in Australia.	Keolis Downer	Downer Rail
+parent company	UPC Magyarország (English: UPC Hungary) is Liberty Global Europe's telecommunications operation in Hungary.	UPC Magyarország	Liberty Global
+parent company	PlusGirot (formerly PostGirot) is a Swedish money transaction system, owned by Nordea.	PlusGirot	Nordea
+parent company	Pearl Aviation is the most prominent of a group of aviation companies owned by Paspaley Pearling.	Pearl Aviation	Paspaley
+parent company	The Holy Cross Crusaders football team is the collegiate American football program of the College of the Holy Cross in Worcester, Massachusetts.	Holy Cross Crusaders football	College of the Holy Cross
+parent company	Microsoft Corporation purchased the company in 2011, and it has since then operated as their wholly owned subsidiary; however, the software continues to be licensed and operated by Skype Technologies.	Skype Technologies	Microsoft
+parent company	The Queensland Parks and Wildlife Service (QPWS) is a sub-section of the Department of National Parks, Sport and Racing within the Government of Queensland.	Queensland Parks and Wildlife Service	Government of Queensland
+parent company	The Core Research Center is a facility run by the United States Geological Survey, located in ``F'' bay in building 810 on the Denver Federal Center campus.	Core Research Center	United States Geological Survey
+parent company	Dominion Enterprises was established in September 2006 by Landmark Media Enterprises (formerly Landmark Communications), following a division of assets of its predecessor company, Trader Publishing, between shared owners Landmark and Cox Enterprises.	Dominion Enterprises	Landmark Media Enterprises
+parent company	Continental Lite was a short lived ``airline within an airline'' brand of Continental Airlines established in 1993.	Continental Lite	Continental Airlines
+parent company	The Filmation studio was purchased by the TelePrompTer Corporation in 1969.	Filmation	TelePrompTer Corporation
+parent company	The Brazilian Agricultural Research Corporation (EMBRAPA - Portuguese: Empresa Brasileira de Pesquisa Agropecuária) is a state-owned research corporation affiliated with the Brazilian Ministry of Agriculture.	Brazilian Agricultural Research Corporation	Ministry of Agriculture
+parent company	Foodtown was a New Zealand supermarket chain owned by Progressive Enterprises.	Foodtown	Progressive Enterprises
+parent company	Mandarin Oriental Hotel Group (MOHG) (Traditional Chinese: 文華東方酒店), a member of the Jardine Matheson Group, is an international hotel investment and management group with luxury hotels, resorts and residences in Asia, Europe and the Americas.	Mandarin Oriental Hotel Group	Jardine Matheson
+parent company	In 2011, Sowind Group, the holding incorporating Girard-Perregaux, became a subsidiary of Kering.	Girard-Perregaux	Sowind Group
+parent company	KLM Cityhopper is the regional subsidiary of KLM Royal Dutch Airlines (part of the Air France-KLM group).	KLM Cityhopper	Air France-KLM
+parent company	E-Plus has been owned by Dutch telecommunications operator KPN since 2002.	E-Plus	KPN
+parent company	The Ypsilanti Courier is part of Heritage Newspapers, a conglomerate of weekly newspapers in Washtenaw County owned by 21st Century Media, part of Digital First Media.	Ypsilanti Courier	21st Century Media
+parent company	Paramount Pictures Corporation (commonly known as Paramount Studios or simply Paramount, and formerly known as Famous Players-Lasky Corporation) is a film studio, television production company and motion picture distributor, consistently ranked as one of the ``Big Six'' film studios of Hollywood.	Paramount Pictures	Famous Players-Lasky
+parent company	Interbrasil STAR S/A was a Brazilian airline founded in 1994 as a feeder airline to Transbrasil.	Interbrasil STAR	Transbrasil
+parent company	Essent is part of RWE AG. Essent has 2.3 million customers for electricity and about 2.0 million for gas.	Essent	RWE
+parent company	The Le Méridien brand was established in 1972 by Air France ``to provide on a home away from home for its customers.''	Le Méridien	Air France
+parent company	Telecinco Cinema, S.A.U. is a Spanish film production company owned by Mediaset España Comunicación.	Telecinco Cinema	Mediaset España
+parent company	Valdosta State University, also referred to as VSU, or Valdosta State, is an American public university and is one of the three regional universities in the University System of Georgia.	Valdosta State University	University System of Georgia
+parent company	Target Australia Pty Ltd (formerly Empororama and Lindsay's) is a mid-price department store chain and Australia's largest (by store number), owned by Wesfarmers.	Target Australia	Wesfarmers
+parent company	Chautauqua Airlines, Inc., was an American regional airline and a subsidiary of Republic Airways Holdings based in Indianapolis, Indiana, United States.	Chautauqua Airlines	Republic Airways Holdings
+parent company	The Dassault Aviation Group is an international group that encompasses most of the aviation activities of the Dassault Group Dassault Group (55.55%) Airbus Group (23.36%) Dassault Aviation (5.44%) Private investors (15.65%)	Dassault Aviation	Dassault Group Dassault Group
+parent company	Caribair was the parent company of Caribintair.	Caribintair	Caribair
+parent company	Stamicarbon is the licensing and IP center of Maire Tecnimont SpA and market leader in licensing technology for manufacturing urea as well as provide follow-up services designed to ensure the best possible operation of the urea plant throughout its working life.	Stamicarbon	Maire Tecnimont
+parent company	Deram Records was a subsidiary record label of Decca Records established in the United Kingdom in 1966.	Deram Records	Decca Records
+parent company	In late 1994, Le Méridien was acquired by UK hotel company Forte Group, which in turn was acquired by Granada plc in 1996.	Le Méridien	Forte Group	Granada plc
+parent company	Nintendo Software Technology (or NST) is an American video game developer located inside of Nintendo of America main headquarters, based in Redmond, Washington.	Nintendo Software Technology	Nintendo of America
+place of burial	Sakari Ainali (3 December 1874, Himanka - 31 October 1938) was a Finnish farmer, businessman, lay preacher and politician.	Sakari Ainali	Himanka
+place of burial	`` Théodore Salomé, his wife, and son share the Condrot-Gault family mausoleum at Père Lachaise Cemetery, which includes a moss encrusted granite sculpture of a prie-dieu with an open covered book.	Théodore Salomé	Père Lachaise Cemetery
+place of burial	The Xianfeng Emperor was interred in the Eastern Qing Tombs, 125 kilometers/75 miles east of Beijing, in the Dingling (定陵; ``Tomb of Quietude'') mausoleum complex.	Xianfeng Emperor	Eastern Qing Tombs
+place of burial	John Wilson McConnell was interred in the family plot at Mount Royal Cemetery.	John Wilson McConnell	Mount Royal Cemetery
+place of burial	On 31 January 2006, Vasily Zaytsev was reburied on the Mamayev Kurgan in Stalingrad (now Volgograd) with full military honors.	Vasily Zaytsev	Mamayev Kurgan
+place of burial	An undistinguished young man, but keen on guns and riding, Keith Park was educated at King's College, Auckland until 1906 and then at Otago Boys' High School, Dunedin where he served in the cadets.	Keith Park	Auckland
+place of burial	Alfred Wigan died at his home in Folkestone on 29 November 1878 and was buried in Kensal Green Cemetery.	Alfred Wigan	Kensal Green Cemetery
+place of burial	Hollerith is buried at Oak Hill Cemetery in the Georgetown neighborhood of Washington, D.C., as is his son, Herman Hollerith Jr. Hollerith cards were named after the elder Herman Hollerith, as were Hollerith constants (also sometimes called Hollerith strings), an early type of string constant declaration (in computer programming).	Herman Hollerith	Oak Hill Cemetery
+place of burial	Thaddeus Hanford died on January 29, 1892 and was buried at Lake View Cemetery, Seattle.	Thaddeus Hanford	Lake View Cemetery
+place of burial	Timothy Eaton died of pneumonia on January 31, 1907 and is buried in Mount Pleasant Cemetery in Toronto.	Timothy Eaton	Mount Pleasant Cemetery
+place of burial	The body of 39-year-old Przemysł II was buried in the Archcathedral Basilica of St. Peter and St. Paul in Poznań, according to the Rocznik kapituły poznańskiej.	Przemysł II	Archcathedral Basilica of St. Peter and St. Paul
+place of burial	Kauffmann Memorial is a public artwork by American artist William Ordway Partridge, located at Rock Creek Cemetery in Washington, D.C., United States.	Kauffmann Memorial	Rock Creek Cemetery
+place of burial	On his death in 1906, Eastman Johnson was buried at Green-Wood Cemetery in Brooklyn, New York.	Eastman Johnson	Green-Wood Cemetery
+place of burial	After a short reign of about six and a half years, Ramesses IV died and was buried in tomb KV2 in the Valley of the Kings.	Ramesses IV	KV2
+place of burial	Vera Zorina was born Eva Brigitta Hartwig in Berlin, Germany.	Vera Zorina	Berlin
+place of burial	Bernardo Mattarella was born in Castellammare del Golfo, in the province of Trapani in western Sicily as the eldest of seven children in a family of humble origins.	Bernardo Mattarella	Castellammare del Golfo
+place of burial	Regina Derieva's funeral took place on December 23, 2013, and she is buried at the Norra Begravningsplatsen (Katolska Kyrkogården) in Stockholm.	Regina Derieva	Norra Begravningsplatsen
+place of burial	Russell Harlan died in 1974 in Newport Beach, California and was interred in Forest Lawn Memorial Park Cemetery in Glendale, California	Russell Harlan	Forest Lawn Memorial Park
+place of burial	Finally, in 1931, suffering from the extreme ravages of diabetes that had necessitated the amputation of his left foot, Eugène Ysaÿe died in his house in Brussels and was interred in the Ixelles Cemetery in Brussels.	Eugène Ysaÿe	Ixelles Cemetery
+place of burial	A year later, Cole Younger died March 21, 1916, in his home town of Lee's Summit, Missouri, and is buried in the Lee's Summit Historical Cemetery.	Cole Younger	Lee's Summit Historical Cemetery
+place of burial	Jeffreys Lewis was interned at the Kensico Cemetery in Valhalla, New York.	Jeffreys Lewis	Kensico Cemetery
+place of burial	Jeanne Le Ber was born in Ville-Marie (Montreal), on January 4, 1662.	Jeanne Le Ber	Montreal
+place of burial	Charles Henry Lyell died on 18 October 1918 of pneumonia while serving as Assistant Military Attaché to the USA, and was buried at Arlington National Cemetery.	Charles Henry Lyell	Arlington National Cemetery
+place of burial	Artus de Lionne (1655--1713), abbé and Bishop of Rosalie in partibus infidelium, in Turkey, was a French missionary of the Paris Foreign Missions Society.	Artus de Lionne	Paris Foreign Missions Society
+place of burial	Elizabeth Hatton died 3 January 1646, and was buried in the parish church of St Andrew Holborn.	Elizabeth Hatton	St Andrew Holborn
+place of burial	Hubbard Bell Grossman Pillot Memorial is a public artwork by Lee Lawrie, located at Rock Creek Cemetery in Washington, D.C., United States.	Hubbard Bell Grossman Pillot Memorial	Rock Creek Cemetery
+place of burial	In 2008, after the death of his parents, Michael Crescenz was reinterred at Arlington National Cemetery.	Michael Crescenz	Arlington National Cemetery
+place of burial	MacDonald was interred on January 18, 1965, in a crypt at Forest Lawn Memorial Park in Glendale, California which reads ``Jeanette MacDonald Raymond''.	Jeanette MacDonald	Forest Lawn Memorial Park
+place of burial	He is interred at Arlington National Cemetery where his headstone reads ``Lee Marvin, PFC, US Marine Corps, World War II''.	Lee Marvin	Arlington National Cemetery
+place of burial	Sherman Edwards died of a heart attack in Manhattan at age 61 in 1981 and was interred at Kensico Cemetery in Valhalla, NY.	Sherman Edwards	Kensico Cemetery
+place of burial	William Blount, 4th Baron Mountjoy (c.1478--1534), KG, of Barton Blount, Derbyshire, was an English courtier, scholar and patron of learning.	William Blount, 4th Baron Mountjoy	Barton Blount
+place of burial	MacDonald is buried in the Ranald MacDonald Cemetery, Ferry County, Washington.	Ranald MacDonald	Ferry County
+place of burial	Sadi Irmak died on November 11, 1990 in Istanbul, and was buried at the Aşiyan Asri Cemetery.	Sadi Irmak	Aşiyan Asri Cemetery
+place of burial	Hedwig of Brunswick-Wolfenbüttel (9 February 1595 in Wolfenbüttel -- 26 June 1650 in Szczecinek), was a Duchess of Brunswick-Wolfenbüttel by birth and by marriage Duchess of Pomerania.	Hedwig of Brunswick-Wolfenbüttel	Szczecinek
+place of burial	Claude-Henri Gorceix (October 19, 1842 -- 1919) was a French mineralogist born in Saint-Denis-des-Murs, Haute-Vienne.	Claude-Henri Gorceix	Saint-Denis-des-Murs
+programming language	FreeMarker is a Java-based Template Engine, originally focusing on dynamic web page generation with MVC software architecture.	FreeMarker	Java
+programming language	Dillo 2, written with both C and C++ components and the Fast Light Toolkit (FLTK), was released on October 14, 2008.	Dillo	C++
+programming language	FlightGear is mostly written in the C++ programming language.	FlightGear	C++
+programming language	Kosmo was implemented using the Java programming language and is being developed from the JUMP GIS platform and a series of free code libraries, all of which are well acknowledged and widely used in different free software projects (for example, Geotools and JTS).	Kosmo	Java
+programming language	The name Phorum came from combining ``PHP'' and ``forum''.	Phorum	PHP
+programming language	Carbide.c++ is a software development tool for C++ development on Symbian OS. It is used to develop phones that use the OS, as well as applications that run on those phones.	Carbide.c++	C++
+programming language	PlayOnMac is developed using a combination of Bash and Python and uses the toolkit wxPython.	PlayOnMac	Python
+programming language	Mandarax is an open source Java class library for deduction rules.	Mandarax	Java
+programming language	Apache Derby (previously distributed as IBM Cloudscape) is a relational database management system (RDBMS) developed by the Apache Software Foundation that can be embedded in Java programs and used for online transaction processing.	Apache Derby	Java
+programming language	FUDforum runs on a number of operating systems that are able to support the PHP programming language, including Unix, Linux and Windows systems.	FUDforum	PHP
+programming language	It is a completely re-implemented version of the TaskJuggler 2.x series and written in Ruby.	TaskJuggler	Ruby
+programming language	Gtranslator is written in the programming language C for the GNOME desktop environment.	Gtranslator	C
+programming language	Big Medium was a browser-based web content management system (CMS) written in the Perl programming language and developed by Global Moxie, the Paris-based company of independent developer Josh Clark.	Big Medium	Perl
+programming language	YXA is a program written in Erlang implementing a telephone private branch exchange (PBX) was written by Magnus Ahltorp at Royal Institute of Technology (KTH) in the end of 2002.	YXA	Erlang
+programming language	Psyco is a specializing just-in-time compiler for Python originally developed by Armin Rigo and further maintained and developed by Christian Tismer.	Psyco	Python
+programming language	UseModWiki is a wiki engine written in the Perl programming language.	UseModWiki	Perl
+programming language	D3.js (or just D3 for Data-Driven Documents) is a JavaScript library for producing dynamic, interactive data visualizations in web browsers.	D3.js	JavaScript
+programming language	The Calmira shell was developed on Borland Delphi 1.0, an Object Pascal based programming environment by Borland.	Calmira	Object Pascal
+programming language	Icy Phoenix is a CMS (Content Management System) based on phpBB (an open-source Internet Forum package powered by PHP) plus many modifications and code integrations which add features to the whole package.	Icy Phoenix	PHP
+programming language	FlyBack is written in Python using GTK.	FlyBack	Python
+programming language	Today, OS-9 is a product name used by both a Motorola 68000-series machine language OS and a portable (PowerPC, x86, ARM, MIPS, SH4, etc.) version written in C, originally known as OS-9000.	OS-9	C
+programming language	TinyMCE (Tiny Moxiecode Content Editor) is a platform-independent, browser-based WYSIWYG editor control, written in JavaScript and released as open-source software under the LGPL by Ephox.	TinyMCE	JavaScript
+programming language	Formatting Objects Processor (FOP, also known as Apache FOP) is a Java application that converts XSL Formatting Objects (XSL-FO) files to PDF or other printable formats.	Formatting Objects Processor	Java
+programming language	Xuheki is a web-based IMAP client written in Perl.	Xuheki	Perl
+programming language	Schoeneman eventually re-wrote BZFlag in C++ for SGI's third IndiZone competition, which won in the ``Reality Engine'' category.	BZFlag	C++
+programming language	Database Management Library (DBL) is a relational database management system (RDBMS) contained in a C++ programming library.	Database Management Library	C++
+programming language	MakeIndex was written around the year 1986 by Pehong Chen in the C programming language and is free software.	MakeIndex	C
+programming language	Feature Selection Toolbox (FST) is software primarily for feature selection in the machine learning domain, written in C++, developed at the Institute of Information Theory and Automation (UTIA), of the Czech Academy of Sciences.	Feature Selection Toolbox	C++
+programming language	WebMacro is a framework for developing Java Servlets.	WebMacro	Java
+programming language	JUnit is a unit testing framework for the Java programming language.	JUnit	Java
+programming language	dwg, but also has a set of commands similar to AutoCAD by Autodesk, Inc. Similarly, IntelliCAD provides several calling convention routines, or APIs, such as LISP, COM, Visual Basic, and SDS (IntelliCAD's C/C++ Programming API) that allow users the ability to create complex custom CAD applications.	IntelliCAD	C++
+programming language	Gosling Emacs (often shortened to ``Gosmacs'' or ``gmacs'') is a discontinued Emacs implementation written in 1981 by James Gosling in C. Its extension language, Mocklisp, has a syntax that appears similar to Lisp, but Mocklisp does not have lists or any other structured datatypes.	Gosling Emacs	Mocklisp
+programming language	OpenLayers is an open source (provided under the 2-clause BSD License) JavaScript library for displaying map data in web browsers.	OpenLayers	JavaScript
+programming language	Ratpoison is written in C;	Ratpoison	C
+programming language	Dojo Toolkit (stylized as dōjō toolkit) is an open source modular JavaScript library (or more specifically JavaScript toolkit) designed to ease the rapid development of cross-platform, JavaScript/Ajax-based applications and web sites.	Dojo Toolkit	JavaScript
+programming language	A MEX file is a type of computer file that provides an interface between MATLAB or Octave and functions written in C, C++ or Fortran.	MEX file	C	C++
+programming language	WebKit's C++ application programming interface provides a set of classes to display web content in windows, and implements browser features such as following links when clicked by the user, managing a back-forward list, and managing a history of pages recently visited.	WebKit	C++
+programming language	JBuilder is an integrated development environment (IDE) for the programming language Java from Embarcadero Technologies.	JBuilder	Java
+programming language	CherryPy is an object-oriented web application framework using the Python programming language.	CherryPy	Python
+programming language	Laravel is a free, open-source PHP web application framework, created by Taylor Otwell and intended for the development of web applications following the model--view--controller (MVC) architectural pattern.	Laravel	PHP
+programming language	TinyButStrong is a web template system written in the PHP language.	TinyButStrong	PHP
+religious order	Waverley Abbey was the first Cistercian abbey in England.	Waverley Abbey	Cistercian
+religious order	John Nobili, born Giovanni Pietro Antonio Nobili, (S.J.) (born April 28, 1812 - March 1, 1856) was an Italian priest of the Society of Jesus.	John Nobili	Society of Jesus
+religious order	Salem Abbey (Kloster or Reichskloster Salem), also known as Salmansweiler and in Latin as Salomonis Villa, was a very prominent Cistercian monastery in Salem in the district of Bodensee about ten miles from Konstanz, Baden-Württemberg, Germany.	Salem Abbey	Cistercian
+religious order	Amalric-Frédéric Buscarlet (1836 in Nice -- 19 February 1928 in Pau) worked in turn in Italy, Switzerland and France as a minister of the Church of Scotland.	Amalric-Frédéric Buscarlet	Church of Scotland
+religious order	Fortanerius Vassalli (died October 1361) was an Italian Franciscan, who became Minister General of the Order of Friars Minor, and a cardinal a few weeks before he died.	Fortanerius Vassalli	Order of Friars Minor
+religious order	Boxley Abbey in Boxley, Kent, England was a Cistercian monastery founded c.1146 by William of Ypres, leader of King Stephen's Flemish mercenaries, and colonised by monks from Clairvaux Abbey in France.	Boxley Abbey	Cistercian
+religious order	Bernard de Montgaillard (1563--1628) was a French Cistercian preacher and abbot of Orval Abbey.	Bernard de Montgaillard	Cistercian
+religious order	Robertsbridge Abbey was a Cistercian abbey in Robertsbridge, East Sussex, England.	Robertsbridge Abbey	Cistercian
+religious order	Giovanni Battista Audiffredi entered the Dominican Order, and soon attracted attention by his taste for books and his talent for the exact sciences.	Giovanni Battista Audiffredi	Dominican Order
+religious order	Father István Pongrácz was born in Alvincz Castle in Principality of Transylvania, entered the Society of Jesus in 1602, and studied in Bohemia and Austria.	István Pongrácz	Society of Jesus
+religious order	The Stockholm Sweden Temple (Swedish: Templet i Stockholm) is the 34th operating temple of The Church of Jesus Christ of Latter-day Saints (LDS Church).	Stockholm Sweden Temple	The Church of Jesus Christ of Latter-day Saints
+religious order	Alberto Hurtado University, located in Santiago and run by the Society of Jesus, preserves his name and strives to bring his legacy into contemporary education and social affairs.	Alberto Hurtado	Society of Jesus
+religious order	Pierre-Joseph Cassant (6 March 1878 - 17 June 1903) was a French Roman Catholic priest and professed member of the Trappists.	Pierre-Joseph Cassant	Trappists
+religious order	Jakob Rem (June 1546 - 12 October 1618) was an Austrian member of the Society of Jesus, a Catholic evangelical organization, and an early member of the Congregation of Marian Fathers.	Jakob Rem	Society of Jesus
+religious order	Croxden Abbey, also known as ``Abbey of the Vale of St. Mary at Croxden'', was a Cistercian abbey at Croxden, Staffordshire, United Kingdom.	Croxden Abbey	Cistercian
+religious order	While in prison, John Cornelius was admitted to membership in the Society of Jesus.	John Cornelius	Society of Jesus
+religious order	Melleray Abbey (Abbaye de Notre-Dame-de-Melleray) was a Cistercian monastery, founded about the year 1134.	Melleray Abbey	Cistercian
+religious order	The Blessed Jordan of Saxony, O.P. (referred to in Latin as Jordanis, also known as de Alamania; c. 1190 -- 1237), was one of the first leaders of the Dominican Order.	Jordan of Saxony	Dominican Order
+religious order	Francesco Suriano (1445-after 1481) was an Italian monk of the Franciscan order, who wrote a guide for travel to the Holy Land.	Francesco Suriano	Franciscan
+religious order	Bonne-Espérance Abbey was a Premonstratensian abbey that existed from 1130 to the end of the 18th century, located in Vellereille-les-Brayeux in the Walloon municipality of Estinnes, province of Hainaut, Diocese of Tournai, in present-day Belgium.	Bonne-Espérance Abbey	Premonstratensian
+religious order	Born in Ghent, Belgium of Catholic Flemish stock, Henri Lammens joined the Society of Jesus in Beirut at the age of fifteen, and settled permanently in Lebanon.	Henri Lammens	Society of Jesus
+standards body	ISO 3166 is a standard published by the International Organization for Standardization (ISO) that defines codes for the names of countries, dependent territories, special areas of geographical interest, and their principal subdivisions (e.g., provinces or states).	ISO 3166	International Organization for Standardization
+standards body	ISO 3166-2:MN is the entry for Mongolia in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1.	ISO 3166-2:MN	International Organization for Standardization
+standards body	ISO 3166-2:IQ is the entry for Iraq in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1.	ISO 3166-2:IQ	International Organization for Standardization
+standards body	ISO 3166-2:CW is the entry for Curaçao in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1.	ISO 3166-2:CW	International Organization for Standardization
+standards body	ISO 3166-2:EH is the entry for Western Sahara in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1.	ISO 3166-2:EH	International Organization for Standardization
+standards body	ISO 9660 is a file system standard published by the International Organization for Standardization (ISO) for optical disc media.	ISO 9660	International Organization for Standardization
+standards body	ISO 14051 is part of the ISO 14000 family of standards relating to environmental management codified by the International Organization for Standardization.	ISO 14051	International Organization for Standardization
+standards body	ISO 3166-2:SY is the entry for Syria in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1.	ISO 3166-2:SY	International Organization for Standardization
+standards body	ISO 3166-2:PH is the entry for the Philippines in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1.	ISO 3166-2:PH	International Organization for Standardization
+standards body	ISO 5776, published by the International Organization for Standardization (ISO), is an international standard that specifies symbols for proofreading such as of manuscripts, typescripts and printer's proofs.	ISO 5776	International Organization for Standardization
+standards body	IEEE 1541-2002 is a standard issued by the Institute of Electrical and Electronics Engineers (IEEE) concerning the use of prefixes for binary multiples of units of measurement related to digital electronics and computing.	IEEE 1541-2002	Institute of Electrical and Electronics Engineers
+standards body	ISO 3166-2:TR is the entry for Turkey in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1.	ISO 3166-2:TR	International Organization for Standardization
+standards body	ISO 3166-2:AW is the entry for Aruba in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1.	ISO 3166-2:AW	International Organization for Standardization
+standards body	ISO 3166-1 alpha-2 codes are two-letter country codes defined in ISO 3166-1, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), to represent countries, dependent territories, and special areas of geographical interest.	ISO 3166-1 alpha-2	International Organization for Standardization
+standards body	ISO 3166-2:ME is the entry for Montenegro in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1.	ISO 3166-2:ME	International Organization for Standardization
+standards body	ISO 3166-2:MX is the entry for Mexico in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1.	ISO 3166-2:MX	International Organization for Standardization
+standards body	ISO 3166-2:NE is the entry for Niger in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1.	ISO 3166-2:NE	International Organization for Standardization
+standards body	IEEE 1547 (Standard for Interconnecting Distributed Resources with Electric Power Systems) is a standard of the Institute of Electrical and Electronics Engineers meant to provide a set of criteria and requirements for the interconnection of distributed generation resources into the power grid.	IEEE 1547	Institute of Electrical and Electronics Engineers
+standards body	ISO 3166-2:MW is the entry for Malawi in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1.	ISO 3166-2:MW	International Organization for Standardization
+standards body	ISO 3166-2:BV is the entry for Bouvet Island in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1.	ISO 3166-2:BV	International Organization for Standardization
+standards body	International standard ISO 1000 (SI units and recommendations for the use of their multiples and of certain other units, International Organization for Standardization, 1992) is the ISO standard describing the International System of Units (SI).	ISO 1000	International Organization for Standardization
+standards body	ISO 3166-2:BL is the entry for Saint Barthélemy in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1.	ISO 3166-2:BL	International Organization for Standardization
+standards body	ISO 3166-2:PW is the entry for Palau in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1.	ISO 3166-2:PW	International Organization for Standardization

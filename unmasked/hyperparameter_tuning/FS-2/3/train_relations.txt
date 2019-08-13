@@ -1,0 +1,25 @@
+conflict
+country
+country of citizenship
+country of origin
+creator
+date of birth
+director
+dissolved or abolished
+located in the administrative territorial entity
+member of sports team
+named after
+native language
+original network
+parent taxon
+participant of
+performer
+position held
+position played on team / speciality
+present in work
+publication date
+record label
+sport
+spouse
+taxon rank
+voice type

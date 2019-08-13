@@ -1,0 +1,25 @@
+child
+conflict
+constellation
+country
+country of citizenship
+date of death
+director
+educated at
+employer
+instrument
+located in the administrative territorial entity
+manufacturer
+military branch
+mouth of the watercourse
+named after
+narrative location
+original network
+place of death
+position held
+publication date
+screenwriter
+series
+sport
+taxon rank
+voice type

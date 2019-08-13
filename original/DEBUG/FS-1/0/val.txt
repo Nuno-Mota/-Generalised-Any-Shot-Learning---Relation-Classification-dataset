@@ -1,0 +1,10 @@
+narrative location	Set in an Iraqi village during the Iran-Iraq war, Scattered Crumbs critiques a totalitarian dictatorship through the stories of an impoverished peasant family.	Scattered Crumbs	Iraq
+narrative location	The film is loosely based on a story Pete Collins published in a 1999 series of Miami New Times articles and compiled in the book Pain & Gain:	Pain & Gain	Miami
+narrative location	Gniazdo (AKA: The Cradle) is a 1974 film about Mieszko I of Poland, was Duke of the Polans from AD 962 until his death in 992.	Gniazdo	Poland
+publisher	The European Review of Economic History is an international peer-reviewed academic journal published three times per year by Cambridge University Press in association with the European Historical Economics Society.	European Review of Economic History	Cambridge University Press
+publisher	Dynasty Tactics 2 is the sequel to Koei's Dynasty Tactics.	Dynasty Tactics 2	Koei
+publisher	Budding Prospects by T. C. Boyle Hardcover - ISBN 0-670-19439-5 (first edition) published by Viking Press Paperback - ISBN 0-14-029996-3 published by Penguin Books	Budding Prospects	Viking Press
+publisher	Super Stardust is a 1994 game developed by Bloodhouse and published for the Amiga (AGA) and Amiga CD32 by Team17.	Super Stardust	Team17
+publisher	Love That Dog is a free verse piece written by Sharon Creech and published by HarperCollins.	Love That Dog	HarperCollins
+publisher	Ken's Labyrinth is a first-person shooter DOS game, released in 1993 by Epic MegaGames (now called Epic Games).	Ken's Labyrinth	Epic Games
+publisher	Earth, Moon, and Planets is a peer-reviewed scientific journal, published approximately ten times per year by Springer Science+Business Media.	Earth, Moon, and Planets	Springer Science+Business Media

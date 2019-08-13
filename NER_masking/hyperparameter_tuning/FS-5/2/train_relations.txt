@@ -1,0 +1,25 @@
+author
+award received
+conflict
+constellation
+country of origin
+director
+dissolved or abolished
+educated at
+founder
+manufacturer
+member of sports team
+mouth of the watercourse
+named after
+occupation
+original network
+parent taxon
+performer
+place of birth
+place of death
+present in work
+screenwriter
+sex or gender
+spouse
+taxon rank
+voice type

@@ -1,0 +1,25 @@
+author
+award received
+constellation
+country of citizenship
+country of origin
+creator
+date of birth
+educated at
+employer
+founder
+headquarters location
+instrument
+located in the administrative territorial entity
+member of sports team
+mother
+mouth of the watercourse
+narrative location
+participant of
+performer
+place of death
+position played on team / speciality
+publisher
+record label
+sex or gender
+taxon rank

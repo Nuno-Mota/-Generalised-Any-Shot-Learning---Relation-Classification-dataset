@@ -1,0 +1,10 @@
+author
+award received
+country
+country of origin
+date of birth
+mother
+mouth of the watercourse
+place of death
+series
+sex or gender

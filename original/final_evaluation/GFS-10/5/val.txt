@@ -1,0 +1,625 @@
+IUCN conservation status	The Siau scops owl (Otus manadensis siaoensis) is a critically endangered owl and may be extinct.	Siau scops owl	critically endangered
+IUCN conservation status	Ravenea rivularis is an endangered species of flowering plant in the Arecaceae family.	Ravenea rivularis	endangered species
+IUCN conservation status	The Taita thrush (Turdus helleri), also known as Taita olive thrush or Heller's ground thrush, is a critically endangered bird from the family of thrushes (Turdidae), endemic to the Taita Hills in Kenya.	Taita thrush	critically endangered
+IUCN conservation status	Ctenitis squamigera, commonly known as the Pacific Lacefern or Pauoa, is a critically endangered species of fern found only on the islands of Hawaii.	Ctenitis squamigera	critically endangered
+IUCN conservation status	The IUCN has classed Brugmansia arborea as Extinct in the Wild.	Brugmansia arborea	Extinct in the Wild
+IUCN conservation status	Poecilotheria hanumavilasumica, also known as the Rameshwaram ornamental, or Rameshwaram parachute spider, is a critically endangered species of tarantula earlier thought endemic to Ramanathapuram district in the state of Tamil Nadu, India.	Poecilotheria hanumavilasumica	critically endangered
+IUCN conservation status	The Echigo mole (Mogera etigo) is an endangered species of mammal in the family Talpidae.	Echigo mole	endangered species
+IUCN conservation status	While there are no known specific threats to the Waccamaw killifish, it is currently classified as vulnerable by the IUCN because of its restriction to a single location.	Waccamaw killifish	vulnerable
+IUCN conservation status	Savi's warbler is assessed by the IUCN in their Red List of Threatened Species as being of least concern.	Savi's warbler	least concern
+IUCN conservation status	Young Komodo dragons are vulnerable and therefore dwell in trees, safe from predators and cannibalistic adults.	Komodo dragon	vulnerable
+IUCN conservation status	Although the total population of the Carpathian newt is probably declining, the International Union for Conservation of Nature has assessed it as being of ``least concern'' in view of its wide range, presumed large total population and tolerance to variations to its habitat.	Carpathian newt	least concern
+IUCN conservation status	The Visayan warty pig (Sus cebifrons) is a critically endangered species in the pig genus (Sus).	Visayan warty pig	critically endangered
+IUCN conservation status	Voanioala gerardii is critically endangered because of its scarcity.	Voanioala	critically endangered
+IUCN conservation status	Garrido's hutia (Mysateles garridoi) is a critically endangered or possibly extinct species that is found in the Greater Antillean moist forests Global 200 ecoregion.	Garrido's hutia	critically endangered
+author	Earth Afire is a science fiction novel by Orson Scott Card and Aaron Johnston, and the second book of the Formic Wars novels in the Ender's Game series.	Earth Afire	Orson Scott Card
+author	Hirohito and the Making of Modern Japan (2000, ISBN 978-0-06-019314-0) is a book by Herbert P. Bix covering the reign of Emperor Hirohito of Japan from 1926 until his death in 1989.	Hirohito and the Making of Modern Japan	Herbert P. Bix
+author	The Battle for Bond (2007), by Robert Sellers, is a cinema history book of how the literary James Bond metamorphosed to the cinema James Bond.	The Battle for Bond	Robert Sellers
+author	The Mistress of Spices, (1997), set in contemporary Oakland, California, is a novel by Indian American writer and University of Houston Creative Writing Program professor Chitra Banerjee Divakaruni.	Mistress of Spices	Chitra Banerjee Divakaruni
+author	Mrs. Perkins's Ball is a novel by William Makepeace Thackeray, published under the pseudonym ``M. A. Titmarsh'' in 1846.	Mrs. Perkins's Ball	William Makepeace Thackeray
+award received	A recipient of the North East Television Lifetime Achievement Award, Pushpa Bhuyan was honoured by the Government of India, in 2002, with the fourth highest Indian civilian award of Padma Shri.	Pushpa Bhuyan	Padma Shri
+award received	In 1993, Sister Elaine Roulet was inducted in the National Women's Hall of Fame.	Elaine Roulet	National Women's Hall of Fame
+award received	Alexander Stein was a recipient of several high profile state awards, including the Order of the Patriotic War, the Order of the Red Star and the Order of the Red Banner of Labour (twice), as well as two Stalin Prizes (1949, 1951).	Alexander Stein	Order of the Red Star	Order of the Red Banner of Labour
+award received	Seiei Toyama is recipient of 2003 Ramon Magsaysay Award for Peace and International Understanding the board of trustees recognizes his twenty-year crusade to green the deserts of China in a spirit of solidarity and peace.	Seiei Toyama	Ramon Magsaysay Award
+award received	Kıvanç Haznedaroğlu (born January 1, 1981) is a Turkish chess Grandmaster and a FIDE trainer.	Kıvanç Haznedaroğlu	Grandmaster
+based on	Virtual Nightmare is a made-for-TV horror film produced in 2000, loosely based on the Frederik Pohl short story The Tunnel under the World.	Virtual Nightmare	The Tunnel under the World
+based on	A Flintstones Christmas Carol is a 1994 made-for-television animated film featuring The Flintstones and based on the novel A Christmas Carol by Charles Dickens.	A Flintstones Christmas Carol	A Christmas Carol
+based on	Ready to Rumble is a 2000 American comedy film directed by Brian Robbins and written by Steven Brill, which is based on Turner Broadcasting's now defunct professional wrestling promotion, World Championship Wrestling (WCW).	Ready to Rumble	World Championship Wrestling
+based on	The GNU Assembler, commonly known as gas or simply as, its executable name, is the assembler used by the GNU Project.	GNU Assembler	assembler
+based on	The Man Who Sleeps (French: Un homme qui dort) is a 1974 French drama film directed by Bernard Queysanne and Georges Perec, based on Perec's 1967 novel A Man Asleep.	The Man Who Sleeps	A Man Asleep
+based on	Precision Graphics Markup Language (PGML) is an XML-based language for representing vector graphics.	Precision Graphics Markup Language	XML
+based on	Power Rangers Wild Force is an American television series and the tenth season and anniversary of the Power Rangers franchise, based on the Super Sentai series Hyakujuu Sentai Gaoranger, which itself was the 25th anniversary of Super Sentai.	Power Rangers Wild Force	Hyakujuu Sentai Gaoranger
+based on	The 13th Warrior is a 1999 American historical fiction action film based on the novel Eaters of the Dead by Michael Crichton and is a loose retelling of the tale of Beowulf.	The 13th Warrior	Eaters of the Dead
+based on	Paradise and Hell is the left and right panels of a minor diptych by Hieronymus Bosch based on The Haywain Triptych.	Paradise and Hell	The Haywain Triptych
+based on	A Master Builder is a 2013 film directed by Jonathan Demme, based on Henrik Ibsen's play The Master Builder.	A Master Builder	The Master Builder
+based on	6-18-67 is a short quasi-documentary film by George Lucas regarding the making of the 1969 Columbia film, Mackenna's Gold.	6-18-67	Mackenna's Gold
+based on	A Rough Passage is a 1922 Australian silent film directed by Franklyn Barrett based on the novel by Arthur Wright.	A Rough Passage	Arthur Wright
+based on	Vi på Saltkråkan (We on Seacrow Island) is a Swedish TV series in 13 25-minute episodes from 1964.	Vi på Saltkråkan	Seacrow Island
+canonization status	Saint Foillan (Faelan, Faolan, Foelan, Foalan; French: Feuillien) is an Irish saint of the seventh century.	Foillan	saint
+canonization status	Saint Margaret Clitherow (1556 -- 25 March 1586) is an English saint and martyr of the Roman Catholic Church.	Margaret Clitherow	saint
+canonization status	Saint Dwynwen ((ˈdʊɨnwɛn); fl. 5th century), sometimes known as Dwyn or Donwen, is the Welsh patron saint of lovers.	Dwynwen	saint
+canonization status	Saint Vitalis of Gaza (died c. 625 AD) is venerated as a hermit-saint by the Orthodox Church on January 11 and Catholic Church.	Vitalis of Gaza	saint
+canonization status	Saint Meriasek (Breton: Meriadeg) was a 4th-century Breton saint.	Meriasek	saint
+canonization status	Romaric is recognized as a saint of the Roman Catholic Church, with a feast day on December 10 or December 8.	Romaric	saint
+canonization status	Rimbert is revered as a saint particularly in Friesland.	Rimbert	saint
+canonization status	Saint Sebastian (died c. 288) was an early Christian saint and martyr.	Saint Sebastian	saint
+canonization status	Saint Fulcran (died 13 February 1006) was a French saint.	Fulcran	saint
+canonization status	Guillaume Courtet became a saint on October 18, 1987.	Guillaume Courtet	saint
+canonization status	St. Donald of Ogilvy, (also known as Donivald or Domhnall), was an eighth-century Scottish saint who lived at Ogilvy, in the former Forfarshire.	Donald of Ogilvy	saint
+cast member	It Happened in Mexico (Spanish:Sucedió en México) is a 1958 Mexican musical film directed by Ramón Pereda and starring María Antonieta Pons, Joaquín Cordero and Carmelita González.	It Happened in Mexico	María Antonieta Pons
+cast member	Headlights in the Fog (Italian:Fari nella nebbia) is a 1942 Italian drama film directed by Gianni Franciolini and starring Fosco Giachetti, Luisa Ferida and Antonio Centa.	Headlights in the Fog	Fosco Giachetti	Luisa Ferida	Antonio Centa
+cast member	The Roaring Twenties is a 1939 crime thriller starring James Cagney, Priscilla Lane, Humphrey Bogart, and Gladys George.	The Roaring Twenties	James Cagney	Priscilla Lane	Humphrey Bogart	Gladys George
+cast member	Pongi Varum Kaveri is a 1989 Tamil-language Indian feature film directed by T.K.Bose, starring Ramarajan in lead role.	Pongi Varum Kaveri	Ramarajan
+cast member	A Song Is Born (also known as That's Life) is a 1948 Technicolor musical film remake of the 1941 movie Ball of Fire with Gary Cooper and Barbara Stanwyck, starring Danny Kaye and Virginia Mayo.	A Song Is Born	Danny Kaye	Virginia Mayo
+cause of death	Joe Lala died suddenly from complications of lung cancer on March 18, 2014, at approximately 7:00 AM, at the age of 66.	Joe Lala	lung cancer
+cause of death	Robert Paige died from a sudden aortic aneurysm in 1987.	Robert Paige	aneurysm
+cause of death	Jerry Wexler died at his home in Sarasota, Florida, on August 15, 2008, from congestive heart failure.	Jerry Wexler	heart failure
+cause of death	Art Tatum died on November 5, 1956, at Queen of Angels Medical Center in Los Angeles, from the complications of uremia (as a result of kidney failure).	Art Tatum	kidney failure
+cause of death	In 1980 Marty Mann suffered a stroke at home and died soon after.	Marty Mann	stroke
+cause of death	Nilu Phule died on 13 July 2009, aged 78, from esophageal cancer.	Nilu Phule	esophageal cancer
+cause of death	(``Il a été au convoi de Victor Noir.``) At a time when the emperor was already unpopular, Pierre's acquittal on the murder charge caused enormous public outrage that erupted into a number of violent demonstrations.	Victor Noir	murder
+cause of death	Lale Andersen died of a heart attack in Vienna, aged 67.	Lale Andersen	heart attack
+cause of death	According to AP police, a young fan of Uday Kiran allegedly committed suicide by hanging himself from a tree at Komatapalli junction in Bobbili sub-division in Vizianagaram.	Uday Kiran	suicide by hanging
+cause of death	Lydia Yeamans Titus died in Los Angeles on 30 December 1929, aged 72, after suffering a paralytic stroke.	Lydia Yeamans Titus	stroke
+cause of death	Liu Yanhao, apparently finding it impossible to continue his hiding, committed suicide by hanging several days later.	Liu Yanhao	suicide by hanging
+cause of death	Charlotte Burton Stuart died at Good Samaritan Hospital in Los Angeles, California in 1942 from a heart attack.	Charlotte Burton	heart attack
+cause of death	Amarillo Slim died on April 29, 2012, of colon cancer at the age of 83.	Amarillo Slim	cancer
+cause of death	Iakovos Kambanellis was rushed at hospital on February 4, 2011 due to complications of his long-term kidney failure.	Iakovos Kambanellis	kidney failure
+cause of death	Lovette George died on September 6, 2006 from ovarian cancer, aged 44.	Lovette George	ovarian cancer
+cause of death	Robert Rental died of lung cancer in 2000.	Robert Rental	lung cancer
+cause of death	Roger Stott died of liver cancer on Monday 9 August 1999, two days after his 56th birthday.	Roger Stott	liver cancer
+cause of death	In his 1906 Reminiscences, Carl Schurz recalls the annual ``bird shoot'' pageant of the Rhenish town of Liblar which was sponsored by the Saint Sebastian Society, a club of sharpshooters and their sponsors to which nearly every adult member of town belonged.	Saint Sebastian	club
+cause of death	Barbara Lawrence died of kidney failure on November 13, 2013, aged 83, in Los Angeles, California, but her death was not reported until January 3, 2014.	Barbara Lawrence	kidney failure
+cause of death	John Nathan Cobb suffered from heart disease and endured a heart attack in the summer of 1929.	John Nathan Cobb	heart attack
+cause of death	Wally Voss died from the Hodgkin's lymphoma in November 29, 1992 at the age of 34.	Wally Voss	lymphoma
+cause of death	Metin Serezli died in the morning hours of March 10, 2013 at his home following lung cancer he was suffering for around two years.	Metin Serezli	lung cancer
+cause of death	Dominic Behan died at home in Glasgow, aged 60, on 3 August 1989 of complications arising from pancreatic cancer, shortly after the publication of his critically acclaimed novel The Public World of Parable Jones.	Dominic Behan	pancreatic cancer
+cause of death	On December 10, 1896 Alfred Nobel succumbed to a lingering heart ailment, suffered a stroke, and died.	Alfred Nobel	stroke
+cause of death	Anna Maria Lenngren died of breast cancer, aged 62, and was interred in the Klara kyrka cemetery in Stockholm.	Anna Maria Lenngren	breast cancer
+cause of death	Peter Seaton died in New York City on May 18, 2010 of an apparent heart attack.	Peter Seaton	heart attack
+cause of death	Leslie Hutchinson suffered from ill-health in his later years and died in London from pneumonia on 19 August 1969.	Leslie Hutchinson	pneumonia
+cause of death	Dr. William Close died at age 84 on January 15, 2009, in his home in Big Piney due to a heart attack.	William Close	heart attack
+cause of death	Burton Hatlen died of pneumonia at the Eastern Maine Medical Center in Bangor, Maine, on January 21, 2008.	Burton Hatlen	pneumonia
+cause of death	Patricia Dane died in 1995 in Blountstown, Florida, aged 75, from lung cancer.	Patricia Dane	lung cancer
+child	Trebonianus Gallus (Latin: Gaius Vibius Afinius Trebonianus Gallus Augustus; 206 -- August 253), also known as Gallus, was Roman Emperor from 251 to 253, in a joint rule with his son Volusianus.	Trebonianus Gallus	Volusianus
+child	Claus Bille was the father of Beate Clausdatter Bille and thus the maternal grandfather of the astronomer Tycho Brahe.	Claus Bille	Beate Clausdatter Bille
+child	Sarah Wesley also known as Sally Wesley born Sarah Gwynne (1726 -- 28 December 1822) was the wife of itinerant Methodist Charles Wesley, brother of John Wesley, the main founder of Methodism.	Sarah Wesley	Charles Wesley
+child	Frank Packer was born in Kings Cross, in the eastern suburbs of Sydney, New South Wales, to Ethel Maude Packer (née Hewson) (1878--1947) and Robert Clyde Packer (1879--1934), who started the family's association with the media as a journalist in New South Wales.	Frank Packer	Clyde Packer
+child	Rafael Márquez Esqueda was a Mexican professional footballer, who is the father of international soccer player Rafael Márquez Álvarez.	Rafael Márquez Esqueda	Rafael Márquez Álvarez
+conflict	Bogart Rogers (24 June 1897 -- 24 July 1966) was an American motion picture writer, producer, innovator, and a pursuit pilot and a flying ace in World War I with the Royal Air Force.	Bogart Rogers	World War I
+conflict	John A. Busterud served in the California legislature in the 22nd District and during World War II he served in the United States Army.	John A. Busterud	World War II
+conflict	SS Josiah Parker was a Liberty Ship built during World War II by Delta Shipbuilding Company, New Orleans, LA, of the EC2-S-C1 Type.	SS Josiah Parker	World War II
+conflict	Alvin Peterson Hovey (September 6, 1821 -- November 23, 1891) was a Union general during the American Civil War, an Indiana Supreme Court justice, congressman, and the 21st Governor of Indiana from 1889 to 1891.	Alvin Peterson Hovey	American Civil War
+conflict	Günther Krech (21 September 1914 in Wilhelmshaven -- 3 June 2000 in Wuppertal) was a German U-boat commander in Nazi Germany's Kriegsmarine during World War II and recipient of the Knight's Cross of the Iron Cross (German: Ritterkreuz des Eisernen Kreuzes).	Günther Krech	World War II
+constellation	Tau Sagittarii (Tau Sgr, τ Sagittarii, τ Sgr) is a star in the southern zodiac constellation of Sagittarius.	Tau Sagittarii	Sagittarius
+constellation	HD 210702 b is an exoplanet located approximately 182 light-years away in the constellation of Pegasus, orbiting the star HD 210702.	HD 210702 b	Pegasus
+constellation	Kepler-16 is a binary star system in the constellation of Cygnus that was targeted by the Kepler spacecraft.	Kepler-16	Cygnus
+constellation	BD+20°2457 is a 10th magnitude K-type bright giant star located between 320 to 980 light years away in the constellation of Leo.	BD+20°2457	Leo
+constellation	HD 59890 is a yellow supergiant star in the constellation Puppis.	HD 59890	Puppis
+continent	Ketchum Glacier (75°0′S 63°45′W) is an eastward flowing glacier at the base of Palmer Land, Antarctica, about 50 nautical miles (90 km) long, descending between the Latady Mountains and the Scaife Mountains into Gardner Inlet.	Ketchum Glacier	Antarctica
+continent	The Mistichelli Hills (70°2′S 72°52′E) are a group of moderately low, rocky coastal hills, 1 nautical mile (2 km) southwest of the McKaskle Hills, on the eastern margin of the Amery Ice Shelf, Antarctica.	Mistichelli Hills	Antarctica
+continent	Mercury Bluff is a perpendicular bluff on Gerlovo Beach in the northwest of Ioannes Paulus II Peninsula, Livingston Island in the South Shetland Islands, Antarctica.	Mercury Bluff	Antarctica
+continent	The Antarctic Treaty and related agreements, collectively known as the Antarctic Treaty System (ATS), regulate international relations with respect to Antarctica, Earth's only continent without a native human population.	Antarctic Treaty System	Antarctica
+continent	Greenshields Peak (65°40′S 64°22′W) is a peak between Leroux Bay and Bigo Bay, rising 1 nautical mile (2 km) west of the Magnier Peaks on the west coast of Graham Land, Antarctica.	Greenshields Peak	Antarctica
+country	Coevorden (Dutch pronunciation: (ˈkuvɔrdən); Dutch Low Saxon: Koevern) is a municipality and a city in the northeastern Netherlands.	Coevorden	Netherlands
+country	Ordu (Turkish pronunciation: (ˈoɾdu)) is a port city on the Black Sea coast of Turkey, historically also known as Cotyora, and the capital of Ordu Province with a population of 195,817 in the city center.	Ordu	Turkey
+country	Los Cayuelos is a location near the eastern city of Niquero in Cuba.	Los Cayuelos	Cuba
+country	The Gorzente is an Apennine torrent of the Po basin in north-west Italy.	Gorzente	Italy
+country	Hamamak (Persian: حمامك‎, also Romanized as Ḩamāmak) is a village in Hesar-e Amir Rural District, in the Central District of Pakdasht County, Tehran Province, Iran.	Hamamak	Iran
+country	Flores is one of the Lesser Sunda Islands, an island arc with an estimated area of 14,300 km² extending east from the Java island of Indonesia.	Flores	Indonesia
+country	Gałkowice (ɡau̯kɔˈvit͡sɛ) is a village in the administrative district of Gmina Dwikozy, within Sandomierz County, Świętokrzyskie Voivodeship, in south-central Poland.	Gałkowice	Poland
+country	The Citadel of Aleppo (Arabic: قلعة حلب‎) is a large medieval fortified palace in the centre of the old city of Aleppo, northern Syria.	Citadel of Aleppo	Syria
+country	The Canadian Transportation Agency is an independent administrative tribunal of the Government of Canada that makes decisions relating to federally regulated modes of transportation (air, rail and marine).	Canadian Transportation Agency	Canada
+country	Lake Yonozero (Russian: Ёнозеро) is a large freshwater lake on the Kola Peninsula, Murmansk Oblast, Russia.	Lake Yonozero	Russia
+country	Morsberg is a hill in the Odenwald range in Hesse, Germany.	Morsberg	Germany
+country	The Quantum Leap is a sculpture situated next to the River Severn in Shrewsbury, Shropshire, England, United Kingdom.	The Quantum Leap	United Kingdom
+country	Zeiselmauer-Wolfpassing is a community located in the district of Tulln in the Austrian federal state of Lower Austria.	Zeiselmauer-Wolfpassing	Austria
+country	The Big Breaker is the most northerly geographic feature in the Houtman Abrolhos islands in the Indian Ocean off the west coast of Australia.	The Big Breaker	Australia
+country	Olloki is a village in Navarre (Spain).	Olloki	Spain
+country	After the unification of Italy, the citizens of Faieto, along with several neighboring villages, petitioned a modification of their borders.	Faieto	Italy
+country	Confederation College is a provincially funded college of applied arts and technology located in Thunder Bay, Ontario, Canada.	Confederation College	Canada
+country	Reipas Lahti is a sports club in Lahti, Finland.	Reipas Lahti	Finland
+country	The Molino Dam or Prinza Water Dam is a gravity dam on the Zapote River located on the border between Barangay San Nicolas, Bacoor, Cavite and Barangay Talon Dos, Las Piñas, Metro Manila, Philippines.	Molino Dam	Philippines
+country	Chain Valley Colliery is a coal mine located at Mannering Park, New South Wales, Australia.	Chain Valley Colliery	Australia
+country	Schloss Lieser (Castle of Lieser) in the Mosel valley nearby Bernkastel-Kues is one of the most striking buildings within the village of Lieser, Germany.	Schloss Lieser	Germany
+country	Widziszewo (vid͡ʑiˈʂɛvɔ) is a village in the administrative district of Gmina Kościan, within Kościan County, Greater Poland Voivodeship, in west-central Poland.	Widziszewo	Poland
+country of citizenship	Once thought to be the first Native M.D. in Canada, a recent book on Dr. Peter Edmund Jones, an Ojibwa from New Credit, has shown Jones to have graduated few months before Dr. Oronhyatekha.	Oronhyatekha	Canada
+country of citizenship	Born Jorge Antonio Chibene in La Boca, Buenos Aires to Syrian immigrants (his father was an émigré who arrived in Argentina from Syria in the 19th century, and whose name was Elias Antun Esquef), Antonio grew up in Uruguay and returned to Argentina at 17 years of age.	Jorge Antonio	Argentina
+country of citizenship	Litovoi, also Litvoy, was a Vlach//Romanian voivode in the 13th century whose territory comprised northern Oltenia (Romania).	Litovoi	Romania
+country of citizenship	Adnan al-Assadi is Iraq's deputy interior minister and acting minister of the interior.	Adnan al-Assadi	Iraq
+country of citizenship	Fernando Henrique Quintela Cavalcante (born 3 May 1990 in São Paulo, Brazil), commonly known as Fernando Henrique, is a Brazilian footballer, who last played for Zimbru Chișinău in Moldovan National Division.	Fernando Henrique Quintela Cavalcante	Brazil
+creator	Students Aspire is a public artwork by American artist Elizabeth Catlett, located at 2300 6th Street NW on the Howard University campus in Washington, D.C., United States.	Students Aspire	Elizabeth Catlett
+creator	Doña Antonia de Ipeñarrieta y Galdós and Her Son Don Luis is a 1634 portrait by Diego Velázquez, now in the Prado Museum.	Doña Antonia de Ipeñarrieta y Galdós and Her Son Don Luis	Diego Velázquez
+creator	Automan is an American soft science fiction superhero television series produced by Glen A. Larson.	Automan	Glen A. Larson
+creator	The Portrait of Luca Pacioli is a painting attributed to the Italian Renaissance artist Jacopo de' Barbari, dating to around 1500 and housed in the Capodimonte Museum, Naples, southern Italy.	Portrait of Luca Pacioli	Jacopo de' Barbari
+creator	El Jaleo is a large painting by John Singer Sargent, depicting a Spanish Gypsy dancer performing to the accompaniment of musicians.	El Jaleo	John Singer Sargent
+date of birth	Jamal Tirawi (Arabic: جمال الطيراوي; born 1966) is a Palestinian lawmaker.	Jamal Tirawi	1966
+date of birth	Elisabeth Volkenrath (5 September 1919 -- 13 December 1945) was a German supervisor at several Nazi concentration camps during World War II. Volkenrath, née Mühlan, was an ungelernte Hilfskraft (unskilled worker) when she volunteered for service in a concentration camp.	Elisabeth Volkenrath	5 September 1919
+date of birth	Jean-Adam Guilain (real name Johann Adam Wilhelm Freinsberg) (c. 1680 -- after 1739) was a German organist and harpsichordist who was mostly active in Paris during the first half of the eighteenth century.	Jean-Adam Guilain	1680
+date of birth	Liberale da Verona (1441--1526) was an Italian painter of the Renaissance period, active mainly in Verona.	Liberale da Verona	1441
+date of birth	Manuel Vicente Maza (1779 -- June 27, 1839) was an Argentine lawyer and federal politician.	Manuel Vicente Maza	1779
+date of birth	Gaston Camara (31 March 1996) is a Guinean football winger who plays for Serie B club Bari on loan from Internazionale.	Gaston Camara	31 March 1996
+date of birth	Adnan Hassan Mahmoud (born 1966) is the former minister of information of Syria.	Adnan Hassan Mahmoud	1966
+date of birth	Wester Paul Gerrard (Wes Paul) (born 28 March 1943) is an English guitarist and singer.	Wes Paul	28 March 1943
+date of death	Alec Naylor Dakin (3 April 1912 -- 14 June 2003) was a Fellow of Oxford College, a cryptologist at Bletchley Park, an Egyptologist and schoolmaster.	Alec Naylor Dakin	14 June 2003
+date of death	Guy Carleton, 1st Baron Dorchester, KB (3 September 1724 -- 10 November 1808), known between 1776 and 1786 as Sir Guy Carleton, was an Anglo-Irish soldier and administrator.	Guy Carleton, 1st Baron Dorchester	10 November 1808
+date of death	Chai Shao (588--638), courtesy name Sichang, posthumously known as Duke Xiang of Qiao, was a Chinese general who served under the emperors Gaozu and Taizong in the early Tang dynasty.	Chai Shao	638
+date of death	Muiredach mac Eochada (died 839) was a Dal Fiatach king of Ulaid, which is now Ulster, Ireland.	Muiredach mac Eochada	839
+date of death	X. Henry Goodnough, (1860--1935), engineer, was chairman of Boston's Metropolitan Water District in the 1920s and chief advocate for creation of the Quabbin Reservoir project.	X. Henry Goodnough	1935
+date of death	Jakob Rudnik (24 March 1894--13 March 1963) was a Ukrainian-born agent for the Otdel Mezhdunarodny Sviasy (OMS), which was the Communist International's clandestine, translated as the International Liaison Department.	Jakob Rudnik	13 March 1963
+date of death	Pierre de Chauvin de Tonnetuit (died February 1603) was a French naval and military captain and a lieutenant of New France, who built at Tadoussac in present day Quebec, the oldest surviving French settlement in the Americas.	Pierre de Chauvin de Tonnetuit	1603
+date of death	Yiorgos Batis (Greek: Γιώργος Μπάτης, also Giorgos Batis) (1885 -- 10 March 1967) was one of the first rebetes influential to rebetiko music.	Yiorgos Batis	10 March 1967
+date of death	Ruth Guimarães (1920--2014) was the first Afro-Brazilian author to gain a national audience and critical attention for her novels, short stories, and poetry.	Ruth Guimarães	2014
+date of death	Saint Gaetano Errico (19 October 1791 - 29 October 1860) was an Italian Roman Catholic priest born in Naples.	Gaetano Errico	29 October 1860
+developer	John Madden Football '93 is a 1992 sports video game developed by Blue Sky Productions (later Looking Glass Studios) and Electronic Arts and published by EA Sports Network.	John Madden Football '93	Looking Glass Studios
+developer	Moon Ranger is an action video game that was developed by Odyssey Software and published by Bunch Games.	Moon Ranger	Odyssey Software
+developer	The Great Space Race (usually abbreviated to TGSR) is a ZX Spectrum space-based combat and adventure game published in 1984 by Legend.	The Great Space Race	Legend
+developer	Green Farm is a game developed and published by Gameloft for web browsers, Android, Mobile and iOS platforms.	Green Farm	Gameloft
+developer	Chicago 1930 is a 2003 video game developed by Spellbound Entertainment and published by Wanadoo Edition.	Chicago 1930	Spellbound Entertainment
+director	King Richard and the Crusaders is a 1954 historical drama film made by Warner Bros. It was directed by David Butler and produced by Henry Blanke from a screenplay by John Twist based on Sir Walter Scott's novel The Talisman.	King Richard and the Crusaders	David Butler
+director	The Cat Piano is an award winning animated short film directed by Eddie White and Ari Gibson and narrated by Nick Cave.	The Cat Piano	Eddie White
+director	Write and Fight (Polish: Pismak) is a 1985 Polish film directed by Wojciech Jerzy Has, starring Wojciech Wysocki, Zdzislaw Wardejnc and Jan Peszek.	Write and Fight	Wojciech Jerzy Has
+director	Irakal (Malayalam: ഇരകള്‍, English: The Victims) is a 1985 Malayalam psychological thriller film written and directed by K. G. George and produced by the then prominent actor Sukumaran.	Irakal	K. G. George
+director	Thavarina Thottilu (Kannada: ತವರಿನ ತೊಟ್ಟಿಲು) is a 1996 Indian Kannada sentimental drama film directed by S. Narayan and written by Ajay Kumar.	Thavarina Thottilu	S. Narayan
+dissolved or abolished	Galaxy Science Fiction was an American digest-size science fiction magazine, published from 1950 to 1980.	Galaxy Science Fiction	1980
+dissolved or abolished	Since November 2010, SSL International has been a part of Reckitt Benckiser.	SSL International	2010
+dissolved or abolished	The Territory South of the River Ohio, more commonly known as the Southwest Territory, was an organized incorporated territory of the United States that existed from May 26, 1790, until June 1, 1796, when it was admitted to the United States as the State of Tennessee.	Southwest Territory	1796
+dissolved or abolished	The Western Qin (Chinese: 西秦; pinyin: Xīqín; 385-400, 409-431) was a state of Xianbei ethnicity during the era of Sixteen Kingdoms in China.	Western Qin	431
+dissolved or abolished	<meta name=``microid'' content=``mailto+http:sha1:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'' /> The ClaimID was deactivated in December 2013.	ClaimID	December 2013
+distributor	Rail Simulator (Kuju Rail Simulator) is a train simulation published by Electronic Arts (EA).	Rail Simulator	Electronic Arts
+distributor	Elvira's Halloween Special is a 1986 TV special for MTV hosted by Elvira, Mistress of the Dark.	Elvira's Halloween Special	MTV
+distributor	Singham Returns is a 2014 Indian action film directed by Rohit Shetty and produced by Reliance Entertainment.	Singham Returns	Reliance Entertainment
+distributor	They Call Me Macho Woman! is a 1989 action film written and directed by Patrick G. Donahue and distributed by Troma Entertainment.	They Call Me Macho Woman!	Troma Entertainment
+distributor	Fort Ti was produced by Esskay Pictures Corporation, and was distributed by Columbia Pictures in the United States.	Fort Ti	Columbia Pictures
+distributor	The Knickerbocker Buckaroo was Fairbanks' last film under his contract with Paramount Pictures.	The Knickerbocker Buckaroo	Paramount Pictures
+distributor	The Next of Kin, also known as Next of Kin, is a 1942 World War II propaganda film produced by Ealing Studios.	The Next of Kin	Ealing Studios
+distributor	The Woman from Hell is a lost 1929 silent film drama produced and distributed by Fox Film Corporation and starring Mary Astor.	The Woman from Hell	Fox Film Corporation
+distributor	After the Board of Film Censors reviewed and approved Money No Enough, distributor Shaw Organisation released the film on 21 screens on 7 May 1998.	Money No Enough	Shaw Organisation
+distributor	The Big Mouth is a 1967 comedy film produced, directed, co-written, and starring Jerry Lewis released on July 12, 1967 by Columbia Pictures.	The Big Mouth	Columbia Pictures
+distributor	Riot on Sunset Strip is a 1967 low-budget counterculture-era exploitation movie, released by American International Pictures, and both filmed and released within six weeks of the actual late-1966 Sunset Strip curfew riots.	Riot on Sunset Strip	American International Pictures
+distributor	Rab Ne Bana Di Jodi (English: ``A Match Made By God'') is a 2008 Indian romantic comedy film written and directed by Aditya Chopra and produced by Yash Chopra and Aditya Chopra under the banner Yash Raj Films.	Rab Ne Bana Di Jodi	Yash Raj Films
+distributor	Cannonball Run II is a 1984 American comedy film starring Burt Reynolds and an all-star cast, released by Warner Bros. and Golden Harvest.	Cannonball Run II	Warner Bros.
+distributor	Hot to Trot is a 1988 comedy film released by Warner Bros. It stars Bobcat Goldthwait as an investment broker, Dabney Coleman as the head of the company Bobcat works for and John Candy as the voice of a horse that helps Bobcat's character make smart decisions in investing.	Hot to Trot	Warner Bros.
+distributor	To the Ladies is a 1923 American silent comedy film produced by Famous Players-Lasky and released by Paramount Pictures.	To the Ladies	Paramount Pictures
+distributor	Williamsburg: the Story of a Patriot, an orientation film produced by Paramount Pictures and the Colonial Williamsburg Foundation in 1957, has the distinction of being the longest-running motion picture in history, having been shown continually in the Colonial Williamsburg Visitor Center for over five decades.	Williamsburg: the Story of a Patriot	Paramount Pictures
+distributor	Green Dolphin Street is a 1947 historic drama film released by Metro-Goldwyn-Mayer and based on the novel by Elizabeth Goudge.	Green Dolphin Street	Metro-Goldwyn-Mayer
+distributor	Beloved Infidel is a 1959 DeLuxe Color biographical drama film made by 20th Century Fox CinemaScope and based on the life of F. Scott Fitzgerald.	Beloved Infidel	20th Century Fox
+distributor	Newsboys' Home is a 1938 Universal Studios film that starred Jackie Cooper and The Little Tough Guys.	Newsboys' Home	Universal Studios
+distributor	Korea Patrol (working title Korean Patrol) is a 1951 war film released by Eagle-Lion Films.	Korea Patrol	Eagle-Lion Films
+distributor	Paths to Paradise is a 1925 silent comedy directed by Clarence Badger, produced by Famous Players-Lasky and distributed by Paramount Pictures.	Paths to Paradise	Paramount Pictures
+distributor	I.T.A.L.Y. is a romantic comedy starring Jolina Magdangal, Dennis Trillo and Rufa Mae Quinto, produced and distributed by GMA Films.	I.T.A.L.Y.	GMA Films
+distributor	Ikarie XB-1 is best known internationally through an edited and English-dubbed version which was given a limited theatrical release in the USA in 1964 by American International Pictures.	Ikarie XB-1	American International Pictures
+distributor	Sakal, Sakali, Saklolo (Choked, Maybe, Help Me!), a romantic comedy movie released by Star Cinema, is an official entry to the 33rd Metro Manila Film Festival - Philippines.	Sakal, Sakali, Saklolo	Star Cinema
+distributor	What a Widow! is a 1930 American pre-Code romantic comedy film produced by and starring Gloria Swanson, and distributed through United Artists.	What a Widow!	United Artists
+distributor	Maasilamani is a Tamil film released in 2009, distributed by Sun Pictures.	Maasilamani	Sun Pictures
+distributor	The Vanishing American (1925) is a silent film western produced by Famous Players-Lasky in the United States, and distributed through Paramount Pictures.	The Vanishing American	Paramount Pictures
+distributor	High Plains Drifter is a 1973 American supernatural western film produced by Robert Daley for Malpaso Company and Universal Studios, directed by and starring Clint Eastwood, and written by Ernest Tidyman (who also wrote the novelization).	High Plains Drifter	Universal Studios
+distributor	Death by Dialogue is a 1988 horror film co-written and directed by Thomas Dewier and distributed by Troma Entertainment.	Death by Dialogue	Troma Entertainment
+distributor	Universal Studios used the legislation for the Blue Crush production, receiving approximately $16 million in a deal with local investors who, in exchange, received the film's high-tech tax credits.	Blue Crush	Universal Studios
+distributor	The Princess and the Cabbie is a 1981 television movie aired on CBS on 3 November 1981 about a young woman who struggles with dyslexia.	The Princess and the Cabbie	CBS
+distributor	High Tension was picked up by independent distributor Lions Gate Entertainment following a successful screening at the Midnight Madness section of the 2003 Toronto International Film Festival.	High Tension	Lions Gate Entertainment
+distributor	Heroes of the Wild is a 1927 American Western film serial produced by Nat Levine, directed by Harry S. Webb and released by Mascot Pictures.	Heroes of the Wild	Mascot Pictures
+distributor	The Matrimonial Bed is a 1930 American pre-Code comedy film produced and released by Warner Bros..	The Matrimonial Bed	Warner Bros.
+distributor	Drop Dead Fred is a 1991 British/American fantasy comedy film directed by Ate De Jong, produced by PolyGram Filmed Entertainment and Working Title Films and released and distributed by New Line Cinema.	Drop Dead Fred	New Line Cinema
+distributor	Siege of the Saxons is a 1963 British film directed by Nathan H. Juran and released by Columbia Pictures.	Siege of the Saxons	Columbia Pictures
+distributor	The World's Great Snare is a 1916 American silent drama film produced by Adolph Zukor's Famous Players Film Company and distributed through Paramount Pictures.	The World's Great Snare	Paramount Pictures
+distributor	Mayhem in Monsterland was produced by Apex Computer Productions, who had previously made Creatures and Creatures 2, which featured Clyde Radcliffe as the main character.	Mayhem in Monsterland	Apex Computer Productions
+educated at	In keeping with his family's tradition, Syed Hamid Raza Gilani received his early education at Aitchison College, Lahore, Pakistan.	Hamid Raza Gilani	Aitchison College
+educated at	Jackson Morton attended Washington College (present-day Washington and Lee University) and the College of William and Mary.	Jackson Morton	Washington and Lee University	College of William and Mary
+educated at	Patricia McLinn attended Northwestern University, where she obtained her BA in English Composition in only three years.	Patricia McLinn	Northwestern University
+educated at	Brother of fellow journalist Adolph Ochs, George Oakes was educated at the University of Tennessee, where he graduated in 1879.	George Oakes	University of Tennessee
+educated at	Kamyar Abdi is an Iranian archaeologist, receiving his M.A. in Near Eastern Languages and Civilizations, at University of Chicago (1997) and his Ph.D. from University of Michigan in Anthropology (2002).	Kamyar Abdi	University of Michigan
+employer	Judee K. Burgoon is a professor of Communication, Family Studies and Human Development at the University of Arizona, where she serves as Director of Research for the Center for the Management of Information and Site Director for the NSF-sponsored Center for Identification Technology Research.	Judee K. Burgoon	University of Arizona
+employer	Born 10 May 1955 in Vienne, France, Hubert Sagnières holds both French and Canadian citizenship, and currently serves as the Chairman and Chief Executive Officer of Essilor, a position he has held since November 2011.	Hubert Sagnières	Essilor
+employer	Colette Caillat, Recueil d'articles de Jules Bloch, 1906-1955, (Collection of Articles by Jules Bloch, 1906-1955), texts gathered by Colette Caillat, Collège de France, Institut de civilisation indienne;	Jules Bloch	Collège de France
+employer	David Gordon Wilson (born 1928) is emeritus professor of engineering at Massachusetts Institute of Technology (MIT).	David Gordon Wilson	Massachusetts Institute of Technology
+employer	Emmanuel Saez (born November 26, 1972) is a French and American economist who is Professor of Economics at the University of California, Berkeley.	Emmanuel Saez	University of California, Berkeley
+film editor	Common Law Cabin (original title How Much Lovin' Does a Normal Couple Need?) is a 1967 exploitation film directed by Russ Meyer.	Common Law Cabin	Russ Meyer
+film editor	Men on the Sea Floor (Italian:Uomini sul fondo) is a 1941 Italian drama film directed by Francesco De Robertis.	Men on the Sea Floor	Francesco De Robertis
+film editor	Dunderklumpen! is a 1974 Swedish family film directed by Per Åhlin, which combines animation and live action.	Dunderklumpen!	Per Åhlin
+film editor	The Gold Rush is a 1925 American silent comedy film written, produced, and directed by Charlie Chaplin.	The Gold Rush	Charlie Chaplin
+film editor	Lucas had wanted his wife, Marcia, to edit American Graffiti, but Universal executive Ned Tanen insisted on hiring Verna Fields, who had just finished editing Steven Spielberg's The Sugarland Express (1974).	American Graffiti	Verna Fields
+film editor	The Idle Class is a 1921 American silent film written and directed by Charlie Chaplin for First National Pictures.	The Idle Class	Charlie Chaplin
+film editor	The Birth of a Nation (originally called The Clansman) is a 1915 American silent epic drama film directed by D. W. Griffith and starring Lillian Gish.	The Birth of a Nation	D. W. Griffith
+film editor	Dance, Girl, Dance was edited by Robert Wise, whose next film as editor was Citizen Kane and who later won Oscars as director of West Side Story and The Sound of Music.	Dance, Girl, Dance	Robert Wise
+film editor	Live for Life (French: Vivre pour vivre) is a 1967 French film directed by Claude Lelouch starring Yves Montand, Candice Bergen and Annie Girardot.	Live for Life	Claude Lelouch
+film editor	The Sacrifice (Swedish: Offret) is a 1986 Swedish film directed by Andrei Tarkovsky.	The Sacrifice	Andrei Tarkovsky
+film editor	Les petites fugues is a 1979 Swiss comedy film directed by Yves Yersin.	Les petites fugues	Yves Yersin
+film editor	Portrait of a Lone Farmer is a 2013 Nigerian Danish documentary film by Jide Tom Akinleminu, about life on his father's chicken farm in Nigeria.	Portrait of a Lone Farmer	Jide Tom Akinleminu
+film editor	Walking, Walking (Italian: Cammina, cammina, and also known as Keep Walking) is a 1983 Italian drama film directed by Ermanno Olmi.	Walking, Walking	Ermanno Olmi
+founder	Alberto and Elena Cortina Foundation (``Fundación Alberto y Elena Cortina'' in Spanish) is a nonprofit organization, of Spanish nationality, founded by Alberto Cortina and his wife Elena Cué, on July 8, 2011.	Alberto and Elena Cortina Foundation	Alberto Cortina
+founder	Nimmagadda Foundation is a philanthropic initiative of Nimmagadda Prasad, the chairman of VANPIC Group.	Nimmagadda Foundation	Nimmagadda Prasad
+founder	Viplavakari Lanka Sama Samaja Party (Revolutionary Ceylon Equal Society Party) was a group that broke away from the Trotskyist Lanka Sama Samaja Party, since Philip Gunawardena (one of the principal LSSP leaders) refused to reconcile with the Bolshevik Samasamaja Party.	Viplavakari Lanka Sama Samaja Party	Philip Gunawardena
+founder	Oriflame Holding AG (Switzerland) (until mid-2015 ``Oriflame Cosmetics S.A.'', Luxembourg) is a company, founded in 1967 in Sweden by the brothers Jonas af Jochnick and Robert af Jochnick, and publicly traded at NASDAQ OMX since 2004.	Oriflame	Jonas af Jochnick	Robert af Jochnick
+founder	Isha Foundation is a non-profit, spiritual organization founded in 1992 by Sadhguru Jaggi Vasudev.	Isha Foundation	Jaggi Vasudev
+head of government	Since 2014, the lord mayor of Braunschweig is Ulrich Markurth (SPD).	Braunschweig	Ulrich Markurth
+head of government	The current Estonian Prime Minister is Taavi Rõivas, who is the former Minister of Social Affairs and the head of the Estonian Reform Party.	Estonia	Taavi Rõivas
+head of government	In 2009, Houston became the first US city with a population over 1 million citizens to elect a gay mayor, by electing Annise Parker.	Houston	Annise Parker
+head of government	In the 2005 elections, Angela Merkel became the first female Chancellor of Germany as the leader of a grand coalition.	Germany	Angela Merkel
+head of government	The head of government is Hun Sen, who is currently the longest serving non-royal leader in South East Asia and has ruled Cambodia for over 25 years.	Cambodia	Hun Sen
+head of government	Following the Odisha State Assembly Election in 2014, the Naveen Patnaik-led Biju Janata Dal stayed in power for the fourth consecutive term.	Odisha	Naveen Patnaik
+head of government	The current prime minister is Aleksandar Vučić of the Serbian Progressive Party.	Serbia	Aleksandar Vučić
+headquarters location	G.Communication, also abbreviated as G.com, is a Japanese kabushiki kaisha based in Nagoya, Japan.	G.Communication	Nagoya
+headquarters location	Hainzl Industriesysteme GmbH is an Austrian company situated in Linz, Upper Austria.	Hainzl Industriesysteme GmbH	Linz
+headquarters location	Fatar is an Italian supplier of keyboards for digital pianos, synthesizers and organs, based in Recanati, Italy.	Fatar	Recanati
+headquarters location	Indica Records is a Canadian record label based in Montreal, Quebec, founded by rock band Grim Skunk in 1997.	Indica Records	Montreal
+headquarters location	PANTA Systems was founded in 2002 and headquartered in Santa Clara, California with offices in Austin, Texas and Pune.	PANTA	Santa Clara
+illustrator	The Day I Swapped My Dad for Two Goldfish is a book by Neil Gaiman and Dave McKean, first published in 1997 by White Wolf Publishing.	The Day I Swapped My Dad for Two Goldfish	Dave McKean
+illustrator	Look Who It Is! is the autobiography of British comedian and television presenter Alan Carr.	Look Who It Is!	Alan Carr
+illustrator	The Burger and the Hot Dog is a Children's poetry book about food, written by Jim Aylesworth and illustrated by Stephen Gammell.	The Burger and the Hot Dog	Stephen Gammell
+illustrator	Miss Mousie's Blind Date is a book by Canadian children's book author Tim Beiser, illustrated by Canadian painter Rachel Berman.	Miss Mousie's Blind Date	Rachel Berman
+illustrator	The King of Ireland's Son is a children's novel published in Ireland in 1916 written by Padraic Colum, and illustrated by Willy Pogany.	The King of Ireland's Son	Willy Pogany
+illustrator	The Big Snow is a book by Berta and Elmer Hader.	The Big Snow	Berta and Elmer Hader
+illustrator	Peter's Chair is a 1967 children's picture book by American author and illustrator Ezra Jack Keats.	Peter's Chair	Ezra Jack Keats
+illustrator	Bloodstained Oz is a Wizard of Oz related novella by Christopher Golden and James A. Moore, and it was illustrated by Glenn Chadbourne.	Bloodstained Oz	Glenn Chadbourne
+illustrator	Doctor Dolittle's Post Office is the third of Hugh Lofting's Doctor Dolittle books.	Doctor Dolittle's Post Office	Hugh Lofting
+illustrator	The Funny Little Woman is a book ``retold by'' Arlene Mosel and illustrated by Blair Lent.	The Funny Little Woman	Blair Lent
+illustrator	Worse Things Waiting is a collection of fantasy and horror short stories by author Manly Wade Wellman, with illustrations by Lee Brown Coye.	Worse Things Waiting	Lee Brown Coye
+inception	The Asian American Writers' Workshop is a nonprofit literary arts organization founded in 1991 to support of writers, literature and community.	Asian American Writers' Workshop	1991
+inception	Lieutenant-general Matvei Platov, the Ataman of the Don Cossacks, founded Novocherkassk in 1805 as the administrative center of the Don Host Oblast, after the inhabitants of the stanitsa of Cherkassk had to leave their abodes on the banks of the Don on account of the frequent floods.	Novocherkassk	1805
+inception	Midleton Very Rare was launched in 1984 to celebrate the whiskeys produced in Midleton.	Midleton Very Rare	1984
+inception	Wemyss Ware was a line of pottery first produced in 1882 by Czech decorator Karel Nekola and Fife pottery-owner Robert Heron.	Wemyss Ware	1882
+inception	Khallice is a Brazilian progressive metal act in founded in 1994.	Khallice	1994
+instrument	Rena Kyriakou revealed an early aptitude for the piano and for composition, and gave her first public performance at the age of six in Athens, performing twelve original piano pieces.	Rena Kyriakou	piano
+instrument	If you listened to the Arthur Godfrey radio show on CBS in the 1960s and early 1970s you heard Remo Palmieri's guitar in the background.	Remo Palmier	guitar
+instrument	Thomas Gallant is known for his performance style which combines the American and European traditions of oboe playing with an ``Evoluzione'' oboe made by the Italian maker Fratelli Patricola.	Thomas Gallant	oboe
+instrument	Wild Bill Moore (born William M. Moore, June 13, 1918 - August 1, 1983) was an American R&B and jazz tenor saxophone player.	Wild Bill Moore	saxophone
+instrument	Rick Swann (born 10 October 1989) is a Northern Irish trumpet player.	Rick Swann	trumpet
+languages spoken or written	Amanda Aizpuriete (born 1956 in Jurmala) is a Latvian poet and translator.	Amanda Aizpuriete	Latvian
+languages spoken or written	Giuliana Morandini (born 1938, 1944 in some sources) is an Italian writer.	Giuliana Morandini	Italian
+languages spoken or written	Digby George Gerahty (1898-1981), who wrote under the pen-names of Robert Standish and Stephen Lister, was an English novelist and short story writer most productive during the 1940s and 1950s.	Digby George Gerahty	English
+languages spoken or written	Vittorio Gregotti (Novara, 10 August 1927) is an Italian architect, born in Novara.	Vittorio Gregotti	Italian
+languages spoken or written	Uday Kiran (born Vajpeyajula Uday kiran, 26 June 1980 -- 5 January 2014) was a Filmfare Award winning Indian film actor, who primarily worked in the Telugu cinema.	Uday Kiran	Telugu
+license	Internet Messaging Program is free and open-source software subject to the terms of the GNU General Public License (GPL).	Internet Messaging Program	GNU General Public License
+license	Plobb! is a single-player 2D freeware game based on BlitzMax.	Plobb!	freeware
+license	Synfig began as the custom animation platform for Voria Studios (now defunct), and in 2005 was released as free/open source software, under the GNU General Public License.	Synfig	GNU General Public License
+license	The software is dual licensed; it is distributed under the GNU General Public License, but can also be licensed to parties wishing to combine InnoDB in proprietary software.	InnoDB	GNU General Public License
+license	Scribus is a desktop publishing (DTP) application, released under the GNU General Public License as free software.	Scribus	GNU General Public License
+license	Doom 3 features an award-winning game engine, id Tech 4, which has since been licensed out to other developers, and later released under the GNU General Public License in November 2011.	Doom 3	GNU General Public License
+license	Google Chrome is a freeware web browser developed by Google.	Google Chrome	freeware
+licensed to broadcast to	WXKS-FM (107.9 FM), better known as Kiss 108, is a radio station in Boston, Massachusetts, licensed to nearby Medford broadcasting a contemporary hit radio format.	WXKS-FM	Medford
+licensed to broadcast to	WVNJ (1160 AM ``The Voice'') is radio station licensed to Oakland, New Jersey, serving Bergen County, New Jersey and parts of the New York City metropolitan area.	WVNJ	Oakland
+licensed to broadcast to	KJR-FM (95.7 FM) is a Seattle, Washington, radio station that is broadcasting a classic hits format.	KJR-FM	Seattle
+licensed to broadcast to	KAFM Community Radio is an FM radio station located in Grand Junction, Colorado, United States.	KAFM	Grand Junction
+licensed to broadcast to	WHB (810 AM, ``Sports Radio 810 WHB'') is a commercial sports radio station in Kansas City, Missouri, and is known as the first full-time Top 40 station in the country.	WHB	Kansas City
+located in the administrative territorial entity	Kowleh Rural District (Persian: دهستان كوله‎) is a rural district (dehestan) in Saral District, Divandarreh County, Kurdistan Province, Iran.	Kowleh Rural District	Saral District
+located in the administrative territorial entity	Gesturi, Gèsturi in sardinian language, is a comune (municipality) in the Province of Medio Campidano in the Italian region Sardinia, located about 60 kilometres (37 mi) north of Cagliari and about 20 kilometres (12 mi) northeast of Sanluri in the Marmilla traditional region.	Gesturi	Province of Medio Campidano
+located in the administrative territorial entity	Carp, Nevada is an unincorporated community in Lincoln County, Nevada, United States located 35 miles (56 km) south of Caliente.	Carp, Nevada	Lincoln County
+located in the administrative territorial entity	Bashqurtaran (Persian: باشقورتاران‎, also Romanized as Bāshqūrtārān and Bāsh Qūrtārān; also known as Bashgoor Taran and Bāsh Qūtrān) is a village in Mehraban-e Olya Rural District, Shirin Su District, Kabudarahang County, Hamadan Province, Iran.	Bashqurtaran	Mehraban-e Olya Rural District
+located in the administrative territorial entity	Genesee Wesleyan Seminary and Genesee College Hall are two historic buildings located on the campus of Elim Bible Institute at Lima in Livingston County, New York.	Genesee Wesleyan Seminary and Genesee College Hall	New York
+located in the administrative territorial entity	Balgonie Castle is located on the south bank of the River Leven near Milton of Balgonie, 3.5 kilometres (2.2 mi) east of Glenrothes, Fife, Scotland.	Balgonie Castle	Fife	Scotland
+located in the administrative territorial entity	The Estádio Olímpico do Pará stadium, also known as Mangueirão and Estádio Estadual Jornalista Edgar Augusto Proença (State Stadium Edgar Augusto Proença, in English) is a football stadium inaugurated on March 4, 1978 in Belém, Pará, with a maximum capacity of 45,007 people.	Estádio Olímpico do Pará	Belém
+located in the administrative territorial entity	Kliniska Wielkie (kliˈniska ˈvjɛlkʲɛ) (German: Groß Christinenberg) is a village in the administrative district of Gmina Goleniów, within Goleniów County, West Pomeranian Voivodeship, in north-western Poland.	Kliniska Wielkie	Gmina Goleniów
+located in the administrative territorial entity	WDHA-FM 105.5 FM is a mainstream rock music station licensed to Dover and Morristown, New Jersey.	WDHA-FM	New Jersey
+located in the administrative territorial entity	Chatuge Dam is a flood control and hydroelectric dam on the Hiwassee River in Clay County, in the U.S. state of North Carolina.	Chatuge Dam	North Carolina
+located in the administrative territorial entity	Beik Baghi (Persian: بيك باغي‎, also Romanized as Beik Baghi; also known as Bāi Bagh, Bāy Bāgh, Beg Bāgh, and Beyg Bāghī) is a village in Ojarud-e Shomali Rural District, in the Central District of Germi County, Ardabil Province, Iran.	Beik Baghi	Ojarud-e Shomali Rural District
+located in the administrative territorial entity	Port Olry is a Francophone town (population 1,300) on Espiritu Santo island in the Sanma Province of Vanuatu.	Port Olry	Espiritu Santo
+located in the administrative territorial entity	Hengshan Road (Chinese: 衡山路; pinyin: Héngshān Lù), formerly Avenue Petain, is a street in the former French Concession of Shanghai, China.	Hengshan Road	Shanghai
+located in the administrative territorial entity	The Benjamin Franklin Coppess House, built in 1882, is a historic Queen Anne and Stick-Eastlake style house located at 209 Washington Street in Greenville, Ohio, United States.	Benjamin Franklin Coppess House	Ohio
+located in the administrative territorial entity	John S. Burke Catholic High School, referred to locally as Burke Catholic, is a private, Roman Catholic high school in Goshen, New York and is located within the Roman Catholic Archdiocese of New York.	John S. Burke Catholic High School	New York
+located in the administrative territorial entity	Shillford or Shilford is a hamlet to the north-east of Barrhead on the Lochlibo Road in East Renfrewshire near Uplawmoor, Scotland in the Parish of Neilston.	Shillford	East Renfrewshire
+located in the administrative territorial entity	Ordushahi (Persian: اردوشاهي‎, also Romanized as Ordūshāhī; also known as Emām Kandī and Ordoshāhī) is a village in Torkaman Rural District, in the Central District of Urmia County, West Azerbaijan Province, Iran.	Ordushahi	Torkaman Rural District
+located in the administrative territorial entity	Ginadi is a village in the Churu Town administrative region of the eastern corner of the Churu district of Rajasthan, India.	Ginadi	Churu district	Rajasthan
+located in the administrative territorial entity	Lipovec pri Škofji Vasi (pronounced (ˈliːpɔʋəts pɾi ˈʃkoːfji ˈʋaːsi); Slovene: Lipovec pri Škofji vasi) is a small settlement in the City Municipality of Celje in eastern Slovenia.	Lipovec pri Škofji Vasi	City Municipality of Celje
+located in the administrative territorial entity	The Evergreen State College is an accredited public liberal arts college and a member of the Council of Public Liberal Arts Colleges, located in Olympia, Washington, USA.	The Evergreen State College	Olympia	Washington
+located in the administrative territorial entity	Wherstead is a village and a civil parish located in county Suffolk, England.	Wherstead	Suffolk
+located on astronomical body	Stura Vallis is an ancient river valley in the Elysium quadrangle of Mars, located at 22.9° north latitude and 217.6° west longitude.	Stura Vallis	Mars
+located on astronomical body	Beta Regio is a region of the planet Venus known as a volcanic rise.	Beta Regio	Venus
+located on astronomical body	Lacus Veris (latin for ``Lake of Spring'') is a small lunar mare on the Moon.	Lacus Veris	Moon
+located on astronomical body	The Nereidum Montes is a mountain range on Mars.	Nereidum Montes	Mars
+located on astronomical body	Dorsa Ewing is a wrinkle ridge at 10.2°S 39.4°W in Oceanus Procellarum on the Moon.	Dorsa Ewing	Moon
+located on astronomical body	Tohil Mons is a mountain on Io, one of Jupiter's moons.	Tohil Mons	Io
+located on astronomical body	Promontorium Heraclides is a raised mountainous cape situated in Mare Imbrium on the near side of the Moon.	Promontorium Heraclides	Moon
+located on astronomical body	The Bach quadrangle encompasses the south polar part of Mercury poleward of latitude 65° S.	Bach quadrangle	Mercury
+located on astronomical body	Hydraotes Chaos is a broken-up region in the Oxia Palus quadrangle of Mars, located at 0.8° North and 35.4° West.	Hydraotes Chaos	Mars
+located on astronomical body	Dorsa Geikie is a wrinkle ridge at 4.6°S 52.5°E in Mare Fecunditatis on the Moon.	Dorsa Geikie	Moon
+located on astronomical body	Claritas Fossae is a group of troughs in the Phoenicis Lacus and Thaumasia quadrangles of Mars, located at 31.5 S and 104.1 W. The structure is 2,050.0 km long and was named after a classical albedo feature name.	Claritas Fossae	Mars
+located on astronomical body	Asopus Vallis is a valley in the Memnonia quadrangle on Mars, located at 4.4° south latitude and 149.7° west longitude.	Asopus Vallis	Mars
+located on astronomical body	Gigas Sulci is an area of subparallel furrows and ridges in the Tharsis quadrangle of Mars, located at 10°N 127.8°W. It is 398 km across and was named after a classical albedo feature name.	Gigas Sulci	Mars
+located on astronomical body	Vallis Rheita is a linear valley on the near side of the Moon.	Vallis Rheita	Moon
+located on astronomical body	Challenger Colles is a range of hills on Pluto.	Challenger Colles	Pluto
+located on astronomical body	Dorsum Cayeux is a wrinkle ridge at 1.6°N 51.2°E in Mare Fecunditatis on the Moon.	Dorsum Cayeux	Moon
+located on astronomical body	Lacus Somniorum is a plain located in the northeastern part of the Moon's near side.	Lacus Somniorum	Moon
+located on astronomical body	Beagle Rupes is an escarpment on Mercury, one of the highest and longest yet seen.	Beagle Rupes	Mercury
+lyrics by	``The Edge of Glory'' is a song by American singer Lady Gaga from her second studio album, Born This Way (2011).	The Edge of Glory	Lady Gaga
+lyrics by	``Tombe la neige'' (English: ``The snow falls'') is a French language song written and sung by Belgian-Italian singer Salvatore Adamo.	Tombe la neige	Salvatore Adamo
+lyrics by	``Make You Feel My Love'' is a song written by Bob Dylan that appeared on his 1997 album Time Out of Mind.	Make You Feel My Love	Bob Dylan
+lyrics by	Ayu-mi-x 4 + Selection Acoustic Orchestra Version is a remix album by Japanese singer Ayumi Hamasaki released in 2002, reaching number 9 in the Oricon Weekly music chart.	Ayu-mi-x 4 + Selection Acoustic Orchestra Version	Ayumi Hamasaki
+lyrics by	``Window Up Above'' is a 1960 single written and originally recorded by George Jones.	Window Up Above	George Jones
+lyrics by	``Feel It Boy'' is a song by Jamaican reggae artist Beenie Man featuring Janet Jackson from Man's sixteenth studio album Tropical Storm (2002).	Feel It Boy	Beenie Man
+lyrics by	``I See the Light'' is a song written by composer Alan Menken and lyricist Glenn Slater for Walt Disney Animation Studios' 50th animated feature film Tangled (2010).	I See the Light	Glenn Slater
+lyrics by	``Till There Was You'' is a song written by Meredith Willson for his 1957 musical play The Music Man, and which also appeared in the 1962 movie version.	Till There Was You	Meredith Willson
+lyrics by	``Banlieue Sale Music'' is a song by French rapper La Fouine featuring fellow French rapper Nessbeal.	Banlieue Sale Music	La Fouine	Nessbeal
+lyrics by	``Purple Haze'' is a song written by Jimi Hendrix and released as the second record single by the Jimi Hendrix Experience on March 17, 1967.	Purple Haze	Jimi Hendrix
+lyrics by	``Que Pasa Contigo'' is a song by the Italian DJ Alex Gaudino featuring vocals from Sam Obernik.	Que Pasa Contigo	Alex Gaudino
+lyrics by	``Antes de las Seis'' (English: ``Before Six O'Clock'') is a song recorded by Colombian singer-songwriter Shakira for her ninth studio album Sale el Sol (2010).	Antes de las Seis	Shakira
+lyrics by	Walls and Bridges is the fifth studio album by John Lennon, issued on 26 September 1974 in the United States and on 4 October in the United Kingdom.	Walls and Bridges	John Lennon
+lyrics by	``Don't Wanna Cry (Radio Edit)'' (Tetsuya Komuro, Takahiro Maeda) -- 4:40 ``Present'' (Takahiro Maeda) -- 4:39 ``Don't Wanna Cry (Original Karaoke)''(Tetsuya Komuro) -- 4:39 ``Present (Original Karaoke)'' (Takahiro Maeda) -- 4:38	Don't Wanna Cry	Tetsuya Komuro	Takahiro Maeda
+lyrics by	``We Are Never Ever Getting Back Together'' is a song recorded by American singer-songwriter Taylor Swift for her fourth studio album, Red (2012).	We Are Never Ever Getting Back Together	Taylor Swift
+lyrics by	``You Want This'' is a song by American singer Janet Jackson from her fifth studio album, janet.	You Want This	Janet Jackson
+lyrics by	``2 On'' is a song recorded by American singer-songwriter Tinashe for her debut studio album Aquarius (2014).	2 On	Tinashe
+lyrics by	``She Bop'' is a song by American singer-songwriter Cyndi Lauper, released as the third single from her debut studio album She's So Unusual.	She Bop	Cyndi Lauper
+lyrics by	``Boots of Spanish Leather'' is a ballad written and performed by Bob Dylan, and released in 1964 on his album The Times They Are a-Changin'.	Boots of Spanish Leather	Bob Dylan
+lyrics by	``For My Dear...'' is the fourth single released by Ayumi Hamasaki on October 7, 1998.	For My Dear...	Ayumi Hamasaki
+lyrics by	``You Make Me'' is a song written and recorded by Swedish DJ, remixer and record producer Avicii and Swedish musician and singer Salem Al Fakir in collaboration with Swedish songwriter Vincent Pontare and producer Arash Pournouri.	You Make Me	Avicii	Salem Al Fakir	Arash Pournouri
+lyrics by	``Tom Traubert's Blues (Four Sheets to the Wind in Copenhagen)'' (sometimes referred to incorrectly as ``Waltzing Matilda'', the song from which it borrows) is a song by American musician Tom Waits.	Tom Traubert's Blues	Tom Waits
+lyrics by	``Why Do You Let Me Stay Here?'' is a song by American duo She & Him, written by Zooey Deschanel for their first album, Volume One.	Why Do You Let Me Stay Here?	Zooey Deschanel
+lyrics by	``Welcome to St. Tropez'' is a song by Swiss DJ and producer DJ Antoine taken from his studio album 2011.	Welcome to St. Tropez	DJ Antoine
+lyrics by	``In the Air Tonight'' is the debut solo single by English drummer, singer and songwriter Phil Collins.	In the Air Tonight	Phil Collins
+lyrics by	This song is ``a moving nursery rhyme that appeals to the collective imagination and that reveals a new facet of the artist : ''A hidden melancholy...``'' According to Willem, ``Jacques a dit'' was the first song that Zazie has composed for him.	Jacques a dit	Zazie
+lyrics by	``So Happy I Could Die'' is a song from American singer Lady Gaga, taken from her second major released and her third extended play, The Fame Monster (2009).	So Happy I Could Die	Lady Gaga
+lyrics by	The song ``Korobeiniki'' is based on a poem with the same name by Nikolay Nekrasov, written and printed in the Sovremennik magazine in 1861.	Korobeiniki	Nikolay Nekrasov
+lyrics by	``The Power of Good-Bye'' is a song by American singer and songwriter Madonna, taken from her seventh studio album Ray of Light (1998).	The Power of Good-Bye	Madonna
+lyrics by	``Run This Town'' was released as the second single from Jay-Z's eleventh studio album The Blueprint 3, and is used as the theme song of Battlefield 4.	Run This Town	Jay-Z
+lyrics by	Le Chant des Girondins (English: The Song of the Girondists) was the national anthem of the French Second Republic, written for the drama Le Chevalier de Maison-Rouge by the writer Alexandre Dumas with Auguste Maquet.	Le Chant des Girondins	Alexandre Dumas
+lyrics by	La Javanaise is a song written and composed by Serge Gainsbourg originally for Juliette Gréco, and interpreted by both her and Serge Gainsbourg in 1963.	La Javanaise	Serge Gainsbourg
+lyrics by	``Slip Kid,'' like many other tracks released by The Who in the 1970s, was originally to be included in Pete Townshend's shelved Lifehouse rock opera.	Slip Kid	Pete Townshend
+lyrics by	``Moon/Blossom'' is Japanese singer Ayumi Hamasaki's forty-eighth (forty-ninth overall) single, released on July 14, 2010.	Moon/Blossom	Ayumi Hamasaki
+lyrics by	Third World Child is studio album by South African artist Johnny Clegg and his band Savuka, released in 1987 and produced by Hilton Rosenthal.	Third World Child	Johnny Clegg
+lyrics by	``Rule/Sparkle'' is a double A-side single by Japanese recording artist Ayumi Hamasaki from her tenth studio album, NEXT LEVEL' (2009).	Rule/Sparkle	Ayumi Hamasaki
+lyrics by	Kletva (Bulgarian: Клетва, (ˈklɛtvə), oath) is a song by the Bulgarian musician Kiril Marichkov.	Kletva	Kiril Marichkov
+lyrics by	``I'll Be Your Baby Tonight'' is a 1967 song by Bob Dylan first released on John Wesley Harding.	I'll Be Your Baby Tonight	Bob Dylan
+lyrics by	``Peace or Violence'' is a 2010 song by Belgian singer Stromae, released on 31 May as the fourth promo-single for his album Cheese, on which it was included.	Peace or Violence	Stromae
+lyrics by	``Love the Island'' is the debut single of Japanese singer Ami Suzuki released on July 1, 1998 through True Kiss Disc, sub-label of Sony Music Entertainment Japan owned by Tetsuya Komuro.	Love the Island	Tetsuya Komuro
+manufacturer	The Nexus Player is a digital media player co-developed by Google and Asus.	Nexus Player	Asus
+manufacturer	Windows Millennium Edition, or Windows ME (marketed with the pronunciation of the pronoun ``me'', but commonly pronounced as an initialism, ``M-E''), is a graphical operating system from Microsoft released to manufacturing in June 2000, and launched in September 2000.	Windows ME	Microsoft
+manufacturer	SS Conte di Savoia (``Count of Savoy'') was an Italian ocean liner built in 1932 at the Cantieri Riuniti dell'Adriatico, Trieste.	SS Conte di Savoia	Cantieri Riuniti dell'Adriatico
+manufacturer	Spirit of Gosport is a vessel owned by the Gosport Ferry Company Ltd and built by Abels Shipbuilders in Bristol.	Spirit of Gosport	Abels Shipbuilders
+manufacturer	The MS UND Adriyatik is a RO-RO freighter owned by the Turkish company U.N Ro-Ro İşletmeleri A.Ş. It went into service on September 1, 2001, after being built in the Flensburger Schiffbau Gesellschaft (FSG) shipyard in Flensburg, Germany.	MS UND Adriyatik	Flensburger Schiffbau Gesellschaft
+medical condition	Mary Temple Grandin (born August 29, 1947) is an American professor of animal science at Colorado State University, best-selling author, autism activist and consultant to the livestock industry on animal behavior.	Temple Grandin	autism
+medical condition	Jeremy Black says of him; a ``mad American pseudo-general, Brad Whitaker, the arms dealer, yet another figure with a Napoleon complex.''	Brad Whitaker	Napoleon complex
+medical condition	After twelve years of marriage, Hannah Van Buren contracted tuberculosis and died on February 5, 1819, at the age of thirty-five.	Hannah Van Buren	tuberculosis
+medical condition	Blind Willie Walker died in Greenville in 1933 at age 37 of congenital syphilis, which may have been the reason for his blindness.	Blind Willie Walker	blindness
+medical condition	Robert Ledley died of Alzheimer's disease in Kensington, Maryland, USA on July 24, 2012.	Robert Ledley	Alzheimer's disease
+member of political party	Mildred Barry Hughes (February 11, 1902 -- January 11, 1995) was an American Democratic Party politician who served in the New Jersey General Assembly and became the first woman elected to the New Jersey Senate, in 1965.	Mildred Barry Hughes	Democratic Party
+member of political party	Albin Kurti (born 24 March 1975 in Prishtina, Kosovo ) is the leading activist and former leader of Vetëvendosje!, and Deputy at Assembly of Kosovo.	Albin Kurti	Vetëvendosje
+member of political party	Giovan Battista Adonnino (6 November 1889, Licata - 14 December 1973) was an Italian politician belonging to the Christian Democracy.	Giovan Battista Adonnino	Christian Democracy
+member of political party	Thomas Cape MBE (5 October 1868, Cockermouth, Cumberland -- 1947) was the Labour Party Member of Parliament (MP) for Workington from 1918 to 1945.	Thomas Cape	Labour Party
+member of political party	Dagmar Metzger (born 10 December 1958 in Berlin) is a German lawyer and politician, and a former member of the Parliament of Hesse for the Social Democratic Party of Germany (SPD).	Dagmar Metzger	Social Democratic Party of Germany
+mother	Thomas Randolph (~1683 -- 1729), also known as Thomas Randolph of Tuckahoe, was the builder of Tuckahoe, a member of the Virginia House of Burgesses, and the second child of William Randolph and Mary Isham.	Thomas Randolph of Tuckahoe	Mary Isham
+mother	Kim Man-il (Hangul: 김만일; hanja: 金萬一; 1944--1947/8) was the second son and child of North Korean leader Kim Il-sung and his first wife, Kim Jong-suk.	Kim Man-il	Kim Jong-suk
+mother	Joan of Taranto (died March 1323) was a daughter of Philip I, Prince of Taranto, and his first wife Thamar Angelina Komnene.	Joan of Taranto	Thamar Angelina Komnene
+mother	Sidonie of Poděbrady (Czech: Zdenka z Poděbrad; 14 November 1449 -- 1 February 1510) was a daughter of George of Poděbrady, King of Bohemia, and his first wife Kunigunde of Sternberg.	Sidonie of Poděbrady	Kunigunde of Sternberg
+mother	Aurore Auteuil (born 28 March 1981) is a French actress and the eldest daughter of Anne Jousset and Daniel Auteuil.	Aurore Auteuil	Anne Jousset
+mouth of the watercourse	The Walloomsac River (/ˈwɑːluːmsæk/ WAH-loom-sak or /ˈwælʊmsɪk/ WAL-uum-sik) from the Native American name, Wal-loom-sac is a 16.8-mile-long (27.0 km) tributary of the Hoosic River in the northeastern United States.	Walloomsac River	Hoosic River
+mouth of the watercourse	Glen Fernaigh River rises on the Dorrigo Plateau within the Great Dividing Range near Hernani, west of Dorrigo, and flows generally northeast then east before reaching its confluence with the Nymboida River near Tyringham, northwest of Dorrigo.	Glen Fernaigh River	Nymboida River
+mouth of the watercourse	Molmys River (Russian: Молмыс) is a river in Perm Krai, Russia, a left tributary of the Yazva River.	Molmys River	Yazva River
+mouth of the watercourse	The latter two are located at the mouth of the Douro at the Atlantic Ocean.	Douro	Atlantic Ocean
+mouth of the watercourse	The Napo River (Spanish: Río Napo) is a tributary to the Amazon River that rises in Ecuador on the flanks of the east Andean volcanoes of Antisana, Sinchulawa and Cotopaxi.	Napo River	Amazon
+named after	Zakynthos International Airport ``Dionysios Solomos'' (IATA: ZTH, ICAO: LGZA) is an airport in Zakynthos, Greece.	Zakynthos International Airport	Dionysios Solomos
+named after	Gelderland (Dutch pronunciation: (ˈɣɛldərˌlɑnt), also Guelders in English) is a province of the Netherlands, located in the central eastern part of the country.	Gelderland	Guelders
+named after	The Kossuth Prize (Hungarian: Kossuth-díj) is a state-sponsored award in Hungary, named after the Hungarian politician and revolutionary Lajos Kossuth.	Kossuth Prize	Lajos Kossuth
+named after	The Kjeldahl method or Kjeldahl digestion (Danish pronunciation: (ˈkʰɛld̥æːˀl)) in analytical chemistry is a method for the quantitative determination of nitrogen in chemical substances developed by Johan Kjeldahl in 1883.	Kjeldahl method	Johan Kjeldahl
+named after	In mathematics, the Riemann series theorem (also called the Riemann rearrangement theorem), named after 19th-century German mathematician Bernhard Riemann, says that if an infinite series is conditionally convergent, then its terms can be arranged in a permutation so that the new series converges to any given value, or diverges.	Riemann series theorem	Bernhard Riemann
+narrative location	According to its title page, the libretto of La bohème is based on Henri Murger's novel, Scènes de la vie de bohème, a collection of vignettes portraying young bohemians living in the Latin Quarter of Paris in the 1840s.	La bohème	Paris
+narrative location	You Don't Love Me Yet (2007) is a comic novel about alternative music from Jonathan Lethem, set in modern Los Angeles.	You Don't Love Me Yet	Los Angeles
+narrative location	The Magic Garden of Stanley Sweetheart is a 1970 American film made by Metro-Goldwyn-Mayer (MGM) about a confused college student's experiences with sex, relationships, and drugs in late 1960s New York City.	The Magic Garden of Stanley Sweetheart	New York City
+narrative location	Jessica Walter stars as Amy Prentiss, a relatively young investigator who becomes the first female Chief of Detectives for the San Francisco Police Department.	Amy Prentiss	San Francisco
+narrative location	Film columnist Patrick Goldstein reported in the Los Angeles Times in July 2009 that filmmakers Daniel Adams and Kate Edelman Johnson were producing a feature film version of The Big Valley with production to begin in April 2010 in New Mexico and Michigan.	The Big Valley	Los Angeles
+native language	Pierre-Antoine Cousteau (March 18, 1906 -- December 17, 1958) was a French far right polemicist and journalist.	Pierre-Antoine Cousteau	French
+native language	Henri Mondor (20 May 1885, Saint-Cernin, Cantal -- 6 April 1962) was a French physician, surgeon, and a historian of French literature and medicine.	Henri Mondor	French
+native language	Jean Sinoël (13 August 1868 -- 30 August 1949), often known simply as Sinoël, was a French actor and singer.	Jean Sinoël	French
+native language	Valeria Bruni Tedeschi, also spelled Bruni-Tedeschi (Italian pronunciation: (vaˈlɛːrja ˈbruːni teˈdeski); born 16 November 1964), is an Italian-French actress, screenwriter and film director.	Valeria Bruni Tedeschi	French
+native language	Wolfgang Amadeus Mozart (German: (ˈvɔlfɡaŋ amaˈdeːʊs ˈmoːtsaʁt), English see fn.; 27 January 1756 -- 5 December 1791), baptised as Johannes Chrysostomus Wolfgangus Theophilus Mozart, was a prolific and influential composer of the Classical era.	Wolfgang Amadeus Mozart	German
+nominated for	Deborah Lynn Scott (born 1954), also known as Deborah Scott is a costume designer and set designer, best known for her work in the James Cameron's directorial venture Titanic which won her the Academy Award for Best Costume Design.	Deborah Lynn Scott	Academy Award for Best Costume Design
+nominated for	The Broadway Melody, also known as The Broadway Melody of 1929, is an American pre-Code musical film and the first sound film to win an Academy Award for Best Picture.	The Broadway Melody	Academy Award for Best Picture
+nominated for	Bryan Buckley has been nominated for the Academy Award for Best Live Action Short Film at the 85th Academy Awards for his short film ASAD which he directed and wrote.	Bryan Buckley	Academy Award for Best Live Action Short Film
+nominated for	Tweetie Pie won the Academy Award for Best Animated Short Film, breaking Tom and Jerry's streak of four consecutive wins on the category.	Tweetie Pie	Academy Award for Best Animated Short Film
+nominated for	Hoop Dreams is the most recent documentary film to be specifically nominated for the Academy Award for Best Film Editing.	Hoop Dreams	Academy Award for Best Film Editing
+occupation	Slobodan Savić (born in 1964) is a journalist, writer and critic.	Slobodan Savić	journalist	writer
+occupation	Derya Bard Sarıaltın (born on May 14, 1977), formerly Svana Bard, is a Turkish archer of Ukrainian origin.	Derya Bard Sarıaltın	archer
+occupation	With the addition of a second backup singer/guitarist in 2007, ``Ross Childress Experience'' was renamed ``Starfish and Coffee,'' and their self-titled debut album was released on April 29, 2008.	Ross Childress	singer
+occupation	John Jay Jackson, Jr. (August 4, 1824 -- September 2, 1907) was a United States federal judge, first from Virginia, and then from West Virginia, at the time of its creation as a separate state.	John Jay Jackson, Jr.	judge
+occupation	Courtney Webb, real name Laura Franki Webb, is a British actress and writer.	Courtney Webb	writer
+occupation	Betsey Stockton (c. 1798--1865), sometimes spelled Betsy Stockton, was an African-American educator and missionary.	Betsey Stockton	missionary
+occupation	Dalia Inés Nieto Jiménez, simply known as Dalia Inés, is a Mexican singer, dancer, and actress.	Dalia Inés	singer
+occupation	Eric Burroughs (November 6, 1911 -- November 12, 1992) was an American stage and radio actor whose career spanned the 1930s to the early 1960s.	Eric Burroughs	actor
+occupation	Fred Fulton, nicknamed ``The Rochester Plasterer'', (April 19, 1891 -- July 7, 1973) was an American heavyweight professional boxer.	Fred Fulton	boxer
+occupation	Qamar Jalavi (Urdu: قمر جلالوی‎)(born Muhammad Hussain and also known as Ustad Qamar Jalalvi) was a renowned Pakistani poet.	Qamar Jalalvi	poet
+occupation	Chris Leavins is a Canadian actor and writer based in Los Angeles.	Chris Leavins	actor
+original network	Preet Se Bandhi Ye Dori Ram Milaayi Jodi was an Indian Television Drama Series that aired on Zee TV that premiered on 20 September 2010 and ended on 12 April 2012 and used to air every Monday to Friday 9:30 pm.	Ram Milaayi Jodi	Zee TV
+original network	American Dreams is an American television drama program broadcast on the NBC television network, produced by Once A Frog and Dick Clark Productions in association with Universal Network Television and NBC Studios.	American Dreams	NBC
+original network	Chrisley Knows Best is an American reality television series airing on the USA Network.	Chrisley Knows Best	USA Network
+original network	Yes You Can was a Canadian children's television series broadcast on CBC Television from 1980 to 1983.	Yes You Can	CBC Television
+original network	They Stand Accused (also known as Cross Question) is an American dramatized court show broadcast on the now-defunct DuMont Television Network from September 11, 1949 to October 5, 1952 and again from September 9 to December 30, 1954.	They Stand Accused	DuMont Television Network
+parent company	In September 2013, Koch Industries purchased Molex for $7.2 billion.	Molex	Koch Industries
+parent company	First Air is wholly owned by the Inuit people of Quebec through the Makivik Corporation, who purchased the company in 1990.	First Air	Makivik Corporation
+parent company	Based in Paris, Keolis is owned by the SNCF (French National Railways Corporation) at 70% and the Caisse de dépôt et placement du Québec which is translated as Quebec Deposit & Investment Fund (public pension plans in the province of Quebec) at 30%.	Keolis	SNCF	Caisse de dépôt et placement du Québec
+parent company	Originally an independent company established by Jim Lee, and expanded in subsequent years by other creators, WildStorm became a publishing imprint of DC Comics in 1999.	WildStorm	DC Comics
+parent company	Its parent company, Walgreens, operates Super D Drug Stores and Ikes Deep Discount Drug, both acquired in October 1997, and May's Drug, Med-X Drug, Drug Warehouse, and Drug Mart, all acquired in July 2004, as ``Part of the USA Drug Family''.	USA Drug	Walgreens
+parent company	DB Netze (English: DB Networks) is an arm of the German national rail company Deutsche Bahn (DB) responsible for the railway infrastructure and operations.	DB Netze	Deutsche Bahn
+parent company	Mistral Air is an Italian charter airline based in Rome and a subsidiary of Poste italiane.	Mistral Air	Poste italiane
+parent company	Wanhua-BorsodChem as the European member of the Wanhua Group - is a leading chemical raw material manufacturing company headquartered in Kazincbarcika, Hungary.	BorsodChem	Wanhua Group
+parent company	On May 6, 2014, LSI Corporation was acquired by Avago Technologies for $6.6 billion.	LSI Corporation	Avago Technologies
+parent company	Iveco, an acronym for Industrial Vehicles Corporation, is an Italian industrial vehicle manufacturing company based in Turin, Italy, and entirely controlled by CNH Industrial Group.	Iveco	CNH Industrial
+parent company	Founder Technology Group Corporation (SSE: 600601), a subsidiary of Founder Group from Peking University, is an information technology state-owned enterprise in Shanghai, China.	Founder Technology	Founder Group
+parent company	Datsun is an automobile brand owned by Nissan.	Datsun	Nissan
+parent company	BNA Records, formerly known as BNA Entertainment, was a label group that shared ties with Arista Nashville and RCA Nashville from parent company Sony Music Nashville, which itself is a subsidiary of Sony Music Entertainment.	BNA Records	Sony Music Entertainment
+parent company	Its predecessor company, Albertsons, Inc., was sold to Albertsons LLC (a Cerberus Capital Management-led consortium), CVS Pharmacy, and SuperValu Inc. in 2006.	Albertsons	Cerberus Capital Management	SuperValu
+parent company	IBM China Research Laboratory (CRL) is one of the IBM Research's twelve major worldwide research laboratories.	IBM China Research Laboratory	IBM Research
+parent company	The University of Minnesota Duluth (UMD) is a regional branch of the University of Minnesota system located in Duluth, Minnesota, United States.	University of Minnesota Duluth	University of Minnesota system
+parent company	The Rocketdyne Division was founded by North American Aviation (NAA) in 1955, and was later part of Rockwell International (1967-1996) and Boeing (1996-2005).	Rocketdyne	North American Aviation	Rockwell International	Boeing
+parent company	On 21 November 2006, Schlotzsky's was acquired by Focus Brands, an affiliate of private equity firm Roark Capital Group, parent company of Moe's Southwest Grill, Carvel, Cinnabon and Auntie Anne's.	Schlotzsky's	Focus Brands
+parent company	Parker Brothers is currently a subsidiary of the multinational entertainment company Hasbro.	Parker Brothers	Hasbro
+parent company	Cisco Systems acquired Tandberg on 19 April 2010.	Tandberg	Cisco Systems
+parent company	Aruba, a Hewlett Packard Enterprise company, (formerly ``Aruba Networks, Inc.'') is a networking vendor selling enterprise wireless LAN and edge access networking equipment.	Aruba Networks	Hewlett Packard
+parent company	Bell Mobility is a Canadian CDMA, LTE and HSPA+ based wireless network (named Bell Cellular until 1993) and the division of Bell Canada which sells wireless services across Canada.	Bell Mobility	Bell Canada
+parent company	DAF Trucks NV is a Dutch truck manufacturing company and a division of Paccar.	DAF Trucks	Paccar
+parent company	France Bleu Roussillon is a public radio station part of the France Bleu network owned by Radio France for the Pyrénées-Orientales (Roussillon) department.	France Bleu Roussillon	Radio France
+parent company	The division called ``Air Yugoslavia'' has been replaced with the Charter and Tourism Department within Jat Airways in 2005.	Air Yugoslavia	Jat Airways
+parent company	Moody's Investors Service, often referred to as Moody's, is the bond credit rating business of Moody's Corporation, representing the company's traditional line of business and its historical name.	Moody's Investors Service	Moody's Corporation
+parent company	Telemundo (Spanish pronunciation: (teleˈmundo)) is an American Spanish-language broadcast television network owned by the NBCUniversal Hispanic Group, a subsidiary of the NBCUniversal Television Group division of NBCUniversal.	Telemundo	NBCUniversal
+parent company	Panrusgáz is a Hungarian natural gas company responsible for the import of natural gas from Russia mainly Gazprom.	Panrusgáz	Gazprom
+parent company	Hooters Air flights were operated by Winston-Salem, North Carolina-based Pace Airlines both as ad hoc private charters, and as scheduled USDOT public charters.	Hooters Air	Pace Airlines
+parent taxon	Rhinochelys is an extinct genus of sea turtles belonging to the family Protostegidae (sometimes placed by some authors in the family Desmatochelyidae).	Rhinochelys	Desmatochelyidae
+parent taxon	Excentradenia is a genus in the Malpighiaceae.	Excentradenia	Malpighiaceae
+parent taxon	Cyrtomium is a genus of about 15-20 species of ferns in the family Dryopteridaceae, native to Asia, Africa (including Madagascar), and the Pacific Ocean islands (Hawaii).	Cyrtomium	Dryopteridaceae
+parent taxon	The Puerto Rican lizard cuckoo (Coccyzus vieilloti) is a cuckoo endemic to the island of Puerto Rico, and is one of 4 species of lizard-cuckoos which occur only on Caribbean islands.	Puerto Rican lizard cuckoo	Coccyzus
+parent taxon	The Borriqueta porgy, Boridia grossidens, is a species of grunt native to the Atlantic Coast of South America.	Borriqueta porgy	Boridia
+participant of	Rutger van Schaardenburg (born 8 October 1987, in Alkmaar) is a sailor from the Netherlands, who represented his country for the first time at the Sailing at the 2008 Summer Olympics in Qingdao.	Rutger van Schaardenburg	2008 Summer Olympics
+participant of	Diego Florentín was a Paraguayan football midfielder who played for Paraguay in the 1930 FIFA World Cup.	Diego Florentín	1930 FIFA World Cup
+participant of	Lorena Homar López is an SM5 classified Spanish swimmer who has represented Spain at the 2012 Summer Paralympics.	Lorena Homar López	2012 Summer Paralympics
+participant of	Lenise Marais (born 29 April 1985) is a South African field hockey player who competed in the 2008 and 2012 Summer Olympics.	Lenise Marais	2012 Summer Olympics
+participant of	George Issabeg (born 9 November 1930) is a former Iranian boxer of Assyrian ethnicity that represented Iran at the 1948 and 1952 Summer Olympics.	George Issabeg	1952 Summer Olympics
+performer	Songs for Sunday Evening is a 1950 album by Jo Stafford and Gordon MacRae.	Songs for Sunday Evening	Jo Stafford
+performer	``Lucifer Sam'' is a song by British psychedelic rock band Pink Floyd, featured on their 1967 debut album The Piper at the Gates of Dawn.	Lucifer Sam	Pink Floyd
+performer	``The Bitterest Pill (I Ever Had to Swallow)'' is a single that was released by The Jam in 1982.	The Bitterest Pill (I Ever Had to Swallow)	The Jam
+performer	``Live Is Life'' is a song originally recorded in 1984 by Austrian pop rock group Opus.	Live Is Life	Opus
+performer	Supporting Caste is the fifth full-length album by the punk rock band Propagandhi.	Supporting Caste	Propagandhi
+place of birth	Francesco Grandolfo (born 26 July 1992 in Castellana Grotte) is an Italian professional football player currently playing for Italian Lega Pro side Fidelis Andria.	Francesco Grandolfo	Castellana Grotte
+place of birth	Corita Kent (November 20, 1918 -- September 18, 1986), aka Sister Mary Corita Kent, was born Frances Elizabeth Kent in Fort Dodge, Iowa.	Corita Kent	Fort Dodge
+place of birth	Born on April 8, 1965 in Los Angeles, California, Erika Cosby is the oldest of five children born to Bill Cosby and Camille (née Hanks) Cosby.	Erika Cosby	Los Angeles
+place of birth	Elizabeth Fones was born at Groton Manor, Suffolk, England on 21 January 1610 to Thomas Fones, a London apothecary, and his wife, Anne Winthrop, sister of John Winthrop, a staunch puritan and the eventual Governor of the Massachusetts Bay Colony.	Elizabeth Fones	Suffolk
+place of birth	Enrico Martini (nom de guerre ``Mauri'') Mondovì, 29 January 1911 --	Enrico Martini	Mondovì
+place of death	Markus Höttinger (28 May 1956 -- 13 April 1980) was an Austrian Formula Two driver who died at Germany's Hockenheimring during the third lap of the second round of the 1980 European Formula Two Championship, on 13 April 1980.	Markus Höttinger	Hockenheimring
+place of death	Vivien Oakland (born Vivian Andersen, May 20, 1895 -- August 1, 1958), was an American actress best known for her work in comedies in Hollywood in the 1920s and 1930s, most notably with the Hal Roach Studios.	Vivien Oakland	Hollywood
+place of death	Jean Baptiste LeChevalier (July 1 1752 in Trelly, Manche department to July 2 1836 in Paris, Saint-Étienne-du-Mont) was a French scholar, astronomer and archaeologist.	Jean Baptiste LeChevalier	Paris
+place of death	Fritz Scheidegger (Max Friedrich Scheidegger, 30 December, 1930 in Langenthal - 26 March 1967 Mallory Park, England) was a Swiss sidecar racer who won two Sidecar World Championships.	Fritz Scheidegger	Mallory Park
+place of death	Klaus Wiese (January 18, 1942 -- January 27, 2009 in Ulm) was a veteran e-musician, minimalist, and multi-instrumentalist.	Klaus Wiese	Ulm
+position held	Frank S. Giles, Jr. (born June 15, 1915 in Methuen, Massachusetts -- died March 2, 1991 in Burlington, Massachusetts ) was a politician who was a Member of the Massachusetts House of Representatives and the Massachusetts Public Safety Commissioner.	Frank S. Giles	Member of the Massachusetts House of Representatives
+position held	Ioan Duma (November 5, 1896 -- July 16, 1981) was a Romanian cleric and a titular bishop of the Roman Catholic Church.	Ioan Duma	bishop
+position held	Marco Foscarini (born Venice, February 4, 1696 -- died there March 31, 1763) was a Venetian poet, writer and statesman who served as the 117th Doge of Venice from May 31, 1762 until his death.	Marco Foscarini	Doge of Venice
+position held	Veli Mehmed Pasha (died 1716), also known as Mehmed Veli Pasha or Wālī Pasha, was an Ottoman statesman who served as Kapudan Pasha (1706--1707) and the Ottoman governor of Bosnia Eyalet (1707) and Egypt Eyalet (1711--1714, with a small break in 1712).	Veli Mehmed Pasha	Kapudan Pasha
+position held	David R. Bean (January 26, 1827 -- ?) was an American miller from Waukau, Wisconsin who spent one term as a Republican member of the Wisconsin State Assembly, and another as a Greenback Party member of the same body.	David R. Bean	member of the Wisconsin State Assembly
+present in work	Johnny Weeks is a fictional character on the HBO drama series The Wire, portrayed by Leo Fitzpatrick.	Johnny Weeks	The Wire
+present in work	The story of Vortigern adopted its best-known form in the Historia Regum Britanniae of Geoffrey of Monmouth.	Vortigern	Historia Regum Britanniae
+present in work	Sophie Burton is a fictional character from the long-running Channel 4 soap opera Hollyoaks, played by actress Connie Powney.	Sophie Burton	Hollyoaks
+present in work	Faerie dragons are small dragons in the Dungeons & Dragons role-playing game.	Faerie dragon	Dungeons & Dragons
+present in work	Professor Bobo is a fictional character who appeared in the final three seasons of Mystery Science Theater 3000, a comedy television series that mocks B-movies.	Professor Bobo	Mystery Science Theater 3000
+production company	Indoctrinate U was produced by On the Fence Films with the support of the Moving Picture Institute, and Stuart Browning, Blaine Greenberg, and Thor Halvorssen.	Indoctrinate U	Moving Picture Institute
+production company	Pirates of Treasure Island is a 2006 American comedy-drama film produced by The Asylum, loosely adaptated from Robert Louis Stevenson's novel Treasure Island.	Pirates of Treasure Island	The Asylum
+production company	Finding Nemo is a 2003 American computer-animated comedy-drama adventure film produced by Pixar and released by Walt Disney Pictures.	Finding Nemo	Pixar
+production company	Spider-Man 3 is a 2007 American superhero film produced by Marvel Studios, and distributed by Columbia Pictures based on the fictional Marvel Comics character Spider-Man.	Spider-Man 3	Marvel Studios	Columbia Pictures
+production company	An American Tail is a 1986 American animated musical adventure film directed by Don Bluth and produced by Sullivan Bluth Studios and Amblin Entertainment.	An American Tail	Sullivan Bluth Studios	Amblin Entertainment
+production company	The Odd Life of Timothy Green is a 2012 American fantasy comedy-drama film starring Jennifer Garner, Joel Edgerton, Dianne Wiest, CJ Adams, Rosemarie DeWitt, Ron Livingston, David Morse and Common, written and directed by Peter Hedges and produced by Walt Disney Pictures.	The Odd Life of Timothy Green	Walt Disney Pictures
+production company	The Devil's 8 is a 1969 film from American International Pictures.	The Devil's 8	American International Pictures
+production company	The Railrodder is a 1965 short comedy film starring Buster Keaton in one of his final film roles, directed by Gerald Potterton and produced by the National Film Board of Canada.	The Railrodder	National Film Board of Canada
+production company	Dead of Night is a 1945 British anthology horror film (a gothic or horror anthology) made by Ealing Studios; the individual stories were directed by Alberto Cavalcanti, Charles Crichton, Basil Dearden and Robert Hamer.	Dead of Night	Ealing Studios
+production company	A Very Special Love is a 2008 Filipino comedy romance film produced by Star Cinema and Viva Films, starring John Lloyd Cruz and Sarah Geronimo.	A Very Special Love	Star Cinema
+production company	Hongey Judaa Na Hum (English: We Can Not Be Separated; Hindi: होंगे जुदा ना हम ) is an Indian television drama series and premiered on Sony Entertainment Television India on 10 September 2012.	Hongey Judaa Na Hum	Sony
+production company	Cagney, a former song-and-dance man, actively campaigned the executives at Warner Bros. for the lead in Footlight Parade, which became his first on-screen appearance as a dancer.	Footlight Parade	Warner Bros.
+production company	Pixie Hollow Games is a half-hour television special broadcast on November 19, 2011, based on the Disney Fairies franchise, produced by DisneyToon Studios.	Pixie Hollow Games	DisneyToon Studios
+production company	Kehta Hai Dil Jee Le Zara (English : The Heart Says Live A Little) is an Indian drama television series which premiered on Sony TV on August 15, 2013.	Kehta Hai Dil Jee Le Zara	Sony
+production company	Seed of Hope (Chinese: 俗世情真) is a Television Broadcasts Limited drama released on 23 September 2003 in Hong Kong.	Seed of Hope	Television Broadcasts Limited
+production company	Chicken Run is a 2000 stop-motion animated comedy film produced by the British studio Aardman Animations.	Chicken Run	Aardman Animations
+production company	White Shadows in the South Seas is a 1928 American silent film adventure romance produced by Cosmopolitan Productions in association with MGM and distributed by MGM.	White Shadows in the South Seas	Cosmopolitan Productions
+production company	A Very Short Life (Chinese: 短暫的生命; pinyin: Duǎn Zàn Dé Shēng Mìng; Cantonese Yale: Dyun Jaam Dik Sang Ming) is a 2009 Hong Kong drama film written, produced and directed by Dennis Law.	A Very Short Life	Dennis Law
+production company	Godh Bharaai was an Indian television drama series airs on Sony Entertainment Television, which premiered on 8 March 2010.	Godh Bharaai	Sony
+production company	The Devil in a Convent was released by Méliès's Star Film Company and is numbered 185--187 in its catalogues, which also specified the film's three scenes (1. Les nonnes, le sermon. 2. Les démons, le sabbat. 3. Le clergé, l'exorcisme).	The Devil in a Convent	Star Film Company
+production company	In September 2008, Death Racers was released direct-to-video by The Asylum.	Death Racers	The Asylum
+production company	The Man Who Broke the Bank at Monte Carlo is a 1935 American romantic comedy film made by 20th Century Fox.	The Man Who Broke the Bank at Monte Carlo	20th Century Fox
+production company	Cook's Country is structured similarly to America's Test Kitchen, with nearly the same cast.	Cook's Country	America's Test Kitchen
+production company	Oliver & Company is a 1988 American animated musical buddy comedy-drama film produced by Walt Disney Feature Animation and released on November 18, 1988 by Walt Disney Pictures.	Oliver & Company	Walt Disney Pictures
+production company	Wax and Wane (Traditional Chinese: 團圓) is a 2011 Hong Kong television drama produced by Television Broadcasts Limited (TVB), with Nelson Cheung serving as the executive producer.	Wax and Wane	Television Broadcasts Limited
+production company	Grey's Anatomy is produced by ShondaLand, in association with The Mark Gordon Company, and ABC Studios (formerly Touchstone Television).	Grey's Anatomy	ABC Studios
+publication date	Autour d'une cabine (Around A Cab), original full title Autour d'une cabine ou Mésaventures d'un copurchic aux bains de mer (Around a cabin or a copurchic Misadventures at the seaside), is an 1894 French short animated film directed by Émile Reynaud.	Autour d'une cabine	1894
+publication date	Kandhan Karunai (By the Mercy of Kandhan) is a 1967 Tamil film directed by A.P. Nagarajan.	Kandhan Karunai	1967
+publication date	From the Manger to the Cross or Jesus of Nazareth is a 1912 American motion picture that was filmed on location in Palestine.	From the Manger to the Cross	1912
+publication date	Legend of the Red Dragon (LORD) is a text-based online role-playing video game, released in 1989 by Robinson Technologies.	Legend of the Red Dragon	1989
+publication date	After its original release in 1972, Maya Darpan won the Filmfare Award for Critic's Choice Best Film, but was quickly forgotten soon after.	Maya Darpan	1972
+publisher	The Three Hostages is the fourth of five Richard Hannay novels by Scottish author John Buchan, first published in 1924 by Hodder & Stoughton, London.	The Three Hostages	Hodder & Stoughton
+publisher	Philosophy Today is published by the Philosophy Department of DePaul University, in cooperation with the Philosophy Documentation Center.	Philosophy Today	DePaul University
+publisher	Barmy Burgers is a 1983 computer game written for the ZX Spectrum by Gary Capewell and Gary Sewell and published by Blaby Computer Games in the UK and Ventamatic in Spain.	Barmy Burgers	Blaby Computer Games
+publisher	Knightmare Chess is a fantasy chess variant published by Steve Jackson Games (SJG) in 1996.	Knightmare Chess	Steve Jackson Games
+publisher	The Saint in New York is a mystery novel by Leslie Charteris, first published in the United Kingdom by Hodder and Stoughton in 1935.	The Saint in New York	Hodder and Stoughton
+record label	Portrait of P. D. Q. Bach was released in 1977 on Vanguard Records.	Portrait of P. D. Q. Bach	Vanguard Records
+record label	Third Album is the third studio album released by The Jackson 5 on Motown Records, and the group's second LP released in 1970.	Third Album	Motown
+record label	Peril and the Patient is the third album by the progressive metal group Called to Arms and was released digitally through Tragic Hero Records on August 10, 2010.	Peril and the Patient	Tragic Hero Records
+record label	Forever, Michael is the fourth studio album by Michael Jackson, released by Motown Records on January 16, 1975, was the fourth and final studio album by him to be released on the Motown label.	Forever, Michael	Motown
+record label	Super Colossal is the eleventh studio album by guitarist Joe Satriani, released on March 14, 2006 through Epic Records.	Super Colossal	Epic Records
+religious order	Le Thoronet Abbey (French: L'abbaye du Thoronet) is a former Cistercian abbey built in the late twelfth and early thirteenth century, now restored as a museum.	Le Thoronet Abbey	Cistercian
+religious order	Blessed Beatrice of Nazareth or in Dutch Beatrijs van Nazareth (c. 1200 in Tienen -- 1268) was a Flemish Cistercian nun.	Beatrice of Nazareth	Cistercian
+religious order	Bernardin Palaj (2 December 1894 -- 8 December 1947) was a Franciscan cleric, folklorist and poet.	Bernardin Palaj	Franciscan
+religious order	Saint Francisco Coll Guitart (Francesc Coll i Guitart in Catalan), 18 May 1812 -- 2 April 1875) was a priest of the Order of Preachers (Dominican Order) and founded the Dominican Sisters of the Annunciation of the Blessed Virgin.	Francisco Coll Guitart	Dominican Order
+religious order	Egidio Mauri (1828--1896) was an Italian cardinal, since 1893 Archibishop of Ferrara, member of the Dominican Order.	Egidio Mauri	Dominican Order
+religious order	Saint Peregrine Laziosi (Pellegrino Latiosi) (c. 1260 -- 1 May 1345) is an Italian saint of the Servite Order (Friar Order Servants of Mary).	Peregrine Laziosi	Servite Order
+screenwriter	Big Deal on Madonna Street (Italian: I soliti ignoti, also released as Persons Unknown in the UK) is a 1958 Italian criminal-comedy film, directed by Mario Monicelli, and considered to be among the masterpieces of Italian cinema.	Big Deal on Madonna Street	Mario Monicelli
+screenwriter	Du rififi chez les femmes (``The Riff Raff Girls'') is a French-Italian film directed by Alex Joffé and released in 1959.	Du rififi chez les femmes	Alex Joffé
+screenwriter	City of Ghosts is a 2002 drama film co-written, directed by and starring Matt Dillon, about a con artist who must go to Cambodia to collect his share of money from an insurance scam.	City of Ghosts	Matt Dillon
+screenwriter	Kooky (Czech: Kuky se vrací, literally ``Kuky returns'', a pun on Lassie se vrací) is a 2010 Czech action comedy film directed by Jan Svěrák.	Kooky	Jan Svěrák
+screenwriter	Aladdin and His Magic Lamp (French: Aladin et la Lampe Merveilleuse) is a 1970 French animated film directed by Jean Image.	Aladdin and His Magic Lamp	Jean Image
+series	``The Secret War of Lisa Simpson'' is the twenty-fifth and final episode of The Simpsons' eighth season, first aired by the Fox network on May 18, 1997.	The Secret War of Lisa Simpson	The Simpsons
+series	The Son of Neptune is a 2011 fantasy novel, the second book in The Heroes of Olympus series written by Rick Riordan.	The Son of Neptune	The Heroes of Olympus
+series	``The Incredible World of Horace Ford'' is an episode in season four of the American television anthology series The Twilight Zone.	The Incredible World of Horace Ford	The Twilight Zone
+series	``Funnybot'' is the second episode of the fifteenth season of the American animated television series South Park, and the 211th episode of the series overall.	Funnybot	South Park
+series	``The Tan Aquatic with Steve Zissou'' is the eleventh episode of the fifth season of Family Guy, which originally aired on February 18, 2007.	The Tan Aquatic with Steve Zissou	Family Guy
+sex or gender	Top Ten Idol Award of the Year, ranked 5th; the only female singer in the list 1994: nominated as Most Popular Female Singer in the 2nd 933 Golden Melody Awards in Singapore 1996: her album The True Pan Mei Chen was nominated as Best Album of the Year in the Golden Melody Awards	Pan Mei Chen	female
+sex or gender	Suzanne Gitzi is a Canadian female country music singer.	Suzanne Gitzi	female
+sex or gender	Édouard Roger-Vasselin (born 28 November 1983) is a male tennis player from France.	Édouard Roger-Vasselin	male
+sex or gender	Tang Sulan (simplified Chinese: 汤素兰; traditional Chinese: 湯素蘭; pinyin: Tāng Sùlán; born 1965) is a female Chinese writer.	Tang Sulan	female
+sex or gender	The ``Popelin affair'' (French: L'Affaire Popelin) was a trigger for the feminist struggle in Belgium, and brought together supporters of female education and women's rights in Belgium like Léonie La Fontaine, Henri La Fontaine, Hector Denis, Isala Van Diest, Louis Franck, and Marie Popelin.	Léonie La Fontaine	female
+sister	Jerzy Kossak was a brother: to poet Maria Pawlikowska-Jasnorzewska and novelist Magdalena Samozwaniec, as well as the father of: biologist Simona Kossak and painter Gloria Kossak residing at the historic family manor called ``Kossakówka'', in metropolitan Kraków.	Jerzy Kossak	Maria Pawlikowska-Jasnorzewska	Magdalena Samozwaniec
+sister	Théoden was closest to his youngest sister, Théodwyn.	Théoden	Théodwyn
+sister	Emilio de Villota Jr. (born 9 December 1981) is a Spanish racing driver, son of former Aurora champion Emilio de Villota and younger brother of the late María de Villota.	Emilio de Villota Jr.	María de Villota
+sister	Georg Trakl (3 February 1887 -- 3 November 1914) was an Austrian poet and brother of the pianist Grete Trakl.	Georg Trakl	Grete Trakl
+sister	Jim Walton is the third child of Wal-Mart co-founder Sam Walton (1918--1992) and Helen Walton (1919--2007) with siblings Rob Walton, Alice Walton, and John Walton (d. 2005).	Jim Walton	Alice Walton
+sister	Alice Cary (April 26, 1820 -- February 12, 1871) was an American poet, and the sister of fellow poet Phoebe Cary (1824--1871).	Alice Cary	Phoebe Cary
+sister	Gaius Julius Alexander Berenicianus (Greek: Γαίος Ιούλιος Αλέξανδρος Βερενικιανός, about 75 -- about 150) was a Cilician Prince and second-born son to King Gaius Julius Alexander and Queen Julia Iotapa of Cetis.	Gaius Julius Alexander Berenicianus	Julia Iotapa
+sister	It does seem that Darius II was quite dependent on his wife Parysatis.	Darius II	Parysatis
+sister	In Greek mythology Golgos is the son of Aphrodite and Adonis, brother of Beroe, and founder of the Cyprian Golgi.	Golgos	Beroe
+sister	Hedjetnebu was a full sister of princess Kekheretnebti who was buried in a tomb nearby.	Hedjetnebu	Kekheretnebti
+sister	Ahmose-Henuttamehu was a half-sister to the Great Royal Wife and God's Wife of Amun Ahmose-Nefertari.	Ahmose-Henuttamehu	Ahmose-Nefertari
+sister	Moses ter Borch was born in Zwolle as the youngest son of Gerard ter Borch the Elder and the brother of Gerard ter Borch and Gesina ter Borch, who taught him to draw and paint.	Moses ter Borch	Gesina ter Borch
+site of astronomical discovery	7389 Michelcombes (1982 UE) is a main-belt asteroid discovered on October 17, 1982 by E. Bowell at the Anderson Mesa Station of the Lowell Observatory.	7389 Michelcombes	Anderson Mesa Station
+site of astronomical discovery	6229 Tursachan (1983 VN7) is a main-belt asteroid discovered on November 4, 1983 by B. A. Skiff at the Anderson Mesa Station of the Lowell Observatory.	6229 Tursachan	Anderson Mesa Station
+site of astronomical discovery	1922 Zulu, provisional designation 1949 HC, is an outer main-belt asteroid discovered on April 25, 1949 by Ernest Leonard Johnson at Johannesburg Union Observatory in South Africa.	1922 Zulu	Union Observatory
+site of astronomical discovery	498 Tokio (1902 KU) is a main-belt asteroid discovered on December 2, 1902 by Auguste Charlois at the Nice Observatory.	498 Tokio	Nice Observatory
+site of astronomical discovery	1763 Williams, provisionally designated 1953 TN2, is a main-belt asteroid discovered on October 13, 1953 by the Indiana Asteroid Program at Goethe Link Observatory, Indiana, United States.	1763 Williams	Goethe Link Observatory
+site of astronomical discovery	21561 Masterman (1998 QR93) is a main-belt asteroid discovered on August 28, 1998 by the Lincoln Laboratory Near-Earth Asteroid Research Team at Socorro.	21561 Masterman	Lincoln Laboratory
+site of astronomical discovery	2019 van Albada, provisional designation 1935 SX1, is a main-belt asteroid discovered on September 28, 1935 by Dutch astronomer Hendrik van Gent at Leiden Southern Station, annex to the Johannesburg Observatory in South Africa.	2019 van Albada	Leiden Southern Station
+site of astronomical discovery	1189 Terentia, provisional designation 1930 SG, is a main-belt asteroid discovered on September 17, 1930, by Russian astronomer Grigory Neujmin at the Crimean Simeiz Observatory.	1189 Terentia	Simeiz Observatory
+site of astronomical discovery	4177 Kohman (1987 SS1) is an outer main-belt asteroid discovered on September 21, 1987 by Edward L. G. Bowell at the Anderson Mesa Station of the Lowell Observatory.	4177 Kohman	Anderson Mesa Station
+sport	Liège Basket, for sponsorship reasons betFirst Liège Basket, is a Belgian professional basketball club from Liège, Belgium.	Liège Basket	basketball
+sport	Joseph Ernest Roger Leger (March 26, 1919 -- April 7, 1965) was a professional ice hockey player who played 187 games in the National Hockey League.	Roger Leger	ice hockey
+sport	Lars van der Haar (born 23 July 1991 in Amersfoort, Netherlands) is a Dutch professional cyclist who specializes in cyclo-cross.	Lars van der Haar	cyclo-cross
+sport	John Van Ryn (June 30, 1905 -- August 7, 1999) was an American tennis champion of the 1930s.	John Van Ryn	tennis
+sport	Chase Tenpenny (born August 6, 1991) is an American football punter.	Chase Tenpenny	American football
+spouse	Joan of Savoy also known as Giovanna di Savoia (1310 -- 29 June 1344), was Duchess consort of Brittany, wife of John III, Duke of Brittany.	Joan of Savoy	John III, Duke of Brittany
+spouse	After Teuku Umar's death, his wife Cut Nyak Dhien continued to lead the guerrillas against the Dutch.	Teuku Umar	Cut Nyak Dhien
+spouse	At some point (may be before or during Wang Yanjun's reign), Wang Jipeng married his cousin Lady Li, the daughter of a sister of his father's and her husband, the official Li Min (李敏).	Wang Jipeng	Lady Li
+spouse	Æthelthryth was subsequently remarried for political reasons in 660, this time to Ecgfrith of Northumbria.	Æthelthryth	Ecgfrith of Northumbria
+spouse	Tracy Posner Ward (born 1962) is an actress, animal rights rescuer and activist, with her husband, actor Burt Ward.	Tracy Posner	Burt Ward
+start time	The United Indonesia Cabinet (Indonesian: Kabinet Indonesia Bersatu) is the official name of the presidential cabinet of Indonesia led by President Susilo Bambang Yudhoyono during his first period in office 2004-2009.	United Indonesia Cabinet	2004
+start time	The Pella Cabinet was the cabinet of the Italian Parliament which held office from 17 August 1953 until 18 June 1954, a total of 154 days, or 5 months and 1 day.	Pella Cabinet	1953
+start time	Operation Jackal, or alternatively Operation June Dawns, commenced on 7 June 1992.	Operation Jackal	7 June 1992
+start time	The National Library of Australia combined eight different online discovery tools that had been developed over a period of twelve years into a new single discovery interface that was released as a prototype in May 2009 for public comment before launching in November 2009 as Trove.	Trove	2009
+start time	The Royal Indian Navy revolt (also called the Royal Indian Navy mutiny or Bombay mutiny) encompasses a total strike and subsequent revolt by Indian sailors of the Royal Indian Navy on board ship and shore establishments at Bombay (Mumbai) harbour on 18 February 1946.	Royal Indian Navy mutiny	18 February 1946
+start time	The Beloit water tower is a historic 1889 octagonal limestone water tower in Beloit, Wisconsin.	Beloit water tower	1889
+start time	Chotti Bahu - Sindoor Bin Suhagan (Season 1) was scheduled to premiere on 10 November 2008, but was delayed until 8 December 2008 due to the ``Indian Television Strike'' .	Chotti Bahu	8 December 2008
+start time	The Hagerup's Second Cabinet governed Norway between 22 October 1903 and 11 March 1905.	Hagerup's Second Cabinet	1903
+start time	The Avignon Papacy was the period from 1309 to 1377, during which seven successive popes resided in Avignon (then in the Kingdom of Arles, part of the Holy Roman Empire, and now in today's France) rather than in Rome.	Avignon Papacy	1309
+start time	The first edition of Fawlty Towers was originally broadcast on 19 September 1975.	Fawlty Towers	19 September 1975
+start time	The Battle off Horaniu (Japanese: 第一次ベララベラ海戦) was a minor naval battle of the Pacific campaign of World War II fought on the night of 17 August 1943 near the island of Vella Lavella in the Solomon Islands	Battle off Horaniu	17 August 1943
+start time	The Fifth National Government of New Zealand is the current government of New Zealand, taking office on 19 November 2008.	Fifth National Government of New Zealand	2008
+start time	38 Parrots (Russian: 38 попугаев, translit. Tridtsat vosem popugaev) is a series of ten children's cartoons produced in the Soviet Union between 1976 and 1991 by Soyuzmultfilm.	38 Parrots	1976
+start time	TPH Club as known as Tú Puedes Hacerlo was an Spanish children's program aired on Televisión Española between 13 September 1999 and September 2004 and hosted by Paloma Lago.	TPH Club	13 September 1999
+taxon rank	Dolichoctis biak is a ground beetle species first described by Baehr in 1999.	Dolichoctis biak	species
+taxon rank	Neadmete modesta, common name the modest admete, is a species of sea snail, a marine gastropod mollusk in the family Cancellariidae, the nutmeg snails.	Neadmete modesta	species
+taxon rank	The genus Sator contains two species of spiny lizards endemic to Baja California, Mexico.	Sator	genus
+taxon rank	Carex utriculata is a species of sedge known by the common name Northwest Territory sedge.	Carex utriculata	species
+taxon rank	The only known species is Lasiurus scindicus, native to drier regions of northern Africa and southwestern Asia, from Morocco and Mali to India.	Lasiurus scindicus	species
+taxon rank	Draba fladnizensis is a species of flowering plant in the mustard family known by the common names arctic draba, Austrian draba, and white arctic whitlow-grass.	Draba fladnizensis	species
+taxon rank	Scada is a genus of clearwing (ithomiine) butterflies, named by Kirby in 1871.	Scada	genus
+taxon rank	Promachoteuthis is a genus of small, weakly muscled squid found at bathypelagic depths.	Promachoteuthis	genus
+taxon rank	Carex paleacea commonly known as chaffy sedge is one of the 579 species of Carex.	Carex paleacea	species
+taxon rank	Spermacoce glabra, smooth false buttonweed, is a New World species of plants in the coffee family.	Spermacoce glabra	species
+taxon rank	At present the genus contains the single species Paleopsephurus wilsoni.	Paleopsephurus	species
+taxon rank	Myoxocephalus niger or the warthead sculpin is a species of sculpin in the family Cottidae.	Myoxocephalus niger	species
+taxon rank	Acacia flocktoniae is a shrub species that is endemic to Australia.	Acacia flocktoniae	species
+taxon rank	Calamorhabdium is a small genus of colubrid snakes known as iridescent snakes.	Calamorhabdium	genus
+taxon rank	Pseudoxyrhopus is a genus of harmless lamprophiids found only on the island of Madagascar.	Pseudoxyrhopus	genus
+taxon rank	Kerriochloa is a genus of Southeast Asian plants in the grass family.	Kerriochloa	genus
+taxon rank	Thlaspi californicum is a rare species of flowering plant in the mustard family known by the common name Kneeland Prairie penny-cress.	Thlaspi californicum	species
+taxon rank	Synodontis carineae is a species of upside-down catfish endemic to the Republic of the Congo, where it is only known from the Kouilou-Niari basin.	Synodontis carineae	species
+taxon rank	It is a monotypic genus and consists of the single mushroom species Rhodotus palmatus, known in the vernacular as the netted rhodotus, the rosy veincap, or the wrinkled peach.	Rhodotus	species
+taxon rank	Mirosternus eximius also known as the death watch beetle, is a beetle species in the family Anobiidae.	Mirosternus eximius	species
+time of discovery	Messier 105 was discovered by Pierre Méchain on 24 March 1781, just a few days after he discovered the nearby galaxies Messier 95 and Messier 96.	Messier 105	24 March 1781
+time of discovery	C/1890 V1 (Zona) is a non-periodic comet discovered on 15 November 1890 by the Italian astronomer Temistocle Zona with an equatorially mounted, Merz telescope at the Osservatorio Astronomico di Palermo.	C/1890 V1	15 November 1890
+time of discovery	1952 Hesburgh, provisionally designated 1951 JC, is an asteroid of the main-belt, discovered on 3 May 1951 at Goethe Link Observatory, United States by the Indiana Asteroid Program, which discovered more than a 100 minor planets during 1949--1967.	1952 Hesburgh	3 May 1951
+time of discovery	The Fornax Dwarf Spheroidal is an elliptical dwarf galaxy in the constellation Fornax that was discovered in 1938 by Harlow Shapley.	Fornax Dwarf	1938
+time of discovery	C/2013 A1 (Siding Spring) is an Oort cloud comet discovered on 3 January 2013 by Robert H. McNaught at Siding Spring Observatory using the 0.5-meter (20 in) Uppsala Southern Schmidt Telescope.	C/2013 A1	3 January 2013
+voice type	Florin Cezar Ouatu (Romanian pronunciation: (floˈrin ˈt͡ʃezar oˈwatu); born 18 February 1980) is a Romanian opera countertenor, singer and pianist, sometimes known by the stage nicknames ``Cezar The Voice (Vocea)'' or simply ``Cezar''.	Florin Cezar Ouatu	countertenor
+voice type	Dominique Visse (born 30 August 1955) is a French countertenor and founder of the Ensemble Clément Janequin.	Dominique Visse	countertenor
+voice type	Fabio Armiliato (born 17 August 1956, Genoa) is an Italian tenor.	Fabio Armiliato	tenor
+voice type	Eglise Gutiérrez is a Cuban-American coloratura soprano, currently making a world-wide operatic career.	Eglise Gutiérrez	soprano
+voice type	Florence Cole Talbert-McCleave (born Florence Cole, June 17, 1890 -- April 3, 1961) was an African-American soprano born in Detroit, Michigan.	Florence Cole Talbert	soprano

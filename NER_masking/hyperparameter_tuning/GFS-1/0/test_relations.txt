@@ -1,0 +1,10 @@
+continent
+country of citizenship
+date of death
+director
+instrument
+licensed to broadcast to
+manufacturer
+mouth of the watercourse
+spouse
+voice type

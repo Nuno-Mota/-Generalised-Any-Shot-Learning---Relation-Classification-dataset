@@ -1,0 +1,10 @@
+country
+creator
+date of death
+narrative location
+parent taxon
+position held
+present in work
+record label
+screenwriter
+series

@@ -1,0 +1,10 @@
+manufacturer
+military branch
+performer
+position held
+position played on team / speciality
+publication date
+publisher
+series
+sport
+taxon rank

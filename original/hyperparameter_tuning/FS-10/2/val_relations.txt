@@ -1,0 +1,10 @@
+author
+country of citizenship
+date of death
+educated at
+member of political party
+mouth of the watercourse
+performer
+place of birth
+place of death
+series

@@ -1,0 +1,10 @@
+child
+country
+developer
+father
+native language
+occupation
+parent taxon
+participant of
+present in work
+sex or gender

@@ -1,0 +1,10 @@
+country
+date of birth
+director
+educated at
+father
+military branch
+occupation
+publisher
+screenwriter
+series

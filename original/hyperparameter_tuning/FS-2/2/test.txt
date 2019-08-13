@@ -1,0 +1,1000 @@
+creator	Triple Elvis is a 1963 painting by the American artist Andy Warhol.	Triple Elvis	Andy Warhol
+creator	Vase with Red Poppies was a painting made by Vincent van Gogh in Paris in 1886.	Vase with Red Poppies	Vincent van Gogh
+creator	Portrait of Georgiana, Duchess of Devonshire is a painting by the English painter Thomas Gainsborough of the political hostess Georgiana Cavendish, Duchess of Devonshire.	Portrait of Georgiana, Duchess of Devonshire	Thomas Gainsborough
+creator	A Philosopher Lecturing on the Orrery, or the full title, A Philosopher giving a Lecture on the Orrery in which a lamp is put in place of the Sun, is a painting by Joseph Wright of Derby depicting a lecturer giving a demonstration of an orrery to a small audience.	A Philosopher Lecturing on the Orrery	Joseph Wright of Derby
+creator	Christ's Entry Into Brussels in 1889 (also known as Entry of Christ into Brussels; French: L'Entrée du Christ à Bruxelles) is an 1888 painting by James Ensor and is considered his most famous work and was a precursor to Expressionism.	Christ's Entry Into Brussels in 1889	James Ensor
+creator	The Chinese Convert is a famous 1687 painting by Godfrey Kneller depicting the Chinese man Michael Alphonsius Shen Fu-Tsung.	The Chinese Convert	Godfrey Kneller
+creator	Christ on the Mount of Olives (1604-1606) was a painting by Michelangelo Merisi da Caravaggio (Italian, 1571-1610), formerly in the Kaiser Friedrich Museum painting gallery, Berlin, but destroyed in 1945.	Christ on the Mount of Olives	Caravaggio
+creator	Metamorphosis I is a woodcut print by the Dutch artist M. C. Escher which was first printed in May, 1937.	Metamorphosis I	M. C. Escher
+creator	I Luv NY (read as ``I Love New York'') is a television program of GMA Network.	I Luv NY	GMA Network
+creator	Cappelli & Company is an American children's television series created by, and starring, children's songwriter/composer Frank Cappelli.	Cappelli & Company	Frank Cappelli
+creator	The Sistine Chapel ceiling, painted by Michelangelo between 1508 and 1512, is a cornerstone work of High Renaissance art. The ceiling is that of the Sistine Chapel, the large papal chapel built within the Vatican between 1477 and 1480 by Pope Sixtus IV, for whom the chapel is named.	Sistine Chapel ceiling	Michelangelo
+creator	Biker Mice from Mars is a science fiction action animated series created by Rick Ungar that began airing in 1993, in the United States and lasted for three seasons.	Biker Mice from Mars	Rick Ungar
+creator	The Forest Fire is a painting by Italian Renaissance painter Piero di Cosimo.	The Forest Fire	Piero di Cosimo
+creator	Ferdinand Lured by Ariel is a painting by John Everett Millais which depicts an episode from Act I, Scene II of Shakespeare's play The Tempest.	Ferdinand Lured by Ariel	John Everett Millais
+creator	Measuring the Universe is a performance art work by Slovak artist Roman Ondák first installed in the Pinakother der Moderne in Munich in 2007.	Measuring the Universe	Roman Ondák
+creator	Thank God You're Here is an Australian television improvised comedy program created by Working Dog Productions, which premiered on Network Ten on 5 April 2006, and aired for the first three seasons and on Seven for the fourth season.	Thank God You're Here	Working Dog Productions
+creator	The War Next Door is an American television series created by Will McRobb and Chris Viscardi.	The War Next Door	Will McRobb and Chris Viscardi
+creator	The Needlewoman (Spanish: La costurera) is an oil-on-canvas painting by Diego Velázquez, painted between 1635 and 1643.	The Needlewoman	Diego Velázquez
+creator	Invasion Iowa was created by Rhett Reese and Paul Wernick, who also created Spike TV's earlier ``reality parody'' series, The Joe Schmo Show, and its sequel, Joe Schmo 2.	Invasion Iowa	Rhett Reese
+creator	Bleu d'Auvergne is of relatively recent origin, discovered in the mid-1850s by a French cheesemaker named Antoine Roussel.	Bleu d'Auvergne	Antoine Roussel
+creator	The Sick Child (Norwegian: Det syke barn) is the title given to six paintings and a number of lithographs, drypoints and etchings completed by the Norwegian artist Edvard Munch (1863--1944), between 1885 and 1926.	The Sick Child	Edvard Munch
+creator	Dirk Pitt is a fictional character, the protagonist of a series of bestselling adventure novels written by Clive Cussler.	Dirk Pitt	Clive Cussler
+creator	The Fiesole Altarpiece is a painting by the Italian early Renaissance master Fra Angelico, executed around 1424--1425.	Fiesole Altarpiece	Fra Angelico
+creator	Joseph the Carpenter is an oil painting by Georges de La Tour created circa 1645.	Joseph the Carpenter	Georges de La Tour
+creator	Paternoster Vents, often referred to as simply Vents and also known as Angel's Wings, is an outdoor 2002 stainless steel sculpture by Thomas Heatherwick, installed at Paternoster Square in London, United Kingdom.	Paternoster Vents	Thomas Heatherwick
+creator	The Equestrian Monument of Niccolò da Tolentino (1456) is a fresco painting by the early-Italian Renaissance master Andrea del Castagno, housed in the Florence Cathedral, Italy.	Equestrian Monument of Niccolò da Tolentino	Andrea del Castagno
+creator	The Soil Stradivarius (pronounced ``swal'') of 1714 is an antique violin made by Italian luthier Antonio Stradivari of Cremona (1644--1737).	Soil Stradivarius	Antonio Stradivari
+director	Gyarakal is a 2004 Bengali film directed by Haranath Chakraborty and produced by Pijush Saha, Rajib Bhadra.	Gyarakal	Haranath Chakraborty
+director	Serndhu Polama (English: Shall We Go Together?) is a Tamil romantic musical film directed by Anil Kumar and produced by Sasi Nambeesan.	Serndhu Polama	Anil Kumar
+director	Becoming Jane is a 2007 British-Irish historical biographical film directed by Julian Jarrold.	Becoming Jane	Julian Jarrold
+director	The Stars Fell on Henrietta is a 1995 drama film from Warner Bros., directed by James Keach and produced by Clint Eastwood.	The Stars Fell on Henrietta	James Keach
+director	The Dark Wave is a 1956 American short documentary film directed by Jean Negulesco about a young girl with severe epilepsy.	The Dark Wave	Jean Negulesco
+director	Enga Ooru Mappillai is a 1989 Tamil-language Indian feature film directed by T. P. Gajendran and produced by Sureshkanth and M.Jagadeeshwaran.	Enga Ooru Mappillai	T. P. Gajendran
+director	The White Handkerchief is a 1998 short Nigerian film, produced and directed by Tunde Kelani.	The White Handkerchief	Tunde Kelani
+director	The Egg and Jerry is a 1956 one reel animated short, directed and produced by William Hanna and Joseph Barbera with music by Scott Bradley.	The Egg and Jerry	Joseph Barbera
+director	Fietje Peters, Poste Restante is a 1935 Dutch comedy film drama directed by Victor Janson.	Fietje Peters, Poste Restante	Victor Janson
+director	Gadibidi Krishna is a 1998 Indian Kannada language action drama film written and directed by Om Sai Prakash and produced by Bharathi Devi.	Gadibidi Krishna	Sai Prakash
+director	How to Lose Your Virginity is an American documentary film directed by Therese Shechter and distributed by Women Make Movies.	How to Lose Your Virginity	Therese Shechter
+director	The Girl with the Golden Panties (Spanish: La Muchacha de las Bragas de Oro) is a 1980 Spanish Film directed by Vicente Aranda.	Girl with the Golden Panties	Vicente Aranda
+director	Mister Mugg is a 1933 short American pre-Code comedy film directed by James W. Horne.	Mister Mugg	James W. Horne
+director	In a Woman's Power is a 1913 Comedy film directed by Herbert Brenon.	In a Woman's Power	Herbert Brenon
+director	Under the Pavement Lies the Strand (German: Unter dem Pflaster ist der Strand) is a 1975 West German black-and-white drama film directed by Helma Sanders-Brahms.	Under the Pavement Lies the Strand	Helma Sanders-Brahms
+director	Caitlin Plays Herself is a 2011 American drama film directed and produced by Joe Swanberg, written by Caitlin Stainken and Swanberg, and starring Stainken and Swanberg.	Caitlin Plays Herself	Joe Swanberg
+director	Private Violence is a 2014 American documentary film directed and produced by Cynthia Hill.	Private Violence	Cynthia Hill
+director	Jagadam is a 2007 Tollywood action film in the direction of Sukumar (Arya fame).	Jagadam	Sukumar
+director	They Saved Hitler's Brain is a 1968 science fiction film that was adapted for television from a shorter 1963 theatrical feature film, Madmen of Mandoras, directed by David Bradley.	They Saved Hitler's Brain	David Bradley
+director	Jithan is a 2005 Tamil supernatural romantic thriller film directed by Vincent Selva.	Jithan	Vincent Selva
+director	The Street Player (Arabic: الحرِّيف‎, translit. El harrif) is a 1983 Egyptian drama film directed by Mohamed Khan.	The Street Player	Mohamed Khan
+director	The Ships That Meet (Swedish: Skepp som mötas) is a 1916 Swedish silent drama film directed by Victor Sjöström.	The Ships That Meet	Victor Sjöström
+director	Saving General Yang is a 2013 Hong Kong film directed by Ronny Yu.	Saving General Yang	Ronny Yu
+director	Bhukha or Bhookha is a 1989 Kosli language film directed by Sabyasachi Mohapatra.	Bhukha	Sabyasachi Mohapatra
+director	Elvira Fernández, vendedora de tiendas is a 1942 Argentine comedy film directed by Manuel Romero.	Elvira Fernández, vendedora de tiendas	Manuel Romero
+director	65 Revisited is a 2007 American documentary film by D. A. Pennebaker, made from footage the director shot for his famous 1967 film, Dont Look Back.	65 Revisited	D. A. Pennebaker
+director	Club Native is a 2008 documentary film by Tracey Deer, exploring Mohawk identity, community and tribal blood quantum laws.	Club Native	Tracey Deer
+director	Geek Maggot Bingo (also known as Geek Maggot Bingo or The Freak from Suckweasel Mountain) is a 1983 comedy horror film directed by Nick Zedd.	Geek Maggot Bingo	Nick Zedd
+director	Daniel Boone, Trail Blazer is a 1956 American action film co-produced and directed by Albert C. Gannaway and Ismael Rodríguez and starring Bruce Bennett, Lon Chaney Jr. and Faron Young.	Daniel Boone, Trail Blazer	Ismael Rodríguez
+director	Among Giants is a 1998 British film directed by Sam Miller, and written by Simon Beaufoy, fresh from his success with The Full Monty.	Among Giants	Sam Miller
+director	De blaa drenge is a 1933 Danish family film classic directed by George Schnéevoigt and written by frequent collaborator Fleming Lynge with the score by Kai Normann Andersen.	De blaa drenge	George Schnéevoigt
+director	Autumn Moon (Chinese: 秋月; pinyin: Qiū Yuè) is a 1992 film directed by Clara Law and written by Eddie Ling-Ching Fong.	Autumn Moon	Clara Law
+director	Waiting for the Messiah (Spanish: Esperando al mesías) is a 2000 Argentine, Spanish, and Italian comedy drama film directed by Daniel Burman.	Waiting for the Messiah	Daniel Burman
+director	Girls in Distress (French: Jeunes filles en détresse) is a 1939 French drama film directed by Georg Wilhelm Pabst.	Girls in Distress	Georg Wilhelm Pabst
+director	Sorga Palsoe ((ˈsɔrɡa ˈpalsu); Indonesian for False Heaven) is a 1941 film from the Dutch East Indies (present-day Indonesia) which was directed by Tan Tjoei Hock for Java Industrial Film.	Sorga Palsoe	Tan Tjoei Hock
+director	Beale Street Mama is a 1946 race film directed by and starring Spencer Williams and distributed by Sack Amusement Enterprises.	Beale Street Mama	Spencer Williams
+director	Little Marcel (French: Le Petit Marcel) is a 1976 French drama film directed by Jacques Fansten.	Little Marcel	Jacques Fansten
+director	Pakshe (Malayalam: പക്ഷേ; English: But) is a 1994 Malayalam romantic drama film written by Cheriyan Kalpakavadi and directed by Mohan.	Pakshe	Mohan
+director	Juarez 2045 is an upcoming American science fiction action adventure film directed by Chris Le and produced by Rocky Mudaliar, it stars Danny Trejo, Brad Schmidt and Alex Heartman in lead roles.	Juarez 2045	Chris Le
+director	Rags and Tatters (Arabic: فرش وغطا‎), (translit. farš wa-ġaṭa) is a 2013 Egyptian drama film written and directed by Ahmad Abdalla.	Rags and Tatters	Ahmad Abdalla
+director	The 3 Rooms of Melancholia (Finnish: Melancholian 3 huonetta) is a 2004 Finnish documentary film written, directed and co-produced by Pirjo Honkasalo.	The 3 Rooms of Melancholia	Pirjo Honkasalo
+director	The Trace Leads to the Silver Lake (German: Die Spur führt zum Silbersee) is a 1990 East German animated Western film directed by Günter Rätz.	The Trace Leads to the Silver Lake	Günter Rätz
+director	The Painting Pool (Persian: حوض نقاشی‎, translit. Hoze Naghashi) is a 2013 Iranian drama film written and directed by Maziar Miri.	The Painting Pool	Maziar Miri
+director	Deuta (Nepali: देउता; English: God) is a Nepali film written and directed by Tulsi Ghimire and released in 1991.	Deuta	Tulsi Ghimire
+director	Irupatham Noottandu (English: Twentieth Century) is a 1987 Malayalam crime thriller directed by K. Madhu and written by S. N. Swamy.	Irupatham Noottandu	K. Madhu
+director	Waru: kanketsu-hen is a 2006 Japanese film directed by Takashi Miike.	Waru: kanketsu-hen	Takashi Miike
+director	The Great Muppet Caper is a 1981 British-American mystery musical comedy film directed by Jim Henson about the Muppets who must travel to England to stop a jewel heist.	The Great Muppet Caper	Jim Henson
+director	Pleasures of the Rich was a 1926 American silent romantic drama film directed by Louis J. Gasnier and produced by Tiffany Pictures with a general distribution through Renown Pictures.	Pleasures of the Rich	Louis J. Gasnier
+director	Mithileya Seetheyaru (Kannada: ಮಿಥಿಲೆಯ ಸೀತೆಯರು) is a 1988 Indian Kannada film, directed by K. S. L. Swamy (Lalitha Ravi) and produced by B V Radha.	Mithileya Seetheyaru	K. S. L. Swamy
+director	The Lady Says No is a 1952 American film directed by Frank Ross with sequences filmed at Fort Ord, Pebble Beach and Carmel, California.	The Lady Says No	Frank Ross
+director	Offscreen is a 2006 Danish film directed by Christoffer Boe, who also wrote the screenplay together with Knud Romer Jørgensen.	Offscreen	Christoffer Boe
+director	Meet the Boyfriend is a 1937 American film directed by Ralph Staub.	Meet the Boyfriend	Ralph Staub
+director	My Baby's Daddy is a 2004 comedy film, directed by Cheryl Dunye.	My Baby's Daddy	Cheryl Dunye
+director	La vida alrededor (English: Life Around Us) is a 1959 Spanish comedy film written, starred and directed by Fernando Fernán Gómez.	La vida alrededor	Fernando Fernán Gómez
+director	Courier Boy Kalyan is a 2015 Indian Telugu romantic thriller film directed by Premsai, who had earlier assisted Prabhu Deva.	Courier Boy Kalyan	Premsai
+director	House of Evil, alternately titled Dance of Death, is a 1968 horror film directed by Jack Hill.	House of Evil	Jack Hill
+director	Beach Blanket Bingo is an American International Pictures beach party film, released in 1965 and was directed by William Asher.	Beach Blanket Bingo	William Asher
+director	Ivide (English: Here) is an Indian Malayalam language crime drama film directed by Shyamaprasad.	Ivide	Shyamaprasad
+director	Loser's End is a 1935 American western produced by Harry S. Webb for Reliable Pictures and directed by Bernard B. Ray.	Loser's End	Bernard B. Ray
+director	Two Countries is a 2015 Indian Malayalam comedy film written by Rafi and directed by Shafi.	Two Countries	Shafi
+director	100 Horsemen (Italian: I cento cavalieri, Spanish: Los cien caballeros, German: Die hundert Ritter, also known as Son of El Cid) is a 1964 Italian-Spanish-German historical-adventure film directed by Vittorio Cottafavi.	100 Horsemen	Vittorio Cottafavi
+director	Kaanal Neer (Tamil: கானல் நீர் ; English: Mirage ) is a 1961 Indian Tamil film written and directed by P. S. Ramakrishna Rao.	Kaanal Neer	P. S. Ramakrishna Rao
+director	Anderson's Cross is a 2010 comedy-drama film that was written and directed by Jerome Elston Scott, who also starred in the movie, as his first writing and directing project.	Anderson's Cross	Jerome Elston Scott
+director	Frihed forpligter (English translation: Duties of Freedom is a 1951 Danish film directed by Alice O'Fredericks and Robert Saaskin.	Frihed forpligter	Alice O'Fredericks
+director	Tiger from Tjampa (Indonesian: Harimau Tjampa) is an Indonesian black and white drama film released in 1953, produced by Perfini, written and directed by D. Djajakusuma.	Tiger from Tjampa	D. Djajakusuma
+director	Kangal Malsat (``War Cry of beggars'') is a Bengali political film directed by Suman Mukhopadhyay and based on the novel with same title written by Nabarun Bhattacharya.	Kangal Malsat	Suman Mukhopadhyay
+director	Violent Rome (originally titled Roma violenta, also known as Violent City and Street Killers) is an Italian 1975 poliziottesco film directed by Marino Girolami, here credited as Franco Martinelli.	Violent Rome	Marino Girolami
+director	Concrete Pharaohs, directed by Jordan Todorov, is a Bulgarian documentary film exploring the lifestyle of the Kalderash Roma -- a closed community of no more than 1 million people all over the world.	Concrete Pharaohs	Jordan Todorov
+director	King of Chinatown is a 1939 American crime film directed by Nick Grinde and written by Lillie Hayward and Irving Reis.	King of Chinatown	Nick Grinde
+director	Six of a Kind is an American 1934 Pre-Code comedy film directed by Leo McCarey.	Six of a Kind	Leo McCarey
+director	Discovering Gloria is a documentary by filmmaker Boaz Dvir, slated for a 2016 release.	Discovering Gloria	Boaz Dvir
+director	Lessons in the Language of Love is a 1995 Australian short film directed by Scott Patterson.	Lessons in the Language of Love	Scott Patterson
+director	Inocente is a 2012 short documentary film directed by Sean Fine and Andrea Nix.	Inocente	Sean Fine
+director	Tears of the Black Tiger (Thai: ฟ้าทะลายโจร, or Fa Thalai Chon, literally, ``the heavens strike the thief'') is a 2000 Thai western film written and directed by Wisit Sasanatieng.	Tears of the Black Tiger	Wisit Sasanatieng
+director	A Rumor of Love (aka The Love Rumor; Arabic: إشاعة حب -- Eshaet Hob or Ishayat hub) is a 1960 Egyptian film by the director Fatin Abdel Wahab.	A Rumor of Love	Fatin Abdel Wahab
+director	The Borrowed Babies (Hungarian: A kölcsönkért csecsemök) is a 1914 Austro-Hungarian film directed by Michael Curtiz.	The Borrowed Babies	Michael Curtiz
+director	Woman Wanted is a 1999 film directed by Kiefer Sutherland (later credited as Alan Smithee).	Woman Wanted	Kiefer Sutherland	Alan Smithee
+director	Far Away Love (Chinese: 遙遠的愛; pinyin: Yáoyuǎn de Ài), also translated as Love of Far Away and Remote Love, is a 1947 Chinese film directed by Chen Liting.	Far Away Love	Chen Liting
+director	The Lady from Argentina (German:Das Fräulein aus Argentinien) is a 1928 German silent film directed by Siegfried Philippi and starring Hans Albers.	The Lady from Argentina	Siegfried Philippi
+director	Govinda Govinda (Telugu: గోవింద గోవింద) (English: Praise The Lord Praise The Lord) is a 1994 Telugu supernatural thriller film written and directed by Ram Gopal Varma.	Govinda Govinda	Ram Gopal Varma
+director	The Hour and Turn of Augusto Matraga (Portuguese: A Hora e a Vez de Augusto Matraga) is a 1965 Brazilian crime drama film directed by Roberto Santos, based on the short story of the same name by João Guimarães Rosa.	The Hour and Turn of Augusto Matraga	Roberto Santos
+director	Nee Premakai (Telugu: నీ ప్రేమకై) is a 2002 Telugu Love film directed by Muppalaneni Shiva and produced by Dr. D Rama Naidu under Suresh Productions.	Nee Premakai	Muppalaneni Shiva
+director	Greenery Will Bloom Again (Italian: Torneranno i prati) is a 2014 Italian anti-war film written and directed by Ermanno Olmi.	Greenery Will Bloom Again	Ermanno Olmi
+director	The Tender Tale of Cinderella Penguin is a 1981 animated short by Janet Perlman that comically adapts the tale of Cinderella with penguins.	The Tender Tale of Cinderella Penguin	Janet Perlman
+director	We Come as Friends is a 2014 Austrian-French documentary film written, directed and produced by Hubert Sauper.	We Come as Friends	Hubert Sauper
+director	Nirop (translation: Farewell) is a 2007 Marathi film directed by Sachin Kundalkar and produced by Aparna Dharmadhikari under the banner ``Salaam Cinema''.	Nirop	Sachin Kundalkar
+director	Pro and Con is a 1993 9 minute 16mm short animated film produced, directed and animated by Joanna Priestley and Joan Gratz using drawings on paper, pixillated hands and object animation.	Pro and Con	Joanna Priestley
+director	Ray's Male Heterosexual Dance Hall is a 1987 American short comedy film directed by Bryan Gordon.	Ray's Male Heterosexual Dance Hall	Bryan Gordon
+director	The Saleslady is a 1916 American drama silent film directed by Frederick A. Thomson and written by Willard Mack.	The Saleslady	Frederick A. Thomson
+director	The Loss of a Teardrop Diamond is a 2008 independent film by director Jodie Markell.	The Loss of a Teardrop Diamond	Jodie Markell
+director	Passing Glory is a 1999 basketball-drama film produced for TNT, written by Harold Sylvester, and directed by Steve James.	Passing Glory	Steve James
+director	The Faces of Love (Italian:I volti dell'amore) is a 1924 Italian silent film directed by Carmine Gallone and starring Angelo Ferrari.	The Faces of Love	Carmine Gallone
+director	In My Genes is a Kenyan 2009 documentary film directed, written, produced and edited by Lupita Nyong'o in her directing debut.	In My Genes	Lupita Nyong'o
+director	Sami swoi (variously translated as All Friends Here or Our Folks; literally ``Only ours'') (1967) is the first part of a Polish comedic trilogy of movies by Sylwester Chęciński.	Sami swoi	Sylwester Chęciński
+director	Hollywood Man is a 1976 American film directed by Jack Starrett and featured in the 1997 Quentin Tarantino Film Festival.	Hollywood Man	Jack Starrett
+director	Toen 't licht verdween is a 1918 Dutch silent drama film directed by Maurits Binger.	Toen 't licht verdween	Maurits Binger
+director	The Naughty Otter is a 1916 British short silent film directed by American filmmaker Charles Urban.	The Naughty Otter	Charles Urban
+director	The Crime of Bordadores Street (Spanish: El crimen de la calle Bordadores) is a 1946 Spanish crime film written and directed by Edgar Neville.	The Crime of Bordadores Street	Edgar Neville
+director	Divine Trash is a 1998 documentary film directed by Steve Yeager about the life and work of John Waters.	Divine Trash	Steve Yeager
+director	The Fighting Sullivans, originally released as The Sullivans, is a 1944 American biographical war film directed by Lloyd Bacon and written by Edward Doherty, Mary C. McCall Jr., and Jules Schermer.	The Fighting Sullivans	Lloyd Bacon
+director	Curse of the Maya (also known as Dawn of the Living Dead and Evil Grave: Curse of the Maya) is a 2004 American horror film written, directed by and starring David Heavener.	Curse of the Maya	David Heavener
+director	Our Feature Presentation is a 2008 independent comedy film directed by Gardner Loulan and written by Gardner Loulan and Joseph Brady.	Our Feature Presentation	Gardner Loulan
+director	The Christmas Miracle of Jonathan Toomey is a 2007 British film scripted and directed by Bill Clark.	The Christmas Miracle of Jonathan Toomey	Bill Clark
+director	Serce matki (Polish for Mother's Heart) is a 1938 Polish melodrama film directed by Michał Waszyński.	Serce matki	Michał Waszyński
+director	Tom Thumb and Little Red Riding Hood (Spanish: Caperucita y Pulgarcito contra los monstruos) is a 1962 Mexican film directed by Roberto Rodríguez.	Tom Thumb and Little Red Riding Hood	Roberto Rodríguez
+director	The Sword of Monte Cristo is a 1951 American adventure film written and directed by Maurice Geraghty.	The Sword of Monte Cristo	Maurice Geraghty
+inception	National Open University was established on August 1, 1986 along the lines of Great Britain's Open University.	National Open University	1986
+inception	Rally Finland was first held under the name Jyväskylän Suurajot (Jyväskylä Grand Prix) in 1951.	Rally Finland	1951
+inception	The Blood Divine was a British Gothic metal band, founded in the summer of 1995 by Paul Allender, brothers Paul and Benjamin Ryan, after the three left Cradle of Filth during the recording of the V Empire (Or Dark Faerytales in Phallustein) EP and ousted Anathema singer Darren White.	The Blood Divine	1995
+inception	The SAO Bosanska Krajina developed in summer and autumn of 1991 in preparation for a step to independence being taken by Bosnia like Slovenia and Croatia had done.	SAO Bosanska Krajina	1991
+inception	The Umeå School of Business and Economics, USBE, or Handelshögskolan vid Umea Universitet, is the business school of Umeå University in the north of Sweden, founded in 1989 ``to strengthen education in research and business while contributing to the community''.	Umeå School of Business	1989
+inception	The Anthea Group has its origins in 1991 with the establishment of Anthea Aromatics Pvt. Ltd. (AAPL), a company that was set up in Navi Mumbai to manufacture specialty chemicals used in the perfumery and flavor industry.	Anthea Group	1991
+inception	In 1995 Cēsu Alus was privatised and once again became a joint stock company.	Cēsu Alus	1995
+inception	See-Saw Films is an independent film production company founded in 2008 by Iain Canning and Emile Sherman.	See-Saw Films	2008
+inception	The Glasgow Museum of Transport in Glasgow, Scotland was established in 1964 and initially located at a former tram depot in Pollokshields.	Glasgow Museum of Transport	1964
+inception	The Folsom City Zoo Sanctuary (originally Folsom Zoo) is a zoo and animal sanctuary located in the city of Folsom, California, in the United States, which has been open since 1963.	Folsom City Zoo Sanctuary	1963
+inception	In 1950, the jointure of the Addison Borough, Addison Township, Confluence Borough, Lower Turkeyfoot Township and Ursina Borough school districts were formed to create the Turkeyfoot Valley Area School District.TVASD History Page	Turkeyfoot Valley Area School District	1950
+inception	The European Delirium Association was founded in 2005 in order to promote research, education and clinical practice in delirium.	European Delirium Association	2005
+inception	The organisation was founded in 1950 as the British Epilepsy Association and adopted Epilepsy Action as its working name in 2002.	Epilepsy Action	1950
+inception	United Students Against Sweatshops (USAS) is a student organization founded in 1998 with chapters at over 250 colleges and universities in the United States and Canada.	United Students Against Sweatshops	1998
+inception	Lourdes Mount College of Engineering & Technology (Tamil: லூர்துஸ் மவுண்ட் பொறியியல் மற்றும் தொழில்நுட்ப கல்லூரி) is a self-financing engineering college set up by the Chellammal Educational Trust in 2013 and located close to Marthandam on a scenic, peaceful and green environment near the border between Kerala and Tamil Nadu.	Lourdes Mount College of Engineering & Technology	2013
+inception	The first release on the Jet Records label was ``No Honestly'', a UK top 10 for its singer and writer Lynsey De Paul in November 1974, followed by the Lynsey De Paul album, Taste Me...	Jet Records	1974
+inception	The Etch A Sketch toy was invented in the late 1950s by André Cassagnes, an electrician with Lincrusta Co. In 1959, he took his drawing toy to the International Toy Fair in Nuremberg, Germany.	Etch A Sketch	1959
+inception	The European Youth Forum is a European international organisation, which was established in 1996 by national youth councils and international non-governmental youth organisations.	European Youth Forum	1996
+inception	The Grand Elegance is an American psychedelic blues band from Long Beach, CA formed in 1997.	The Grand Elegance	1997
+inception	The Ivy Walls formed in 2007 and are notable for their music video ``All I Want,'' starring actors, Chris Pine (This Means War, Star Trek, Jack Ryan: Shadow Recruit) and Robert Baker (Grey's Anatomy, G.I. Joe, Indiana Jones and the Kingdom of the Crystal Skull).	The Ivy Walls	2007
+inception	In January 1997, with Martha Rodríguez Miranda as General Director and Enzo Cassella as vicepresident of programming and production, FM Center starts broadcasting their signal in Venezuela.	FM Center	1997
+inception	Founded under the name Utilization Review Accreditation Commission in 1990, the name ``was shortened to the acronym URAC in 1996 when it began accrediting other types of organizations such as health plans, pharmacies, and provider organizations.''	URAC	1990
+inception	Honeybunch is an indie pop band from Providence, Rhode island formed in 1987 by future Velvet Crush member Jeffrey Borchardt, releasing a string of records before splitting up in 1995.	Honeybunch	1987
+inception	Fat Man Waving was a Canadian folk-rock band from Ottawa, Ontario, active from 1987 to 1996.	Fat Man Waving	1987
+inception	The Lake Michigan Admirals are a team of the Premier Basketball League that began play in the 2009-10 season as a member of the American Basketball Association.	Lake Michigan Admirals	2009
+inception	AARP, Inc., formerly the American Association of Retired Persons, is a United States-based membership and interest group, founded in 1958 by Ethel Percy Andrus, Ph.D., a retired educator from California, and Leonard Davis, founder of Colonial Penn Group of insurance companies.	AARP	1958
+inception	The Elektrizitätsmuseum belongs to the electric utility Elektra Birseck Münchenstein (EBM), and was opened in 1997.	Elektrizitätsmuseum	1997
+inception	Church Society is a conservative evangelical Anglican organisation, and registered charity, formed in 1950 by the merger of the Anglican Church Association (founded 1865) and National Church League (founded 1906 by amalgamation of two earlier bodies).	Church Society	1950
+inception	The stanitsa of Semikarakorskaya (Семикаракорская), which was founded by the Don Cossacks, was known since 1672.	Semikarakorsk	1672
+inception	The second-oldest LPFM station in Alabama, WQJJ-LP originally went on the air during January 2005.	WQJJ-LP	2005
+inception	Cruise1st launched Cruise1st Australia in 2010.	Cruise1st Australia	2010
+inception	Terzij de Horde is a black metal band with dark vitalism as central theme, from Utrecht, NL, formed in 2010.	Terzij de Horde	2010
+inception	PeRiQuito AB (PRQ) is a Swedish Internet service provider and web hosting company created in 2004.	PRQ	2004
+inception	On 2 September 2006 the Freilassing Locomotive World was officially opened to visitors.	Freilassing Locomotive World	2006
+inception	The Puerto Rico Manatee Conservation Center is a research, education, rescue and rehabilitation partnership established in 2009 in the Caribbean island of Puerto Rico in order to help endangered manatees survive from extinction.	Puerto Rico Manatee Conservation Center	2009
+inception	Legend Press is an independent British book publisher founded in 2005 by Tom Chalmers.	Legend Press	2005
+inception	CampusEAI Consortium was founded by fourteen institutions in 2003 in response to increasing IT budget cuts, resource constraints, and the needs of incoming students.	CampusEAI Consortium	2003
+inception	Heuristic Park, Inc. is an American video game developer company founded in 1995 by David W. Bradley.	Heuristic Park	1995
+inception	In 1992, Ceridian was founded as an information services company from the restructuring of CDC, a computer services and manufacturing company founded in 1957.	Ceridian	1992
+inception	The Museum of Liverpool in Liverpool, England, is the newest addition to the National Museums Liverpool group having opened in 2011 replacing the former Museum of Liverpool Life.	Museum of Liverpool	2011
+inception	National Commercial Bank Limited was incorporated on Thursday April 9, 2015 and issued a commercial banking license by the Bank of Mauritius on Friday April 10, 2015.	National Commercial Bank Limited	2015
+inception	National Conference of Tripura (NCT) is a new regional party of the state of Tripura, India formed in December 2006 at Darjeelingpara in Teliamura.	National Conference of Tripura	2006
+inception	The first Hot Topic store was opened in 1988 by Orv Madden, who retired as CEO in 2000 and was replaced by Betsy McLaughlin, who headed the company until 2011.	Hot Topic	1988
+inception	Tupelo Press is an American not-for-profit literary press founded in 1999.	Tupelo Press	1999
+inception	NordicTrack was founded by Edward Pauls in 1975, when he invented the original NordicTrack ski machine in his garage in Chaska, Minnesota, in an effort to help his daughter and her friends stay in shape for cross-country skiing over the summer.	NordicTrack	1975
+inception	Spandana Foundation was started in 2005 as charitable trust to make a difference in education, health care and better living of poor and needy.	Spandana	2005
+inception	Alwal National Park was officially opened in May 2010 by acting Minister for Environment Annastacia Palaszczuk.	Alwal National Park	2010
+inception	The RFU Championship, known for sponsorship reasons as the Greene King IPA Championship from 2013--14, is the second tier of the English rugby union league system and was founded in September 1987.	RFU Championship	1987
+inception	The Orange County Science Fiction Club (OCSFC), founded in 1982, is a public club which meets in Orange County, California, and is one of the oldest continuing science fiction and fantasy organizations in Orange County.	Orange County Science Fiction Club	1982
+inception	The Rivers Foundation (Canada) (Fondation Rivières) is a Quebec environmental organization created on November 26, 2002 ``to preserve the rivers threatened by electric dam projects, pollution, privatisation and various economic interests.	Rivers Foundation (Canada)	2002
+inception	Soulrelic were a Gothic melodic metal band from Finland who formed in 2003.	Soulrelic	2003
+inception	Mega International Commercial Bank Co., Ltd. came into being on December 31, 2002, as a result of the merger of the historic International Commercial Bank of China (中國國際商業銀行) and Chiao T’ung Bank (交通銀行).	Mega International Commercial Bank	2002
+inception	May the rope break! is an 1815 etching produced by Spanish painter Francisco Goya.	May the rope break!	1815
+inception	Holstein once existed as the County of Holstein (German: Grafschaft Holstein; 811--1474), the later Duchy of Holstein (German: Herzogtum Holstein; 1474--1866), and was the northernmost territory of the Holy Roman Empire.	Holstein	1474
+inception	Eterniti Motors was a short-lived British company founded in 2010 and placed in administration in January 2014.	Eterniti Motors	2010
+inception	The House of Staunton (HOS) is an Alabama-based company founded by Frank Camaratta (b. 1943) in 1990 that manufacturers chess pieces, chessboards, and chess boxes.	House of Staunton	1990
+inception	The Deanery of Strandebarm (Norwegian: Strandebarm Prosti), also known as the ``Church of Norway in Exile'', was an independent Lutheran deanery in Norway established in 1991, from 1997 as a diocese.	Deanery of Strandebarm	1991
+inception	The Cascades Raptor Center was founded in 1987 as a 501c3 non-profit nature center and wildlife hospital, initially taking birds to schools and public events, but not allowing visitors.	Cascades Raptor Center	1987
+inception	Ateliers et Chantiers de la Loire and Ateliers et Chantiers de Saint-Nazaire Penhoët merged in 1955 to form Chantiers de l'Atlantique.	Chantiers de l'Atlantique	1955
+inception	Over the years and months, Boscorale has entered a diversity of competitions and are planning to enter international competitions in the future, thus considering Boscorale as one of the best choirs in the metro since joining and winning various prestige competitions since their debut in 2007.	Boscorale	2007
+inception	Trees for the Future is a Maryland-based nonprofit organization founded in 1989 that helps communities around the world plant trees.	Trees for the Future	1989
+inception	The Face Shop was launched in December 2003 with one store in Myeongdong.	The Face Shop	2003
+inception	WMEI Channel 60 began its regular programming in November 2006, and was an affiliate of Telefe Internacional branded as Mi 60 from 2006 to 2007, showing Informercials from 4PM to 12AM.	WMEI	2007
+inception	PSA restructured in December 2003, with PSA International Pte Ltd (simplified Chinese: PSA国际港务集团有限公司) becoming the main holding company for the PSA Group of companies.	PSA International	2003
+inception	Chetana Jagrati Punj(established on 19 August 2009) is a Welfare Society which is working for Agriculture, Art & Culture, Education & Literacy, Environment & Forests etc.Its State office is in Aligarh, Uttar Pradesh.	Chetana Jagrati Punj	2009
+inception	Founded in 1987, Food Banks Canada's network is made up of 10 Provincial Associations and over 500 local food banks.	Food Banks Canada	1987
+inception	The Catholic Mariavite Church is an autonomous religious organization in Poland resulting from a schism in 1935 within the Old Catholic Mariavite Church.	Catholic Mariavite Church	1935
+inception	Škan was founded November 11 of 2011 in Austin, Texas, as a solo recording artist.	Škan	2011
+inception	The American Populist Party, founded in 2009, is a minor political party which claims to advocate ``classical liberalism'' and a return to what they call ``genuine'' Constitutional government.	American Populist Party	2009
+inception	The Episcopal Divinity School (EDS) was founded in 1974 by combining the Episcopal Theological School (ETS) and the Philadelphia Divinity School (PDS).	Episcopal Divinity School	1974
+inception	The Camera Austria Award of the City of Graz for Contemporary Photography (Camera Austria-Preis der Stadt Graz für zeitgenössische Fotografie) is an award given every two years since 1989 by the city of Graz.	Camera Austria Award	1989
+inception	Centro Sportivo Alagoano, (also known as ``CSA'' or ``Alagoano'' by non-Brazilians) is a Brazilian football team from Maceió in Alagoas, founded on September 7, 1913.	Centro Sportivo Alagoano	1913
+inception	The company, Avalon Guitars Limited, was originally formed in 1989 as The Lowden Guitar Company Limited and operated from Bangor, County Down until 1990.	Avalon Guitars	1989
+inception	Aliene Ma'riage was a Japanese visual kei rock band, formed by Kyoka, Mast and Ray in 1998 and disbanded in 2001.	Aliene Ma'riage	1998
+inception	The Cleveland Quartet is a string quartet founded in 1969 by violinist Donald Weilerstein, at the time an instructor at the Cleveland Institute of Music, whose director Victor Babin had secured funding for an in-resident quartet (the institute's first) to be headed by Weilerstein.	Cleveland Quartet	1969
+inception	Jadar Radom is a Polish volleyball club, existing in 2003-11.	Jadar Radom	2003
+inception	Mean Red Spiders are a Canadian alternative rock band formed in Toronto in September 1993.	Mean Red Spiders	1993
+inception	Oceanos-Prêmio de Literatura em Língua Portuguesa (until 2014 Portugal Telecom Prize for Literature Portuguese: Prêmio Portugal Telecom de Literatura) is a Brazilian literary award established in 2003 by Portugal Telecom and awarded annually to Brazilian literature.	Oceanos-Prêmio de Literatura em Língua Portuguesa	2003
+inception	The Dominican Sisters of Mary, Mother of the Eucharist is a Roman Catholic Religious Institute of Diocesan Right founded in 1997 by four members of the Dominican Sisters of St. Cecilia.	Dominican Sisters of Mary, Mother of the Eucharist	1997
+inception	Diapers.com, founded in 2005 by Marc Lore and Vinit Bharara in Montclair, New Jersey, is the largest online specialty retailer for baby products.	Diapers.com	2005
+inception	Amenra is a Belgian post-metal band from Kortrijk, formed in 1999.	Amenra	1999
+inception	The Trafford Park Development Corporation was established in 1987 to develop land in Trafford and Salford.	Trafford Park Development Corporation	1987
+inception	The National Joint Apprenticeship and Training Committee is the former name for the Electrical Training Alliance; a nonprofit organization created in 1941 by the International Brotherhood of Electrical Workers (IBEW) and the National Electrical Contractors Association (NECA).	National Joint Apprenticeship and Training Committee	1941
+inception	Joe Gibbs Racing debuted at the 1992 Daytona 500 with second generation driver Dale Jarrett driving the No. 18 Interstate Batteries-sponsored Chevrolet Lumina to a 36th-place finish after a crash.	Joe Gibbs Racing	1992
+inception	The Dinagat Islands was part of the First District of Surigao del Norte Province until it became a province on December 2, 2006, with the approval of Republic Act No. 9355 (authored by Cong. Glenda B. Ecleo), the Charter of the Province of the Dinagat Islands, in a plebiscite.	Dinagat Islands	2006
+inception	Policy@Manchester was initiated by Professor Dame Nancy Rothwell and was founded in 2011 by (former) Manchester Business School Professor Colin Talbot, the director of the network.	Policy@Manchester	2011
+inception	The Hanover Band founded by Caroline Brown in 1980 is a British period-instrument orchestra.	Hanover Band	1980
+inception	The New Century Chamber Orchestra was founded in 1992 by cellist, Miriam Perkoff, and violist, Wieslaw Pogorzelski.	New Century Chamber Orchestra	1992
+inception	The Prix des cinq continents de la francophonie (literally ``Prize of the five continents of the francophonie'') is a literary prize created in 2001 by the Organisation internationale de la Francophonie.	Prix des cinq continents de la francophonie	2001
+inception	The Breton Liberation Front (Breton: Talbenn Dieubiñ Breizh, French: Front de Libération de la Bretagne or FLB) is a militant group founded in 1963 to promote the ``liberation of Brittany from France''.	Breton Liberation Front	1963
+inception	First Independent Films was a British film distributor and home video company that replaced Vestron Video UK and were first opened in 1991.	First Independent Films	1991
+inception	Fifth Colvmn Records was a record label based in Washington, DC. The label was founded in 1990 by Zalman Fishman, owner of the nightclub FIFTH COLVMN, located in Washington D.C. The label's first release was Chemlab's debut EP Ten Ton Pressure.	Fifth Colvmn Records	1990
+inception	Although Gentry won a talent contest in 1994, he reunited with Eddie Montgomery after Gentry was unable to find a solo record deal, and Montgomery Gentry was formed in 1999.	Montgomery Gentry	1999
+inception	The Esoteric is a hardcore/rock band founded in 1996 from Lawrence, Kansas.	The Esoteric	1996
+inception	Sons of Umar bin Awadh al Qu'aiti, who became a jemadar in the forces of the Nizam of Hyderabad State (now in India), first took the town of Shibam from the rival Kathiris in 1858.	Qu'aiti	1858
+inception	Haarlem Kennemerland is a Dutch football club from the city of Haarlem, established in 2010 as the result of a fusion between the old HFC Haarlem and amateur Tweede Klasse club HFC Kennemerland, after the former club was excluded in January 2010 due to bankruptcy.	Haarlem Kennemerland	2010
+inception	The Parkmore distillery was a producer of single malt Scotch whisky that operated between 1894 and 1988.	Parkmore distillery	1894
+inception	Showtek is a Dutch electronic dance music act consisting of two brothers, Sjoerd Janssen and Wouter Janssen, who began producing music in 2001.	Showtek	2001
+inception	Razorworks was founded in August 1996 and was owned by the video game publisher Empire Interactive.	Razorworks	1996
+inception	Splashtop Inc. (previously named DeviceVM Inc.) is a privately held software company founded in 2006 and headquartered in Silicon Valley with offices in Taiwan and China.	Splashtop Inc.	2006
+inception	Menksoft was established in May 2002 by S. Soyolt (Chinese: 苏	Menksoft	2002
+inception	The Pacific Basin Economic Council (PBEC) is an influential independent business association founded by Weldon B. Gibson in 1967 with the objective of facilitating business in the Asia - Pacific region.	Pacific Basin Economic Council	1967
+inception	The company held the naming rights to EnergySolutions Arena from November 20, 2006 until October 26, 2015, when Vivint, a home security system provider based in Provo, Utah, acquired the naming rights to the Utah Jazz's home arena.	EnergySolutions	2006
+inception	The American Jewish Congress was founded in 1918, and represented a ``populist counterbalance to the American Jewish Committee, which was dominated by the wealthy and conservative German-Jewish establishment.''	American Jewish Congress	1918
+inception	Their self-titled debut album The Jelly Jam was released by InsideOut Music in 2002.	The Jelly Jam	2002
+inception	Funerus is an American death metal band from Johnstown, Pennsylvania, that was originally formed in 1990.	Funerus	1990
+inception	God Made Me Funky (GMMF) is a Canadian funk music group, formed in 1996 in Toronto.	God Made Me Funky	1996
+inception	The International Philosophy Olympiad was founded in 1993 by philosophy teachers from Bulgaria (Prof. Ivan Kolev), Romania (Prof. Elena Florina Otet), Poland (Prof. Władysław Krajewski), Turkey (Prof. Nuran Direk) and Germany (Prof. Gerd Gerhardt).	International Philosophy Olympiad	1993
+inception	The Corporation for Education Network Initiatives in California (CENIC) is a nonprofit corporation formed in 1996 to provide high-performance, high-bandwidth networking services to California universities and research institutions.	Corporation for Education Network Initiatives in California	1996
+inception	Côtes de Toul has been classified as an AOC since 1998, when it was promoted from its previous VDQS status.	Côtes de Toul	1998
+inception	Think Tank Photo was founded in 2005 in Santa Rosa, California by designers Doug Murdoch and Mike Sturm and by professional photographers Deanne Fitzmaurice and Kurt Rogers.	Think Tank Photo	2005
+inception	OCM Bocas Prize for Caribbean Literature, inaugurated in 2011, is an annual literary award for books by Caribbean writers published in the previous year.	OCM Bocas Prize for Caribbean Literature	2011
+inception	The Arizona Territory was a territory of the United States that existed from February 24, 1863 until February 14, 1912, when the remaining extent of the territory was admitted to the Union as the state of Arizona.	Arizona Territory	1863
+inception	Formed in 2006, The Pack A.D. consists of singer/guitarist Becky Black and drummer Maya Miller.	The Pack A.D.	2006
+inception	Founded in 1954, Stantec provides professional consulting services in planning, engineering, architecture, interior design, landscape architecture, surveying, environmental sciences, project management, and project economics for infrastructure and facilities projects.	Stantec	1954
+inception	In 1986 the power plants and central power grid were split off as Statskraftverkene, which was divided again in 1992 into Statkraft and Statnett.	Statkraft	1992
+inception	Robert Mullen Company is a public relations company in Washington DC. The firm was founded in 1952 by Robert R. Mullen, who was a campaign press secretary for Dwight D. Eisenhower and information director for the Marshall Plan.	Robert Mullen Company	1952
+inception	Fly to the Sky officially debuted on November 21, 1999 at the LOG-IN H.O.T. Concert and SM Festival Concert '99.	Fly to the Sky	1999
+inception	WPIL was granted its license to cover on September 2, 2003.	WPIL	2003
+inception	ACCURATE (A Center for Correct, Usable, Reliable, Auditable, and Transparent Elections) was established in 2005 by a group of computer scientists, psychologists and policy experts to address problems with electronic voting.	ACCURATE	2005
+inception	The Jeunesses Patriotes (Patriotic Youths, JP) were a Fascist-inspired street brawlers group of France, recruited mostly from university students and financed by industrialists founded in 1924 by Pierre Taittinger.	Jeunesses Patriotes	1924
+inception	The Treasure Valley Rollergirls (TVR) is a roller derby league based in Boise, Idaho founded in 2006.	Treasure Valley Rollergirls	2006
+inception	Reputation.com was founded as Reputation Defender by a lawyer, Michael Fertik, in 2006.	Reputation.com	2006
+inception	The first Burgeranch in Israel opened in 1972 on Ben Yehuda Street in Tel Aviv by Barry Scop and Ron Lapid.	Burgeranch	1972
+inception	Pixomondo was originally founded in Pfungstadt, Germany as a design studio in 2001 by Thilo Kuther.	Pixomondo	2001
+inception	ITV Sport Channel was a digital sport television channel, that was owned by Carlton Communications and Granada plc. It was launched on 11 August 2001 and closed on 12 May 2002, following ITV Digital's collapse over a month later.	ITV Sport Channel	2001
+inception	The International Security Assistance Force (ISAF) was a NATO-led security mission in Afghanistan, established by the United Nations Security Council in December 2001 by Resolution 1386, as envisaged by the Bonn Agreement.	International Security Assistance Force	2001
+inception	Ragnarök Festival is a pagan metal festival held annually in Germany since 2004 founded by Ivo Raab.	Ragnarök Festival	2004
+inception	Lincoln City Knights joined the North Midlands Division of the Rugby League Conference in 2005.	Lincoln City Knights	2005
+inception	The Ohio River Trail Project was conceptualized on January 2, 2009, in coordination with Beaver County Planning Commission's Shared Greenways & Environmental Planner Doniele Andrus; the Borough of Monaca Manager Mario Leone Jr; and Dr. Vincent Troia.	Ohio River Trail	2009
+inception	When WMTT first signed on; on Memorial Day Weekend of 1991, WMTT was on 93.3 MHz and was rebroadcasting its sister station at the time, WKGB-FM, Conklin, New York.	WMTT	1991
+inception	They began working together in 2011 in Massachusetts, but the Body/Head concept evolved more specifically in early 2012.	Body/Head	2012
+inception	In 2009, Dave DuPont joined as CEO and the company re-incorporated as TeamSnap, Inc. TeamSnap left beta with a freemium revenue model later that year and continued to add features to the web-based product, as well as later adding iOS and Android apps, as well as support for leagues.	TeamSnap	2009
+inception	Summit Christian College, based in Scottsbluff, Nebraska, United States, was established in 1951 as Platte Valley Bible College.	Summit Christian College	1951
+inception	Scariot is a Norwegian progressive metal band founded by Daniel Olaisen in 1997.	Scariot	1997
+inception	Aer Arann was established in 1970 by James Coen and Ralph Langan to provide an island-hopping air service between Galway and the Aran Islands off the west coast of Ireland.	Aer Arann	1970
+inception	Cocteaufest began in 2003 in Boston, MA and has since been organized and celebrated around the world.	Cocteaufest	2003
+inception	The Sportsman's Association was formed in 1996 to campaign for the right of sports shooters to own handguns.	Sportsman's Association	1996
+inception	Miike Snow (pronounced mɑik sno) is a Swedish indie pop band formed in 2007.	Miike Snow	2007
+inception	The Minnesota Legislature created Fond du Lac Tribal and Community College (FDLTCC) in 1987.	Fond du Lac Tribal and Community College	1987
+inception	GPH, formerly known as GamePark Holdings, was a South Korean company responsible for creating the GP2X that was founded by former employees of the game maker GamePark in 2005.	GamePark Holdings	2005
+inception	In 1992, Mekey Hsu Chen founded Hsu Fu Chi in The People's Republic of China.	Hsu Fu Chi	1992
+inception	The first Complaints Choir was organized in Birmingham (UK) in 2005, followed by the Complaints Choirs of Helsinki, Hamburg and St. Petersburg in 2006.	Complaints Choir	2005
+inception	The Western Front Association (WFA) was inaugurated on 11 November 1980, in order to further interest in The Great War of 1914-1918.	Western Front Association	1980
+inception	The National Internet Exchange of India (NIXI) is a government non-profit company established in 2003 to provide neutral Internet Exchange Point services in India.	National Internet Exchange of India	2003
+inception	The European Conference of Postal and Telecommunications Administrations (CEPT) was established on June 26, 1959, as a coordinating body for European state telecommunications and postal organizations.	European Conference of Postal and Telecommunications Administrations	1959
+inception	The John Muir Trust is a Scottish charity established as a membership organisation in 1983 to conserve wild land and wild places for the benefit of all.	John Muir Trust	1983
+inception	The Jungfrau-Aletsch protected area is the first World Natural Heritage site in the Alps, it was inscribed in 2001.	Jungfrau-Aletsch protected area	2001
+inception	Founded in 2005, Neo Solar Power is a crystalline silicon solar cell manufacturer that is publicly listed on the Taiwan Stock Exchange.	Neo Solar Power	2005
+inception	In January 1952, the BBC Opera Orchestra was disbanded and the BBC Concert Orchestra was formed from players formerly from the BBC Opera Orchestra.	BBC Concert Orchestra	1952
+inception	The Xyrion Trio was founded in 2001, and includes Nina Tichman, piano, Ida Bieler, violin, and Maria Kliegel, cello.	Xyrion Trio	2001
+inception	Novair International Airways was a British charter airline that operated between 1988 and 1990.	Novair International Airways	1988
+inception	WAAR TV is a Kurdish language satellite television channel founded in 2013.	WAAR TV	2013
+inception	Dee Valley Dragons were established in 2011 by coach Mike Parry, they played a series of friendlies throughout their inaugural season and took their place in the North Wales Championship for the start of the 2012 season.	Dee Valley Dragons	2011
+inception	Franconia Sculpture Park was founded in 1996 by a small group of artists led by sculptor and educator John Hock.	Franconia Sculpture Park	1996
+inception	Kingston Technology was founded on October 17, 1987, in response to a severe shortage of surface-mount memory chips in the high-tech marketplace in the 1980s.	Kingston Technology	1987
+inception	The Chatham Wheels are a defunct professional ice hockey team that played in Colonial Hockey League from 1992 to 1994.	Chatham Wheels	1992
+inception	Raw Glory is a British rock band, formed in 2006 as the vehicle for accomplished professional musicians Mick Underwood, Johhny Heywood and Cosmo.	Raw Glory	2006
+inception	The Secular Party of Australia is a minor Australian political party, founded in January 2006 and registered as a federal political party in 2010.	Secular Party of Australia	2006
+inception	The Islamic Arts Museum Malaysia (Malay: Muzium Kesenian Islam Malaysia) was officially opened on 12 December 1998.	Islamic Arts Museum Malaysia	1998
+inception	Wright State University began in 1964 as a branch campus of Miami University and Ohio State University, occupying only a single building.	Wright State University	1964
+inception	The Brazos River Authority or BRA was created in 1929 by the Texas Legislature as a quasi-governmental entity to manage the Brazos River as a water resource in Texas.	Brazos River Authority	1929
+inception	Ad Astra Games won the 2004 Origins Award for Best Miniatures Rules for Attack Vector:	Ad Astra Games	2004
+inception	Elonex was founded in Finchley, London in 1986 by the German-born Israel Wetrin.	Elonex	1986
+inception	The Kingdom of Ireland (Classical Irish: Ríoghacht Éireann; Modern Irish: Ríocht Éireann) was a client state of the Kingdom of England that existed in Ireland from 1542 until 1800.	Kingdom of Ireland	1542
+inception	Apisa Air Cargo (ICAO: PIC) was a cargo/freight airline based in Peru that began operations in 1985 and ceased flying in 1997.	Apisa Air Cargo	1985
+inception	Northern Vermont Railroad (Northern Vermont Railroad Company Incorporated) (reporting remark NVR) was a former class III railroad that operated in Vermont from 1996 to 2002.	Northern Vermont Railroad	1996
+inception	The American Arachnological Society (AAS) is a scientific organization founded in 1972 in order to promote the study of arachnids by seeking to achieve closer cooperation and understanding between amateur and professional arachnologists along with publication of the Journal of Arachnology.	American Arachnological Society	1972
+inception	Readers International Model School (RIMS) is the school providing quality education for more than 400 students since 2006 AD (2063 BS).	Readers International Model School	2006
+inception	Bund Deutscher Osten (BDO) was a German Nazi organisation founded on 26 May 1933.	Bund Deutscher Osten	1933
+inception	August Capital is a venture capital firm created by David Marquardt and John Johnston in 1995.	August Capital	1995
+inception	Chauhan decided to come up with his own formula, which he launched under the Limca brand in 1977.	Limca	1977
+inception	Nordic Mist was introduced to New York City, Boston, Pittsburgh, and Philadelphia in September 1992.	Nordic Mist	1992
+inception	The Arizona Assassins are a women's semi-professional American football team founded in 2010.	Arizona Assassins	2010
+inception	Arboretum Norr was formed in 1975 through a collaboration between Umeå University, the Swedish University of Agricultural Sciences in Umeå and City Council.	Arboretum Norr	1975
+inception	Air One began life as Aliadriatica which was established in Pescara in 1983 to operate as a flying school and provide air-taxi services and later regional scheduled services.	Air One	1983
+inception	Gone Postal is a four-piece Icelandic death metal band from Kópavogur, Iceland, founded in 2007 by Haukur Hannes and Nökkvi G. Gylfason.	Gone Postal	2007
+inception	Democratic Partnership was founded for the Northern Ireland Forum election of 1996 by the Peace People group, independent peace activists and a number of people from the labour movement, including former Northern Ireland Labour Party Member of Parliament David Bleakley.	Democratic Partnership	1996
+inception	Jincheng Suzuki is a joint Sino-Japanese producer of motorcycles and scooters founded in 1994 and headquartered in Nanjing.	Jincheng Suzuki	1994
+inception	Youth Pictures of Florence Henderson is a Norwegian post-rock band, formed by journalism students in Bodø in 2003.	Youth Pictures of Florence Henderson	2003
+inception	Founded in 1866 as Maryland's first training school for teachers, Towson University has evolved into a 4-year degree-granting institution consisting of 8 colleges with over 20,000 students enrolled.	Towson University	1866
+inception	A grant from the Bill & Melinda Gates Foundation helped to establish the school, which opened to enrollment in the 2002-2003 school year.SuccessTech Academy offers a technology infused high school curriculum with a focus on problem and project based learning.	SuccessTech Academy	2002
+inception	Das Damen was an alternative rock band from New York City, United States, formed in 1984.	Das Damen	1984
+inception	The Democratic Alliance of Croats in Vojvodina (Serbian: Демократски Савез Хрвата у Војводини / Demokratski savez Hrvata u Vojvodini; Croatian: Demokratski savez Hrvata u Vojvodini; abbreviation: DSHV / ДСХВ) is a political party of ethnic Croats in the Serbian province of Vojvodina, founded in July 15, 1990.	Democratic Alliance of Croats in Vojvodina	1990
+inception	Dan began Optimizely in January 2010, and the company has grown to 350 employees and has received $83 million in venture funding.	Optimizely	January 2010
+inception	In 1996, Berry founded Beat Factory Music Inc., a record label division of Beat Factory, distributed by EMI Music Canada and BMG Music Canada.	Beat Factory	1996
+inception	Steve Michaels (son of sportscaster Al Michaels) and Jonathan Koch formed Asylum Entertainment in 2001 when they began producing Beyond the Glory for Fox Sports.	Asylum Entertainment	2001
+inception	Phantasm Records was one of the first Goa trance record labels established in London in 1993.	Phantasm Records	1993
+inception	SpotOption was founded in 2009, and is the biggest binary options platform provider, holding 70% of the market share.	SpotOption	2009
+inception	Daallo Airlines was established in 1991 in Djibouti by Mohamed Ibrahim Yassin and Mohammed Ibrahim Yassin Olad.	Daallo Airlines	1991
+inception	Özel Ege Lisesi, formerly known as Özel Anayurt Lisesi, was founded on July 3, 1987 in Konak.	Özel Ege Lisesi	1987
+inception	In 1838, the fort of Alexandria, renamed Navaginsky a year later, was founded at the mouth of the Sochi River as part of the Black Sea coastal line, a chain of seventeen fortifications set up to protect the area from recurring Circassian resistance.	Sochi	1838
+inception	Established in 1989, they provide multi-gigabit fiber Internet, business-grade wireless Internet, DSL, email, website hosting, hands-on classes, computer care, and an on-site data center, with collocation and co-working spaces, called Cruzioworks.	Cruzio	1989
+inception	Shariff Kabunsuan was a short-lived province of the Philippines within the Autonomous Region in Muslim Mindanao (ARMM) that existed from 2006 to 2008.	Shariff Kabunsuan	2006
+inception	A non profit association founded in 1991 and located in Saint-Hyacinthe, Quebec, the Agricultural Hall of Fame of Quebec is currently administered by a board of 9 individuals elected during a general assembly that is held on a yearly basis.	Agricultural Hall of Fame of Quebec	1991
+inception	The Detroit Whalers were a junior ice hockey team in the Ontario Hockey League for two seasons from 1995 to 1997.	Detroit Whalers	1995
+inception	Nordeus was founded in March 2010 by ex-Microsoft employees.	Nordeus	2010
+inception	The AEG turbine factory was built around 1909, at Huttenstraße 12-16 in the Berlin district of Moabit.	AEG turbine factory	1909
+inception	Tuba Skinny is a New Orleans traditional jazz band which formed in 2009.	Tuba Skinny	2009
+inception	PFLAG China (同性恋亲友会 in Chinese), founded in Guangzhou on June 28, 2008, is an NGO formed by LGBT individuals, their parents, friends and supporters to serve and support LGBT people.	PFLAG China	2008
+inception	Oak Futures Ltd was formed in 2009 by Steve J. Roberts, CEO and Julian B. Cowley, COO.	Oak Futures	2009
+inception	The Cockerill-Sambre group was formed in 1981 by the merger of two Belgian steel groups;	Cockerill-Sambre	1981
+inception	Fly Jamaica Airways was certified by the Jamaica Civil Aviation Authority (JCAA) in September 2012, and was cleared to operate in the United States by US authorities in December.	Fly Jamaica Airways	2012
+inception	On March 29, 2007, the FCC granted a transfer of the WCDJ license to Dunes 102FM LLC. The new owners got the call letters changed to WGTX, and began full broadcast service as ``Dunes 102:	WGTX	2007
+inception	This initial collaboration lead to the official formation of the Brobdingnagian Bards in 1999.	Brobdingnagian Bards	1999
+inception	Beyerdynamic has been family owned since its founding in 1924.	Beyerdynamic	1924
+inception	Turmion Kätilöt (literally ``Midwives of Ruin'' or ``Midwives of Perdition'') is a Finnish industrial metal band founded in 2003 by MC Raaka Pee and DJ Vastapallo, who until the latter's departure, were the only studio lineup.	Turmion Kätilöt	2003
+inception	Federation of Turkish Associations UK (FTAUK) is an umbrella organisation founded on 30 May 2002 in the United Kingdom.	Federation of Turkish Associations UK	2002
+inception	The first Damnation Festival was held on 16 October 2005 at Jillys Rockworld, Manchester, England.	Damnation Festival	2005
+inception	In November, 1953 Sojuz na Izvidnici na Makedonija was officially founded, on the initiative of former Scout organization members, as a branch of the Yugoslav Scout association Savez Izviđača Jugoslavije, which it remained until the breakup of Yugoslavia.	Sojuz na Izvidnici na Makedonija	1953
+inception	On 28 May 1979, the VNP and VVP finally merged to form a new party named Vlaams Blok, and Dillen was nominated to be the party's leader for life.	Vlaams Blok	28 May 1979
+inception	Louna is an alternative/punk rock band, formed in Moscow in 2008 by Tracktor Bowling musicians Lousine Gevorkian and Vitaly Demidenko.	Louna	2008
+inception	Scientifica is a constituent company of Judges Scientific Plc and was founded in 1997.	Scientifica	1997
+inception	The North China Institute of Science and Technology (华北科技学院 Huáběi kējì xuéyuàn) is a university in Hebei, China which was founded in 1984.	North China Institute of Science and Technology	1984
+inception	In 1996, it was revived under new ownership as WRLZ.	WRLZ	1996
+inception	BuyCostumes.com refers to itself as ``The Online Leader in Halloween Costumes since 1999,'' offering more than 10 billion costume and accessory combinations.	BuyCostumes.com	1999
+inception	Or Records (sometimes capitalized OR Records after their logo) is a small British independent record label company, established in 1998 and based in London.	Or Records	1998
+languages spoken or written	Benito Arias Montano (or Benedictus Arias Montanus; 1527--1598) was a Spanish orientalist and editor of the Antwerp Polyglot.	Benito Arias Montano	Spanish
+languages spoken or written	Christopher Merret FRS (16 February 1614/5 -- 19 August 1695), also spelt Merrett, was an English physician and scientist.	Christopher Merret	English
+languages spoken or written	Michael F. Feldkamp, (born 23 April 1962) is a German historian and journalist.	Michael F. Feldkamp	German
+languages spoken or written	Louis-Joseph Lebret (1897--1966) was a French Dominican social scientist and philosopher and pioneer of ``development ethics'', who sought to ``put the economy at the service of man'' and advanced the notion of the ``human economy''.	Louis-Joseph Lebret	French
+languages spoken or written	Christian Knorr von Rosenroth (July 15/16, 1636 -- May 4, 1689) was a German Christian Hebraist and Christian Cabalist born at Alt-Raudten, today Stara Rudna in Silesia.	Christian Knorr von Rosenroth	German
+languages spoken or written	Pedro Escartín Morán (August 8, 1902 -- May 21, 1998) was a Spanish football player, referee, coach, journalist and author.	Pedro Escartín	Spanish
+languages spoken or written	Valerio Massimo Manfredi (born 8 March 1943) is an Italian historian, writer, essayist, archaeologist and journalist.	Valerio Massimo Manfredi	Italian
+languages spoken or written	The Welsh court poet Einion ap Gwalchmai (fl. 1202--1223) was the son of the poet Gwalchmai ap Meilyr and brother of the poet Meilyr ap Gwalchmai.	Einion ap Gwalchmai	Welsh
+languages spoken or written	Fuad Rouhani (1907--2004) (Persian: فؤاد روحانی‎‎) was an Iranian administrator and translator.	Fuad Rouhani	Persian
+languages spoken or written	Simon Calder (born 25 December 1955) is an English travel writer and broadcaster, currently senior travel editor for The Independent newspaper.	Simon Calder	English
+languages spoken or written	Mohamed Sifaoui (in Arabic محمد سيفاوي) (born 4 July 1967) is an Algerian-French journalist and writer who claimed that he managed to infiltrate al-Qaeda.	Mohamed Sifaoui	French
+languages spoken or written	Jean-Claude Pressac (c. 1944 -- 23 July 2003) was a French chemist and pharmacist by profession, who became a published authority on the Holocaust of World War II. He is the author of the 1989 book Auschwitz:	Jean-Claude Pressac	French
+languages spoken or written	Robert Hooke FRS (/hʊk/; 28 July (O.S. 18 July) 1635 -- 3 March 1703) was an English natural philosopher, architect and polymath.	Robert Hooke	English
+languages spoken or written	Lin Huiyin (Chinese: 林徽因, born 林徽音; pinyin: Lín Huīyīn; known as Phyllis Lin or Lin Whei-yin when in the United States; 10 June 1904 -- 1 April 1955) was a noted 20th-century Chinese architect and writer.	Lin Huiyin	Chinese
+languages spoken or written	Yue Minjun (Chinese: 岳敏君; born 1962) is a contemporary Chinese artist based in Beijing, China.	Yue Minjun	Chinese
+languages spoken or written	Joseph Haas (19 March 1879 -- 30 March 1960) was a German late romantic composer and music teacher.	Joseph Haas	German
+languages spoken or written	James Harris, 1st Earl of Malmesbury GCB (21 April 1746 -- 21 November 1820) was an English diplomat.	James Harris, 1st Earl of Malmesbury	English
+languages spoken or written	Frédy Girardet (born 17 November 1936) is a Swiss chef who cooks in the French tradition.	Frédy Girardet	French
+languages spoken or written	Lionel Poilâne (June 10, 1945 -- October 31, 2002) was a French boulanger (artisan baker) and entrepreneur whose commitment to crafting quality bread earned him worldwide renown.	Lionel Poilâne	French
+languages spoken or written	Silvio Vietta (born 7 August 1941 in Berlin) is a German scholar and professor emeritus of the University of Hildesheim.	Silvio Vietta	German
+languages spoken or written	Gerhard Reinhardt (May 4, 1916 -- August 22, 1989) was an East German politician and German Resistance fighter against Nazism.	Gerhard Reinhardt	German
+languages spoken or written	Thomas Hodgskin (born 12 December 1787, Chatham, Kent; d. 21 August 1869, Feltham, Middlesex) was an English socialist writer on political economy, critic of capitalism and defender of free trade and early trade unions.	Thomas Hodgskin	English
+languages spoken or written	Joaquim Amat-Piniella (November 22, 1913 in Manresa -- August 3, 1974 in L'Hospitalet de Llobregat) was a Catalan writer and politician.	Joaquim Amat-Piniella	Catalan
+languages spoken or written	Jean-Michel Oughourlian (born August 20, 1940) is a French neuropsychiatrist and psychologist as well as a writer and philosopher recognized both in France and the United States for his collaboration with René Girard and his work on the mimetic theory of desire.	Jean-Michel Oughourlian	French
+languages spoken or written	Éric Geoffroy (Belfort, 1956) is a French philosopher, islamologist, writer and scholar in the Sufi studies teaching at the University of Strasbourg a long time alma mater to European orientalism.	Éric Geoffroy	French
+languages spoken or written	Nikolai Grube is a German epigrapher.	Nikolai Grube	German
+languages spoken or written	Zofia Lissa (19 October 1908 -- 26 March 1980) was a Polish music educator and musicologist.	Zofia Lissa	Polish
+languages spoken or written	Auguste Borget (1808--1877) was a French artist who is best known for his drawings and prints of exotic places, in particular China.	Auguste Borget	French
+languages spoken or written	Patrick Dils (born 30 June 1970 in Longeville-lès-Metz) is a French victim of a miscarriage of justice .	Patrick Dils	French
+languages spoken or written	Jose Prakash (14 April 1925 -- 24 March 2012) was an Indian actor and singer who worked in Malayalam cinema.	Jose Prakash	Malayalam
+languages spoken or written	Jacques Thibaud (French pronunciation: ​(ʒak tibo); 27 September 1880 -- 1 September 1953) was a French violinist.	Jacques Thibaud	French
+languages spoken or written	Liu Sola (Chinese: 刘索拉 aka: Liu Suola; Beijing, China) is a Chinese composer, vocalist, music producer, and author.	Liu Sola	Chinese
+languages spoken or written	Thangar Bachan (born 1962) is a Tamil Indian film director and actor, cinematographer and novelist.	Thangar Bachan	Tamil
+languages spoken or written	Carl Peters (27 September 1856 -- 10 September 1918), was a German colonial ruler, explorer, politician and author, the prime mover behind the foundation of the German colony of East Africa (in today's Tanzania).	Carl Peters	German
+languages spoken or written	Alain Deloche, born 2 September 1940 at Paris, is a French surgeon.	Alain Deloche	French
+languages spoken or written	Kamala Kotnis was an Indian actress who played roles in Telugu and Hindi movies during the 1940s.	Kamala Kotnis	Hindi
+languages spoken or written	Tonino Carotone (born Antonio de la Cuesta on 9 January 1970 in Burgos, Spain) is a Spanish singer-songwriter.	Tonino Carotone	Spanish
+languages spoken or written	Michel Teychenné (born 22 July 1957 in Foix, Ariège) is a French politician and a former Member of the European Parliament for the south-west of France.	Michel Teychenné	French
+languages spoken or written	Edmond Frémy (French: (fremi); 28 February 1814 -- 3 February 1894) was a French chemist.	Edmond Frémy	French
+languages spoken or written	Maria Luisa Gabriella Epifani, better known as Muzi Epifani (March 18, 1935 -- February 12, 1984), was an Italian writer and poet.	Muzi Epifani	Italian
+languages spoken or written	Armen Ayvazyan (Armenian: Արմեն Այվազյան) (born May 14, 1964, Yerevan) is an Armenian historian and political scientist.	Armen Ayvazyan	Armenian
+languages spoken or written	Janelly Fourtou (born 4 February 1939 in Paris) is a French politician and Member of the European Parliament for central France.	Janelly Fourtou	French
+languages spoken or written	Josefina Aldecoa, originally known as Josefa Rodriguez Alvarez (8 March 1926 -- 16 March 2011), was a Spanish writer and teacher who was born in León.	Josefina Aldecoa	Spanish
+languages spoken or written	Iván Ferreiro (born 1970) is a Spanish singer-songwriter born in Vigo, Galicia.	Iván Ferreiro	Spanish
+languages spoken or written	Robert Lowth FRS (/laʊð/; 27 November 1710 -- 3 November 1787) was a Bishop of the Church of England, Oxford Professor of Poetry and the author of one of the most influential textbooks of English grammar.	Robert Lowth	English
+languages spoken or written	Auguste Perret (12 February 1874 -- 25 February 1954) was a French architect and a world leader and specialist in reinforced concrete construction.	Auguste Perret	French
+languages spoken or written	Hong Sung-won was a Korean author	Hong Sung-won	Korean
+languages spoken or written	Martin Chalmers (11 November 1948 -- 22 October 2014) was a British translator, particularly of works in German.	Martin Chalmers	German
+languages spoken or written	André Vera (1881--1971) was a French garden designer, town planner and pioneer of the Art Deco style.	André Vera	French
+languages spoken or written	Georgi Gospodinov (Bulgarian: Георги Господинов; born 1968 in Yambol) is a poet, writer and playwright, one of the most translated Bulgarian authors after 1989.	Georgi Gospodinov	Bulgarian
+languages spoken or written	Harindranath Chattopadhyay (2 April 1898 -- 23 June 1990) was a multi-talented personality as an Indian English poet, a dramatist, an actor, a musician and a member of the 1st Lok Sabha from Vijayawada constituency.	Harindranath Chattopadhyay	English
+languages spoken or written	Oskar Höcker (13 June 1840 - 8 April 1894) was a German author of historical novels for children and a stage actor.	Oskar Höcker	German
+languages spoken or written	Valens Comyn (1688 -- 25 March 1751) was an English merchant and administrator and politician who sat in the House of Commons from 1747 to 1751.	Valens Comyn	English
+languages spoken or written	Antonio Stoppani (24 August 1824 -- 1 January 1891) was an Italian patriot, Catholic priest, geologist and palaeontologist.	Antonio Stoppani	Italian
+languages spoken or written	Nina Roberts is a French porn star, actress, author and contemporary artist (video and photo).	Nina Roberts	French
+languages spoken or written	Sabatino Moscati (November 24 1922 -- September 8 1997) was an Italian archaeologist and linguist known for his work on Phoenician and Punic civilizations.	Sabatino Moscati	Italian
+languages spoken or written	Edward Anthony Strauss (7 December 1862 -- 25 March 1939) was an English corn, grain and hop merchant of German-Jewish background.	Edward Anthony Strauss	English
+languages spoken or written	Samuel Bernard (1651 in Sancerre -- January 18, 1739), Count of Coubert (1725), was a French financier.	Samuel Bernard	French
+languages spoken or written	Sir Thomas Lea, 1st Baronet (17 January 1841 -- 9 January 1902) was an English carpet manufacturer from Kidderminster, and a Liberal Party politician.	Sir Thomas Lea, 1st Baronet	English
+languages spoken or written	Wenceslao Roces Suárez (3 February 1897 -- 29 March 1992) was a Spanish professor of Roman law, a prolific translator and undersecretary of the Ministry of Education and Fine Arts.	Wenceslao Roces	Spanish
+languages spoken or written	Anne Raikes Harding, née Orchard (1779--1858) was an English novelist and miscellaneous writer.	Anne Raikes Harding	English
+languages spoken or written	Giovanni Botero (c. 1544 -- 1617) was an Italian thinker, priest, poet, and diplomat, best known for his work Della ragion di Stato (The Reason of State).	Giovanni Botero	Italian
+languages spoken or written	Ulrich von Türheim (c. 1195 -- c. 1250) was a German writer from the Augsburg area writing during the first half of the 13th century.	Ulrich von Türheim	German
+languages spoken or written	Victor Barthélemy (21 July 1906 -- 1985) was a French political activist, operative, and author.	Victor Barthélemy	French
+languages spoken or written	Der Stricker is the pseudonym of a 13th-century Middle High German itinerant poet whose real name has been lost to history.	Der Stricker	Middle High German
+languages spoken or written	Pau Villalonga (died Palma de Mallorca 29 March 1609) was a Spanish composer of sacred polyphony.	Pau Villalonga	Spanish
+languages spoken or written	Tristán de Luna y Arellano (1519--September 16, 1573) was a Spanish explorer and Conquistador of the 16th century.	Tristán de Luna y Arellano	Spanish
+languages spoken or written	Ute Frevert (born 10 June 1954 in Schötmar, Bad Salzuflen, North Rhine-Westphalia) is a German historian.	Ute Frevert	German
+languages spoken or written	Jan August Kisielewski (Rzeszów, 1876 -- 1918, Warsaw), was a Polish writer, essayist and playwright associated with the Young Poland literary movement at the turn of the century.	Jan August Kisielewski	Polish
+languages spoken or written	Thomas Adolphus Trollope (1810 -- 1892) was an English writer of over sixty books.	Thomas Adolphus Trollope	English
+languages spoken or written	Mihailo Lalić (pronounced (mixǎilɔ lâlit͡ɕ); 7 October 1914 -- 30 December 1992) was a prominent novelist of Serbian literature.	Mihailo Lalić	Serbian
+languages spoken or written	Daniil Kharms (Russian: Дании́л Ива́нович Хармс; 30 December (O.S. 17 December) 1905 -- 2 February 1942) was an early Soviet-era surrealist and absurdist poet, writer and dramatist.	Daniil Kharms	Russian
+languages spoken or written	Jacques Pelletier du Mans, also spelled Peletier, in Latin:	Jacques Pelletier du Mans	Latin
+languages spoken or written	José Ignacio Prendes Prendes (born 22 February 1965 in Gijón) is a Spanish politician and member of Congress of the Deputies with the Citizens-Party of the Citizenry party (C's).	Ignacio Prendes	Spanish
+languages spoken or written	Leonor Michaelis (January 16, 1875 -- October 8, 1949) was a German biochemist, physical chemist, and physician, known primarily for his work with Maud Menten on enzyme kinetics and Michaelis--	Leonor Michaelis	German
+languages spoken or written	Nicholas Fazakerley (died 1767) was an English lawyer and politician.	Nicholas Fazakerley	English
+languages spoken or written	Cesare Paoli (1840--1902), Italian historian and paleographer, was the son of senator Baldassare Paoli.	Cesare Paoli	Italian
+languages spoken or written	Überbrettl (German pronunciation: (ˈʔyːbɐˌbʁɛtl̩) super-cabaret) was the first venue in Germany for literary cabaret, or Kabarett, founded 1901 in Berlin by Ernst von Wolzogen.	Überbrettl	German
+languages spoken or written	Walter Herries Pollock (21 February 1850 -- 21 February 1926) was an English writer, poet, lecturer and journalist.	Walter Herries Pollock	English
+languages spoken or written	Pope Clement XII (Latin: Clemens XII; 7 April 1652 -- 6 February 1740), born Lorenzo Corsini, was Pope from 12 July 1730 to his death in 1740.	Pope Clement XII	Latin
+languages spoken or written	Iosif Constantin Drăgan (Romanian pronunciation: (ˈjosif konstanˈtin drəˈɡan); June 20, 1917 -- August 21, 2008) was a Romanian and Italian businessman, writer and historian.	Iosif Constantin Drăgan	Romanian
+languages spoken or written	Salvador Larroca (born 1964) is a Spanish comic book artist, primarily known for his work on various X-Men titles.	Salvador Larroca	Spanish
+languages spoken or written	Chilean folk-rock band Sexual Democracia's song ``Don't Cry, Gary Hart'', a cueca sung in English, appears on their album Buscando Chilenos 2 (1992).	Gary Hart	English
+languages spoken or written	Scrope Howe, 1st Viscount Howe (November 1648--26 January 1713) was an English politician.	Scrope Howe, 1st Viscount Howe	English
+languages spoken or written	Henry Havelock Ellis, known as Havelock Ellis (2 February 1859 -- 8 July 1939), was an English physician, writer, progressive intellectual and social reformer who studied human sexuality.	Havelock Ellis	English
+languages spoken or written	Carlos Sánchez Aguiar (born 28 November 1957) is a Spanish football coach.	Carlos Sánchez Aguiar	Spanish
+languages spoken or written	Leila Aboulela (born 1964), Arabic 'ليلى ابوالعلا' is a Sudanese writer who writes in English.	Leila Aboulela	English
+languages spoken or written	Bernard Loiseau (January 13, 1951 -- February 24, 2003) was a French chef.	Bernard Loiseau	French
+languages spoken or written	Valentina Polukhina (born 18 June 1936) is a British-Russian scholar, Emeritus Professor at Keele University, and the widow of Daniel Weissbort.	Valentina Polukhina	Russian
+languages spoken or written	Yossi Abulafia (Hebrew: יוסי אבולעפיה‎; born 1945) is an Israeli writer and illustrator of children's books, as well as a graphic artist, cartoonist, director and screenwriter of animation films.	Yossi Abulafia	Hebrew
+languages spoken or written	José María Barreda Fontes (born 4 February 1953) is a Spanish politician and academic.	José María Barreda	Spanish
+languages spoken or written	Néstor Álamo (February 27, 1906 -- March 24, 1994) was a Spanish composer, lawyer and writer.	Néstor Álamo	Spanish
+languages spoken or written	Eli Amir (Hebrew: אלי עמיר‎ Arabic:ايلى عمير) (September 26, 1937) is an Iraqi-born Israeli writer and civil servant.	Eli Amir	Hebrew
+languages spoken or written	Rudiger Schmitt (German: Rüdiger Schmitt) (born 1 July 1939 in Würzburg) is a German linguist and Iranologist.	Rudiger Schmitt	German
+languages spoken or written	Ulrich Deppendorf (born 27 January 1950 in Essen) is a German journalist and television presenter.	Ulrich Deppendorf	German
+languages spoken or written	Sir Thomas Frankland, 3rd Baronet (c. 1685 -- 17 April 1747), of Thirkleby in Yorkshire, was an English Member of Parliament.	Sir Thomas Frankland, 3rd Baronet	English
+languages spoken or written	Salvatore Mannuzzu (born 1930) is an Italian writer, politician and magistrate.	Salvatore Mannuzzu	Italian
+languages spoken or written	Jean-Christophe Balouet (born 12 November 1956) is a French palaeontologist.	Jean-Christophe Balouet	French
+languages spoken or written	Michael D. C. Drout (born 1968) is the Prentice Professor of English and Former Chair of the Department of English at Wheaton College and an author and editor specializing in Anglo-Saxon and medieval literature, science fiction and fantasy, especially the works of J. R. R. Tolkien and Ursula K. Le Guin.	Michael D. C. Drout	English
+languages spoken or written	Carlos Pacheco (born November 14, 1962) is a Spanish comic book artist and penciller.	Carlos Pacheco	Spanish
+languages spoken or written	Vicente González Moreno (December 9, 1778, Cádiz -- September 6, 1839) was a Spanish general who supported the Carlists during the First Carlist War.	Vicente González Moreno	Spanish
+languages spoken or written	Marcello Bernardini (or Marcello da Capua; near Capua, 1730 or 1740 -- around 1799) was an Italian composer and librettist.	Marcello Bernardini	Italian
+languages spoken or written	Étienne Wolff (Auxerre, 12 February 1904 - Paris, 18 November 1996) was a French biologist, specialising in experimental and teratological embryology.	Étienne Wolff	French
+languages spoken or written	Joseph-Jules Brévié (12 March 1880 -- 28 July 1964) was a French colonial administrator who became governor general of French West Africa from 1930 to 1936, and then governor general of French Indochina from 1936 to 1939.	Jules Brévié	French
+languages spoken or written	Sir Thomas Mun (17 June 1571 -- 21 July 1641) was an English writer on economics and is often referred to as the last of the early mercantilists.	Thomas Mun	English
+languages spoken or written	Knuts Skujenieks (born September 5, 1936 in Riga) is a Latvian poet, journalist, and translator from fifteen European languages.	Knuts Skujenieks	Latvian
+languages spoken or written	Francis Aglionby (died 1840) was an English Whig politician.	Francis Aglionby	English
+languages spoken or written	Charles Isaac Elton, QC (6 December 1839 -- 23 April 1900) was an English lawyer, antiquary, and politician.	Charles Isaac Elton	English
+languages spoken or written	Jan Vermeulen or Jan van der Meulen, (or Johannes, Jean, Ioanne) also known as Molanus (the Latin version, in French ``Molano'') (1533--1585) was an influential Counter Reformation Flemish Catholic theologian of Louvain University, where he was Professor of Theology, and Rector from 1578.	Molanus	Latin
+languages spoken or written	Dragan Lakićević is a Serbian poet, storyteller, novelist, translator and editor of literature.	Dragan Lakićević	Serbian
+languages spoken or written	Raimbaut of Orange (c. 1147 -- 1173) or, in his native Old Occitan, Raimbaut d'Aurenga, was the lord of Orange and Aumelas.	Raimbaut d'Aurenga	Occitan
+languages spoken or written	Brian Lumley (born 2 December 1937) is an English horror-fiction writer.	Brian Lumley	English
+languages spoken or written	Luz Amparo Cuevas Arteseros (13 March 1931 - 17 August 2012) was a Spanish Roman Catholic seer.	Amparo Cuevas	Spanish
+languages spoken or written	François Annat (1590 -- 14 June 1670) was a French Jesuit, theologian, writer, and one of the foremost opponents of Jansenism.	François Annat	French
+languages spoken or written	Ernst Pfeiffer (20 December 1893, Munich -- 28 May 1955, Munich) was a German entomologist who specialised in Lepidoptera He was a publisher and bookseller.	Ernst Pfeiffer	German
+languages spoken or written	Alonso Pita da Veiga, born in Ferrol in 15th century Galicia, Spain, was one of the most remarkable officers of the Spanish Tercios fighting under the orders of Count Fernando de Andrade in the Battle of Pavia (Italy), and in other battles of the Italian Wars between the years 1513-1525.	Alonso Pita da Veiga	Spanish
+languages spoken or written	Gianfranco Pasquino (born 1942 in Turin) is an Italian political scientist, currently professor of political science at the University of Bologna.	Gianfranco Pasquino	Italian
+languages spoken or written	Cirilo Vázquez Lagunes (died November 19, 2006), nicknamed ``Cacique of the South,'' (``cacique del sur'' in Spanish) was a Mexican cattle rancher and businessman who had political power in areas in the state of Veracruz.	Cirilo Vázquez	Spanish
+languages spoken or written	Erling Jepsen (born May 14, 1956 in Gram, Denmark) is a Danish author and playwright.	Erling Jepsen	Danish
+languages spoken or written	Francis Cyril Rose (1909 -- 1979), also Sir Francis, 4th Baronet of the Montreal Roses, was an English painter vigorously championed by Gertrude Stein.	Francis Cyril Rose	English
+languages spoken or written	Olivier Grunewald (born 1959) is a French photographer and author, with the main focus on nature, landscapes and wildlife.	Olivier Grunewald	French
+languages spoken or written	Antonio Cagnoli (29 September 1743, Zakynthos -- 6 August 1816, Verona) was an Italian astronomer, mathematician and diplomat in the service of the Republic of Venice.	Antonio Cagnoli	Italian
+languages spoken or written	Roger Tallon (9 March 1929 -- 20 October 2011) was a French industrial designer.	Roger Tallon	French
+languages spoken or written	Ann Radcliffe (née Ward, 9 July 1764 -- 7 February 1823) was an English author and pioneer of the Gothic novel.	Ann Radcliffe	English
+languages spoken or written	Claire Renard (born 1944) is a French composer and multimedia artist.	Claire Renard	French
+languages spoken or written	Conrad Bursian (German: (ˈbʊʀziaːn); 14 November 1830 -- 21 September 1883) was a German philologist and archaeologist.	Conrad Bursian	German
+languages spoken or written	Getulio Alviani (born 5 September 1939 in Udine) is an Italian painter based in Milan.	Getulio Alviani	Italian
+languages spoken or written	Javier Moro (born 1955, Madrid) is a Spanish author known for his books like Pasión India.	Javier Moro	Spanish
+languages spoken or written	Pierre Chany (16 December 1922 -- 18 June 1996) was a French cycling journalist.	Pierre Chany	French
+languages spoken or written	Friedrich Ueberweg (German: (ˈyːbɐˌveːk); 22 January 1826 -- 9 June 1871), was a German philosopher and historian of philosophy.	Friedrich Ueberweg	German
+languages spoken or written	Frank Margerin (born 9 January 1952 in Paris) is a French author and illustrator of comics.	Frank Margerin	French
+languages spoken or written	Léon Robin (Nantes, 17 January 1866 -- July 1947) was a French philosopher and scholar of Greek philosophy, professor of history of ancient philosophy at the Sorbonne from 1924 to 1936.	Léon Robin	French
+languages spoken or written	Alberto Ascari (Italian pronunciation: (alˈbɛrto asˈkari); 13 July 1918 -- 26 May 1955) was an Italian racing driver and twice Formula One World Champion.	Alberto Ascari	Italian
+languages spoken or written	Ana Blanco López (born 27 May 1963) is a Spanish Basque journalist and newscaster.	Ana Blanco	Spanish
+languages spoken or written	Henri-Robert (4 September 1863 -- 12 May 1936) was a French lawyer, historian, and member of the Académie française in 1923.	Henri-Robert	French
+languages spoken or written	Mani Leib (Mani Leyb, Yiddish: מאַני לייב‎; born Mani Leib Brahinsky, Russian: Мани Лейб Брагинский; 20 December 1883, Nezhin, Russian Empire -- 4 October 1953, New York) was a Yiddish-language poet.	Mani Leib	Yiddish
+languages spoken or written	Ludvig Mylius-Erichsen (January 15, 1872 - November 25, 1907) was a Danish author, ethnologist, and explorer, from Ringkøbing.	Ludvig Mylius-Erichsen	Danish
+languages spoken or written	Norodom Sihamoni (Khmer: នរោត្តម សីហមុនី; born 14 May 1953) became the King of Cambodia on 14 October 2004.	Norodom Sihamoni	Khmer
+languages spoken or written	David Lagercrantz (born 4 September 1962) is a Swedish journalist and best-selling author, internationally known as author of Zlatan Ibrahimović's biography I am Zlatan Ibrahimović and as the current writer of the Millennium series, originally by Stieg Larsson.	David Lagercrantz	Swedish
+languages spoken or written	Jerzy Porębski (born 28 February 1956 in Bielsko-Biała, Poland) is a Polish documentary film producer, scriptwriter, screenwriter, director and agent for mountaineering books.	Jerzy Porębski	Polish
+languages spoken or written	Ramon Lazkano is a contemporary Spanish Basque composer of classical music.	Ramon Lazkano	Spanish Basque
+languages spoken or written	Saiju Kurup is an Indian actor who works in Malayalam and Tamil cinema.	Saiju Kurup	Malayalam
+languages spoken or written	Carolyn Slaughter (born 7 January 1946) is a critically acclaimed English author now living in the United States.	Carolyn Slaughter	English
+languages spoken or written	Luís Cristóvão Dias de Aguiar (born 1940 in Pico da Pedra, São Miguel Island) commonly known as Cristóvão de Aguiar, is a Portuguese writer.	Cristóvão de Aguiar	Portuguese
+languages spoken or written	Irmin Schmidt (born 29 May 1937 in Berlin) is a German keyboardist and composer, best known as a founding member of the band Can.	Irmin Schmidt	German
+languages spoken or written	Harald Weinrich (born 24 September 1927 in Wismar) is a German classical scholar, scholar of Romance philology and philosopher, known for the breadth of his writings.	Harald Weinrich	German
+languages spoken or written	Charlotte Szlovak is a Jewish, Moroccan-born, French filmmaker.	Charlotte Szlovak	French
+languages spoken or written	Senait Ghebrehiwet Mehari is an Eritrean-born German singer.	Senait Ghebrehiwet Mehari	German
+languages spoken or written	Carl Arnold Kortum (July 5, 1745 -- August 15, 1824) was a German physician, but best known for his writing and poetry.	Carl Arnold Kortum	German
+languages spoken or written	Lars Christian Engström (born 9 February 1960) is a Swedish computer programmer, activist and politician.	Christian Engström	Swedish
+languages spoken or written	Pietari Päivärinta (18 September 1827 in Ylivieska -- 26 July 1913) was a Finnish writer and Diet member.	Pietari Päivärinta	Finnish
+languages spoken or written	Louis-Joseph Delaporte, often known as Louis Delaporte (22 October 1874 - February 1944) was a French archaeologist and Hittitologist.	Louis-Joseph Delaporte	French
+languages spoken or written	Raoul Villain (1885 -- 1936) was a French nationalist.	Raoul Villain	French
+languages spoken or written	George Heathcote (7 December 1700 -- 7 June 1768) was an eighteenth-century English politician and philanthropist who was a Member of Parliament and Lord Mayor of London.	George Heathcote	English
+languages spoken or written	André Paul (born Loures-Barousse, 7 April 1933) is a noted French scholar, educator and writer in the fields of theology, biblical studies and ancient Judaism.	André Paul	French
+languages spoken or written	Pilar López de Ayala Arroyo (born 18 September 1978 in Madrid) is a Spanish film actress.	Pilar López de Ayala	Spanish
+languages spoken or written	Karamana Janardanan Nair (25 July 1936 -- 24 April 2000) was one of the most famous Malayalam film actors during the 80s and 90s.	Karamana Janardanan Nair	Malayalam
+languages spoken or written	Pierre Gilliard (16 May 1879 -- 30 May 1962) was a Swiss academic and author, best known as the French language tutor to the five children of Emperor Nicholas II of Russia from 1905 to 1918.	Pierre Gilliard	French
+languages spoken or written	Gaius Cassius Parmensis (born c. 74 BC; died 31 or 30 BC in Athens) was a Roman politician and a Latin writer of the late Roman Republic, who belonged to the circle of conspirators against Gaius Julius Caesar.	Gaius Cassius Parmensis	Latin
+languages spoken or written	Roy Jacobsen (born 26 December 1954) is a Norwegian novelist and short-story writer.	Roy Jacobsen	Norwegian
+languages spoken or written	Geneviève Hasenohr (born 3 July 1942) is a French philologist and prolific scholar of medieval and Renaissance French literature.	Geneviève Hasenohr	French
+languages spoken or written	Seweryn Goszczyński (1801-1876) was a Polish Romantic prose writer and poet.	Seweryn Goszczyński	Polish
+languages spoken or written	Hussniya Jabara (Arabic: حسنية جبّارة‎; Hebrew: חוסניה ג'בארה‎, born 11 April 1958) is an Israeli former politician, who served as a member of the Knesset for Meretz between 1999 and 2003.	Hussniya Jabara	Arabic
+languages spoken or written	Salah El Mahdi (Tunisian Arabic: صالح المهدي‎; born Mohamed Ibn Abderrahmane Ben Salah Mehdi Chérifi on February 9, 1925 in Tunis and died September 12, 2014 in Tunis) was a Tunisian musicologist, conductor, composer, flautist, music critic and judge.	Salah El Mahdi	Arabic
+languages spoken or written	István Csurka (27 March 1934 -- 4 February 2012) was a right-wing Hungarian journalist, writer and politician.	István Csurka	Hungarian
+languages spoken or written	Miguel Córcega (Spanish pronunciation: (miˈɣel ˈkorseɣa), October 29, 1929, Mexico City -- September 29, 2008, Mexico City) was a Mexican telenovela actor and director.	Miguel Córcega	Spanish
+languages spoken or written	Carl Gustav Fleischer KCB (28 December 1883 -- 19 December 1942) was a Norwegian general and the first land commander to win a major victory against the Germans in the Second World War.	Carl Gustav Fleischer	Norwegian
+languages spoken or written	Marquis Louis de Beaufront, whose real name was Louis Chevreux (3 October 1855 -- 8 January 1935) was a major influence in the development of Ido, an international auxiliary language.	Louis de Beaufront	Ido
+languages spoken or written	Giacomo Gualco (December 30, 1936 -- November 6, 2011) was an Italian politician who served as the President of Liguria from September 1990 to January 1992.	Giacomo Gualco	Italian
+languages spoken or written	Françoise Claustre (8 February 1937 -- 3 September 2006), was a French archeologist who was taken hostage by a group of Chadian rebels, led by Hissène Habré, on 20 April 1974, at Bardaï, in the Tibesti Mountains of northern Chad.	Françoise Claustre	French
+languages spoken or written	Ernst Toller (1 December 1893 -- 22 May 1939) was a German left-wing playwright, best known for his Expressionist plays.	Ernst Toller	German
+languages spoken or written	Jean-Baptiste Ernest Noirot (18 August 1851 - 28 December 1913) was a French comic actor, photographer, explorer and colonial administrator in Senegal and French Guinea in West Africa.	Ernest Noirot	French
+languages spoken or written	Marie Dubas (3 September 1894 -- 21 February 1972) was a French music-hall singer, diseuse and comedian.	Marie Dubas	French
+languages spoken or written	Mohammad Kazem Kazemi (Persian: محمد کاظم کاظمی‎‎) (born January 10, 1968) is a notable contemporary Afghan poet, author, literary critic and a book editor by profession.	Kazem Kazemi	Persian
+languages spoken or written	Juan Pascual Azorín Soriano (6 August 1951, Yecla) is a Spanish politician.	Juan Pascual Azorín Soriano	Spanish
+languages spoken or written	Julius Valerius Alexander Polemius (third to fourth century AD) of the Valerius gens was a translator of the Greek Pseudo-Callisthenes, the romantic history of Alexander the Great, to the Latin Res gestae Alexandri Macedonis, in three books: birth; acts; death.	Julius Valerius Alexander Polemius	Latin
+languages spoken or written	Goliarda Sapienza (10 May 1924 -- 30 August 1996) was an Italian actress and writer.	Goliarda Sapienza	Italian
+languages spoken or written	Andrzej Stasiuk (born 25 September 1960 in Warsaw, Poland) is one of the most successful and internationally acclaimed contemporary Polish writers, journalists and literary critics.	Andrzej Stasiuk	Polish
+languages spoken or written	Lene Kaaberbøl (born in 1960) is a Danish writer born in Copenhagen, Denmark.	Lene Kaaberbøl	Danish
+languages spoken or written	Marc Recha (born 18 October 1970) is a Catalan Spanish film director and screenwriter.	Marc Recha	Catalan Spanish
+languages spoken or written	generally known as J. Mordaunt Crook, is an English architectural historian and specialist on the Georgian and Victorian periods.	J. Mordaunt Crook	English
+languages spoken or written	Vidhubala is a former Malayalam film actress who started her career in the mid-1970s and retired when she was at the peak of her career.	Vidhubala	Malayalam
+languages spoken or written	Dhanya Veena, better known by her stage name Navya Nair, is an Indian actress who works in Malayalam, Tamil, and Kannada films.	Navya Nair	Malayalam
+languages spoken or written	Paula Modersohn-Becker (February 8, 1876 -- November 21, 1907) was a German painter and one of the most important representatives of early expressionism.	Paula Modersohn-Becker	German
+languages spoken or written	Henry Fynes Clinton (14 January 1781 -- 24 October 1852) was an English classical scholar and chronologist.	Henry Fynes Clinton	English
+languages spoken or written	Franco Fortini was the pseudonym of Franco Lattes, (September 10, 1917 -- November 28, 1994), an Italian poet, writer, translator, essayist, literary critic and Marxist intellectual.	Franco Fortini	Italian
+languages spoken or written	Jenison Shafto (c.1728-13 May 1771), of Wratting Park, Cambridgeshire, was an English politician, race-horse owner, and gambler.	Jenison Shafto	English
+languages spoken or written	Benjamin Fain (Russian: Вениамин Моисеевич Файн, Hebrew: בנימין פיין‎) (February 17, 1930 -- April 15, 2013) was an Israeli physicist, professor-emeritus, and former refusenik.	Benjamin Fain	Russian	Hebrew
+languages spoken or written	Václav Bělohradský (born January 17, 1944 Prague) is one of the most famous contemporary Czech philosophers and sociologists.	Václav Bělohradský	Czech
+languages spoken or written	Sebastian Franck (20 January 1499 -- c. 1543) was a 16th-century German freethinker, humanist, and radical reformer.	Sebastian Franck	German
+languages spoken or written	Hagen von Ortloff (born May 1949 in Zwickau) is a German TV presenter.	Hagen von Ortloff	German
+languages spoken or written	Johann Friedrich Agricola (4 January 1720 -- 2 December 1774) was a German composer, organist, singer, pedagogue, and writer on music.	Johann Friedrich Agricola	German
+languages spoken or written	Louis Bourdaloue (August 20, 1632 -- May 13, 1704) was a French Jesuit and preacher.	Louis Bourdaloue	French
+languages spoken or written	Birgithe Kosovic (born 22 March 1972) is a Danish journalist and author who has received several awards for her novel Det dobbelte land (literally The Doubled Country, 2010) based on her family's background in the former Yugoslavia.	Birgithe Kosovic	Danish
+languages spoken or written	Reinhard Karl (November 3, 1946 -- May 19, 1982) was a German mountaineer, photographer and writer.	Reinhard Karl	German
+languages spoken or written	Martin Kukučín (real name Matej Bencúr, 17 May 1860, Jasenová, Árva County -- 21 May 1928) was a Slovak prose writer, dramatist and publicist.	Martin Kukučín	Slovak
+languages spoken or written	Hart's interest in poetry is maintained by the Josephine Hart Poetry Foundation, a registered charity under English law.	Josephine Hart	English
+languages spoken or written	Armand de Ricqlès is a French paleontologist best known for his work in bone histology and its implications for the growth of dinosaurs (e.g.).	Armand de Ricqlès	French
+languages spoken or written	Youn In-wan (Hangul: 윤인완, born July 27, 1976) is a South Korean manhwa writer.	Youn In-wan	Korean
+native language	Yvonne Furneaux (born 11 May 1928, Roubaix, Nord-Pas-de-Calais) is a French film actress.	Yvonne Furneaux	French
+native language	Steve Tran (born 22 April 1985) is a French Vietnamese film and television actor.	Steve Tran	French
+native language	Jakov ``Jaša'' Tomić (Serbian Cyrillic: Јаша Томић; 1856 -- 1922) was a Serb politician, publicist, journalist and man of letters from the Serbian region of Vojvodina, which was part of Austrian Empire when Jaša Tomić was born.	Jaša Tomić	Serbian
+native language	François Brigneau (30 April 1919 - 9 April 2012) was a French far right journalist and author who was a leading figure in Ordre Nouveau, the National Front and the Party of New Forces.	François Brigneau	French
+native language	Jan Frederik Helmers (March 7, 1767 -- February 26, 1813), was a Dutch poet born in Amsterdam.	Jan Frederik Helmers	Dutch
+native language	Han Moo-sook, also known as Han Musuk, Han Moo-suk, Han Musook, Mu-suk Han, and Han Mu-suk (1918-1993) (Hangul: 한 무숙) was a South Korean writer.	Han Moo-sook	Korean
+native language	Christian Horace Benedict Alfred Moquin-Tandon (7 May 1804 - 15 April 1863) was a French naturalist and doctor.	Alfred Moquin-Tandon	French
+native language	Pasupuleti Ramesh Naidu (born 1933) was an Indian film, music composer, multi instrumentalist and singer, known for his works predominantly in Telugu cinema.	Pasupuleti Ramesh Naidu	Telugu
+native language	Willem Schuth (born on 14 June 1954 in Assen) is a Dutch politician and former Member of the European Parliament for Germany with the Free Democratic Party of Germany, part of the Alliance of Liberals and Democrats for Europe and sits on the European Parliament's Committee on Agriculture and Rural Development.	Willem Schuth	Dutch
+native language	William Leymergie (born 4 February 1947 in Libourne, Gironde, France) is a journalist television producer and host, best known for the French breakfast television news show Télématin, broadcast on public broadcaster France 2.	William Leymergie	French
+native language	Theo Loevendie (born September 17, 1930 in Amsterdam) is a Dutch composer and clarinet player.	Theo Loevendie	Dutch
+native language	Athanase Laurent Charles Coquerel (7 August 1795 -- 1868) was a French Protestant theologian, born in Paris, elected deputy of the Constituent Assembly after the revolution of February 1848.	Athanase Laurent Charles Coquerel	French
+native language	Franck Borotra (born 30 August 1937) is a French politician, member of the Rally for the Republic party (French: Rassemblement pour la République French pronunciation: ​(ʁa.sɑ̃.blə.mɑ̃.puʁ.la.ʁe.pyˈblik); RPR French pronunciation: ​(ɛr.peˈɛr)).	Franck Borotra	French
+native language	Joseph Caffarelli, full name Louis Marie Joseph, comte de Caffarelli du Falga, (21 February 1760, Le Falga -- 14 August 1845, Lavelanet) was a French sailor, soldier and politician, who was a Conseiller d'État and maritime prefect of Brest.	Joseph Caffarelli	French
+native language	Anne Wiazemsky (born 14 May 1947) is a French actress and novelist of the Russian Rurikid family of Princes Vyazemsky-Counts Levashov.	Anne Wiazemsky	French
+native language	Emmanuel Marie Michel Philippe Fréteau de Saint-Just (28 March 1745 -- 14 June 1794) was a French nobleman and an elected representative of the Second Estate during the French Revolution.	Emmanuel Marie Michel Philippe Fréteau de Saint-Just	French
+native language	Joseph Dominique, baron Louis (13 November 1755 -- 26 August 1837), French statesman and financier, was born at Toul (Meurthe).	Joseph Dominique, baron Louis	French
+native language	Alexis Piron (July 9, 1689 -- January 21, 1773) was a French epigrammatist and dramatist.	Alexis Piron	French
+native language	Antoine de Maximy (born May 21, 1959) is a French backpacker, television host and producer.	Antoine de Maximy	French
+native language	Caroline Cayeux (born November 1, 1948) is a French politician and Mayor of Beauvais (Oise).	Caroline Cayeux	French
+native language	Jean-Marie Guyau (October 28, 1854, Laval, Mayenne -- March 31, 1888, Menton) was a French philosopher and poet.	Jean-Marie Guyau	French
+native language	Eugène Auguste Ernest Havet (April 11, 1813 -- December 21, 1889), French scholar, was born in Paris.	Eugène Auguste Ernest Havet	French
+native language	Philippe-François-Joseph Le Bas (4 November 1762, Frévent, Pas-de-Calais - 28 July 1794, Paris) was a French revolutionary.	Philippe-François-Joseph Le Bas	French
+native language	Raymond Hermantier (13 January 1924 -- 11 February 2005) was a French actor, born in Lyon, France as Raymond Maroutian.	Raymond Hermantier	French
+native language	Louis Racine (born November 6, 1692, Paris; died January 29, 1763, Paris) was a French poet of the Age of the Enlightenment.	Louis Racine	French
+native language	Lucie Cousturier (19 December 1876 - 16 June 1925) was a French painter and writer.	Lucie Cousturier	French
+native language	Lolita Pille (born August 27, 1982) is a French author, best known for her two novels:	Lolita Pille	French
+native language	Michel Fanget (born May 3, 1950 in Clermont-Ferrand) is a French politician and a member of the MoDem.	Michel Fanget	French
+native language	François Sauvadet (born 20 April 1953) in Dijon is a French centrist politician from Burgundy.	François Sauvadet	French
+native language	Gaston Lavalley (29 November 1834, Vouilly -- 1922) was a French writer, historian and art historian.	Gaston Lavalley	French
+native language	Serge Vinçon (17 June 1949 -- 16 December 2007), was a French politician of the UMP party.	Serge Vinçon	French
+native language	Joseph Dubosc, count of Pesquidoux (13 December 1869, Savigny-lès-Beaune, Côte-d'Or -- 17 March 1946, Houga), known as Joseph de Pesquidoux, was a French writer.	Joseph de Pesquidoux	French
+native language	Louis Gustave le Doulcet, comte de Pontécoulant (17 November 1764 -- 3 April 1853) was a French politician.	Louis Gustave le Doulcet, comte de Pontécoulant	French
+native language	Jacques Baron (1905--1986) was a French surrealist poet whose first collection of poems was published in Aventure in 1921.	Jacques Baron	French
+native language	Nicolas-Louis François de Neufchâteau (French pronunciation: ​(fʁɑ̃swa də nœfʃato); 17 April 1750 -- 10 January 1828) was a French statesman, poet, and scientist.	François de Neufchâteau	French
+native language	Jules Jacquot d'Andelarre (25 October 1803, Dijon - 26 November 1885) was a French Orleanist politician.	Jules Jacquot d'Andelarre	French
+native language	Fernand Ledoux (born Jacques Joseph Félix Fernand Ledoux, 24 January 1897, Tirlemont -- 21 September 1994, Villerville) was a French film and theatre actor of Belgian origin.	Fernand Ledoux	French
+native language	French writer Jacques Natanson (15 May 1901 - 19 May 1975) first became involved in the movies in 1929 when one of his plays was adapted for the screen.	Jacques Natanson	French
+native language	Camille de Casabianca (31 October 1960, Paris) is a French filmmaker/writer.	Camille de Casabianca	French
+native language	Pierre-Antoine Antonelle (1747--1817) was a French journalist, politician, president of the Jacobin Club and revolutionary.	Pierre-Antoine Antonelle	French
+native language	Ginette Garcin (4 January 1928 -- 10 June 2010) was a French actress of stage, film and television.	Ginette Garcin	French
+native language	Max Ernst (2 April 1891 -- 1 April 1976) was a German painter, sculptor, graphic artist, and poet.	Max Ernst	German
+native language	Frank Lammers (born 10 April 1972 in Mierlo) is a Dutch television and film actor.	Frank Lammers	Dutch
+native language	Gustave Flaubert (French pronunciation: ​(ɡystav flobɛʁ); 12 December 1821 -- 8 May 1880) was an influential French novelist who was perhaps the leading exponent of literary realism in his country.	Gustave Flaubert	French
+native language	Pierre Albert-Birot (22 April 1876 -- 25 July 1967) was a French avant-garde poet, dramatist, and theater manager.	Pierre Albert-Birot	French
+native language	Anne Alvaro (born 29 October 1951) is a French actress whose work spans from the early 1970s through 2012.	Anne Alvaro	French
+parent taxon	Balaena is a genus of cetacean (whale) in the family Balaenidae.	Balaena	Balaenidae
+parent taxon	The Taiwan guitarfish (Rhinobatos formosensis) is a species of fish in the Rhinobatidae family.	Taiwan guitarfish	Rhinobatos
+parent taxon	Baissoptera is an extinct genus of snakefly in the Baissopteridae family which was described by Martynova in 1961.	Baissoptera	Baissopteridae
+parent taxon	The Madagascan partridge (Margaroperdix madagascariensis) is a species of bird in the Phasianidae family.	Madagascan partridge	Margaroperdix
+parent taxon	The Weapontail or Brazilian spiny-tailed lizard (Hoplocercus spinosus) is a lizard belonging to the monotypic genus Hoplocercus.	Weapontail	Hoplocercus
+parent taxon	The Steller's eider (Polysticta stelleri) is a smallish sea duck that breeds along the Arctic coasts of eastern Siberia and Alaska.	Steller's eider	Polysticta
+parent taxon	The Eurasian pygmy shrew (Sorex minutus), often known simply as the pygmy shrew, is a widespread shrew of northern Eurasia.	Eurasian pygmy shrew	Sorex
+parent taxon	Lesueurigobius suerii, Lesueur's goby, is a species of goby native to the Eastern Atlantic Ocean near the coasts of the Canary Islands and Morocco as well as in the Mediterranean Sea.	Lesueur's goby	Lesueurigobius
+parent taxon	Sarcopterygii (Class) Dipnoi (Subclass) Uranolophina (Order) Uranolophidae (Family) Uranolophus (Genus) Melanognathus (Genus)	Uranolophidae	Uranolophina
+parent taxon	The Javan thick-thumbed bat (Glischropus javanus) is a species of vesper bat.	Javan thick-thumbed bat	Glischropus
+parent taxon	Schizocyathus is a monotypic genus of stony corals in the family Schizocyathidae, the only species being Schizocyathus fissilis.	Schizocyathus	Schizocyathidae
+parent taxon	The Comoros olive pigeon (Columba pollenii) is a species of bird in the family Columbidae.	Comoros olive pigeon	Columba
+parent taxon	Chervil (/ˈtʃɜrˌvɪl/; Anthriscus cerefolium), sometimes called garden chervil to distinguish it from similar plants also called chervil, or French parsley, is a delicate annual herb related to parsley.	Chervil	Anthriscus
+parent taxon	The Cuban greater funnel-eared bat (Natalus primus) is a species of funnel-eared bat found in Cuba.	Cuban greater funnel-eared bat	Natalus
+parent taxon	Paratrichonius caesius is a species of beetle in the family Cerambycidae, the only species in the genus Paratrichonius.	Paratrichonius	Cerambycidae
+parent taxon	Teratembiidae is a family of insects in the order Embioptera, the web-spinners.	Teratembiidae	Embioptera
+parent taxon	Cornuproetus was a genus of trilobite in the family Tropidocoryphidae.	Cornuproetus	Tropidocoryphidae
+parent taxon	Buthraupis is a genus of South American birds in the tanager family.	Buthraupis	tanager
+parent taxon	The Incan little mastiff bat (Mormopterus phrudus) is a species of bat in the family Molossidae, the free-tailed bats.	Incan little mastiff bat	Mormopterus
+parent taxon	Robert's snow vole (Chionomys roberti) is a species of rodent in the family Cricetidae.	Robert's snow vole	Chionomys
+parent taxon	The Nihoa finch (Telespiza ultima) is one of the two endemic bird species of the tiny Hawaiian island Nihoa, the other being the Nihoa millerbird.	Nihoa finch	Telespiza
+parent taxon	The Zvonimir's blenny (Parablennius zvonimiri) is a species of combtooth blenny found in the Mediterranean and Black Sea.	Zvonimir's blenny	Parablennius
+parent taxon	Passerini's tanager, Ramphocelus passerinii, is a medium-sized passerine bird.	Passerini's tanager	Ramphocelus
+parent taxon	Libertia is a genus of monocotyledenous plants in the family Iridaceae, first described as a genus in 1824.	Libertia	Iridaceae
+parent taxon	Karkeniaceae is an extinct family in the order Ginkgoales.	Karkeniaceae	Ginkgoales
+parent taxon	Heliobatis is an extinct genus of ray in the Myliobatiformes family Dasyatidae.	Heliobatis	Dasyatidae
+parent taxon	The Asmara toad (Amietophrynus asmarae) is a species of toad in the family Bufonidae.	Asmara toad	Amietophrynus
+parent taxon	The Wanggao warty newt (Paramesotriton fuzhongensis') is a species of salamander in the Salamandridae family found only in China.	Wanggao warty newt	Paramesotriton
+parent taxon	The Leptoconopinae are a subfamily of biting midges in the family Ceratopogonidae.	Leptoconopinae	Ceratopogonidae
+parent taxon	Aristelliger is a genus of Caribbean geckos, in the family Sphaerodactylidae commonly known as croaking geckos.	Aristelliger	Sphaerodactylidae
+parent taxon	Campylites is a genus within the oppeliida subfamily Ochetoceratinae, equivalent to Neoprionoceras Spath 1928, that lived during the Oxfordian state at the beginning of the Late Jurassic.	Campylites	Ochetoceratinae
+parent taxon	The Woodsiaceae or cliff ferns is a family of ferns in the Eupolypods II clade of the order Polypodiales, in the class Polypodiopsida.	Woodsiaceae	Polypodiales
+parent taxon	Arctozenus risso, the Spotted barracudina or Ribbon barracudina, is a species of barracudina found in oceans worldwide in the meso- and bathypelagic zone down to abound 2,200 metres (7,200 ft).	Spotted barracudina	Arctozenus
+parent taxon	Mucoromycotina is a subdivision of Fungi of uncertain affinities.	Mucoromycotina	Fungi
+parent taxon	Dunn's climbing salamander (Bolitoglossa dunni) is a species of salamander in the family Plethodontidae.	Dunn's climbing salamander	Bolitoglossa
+parent taxon	Scalopodon and most other scaloposaurids are now classified as basal members of Baurioidea.	Scalopodon	Baurioidea
+parent taxon	The Karissimbi forest tree frog, Leptopelis karissimbensis, is a species of frog in the Arthroleptidae family found in the Democratic Republic of the Congo, Rwanda, and Uganda.	Karissimbi forest tree frog	Leptopelis
+parent taxon	Griffiniella is one of several cockroach genera in the family Blaberidae, the giant cockroach or ovoviviparous cockroach family.	Griffiniella	Blaberidae
+parent taxon	Pisonia is a genus of flowering plants in the four o'clock flower family, Nyctaginaceae.	Pisonia	Nyctaginaceae
+parent taxon	The Tapajós hermit (Phaethornis aethopygus) is a species of hummingbird in the Trochilidae family.	Tapajós hermit	Phaethornis
+parent taxon	Basilornis is a genus of mynas in the family Sturnidae.	Basilornis	Sturnidae
+parent taxon	Pardalotes or peep-wrens are a family, Pardalotidae, of very small, brightly coloured birds native to Australia, with short tails, strong legs, and stubby blunt beaks.	Pardalote	Pardalotidae
+parent taxon	The Raso lark (Alauda razae) is a small passerine bird with a highly restricted range, being found only on Raso islet in the Cape Verde Islands.	Raso lark	Alauda
+parent taxon	Laboute's wrasse, Cirrhilabrus laboutei, is a species of wrasse native to the coral reefs of New Caledonia and Australia, where it occurs at depths of 7 to 55 m (23 to 180 ft).	Laboute's wrasse	Cirrhilabrus
+parent taxon	Despite having a similar name, build and behaviour, the European mink is not closely related to the American mink, being much closer to the European polecat and Siberian weasel (kolonok).	European mink	weasel
+parent taxon	Uroobovella is a large genus of mites in the family Urodinychidae.	Uroobovella	Urodinychidae
+parent taxon	Eremiomyces is a fungal genus within the Pezizaceae family.	Eremiomyces	Pezizaceae
+parent taxon	Changchengopterus is a genus of non-pterodactyloid pterosaur from China (Qinglong County, Hebei Province).	Changchengopterus	pterosaur
+parent taxon	The Ballan wrasse (Labrus bergylta) is a species of wrasse native to the northeastern Atlantic Ocean from Norway to Morocco, including the islands of Madeira, the Azores and the Canary Islands.	Ballan wrasse	Labrus
+parent taxon	Fruva was a genus of moths of the Noctuidae family, it is now considered a synonym of Ponometia.	Fruva	Noctuidae
+parent taxon	Acanthocalyx is a genus of about three species of plants in the family Caprifoliaceae, sometimes included in Morinaceae, native to Sino-Himalayan Region.	Acanthocalyx	Caprifoliaceae
+parent taxon	The Agaminae are a subfamily of reptiles in the family Agamidae.	Agaminae	Agamidae
+parent taxon	The Indian triggerfish (Melichthys indicus), also known as the black-finned triggerfish, has a brown body and black fins with white lines at the base of the dorsal and anal fins.	Indian triggerfish	Melichthys
+parent taxon	Otodontidae is an extinct family of sharks, belonging to the order Lamniformes.	Otodontidae	Lamniformes
+parent taxon	The Betic midwife toad or Sapo Partero Bético (Alytes dickhilleni) is a species of frog in the Alytidae family (formerly Discoglossidae).	Betic midwife toad	Alytes
+parent taxon	The Seram golden bulbul (Alophoixus affinis) is a species of songbird in the Pycnonotidae family.	Seram golden bulbul	Alophoixus
+parent taxon	Liaoximordella hongi is a species of beetle in the family Mordellidae, the only species in the genus Liaoximordella.	Liaoximordella	Mordellidae
+parent taxon	The Paramo tapaculo (Scytalopus opacus) is a species of bird in the Formicariidae family.	Paramo tapaculo	Scytalopus
+parent taxon	The Buller's chipmunk (Neotamias bulleri) is a species of rodent in the family Sciuridae.	Buller's chipmunk	Neotamias
+parent taxon	Agonostomus is a genus of fish in the family Mugilidae, the mullets.	Agonostomus	Mugilidae
+parent taxon	Eumetabola is an unranked category of Neoptera.	Eumetabola	Neoptera
+parent taxon	Cynegetis is a genus of Coccinellidae native to Eurasia.	Cynegetis	Coccinellidae
+parent taxon	Fallisia is a genus of the family Plasmodiidae The genus was created by Lainson, Landau and Shaw in 1974.	Fallisia	Plasmodiidae
+parent taxon	Nepeta is a genus of flowering plants in the family Lamiaceae also known as catmints.	Nepeta	Lamiaceae
+parent taxon	The pectoral girdle in Muraenosaurus is broader than in most plesiosaurs and helped to situate the animal as a member of Cryptoclididae.	Muraenosaurus	Cryptoclididae
+parent taxon	Glossopetalon is a small genus of shrubs in the plant family Crossosomataceae.	Glossopetalon	Crossosomataceae
+parent taxon	Uncinia is a genus of flowering plants in the family Cyperaceae, known as hook-sedges in Australia and as hook grasses or bastard grasses in New Zealand.	Uncinia	Cyperaceae
+parent taxon	Oppeliidae are compressed to oxyconic, sculptured Haplocerataceae, either unkeeled, unicarinate, bicarinate, or tricarinate; with sutures in great variety, but ribbing usually more or less falcoid or falcate.	Oppeliidae	Haplocerataceae
+parent taxon	Nanoa is a sister genus of Pimoa, in the spider family Pimoidae, containing the single species Nanoa enana.	Nanoa	Pimoidae
+parent taxon	The Nankiang horned toad (Xenophrys nankiangensis) is a species of amphibian in the Megophryidae family.	Nankiang horned toad	Xenophrys
+parent taxon	Nymphes is a lacewing genus in the family Nymphidae.	Nymphes	Nymphidae
+parent taxon	The Victoria ridged frog (Ptychadena aequiplicata) is a species of frog in the Ptychadenidae family.	Victoria ridged frog	Ptychadena
+parent taxon	The Asian sheepshead wrasse, Semicossyphus reticulatus, is a species of wrasse, one of the largest, native to the western Pacific Ocean, where it is only known from Korean Peninsula, China, Japan, and the Ogasawara Islands, where it inhabits rocky reef areas.	Asian sheepshead wrasse	Semicossyphus
+parent taxon	The spider family Oecobiidae (also called disc web spiders) includes about 100 described species so far.	Oecobiidae	spider
+parent taxon	The Galápagos mockingbird (Mimus parvulus) is a species of bird in the Mimidae family.	Galápagos mockingbird	Mimus
+parent taxon	The Satyrinae, the satyrines or satyrids, commonly known as the browns, are a subfamily of the Nymphalidae (brush-footed butterflies).	Satyrinae	Nymphalidae
+parent taxon	The Coastrange sculpin, Cottus aleuticus, is a freshwater sculpin of the genus Cottus.	Coastrange sculpin	Cottus
+parent taxon	Orthogastropoda was a major taxonomic grouping of snails and slugs, an extremely large subclass within the huge class Gastropoda according to the older taxonomy of the Gastropoda (Ponder & Lindberg, 1997).	Orthogastropoda	Gastropoda
+parent taxon	Zearaja is a small genus of skates in the family Rajidae.	Zearaja	Rajidae
+parent taxon	Mulinia is a genus of small to medium-sized saltwater and estuarine clams, marine bivalve mollusks in the family Mactridae.	Mulinia	Mactridae
+parent taxon	The cosmopolitan bee genus Ceratina, often referred to as small carpenter bees, is the sole lineage of the tribe Ceratinini, and closely related to the more familiar carpenter bees.	Ceratina	Ceratinini
+parent taxon	Tarsoctenus is a Neotropical genus in the family Hesperiidae (Pyrginae).	Tarsoctenus	Hesperiidae
+parent taxon	Gambelia is a genus of lizards, commonly known as leopard lizards, within the family Crotaphytidae.	Gambelia	Crotaphytidae
+parent taxon	Germanonautilus is a cephalopod genus included in the nautilid family Tainoceratidae, found widespread in the Triassic of North America, Europe, Asia, and north Africa.	Germanonautilus	Tainoceratidae
+parent taxon	Omphalorissa purchasi is a species of small land snail, a terrestrial gastropod mollusc in the family Hydrocenidae.	Omphalorissa purchasi	Hydrocenidae
+parent taxon	The Argus monitor (Varanus panoptes) is a monitor lizard found in northern regions of Australia and southern New Guinea.	Argus monitor	monitor lizard
+parent taxon	Cyanocorax is a genus of New World jays, passerine birds in the crow family, Corvidae.	Cyanocorax	Corvidae
+parent taxon	Antidesmeae is a tribe of the plant family Phyllanthaceae.	Antidesmeae	Phyllanthaceae
+parent taxon	Alligatorinae is one of two subfamilies of the family Alligatoridae.	Alligatorinae	Alligatoridae
+parent taxon	The Pfrimer's parakeet (Pyrrhura pfrimeri), in aviculture also known as Pfrimer's conure, is a species of parrot in the family Psittacidae.	Pfrimer's parakeet	Pyrrhura
+parent taxon	The Cape starling, red-shouldered glossy-starling or Cape glossy starling (Lamprotornis nitens) is a species of starling in the family Sturnidae.	Cape starling	Lamprotornis
+parent taxon	Dorstenia is a predominately Old and New World plant genus within the family Moraceae, but there is one Dorstenia species that is located in Indonesia and South Asia.	Dorstenia	Moraceae
+parent taxon	The Saint Helena cuckoo (Nannococcyx psix) is an extinct bird.	Saint Helena cuckoo	Nannococcyx
+parent taxon	The Usambara shrew (Crocidura usambarae) is a species of mammal in the family Soricidae.	Usambara shrew	Crocidura
+parent taxon	Myzostoma is a genus of marine worms, which are which are parasitic on crinoids in the family Myzostomidae.	Myzostoma	Myzostomidae
+parent taxon	Among the ``warbler and babbler'' superfamily Sylvioidea, the Locustellidae are closest to the Malagasy warblers, another newly recognized (and hitherto unnamed) family; the black-capped donacobius (Donacobius atricapillus) is an American relative derived from the same ancestral stock and not a wren as was long believed.	Locustellidae	Sylvioidea
+parent taxon	The Medje free-tailed bat (Mops congicus) is a species of bat in the family Molossidae.	Medje free-tailed bat	Mops
+parent taxon	Roosevelt's shrew (Crocidura roosevelti) is a species of mammal in the family Soricidae.	Roosevelt's shrew	Crocidura
+parent taxon	Odina is an Indomalayan genus of skippers in the family Hesperiidae.	Odina	Hesperiidae
+parent taxon	Laeviemarginula is a genus of sea snails, marine gastropod mollusks in the family Fissurellidae, the keyhole limpets and slit limpets.	Laeviemarginula	Fissurellidae
+parent taxon	Libellula is a genus of dragonflies, commonly called skimmers, in the family Libellulidae, distributed throughout the temperate zone of the Northern Hemisphere.	Libellula	Libellulidae
+parent taxon	Koilodepas is a genus of plant of the family Euphorbiaceae first described as a genus in 1856.	Koilodepas	Euphorbiaceae
+parent taxon	Planorbis is a genus of air-breathing freshwater snails, aquatic pulmonate gastropod mollusks in the family Planorbidae, the ram's horn snails, or planorbids.	Planorbis	Planorbidae
+parent taxon	Dodonaea is a genus of about 70 species of flowering plants, often known as hop-bushes, in the soapberry family, Sapindaceae.	Dodonaea	Sapindaceae
+parent taxon	The Kassam tree frog (Litoria multiplica) is a species of frog in the Hylidae family, endemic to Papua New Guinea.	Kassam tree frog	Litoria
+parent taxon	The Parnassiinae or snow Apollos are a subfamily of the swallowtail butterfly family, Papilionidae.	Parnassiinae	Papilionidae
+parent taxon	Xenisthmus is the most well-known genus in the family Xenisthmidae.	Xenisthmus	Xenisthmidae
+parent taxon	Jollas is a genus of jumping spiders (Salticidae).	Jollas	Salticidae
+parent taxon	The European seabass (Dicentrarchus labrax) is a primarily ocean-going fish that sometimes enters brackish and fresh waters.	European seabass	Dicentrarchus
+parent taxon	The Adamawa turtle dove (Streptopelia hypopyrrha) is a species of bird in the family Columbidae.	Adamawa turtle dove	Streptopelia
+parent taxon	Odorrana (commonly known as the odorous frog) is a genus of true frogs (Ranidae) from East Asia and surrounding regions.	Odorrana	Ranidae
+parent taxon	The bullfinch, common bullfinch or Eurasian bullfinch (Pyrrhula pyrrhula) is a small passerine bird in the finch family Fringillidae.	Eurasian bullfinch	Pyrrhula
+parent taxon	Meckelia zaidami is a species of ulidiid or picture-winged fly in the genus Meckelia of the family Ulidiidae.	Meckelia zaidami	Ulidiidae
+parent taxon	Tomato yellow leaf curl virus (TYLCV) is a DNA virus from the genus Begomovirus and the family Geminiviridae.	Tomato yellow leaf curl virus	Begomovirus
+parent taxon	The Pastaza corydoras (Corydoras pastazensis) is a tropical freshwater fish belonging to the Corydoradinae sub-family of the Callichthyidae family.	Pastaza corydoras	Corydoras
+parent taxon	The genus Proscyllium is a small genus of finback catsharks in the family Proscylliidae.	Proscyllium	Proscylliidae
+parent taxon	Ryukyu tube-nosed bat (Murina ryukyuana) is a species of vesper bat in the family Vespertilionidae.	Ryukyu tube-nosed bat	Murina
+parent taxon	All these factors converge to hint that Peteinosaurus belongs to a group that possibly represents the most basal known pterosaurs: the Dimorphodontidae, to which it was assigned in 1988 by Robert L. Carroll.	Peteinosaurus	Dimorphodontidae
+parent taxon	The Samkos bush frog, Chiromantis samkosensis, is a moss frog found in Cambodia in the Cardamom Mountains.	Samkos bush frog	Chiromantis
+parent taxon	Brachylabis is a genus of earwigs in the subfamily Brachylabinae.	Brachylabis	Brachylabinae
+parent taxon	Natica is a genus of small to medium-sized predatory sea snails, marine gastropods in the family Naticidae, the moon snails.	Natica	Naticidae
+parent taxon	The Malabar pied hornbill (Anthracoceros coronatus), also known as lesser pied hornbill, is a bird in the hornbill family, a family of tropical near-passerine birds found in the Old World.	Malabar pied hornbill	Anthracoceros
+parent taxon	The Atlantic whitefish (Coregonus huntsmani) is a coregonine fish inhabiting some freshwater lakes within Nova Scotia, Canada.	Atlantic whitefish	Coregonus
+parent taxon	Mogoplistidae is a family of scaly crickets within the superfamily Grylloidea.	Mogoplistidae	Grylloidea
+parent taxon	Inquisitor stenos is a species of sea snail, a marine gastropod mollusk in the family Turridae, the turrids.	Inquisitor stenos	Turridae
+parent taxon	The Sunda cuckooshrike (Coracina larvata) is a species of bird in the Campephagidae family.	Sunda cuckooshrike	Coracina
+parent taxon	Phidippus is a genus in the family Salticidae (jumping spiders).	Phidippus	Salticidae
+parent taxon	The Peninsular horseshoe bat (Rhinolophus robinsoni) is a species of bat native to Malaysia and Thailand.	Peninsular horseshoe bat	Rhinolophus
+parent taxon	Pseudoxenasma is a fungal genus in the family Russulaceae, described in 1976.	Pseudoxenasma	Russulaceae
+parent taxon	The Te Kakahu skink, Oligosoma tekakahu, is a critically endangered species of skink native to New Zealand.	Te Kakahu skink	Oligosoma
+parent taxon	The Père David's owl (Strix davidi) is an owl found in the mountains of central China (Qinghai and Sichuan).	Père David's owl	Strix
+parent taxon	Lubbock's wrasse, Cirrhilabrus lubbocki, is a species of wrasse native to coral reefs of the Philippines and the island of Sulawesi in Indonesia, though it also has been claimed to be present in Malaysia, Japan, and Palau.	Lubbock's wrasse	Cirrhilabrus
+parent taxon	Pronesopupa is a genus of minute, air-breathing land snails, terrestrial pulmonate gastropod mollusks in the family Pupillidae.	Pronesopupa	Pupillidae
+parent taxon	Sinowatsonia is a genus of moth in the family Arctiidae from mountains of West China.	Sinowatsonia	Arctiidae
+parent taxon	The Petra fruit bat (Lissonycteris petraea) is a species of bat in the family Pteropodidae.	Petra fruit bat	Lissonycteris
+parent taxon	Menodora is a genus of perennial plants and shrubs in the olive family Oleaceae.	Menodora	Oleaceae
+parent taxon	Zagira was a genus of moths of the Noctuidae family, it is now considered a synonym of Carmara.	Zagira	Noctuidae
+parent taxon	Leptorhabdium pictum is a species of beetle in the family Cerambycidae, the only species in the genus Leptorhabdium.	Leptorhabdium	Cerambycidae
+parent taxon	Aeshna is a genus of dragonflies from the family Aeshnidae.	Aeshna	Aeshnidae
+parent taxon	Hume's wheatear (Oenanthe albonigra) is a species of bird in the family Muscicapidae.	Hume's wheatear	Oenanthe
+parent taxon	Orangefin shiner (Notropis ammophilus) is a species of ray-finned fish in the genus Notropis.	Orangefin shiner	Notropis
+parent taxon	Originally assigned to the Ankylosauridae, Panoplosaurus is today considered a member of the Nodosauridae as a close relative of Edmontonia from the same formation.	Panoplosaurus	Nodosauridae
+parent taxon	Thomisus is a genus of crab spiders (family Thomisidae) with more than 100 species described.	Thomisus	Thomisidae
+parent taxon	Pericallis is a small genus of about 14 species of flowering plants in the family Asteraceae, native to the Canary Islands and Madeira.	Pericallis	Asteraceae
+parent taxon	Muju virus (MUV) is a zoonotic negative sense single-stranded RNA virus species of the genus Hantavirus.	Muju virus	Hantavirus
+parent taxon	Garryoceras is an extinct genus, probably from the actively mobile carnivorous cephalopod order Orthocerida, that lived in what would be North America during the Late Ordovician, from 460.5--443.7 mya, existing for approximately 16.8 million years.	Garryoceras	Orthocerida
+parent taxon	Gonyacantha rubronigra is a species of beetle in the family Cerambycidae, the only species in the genus Gonyacantha.	Gonyacantha	Cerambycidae
+parent taxon	Moraea, the Cape tulips, is a genus of plants in the family Iridaceae, first described as a genus in 1758.	Moraea	Iridaceae
+parent taxon	Grant's zebra (Equus quagga boehmi) is the smallest of six subspecies of the plains zebra.	Grant's zebra	plains zebra
+parent taxon	Chamarea is a genus of flowering plant in the Apiaceae, with 5 species.	Chamarea	Apiaceae
+parent taxon	Spectamen is a genus of small sea snails, marine gastropod molluscs in the family Solariellidae within the superfamily Trochoidea.	Spectamen	Solariellidae
+parent taxon	Earlier, the Orussidae were sometimes put into a separate suborder, Idiogastra, but today they are classified with an own superfamily, Orussoidea.	Orussidae	Orussoidea
+parent taxon	The Tennessee dace (Chrosomus tennesseensis) is a species of ray-finned fish in the Cyprinidae family.	Tennessee dace	Chrosomus
+parent taxon	Noreppa is a genus of neotropical charaxine butterflies in the family Nymphalidae, native to Colombia, Bolivia, Venezuela, Peru and Argentina.	Noreppa	Nymphalidae
+parent taxon	Chaetacosta vittithorax is a species of beetle in the family Cerambycidae, the only species in the genus Chaetacosta.	Chaetacosta	Cerambycidae
+parent taxon	The Moreau's sunbird (Cinnyris moreaui) is a species of bird in the Nectariniidae family.	Moreau's sunbird	Cinnyris
+parent taxon	Princess Stephanie's astrapia (Astrapia stephaniae), also known as Stephanie's astrapia, is a species of bird-of-paradise.	Princess Stephanie's astrapia	Astrapia
+parent taxon	Docynia (栘木衣属, yí mù yī shǔ) is a genus of flowering trees, evergreen or semi-evergreen, in the family Rosaceae.	Docynia	Rosaceae
+parent taxon	Scolytocis samoensis is a species of beetle in the family Ciidae, the only species in the genus Scolytocis.	Scolytocis	Ciidae
+parent taxon	The Awash multimammate mouse or Awash mastomys (Mastomys awashensis) is a species of rodent in the family Muridae found only in Ethiopia.	Awash multimammate mouse	Mastomys
+parent taxon	Datura is a genus of nine species of poisonous vespertine flowering plants belonging to the family Solanaceae.	Datura	Solanaceae
+parent taxon	The Burmese peacock softshell turtle (Nilssonia formosa) is a species of softshell turtle in the Trionychidae family.	Burmese peacock softshell	Nilssonia
+parent taxon	The Amu Darya sturgeon or false shovelnose sturgeon (Pseudoscaphirhynchus kaufmanni) is a species of fish in the Acipenseridae family.	Amu Darya sturgeon	Pseudoscaphirhynchus
+parent taxon	The Panamint alligator lizard, (Elgaria panamintina), is a species of lizard in the Anguidae family.	Panamint alligator lizard	Elgaria
+parent taxon	Bill Gates' flower fly (Eristalis gatesi) is a flower fly found only in Costa Rican high montane cloud forests and named after Bill Gates.	Bill Gates' flower fly	Eristalis
+parent taxon	The Caribbean martin or white-bellied martin (Progne dominicensis) is a large swallow.	Caribbean martin	Progne
+parent taxon	Ochina, commonly known as the ivy-boring beetles, is a genus of beetle of the family Anobiidae.	Ochina	Anobiidae
+parent taxon	The Caribbean monk seal, West Indian seal or sea wolf (as early explorers referred to it), Neomonachus tropicalis (formerly Monachus tropicalis), was a species of seal native to the Caribbean and is now believed to be extinct.	Caribbean monk seal	Monachus
+parent taxon	Oreopanax is a genus of shrubs and trees in the family Araliaceae, comprising circa 85 species native to the Americas.	Oreopanax	Araliaceae
+parent taxon	Rorippa is a flowering plant genus in the mustard family, Brassicaceae, native to Europe through central Asia, Africa, and North America.	Rorippa	Brassicaceae
+parent taxon	Squamicornia is a genus of small primitive metallic moths in the insect order Lepidoptera within the family Micropterigidae.	Squamicornia	Micropterigidae
+parent taxon	Cataglyphis, or desert ants, is a genus of ant in the subfamily Formicinae.	Cataglyphis	Formicinae
+parent taxon	Wandolleck's white-lipped tree frog (Litoria albolabris) is a species of frog in the family Hylidae.	Wandolleck's white-lipped tree frog	Litoria
+parent taxon	Sinojackia is a genus of five to eight species of flowering plants in the family Styracaceae, all endemic to China.	Sinojackia	Styracaceae
+parent taxon	Salteropterus is a genus of prehistoric eurypterid of the family Slimonidae.	Salteropterus	Slimonidae
+parent taxon	The Wetar ground dove (Gallicolumba hoedtii) is a species of bird in the family Columbidae.	Wetar ground dove	Gallicolumba
+parent taxon	Monteiro's storm petrel, Oceanodroma monteiroi, is a seabird species from the storm petrel family, Hydrobatidae.	Monteiro's storm petrel	Oceanodroma
+parent taxon	The Chenopodioideae are a subfamily of the flowering plant family Amaranthaceae in the APG III system, which is largely based on molecular phylogeny, but were included - together with other subfamilies - in family Chenopodiaceae in the Cronquist system.	Chenopodioideae	Amaranthaceae	Chenopodiaceae
+parent taxon	The Clethraceae are a small family of flowering plants in the order Ericales, native to warm temperate to tropical regions of Asia and the Americas, with one species also on Madeira.	Clethraceae	Ericales
+position played on team / speciality	Ibrahima Baldé (born 4 April 1989), known as Ibrahima and sometimes Ibra, is a Senegalese professional footballer who plays for Russian club FC Kuban Krasnodar as a forward.	Ibrahima Baldé	forward
+position played on team / speciality	Jero Shakpoke (born 5 December 1979 in Warri) is a Nigerian footballer (defender) who is currently playing for Union Saint-Gilloise, on loan to Siena.	Jero Shakpoke	defender
+position played on team / speciality	Alan Combe (born 3 April 1974) is a Scottish professional football goalkeeper and coach.	Alan Combe	goalkeeper
+position played on team / speciality	Artūrs Zjuzins (born 18 June 1991) is a Latvian football midfielder, currently playing for FC Gazovik Orenburg and the Latvia national football team.	Artūrs Zjuzins	midfielder
+position played on team / speciality	Gianluca Pegolo (born 25 March 1981 in Bassano del Grappa) is an Italian goalkeeper who currently plays for Serie A side Sassuolo.	Gianluca Pegolo	goalkeeper
+position played on team / speciality	Vladimir Kabranov (Bulgarian: Владимир Кабранов; born 22 September 1986 in Petrich) is a Bulgarian footballer who plays for Belasitsa Petrich as an attacking midfielder.	Vladimir Kabranov	midfielder
+position played on team / speciality	Seyed Mohsen Karimi (Persian: سید محسن کریمی‎‎, born 20 September 1994 in Sari) is an Iranian football midfielder, who currently plays for Esteghlal in the Persian Gulf Pro League.	Mohsen Karimi	midfielder
+position played on team / speciality	Hadi Zarrin-Saed (Persian: هادی زرین ساعد‎‎, July 25, 1979) is an Iranian football goalkeeper, who currently plays for Alvand Hamedan in Azadegan League.	Hadi Zarrin-Saed	goalkeeper
+position played on team / speciality	Alfredo Foni (20 January 1911 -- 28 January 1985) was an Italian footballer in the 1930s and later on a coach, who played as a defender.	Alfredo Foni	defender
+position played on team / speciality	Ivan Paunović (Serbian Cyrillic: Иван Пауновић, born June 17, 1986 in Užice) is a Serbian football midfielder.	Ivan Paunović	midfielder
+position played on team / speciality	Jamal Mahmoud (born 1 May 1973) is a Jordanian football manager of Palestinian origin, who was an attacking midfielder for Al-Wehdat until he retired.	Jamal Mahmoud	midfielder
+position played on team / speciality	Trevor Sherban (born December 11, 1972) is a Canadian former professional ice hockey and inline hockey defenceman.	Trevor Sherban	defenceman
+position played on team / speciality	Gerry Queen (born 15 January 1945) is a retired Scottish footballer who played as a forward.	Gerry Queen	forward
+position played on team / speciality	Fred Poland was a professional association footballer who played as a centre forward.	Fred Poland	forward
+position played on team / speciality	Piet de Wolf (1921--14 November 2013) was a Dutch football player, trainer and coach, who primarily played as a goalkeeper.	Piet de Wolf	goalkeeper
+position played on team / speciality	Jaroslav Koma (born 19 January 1985 in Prešov, Czechoslovakia) is a Czech professional ice hockey defenceman who currently plays with HC Kometa Brno in the Czech Extraliga.	Jaroslav Koma	defenceman
+position played on team / speciality	Stevie Campbell (born 20 November 1967) is a Scottish footballer and coach who played as a defender.	Stevie Campbell	defender
+position played on team / speciality	José Carlos Fernández Vázquez (born 17 July 1987), known as José Carlos, is a Spanish professional footballer who plays for UE Llagostera as a left winger or a forward.	José Carlos Fernández Vázquez	winger
+position played on team / speciality	Maciej Małkowski (born March 19, 1985, in Jastrzębie-Zdrój) is a Polish footballer who plays as a midfielder for GKS Bełchatów.	Maciej Małkowski	midfielder
+position played on team / speciality	Lukas Fröde (born 23 January 1995) is a German footballer who plays as a defensive midfielder for Werder Bremen in the Bundesliga.	Lukas Fröde	midfielder
+position played on team / speciality	Samy Derras (born 7 June 1988) is a French football midfielder of Algerian descen.	Samy Derras	midfielder
+position played on team / speciality	Alexandru Maximov (born 8 July 1982) is a Moldovan footballer who plays as forward.	Alexandru Maximov	forward
+position played on team / speciality	José Alberto Teixeira Ferreirinha (21 February 1960 -- 4 February 1990), known as Zé Beto, was a Portuguese footballer who played as a goalkeeper.	Zé Beto	goalkeeper
+position played on team / speciality	Edgar Falch (2 November 1930 -- 18 November 2013) was a Norwegian international football defender.	Edgar Falch	defender
+position played on team / speciality	Frank Vallis (born 5 May 1896 in Bristol, died September 1957 in Bath, Somerset) was an English footballer who played as a goalkeeper.	Frank Vallis	goalkeeper
+position played on team / speciality	Dragutin Vrđuka (3 April 1895, in Zagreb -- 23 January 1948, in Zagreb) was a Croatian football goalkeeper.	Dragutin Vrđuka	goalkeeper
+position played on team / speciality	Scott Uderitz (born May 17, 1970 in Edmonds, Washington) is a retired U.S. soccer midfielder who played one season in the National Professional Soccer League, one in the Continental Indoor Soccer League and three in Major League Soccer.	Scott Uderitz	midfielder
+position played on team / speciality	Juraj Halenár (born 28 June 1983) is a Slovak football forward who currently plays for TJ Iskra Borčice in the DOXXbet liga.	Juraj Halenár	forward
+position played on team / speciality	Tanja Wörle is a retired German football midfielder, most recently playing for Bayern Munich in the Bundesliga.	Tanja Wörle	midfielder
+position played on team / speciality	Trevor Trevisan (born 21 December 1983 in Cassino) is an Italian football defender who currently plays for Salernitana.	Trevor Trevisan	defender
+position played on team / speciality	Tibor Fülöp (born 24 March 1986 in Szeged) is a Hungarian football (attacking midfielder) player who currently plays for Békéscsaba 1912 Előre SE.	Tibor Fülöp	midfielder
+position played on team / speciality	José Ángel Crespo Rincón (born 9 February 1987) is a Spanish professional footballer who plays for Rayo Vallecano on loan from English club Aston Villa mainly as a full back but also as a central defender.	José Ángel Crespo	defender
+position played on team / speciality	Juan Pablo Rodríguez Conde (born 14 June 1982 in Montevideo, Uruguay) is a Uruguayan football midfielder who plays for Ittihad FC in the Saudi Professional League.	Juan Pablo Rodríguez Conde	midfielder
+position played on team / speciality	Jarosław Bieniuk (Polish pronunciation: (jaˈrɔswaf ˈbʲeɲuk), born June 4, 1979 in Gdańsk) is a former Polish football defender.	Jarosław Bieniuk	defender
+position played on team / speciality	Aleksandar Sarić (Serbian Cyrillic: Aлeкcaндар Сарић; born 27 January 1974) is a retired Serbian footballer who played as a goalkeeper.	Aleksandar Sarić	goalkeeper
+position played on team / speciality	Gzim Rexhaj (born 8 July 1986) is a Slovenian footballer of Albanian descent who plays as a forward for SSVg Heiligenhaus in Germany.	Gzim Rexhaj	forward
+position played on team / speciality	Valerio Di Cesare (born 23 May 1983) is an Italian footballer, who plays as a defender for Bari.	Valerio Di Cesare	defender
+position played on team / speciality	João Filipe Rabelo da Costa Silva, nicknamed João Filipe (born 11 June 1988) is a Brazilian footballer who plays a central defender for Fluminense, on loan from Tombense.	João Filipe	defender
+position played on team / speciality	Piotr Kuklis (born January 14, 1986 in Łódź) is a Polish footballer who currently plays as midfielder for Bytovia Bytów.	Piotr Kuklis	midfielder
+position played on team / speciality	``Reds flanker Curtis Browning to captain Australian Under-20s''.	Curtis Browning	flanker
+position played on team / speciality	Dario Cedeño (born August 20, 1991 in Chone) is an Ecuadorian football defender currently playing for Barcelona.	Dario Cedeño	defender
+position played on team / speciality	Rondinelly de Andrade Silva (born 8 February 1991), or simply Rondinelly, is a Brazilian professional footballer who plays as an attacking midfielder for Grêmio Osasco Audax, on loan from Grêmio.	Rondinelly	midfielder
+position played on team / speciality	John Brian Slater (1932--1999) is an English former professional footballer who played in the Football League, as an inside forward.	Brian Slater	forward
+position played on team / speciality	Colbert Marlot (born March 4, 1963 in Liévin, France) is a former professional footballer who played as a defensive midfielder and is the current head coach at Belgian Second Division team Tubize.	Colbert Marlot	midfielder
+position played on team / speciality	Stanimir Georgiev (born 7 August 1975 in Plovdiv, Bulgaria) is a retired Bulgarian professional football forward who played for several clubs in Europe.	Stanimir Georgiev	forward
+position played on team / speciality	Dario Purić (born 18 May 1986) is a professional Croatian-born Bosnian football midfielder who currently plays for FK Sarajevo in the Premier League of Bosnia and Herzegovina.	Dario Purić	midfielder
+position played on team / speciality	Kevin Jeffrey (born 10 October 1974 in Trincity, Trinidad and Tobago) is a former professional football (soccer) forward who spent eight season in the USL First Division.	Kevin Jeffrey	forward
+position played on team / speciality	Seamus Heath (born 6 December 1961 in Belfast) is a Northern Irish former association football midfielder.	Seamus Heath	midfielder
+position played on team / speciality	Kristian Phillips (born 2 September 1990) is a Welsh rugby union player who plays on the wing and has represented Wales at under-16, under-18 and under-20 levels.	Kristian Phillips	wing
+position played on team / speciality	Romain Métanire (born 28 March 1990) is a French professional footballer who currently plays as a right-sided defender for Ligue 2 side Metz.	Romain Métanire	defender
+position played on team / speciality	Reinhold Münzenberg (25 January 1909 in Waldheim -- 25 June 1986 in Aachen) was a German football player, in the defender position.	Reinhold Münzenberg	defender
+position played on team / speciality	Marcin Truszkowski (born September 8, 1983 in Ostrołęka) is a Polish football forward.	Marcin Truszkowski	forward
+position played on team / speciality	Ernest Akouassaga (born 16 September 1985 in Leconi) is a Gabonese football defender is currently a free agent.	Ernest Akouassaga	defender
+position played on team / speciality	Marcelo Saralegui Arregín (born May 18, 1971 in Montevideo) is a former Uruguayan football midfielder who played 33 times for the Uruguay national team between 1992 and 1997.	Marcelo Saralegui	midfielder
+position played on team / speciality	Qoussai Emad el-Khawalda (1994 -- 24 November 2013) was an Jordanian footballer, who primarily played as a midfielder.	Qoussai Emad el-Khawalda	midfielder
+position played on team / speciality	Jamie McGowan (born 5 December 1970 in Morecambe, Lancashire) is an English former professional football defender.	Jamie McGowan	defender
+position played on team / speciality	Fabrice Mvemba (born 20 December 1980) is a retired football defender from Congo DR. He last played for Dender EH in Belgium.	Fabrice Mvemba	defender
+position played on team / speciality	Gastón Sauro (born 23 February 1990) is an Argentine professional footballer who plays for Columbus Crew of Major League Soccer, as a defender.	Gastón Sauro	defender
+position played on team / speciality	Nicola Di Francia (born 24 September 1985 in L'Aquila) is an Italian football defender who most recently played for L'Aquila.	Nicola Di Francia	defender
+position played on team / speciality	Juan Pablo Ruiz Pérez (born 5 November 1982 in La Puebla del Río, Seville), known as Juan Pablo, is a Spanish footballer who plays as a centre forward.	Juan Pablo Ruiz Pérez	forward
+position played on team / speciality	Zoran Tomić (24 October 1958 -- 14 June 1989) was a Bosnian football midfielder who played for clubs in the former Yugoslavia and Turkey.	Zoran Tomić	midfielder
+position played on team / speciality	Désiré Mbonabucya (born February 25, 1977 in Kigali) is a Rwandan association football forward, who plays for US Albert Schaerbeek and works as youth Head Coach.	Désiré Mbonabucya	forward
+position played on team / speciality	Alex Tchuimeni-Nimely (born 11 May 1991), commonly known as Alex Nimely, is a Liberian-born English footballer who plays as a forward.	Alex Nimely	forward
+position played on team / speciality	Liam Little (born 27 July 1986) is a New Zealand footballer, who currently plays as a goalkeeper for Waitakere United.	Liam Little	goalkeeper
+position played on team / speciality	Daniel Ralph Ruffell (3 October 1867 -- 3 October 1940) was an English amateur footballer who played as a goalkeeper for Southampton St. Mary's from their inaugural fixture in November 1885 until 1894, including making six appearances in the FA Cup.	Ralph Ruffell	goalkeeper
+position played on team / speciality	Daniil Ratnikov (born 10 February 1988) is an Estonian professional footballer, who plays for Sillamäe Kalev, mainly as an attacking midfielder.	Daniil Ratnikov	midfielder
+position played on team / speciality	David Quesada (born March 30, 1971) is a retired American soccer forward who played professionally in Costa Rica and the United States.	David Quesada	forward
+position played on team / speciality	Chang Lin (Chinese: 常琳; born April 17, 1981 in Dalian) is a Chinese footballer who currently plays as a midfielder.	Chang Lin	midfielder
+position played on team / speciality	Arnold Wetl (born 2 February 1970 in Eibiswald) is a retired Austrian footballer who played as a midfielder.	Arnold Wetl	midfielder
+position played on team / speciality	Víctor Andrés Córdoba Córdoba (born November 8, 1987 in Medellín, Colombia) is a Colombian footballer who since 2014 has played midfielder for Bolívar.	Víctor Andrés Córdoba	midfielder
+position played on team / speciality	Keith Stott (12 March 1944 -- April 2012) was an English professional footballer who played in the Football League, as a defender.	Keith Stott	defender
+position played on team / speciality	Peter Mannos is a retired U.S. soccer goalkeeper who played two seasons in the North American Soccer League, one in the American Soccer League and one in Major Indoor Soccer League.	Peter Mannos	goalkeeper
+position played on team / speciality	Maxime Lehmann (17 December 1906 -- 24 April 2009) was a Swiss-born French football defensive midfielder.	Maxime Lehmann	midfielder
+position played on team / speciality	Stefan Deák (Serbian: Стефан Деак, Stefan Deak, born 23 March 1991 in Ruma) is a Serbian footballer who plays as a central defender.	Stefan Deák	defender
+position played on team / speciality	Zaw Min Tun (Burmese: ဇော်မင်းထွန်း; born 20 May 1992) is a footballer from Burma, and a defender for Myanmar national football team.	Zaw Min Tun	defender
+position played on team / speciality	Derek Forster (born 19 February 1949) is a former footballer who played as a goalkeeper.	Derek Forster	goalkeeper
+position played on team / speciality	Harold Lloyd Ailsby (May 11, 1917 -- May 8, 2007) was a Canadian ice hockey defenceman and coach.	Lloyd Ailsby	defenceman
+position played on team / speciality	Marco André Rocha Pereira (born 12 January 1987 in Castelo de Paiva, Aveiro), known simply as Marco, is a Portuguese footballer who plays for S.C. Freamunde as a goalkeeper.	Marco André Rocha Pereira	goalkeeper
+position played on team / speciality	Jang Eun-kyu (Hangul: 장은규; born 15 August 1992) is a South Korean footballer who plays as midfielder for Jeju United in K League Classic.	Jang Eun-kyu	midfielder
+position played on team / speciality	Waynne Phillips (born 15 December 1970) in Caernarfon, Wales, is a Welsh professional footballer who played as a former midfielder for various teams in the Football League.	Waynne Phillips	midfielder
+position played on team / speciality	Sverrir Sverrisson is an Icelandic former footballer who played as a midfielder.	Sverrir Sverrisson	midfielder
+position played on team / speciality	Jasper Cillessen (Dutch pronunciation: (ˈjɑs.pər ˈsɪ.lə.ˌsə(n)); born 22 April 1989) is a Dutch professional footballer who currently plays as a goalkeeper for Eredivisie club Ajax.	Jasper Cillessen	goalkeeper
+position played on team / speciality	Parviz Karimi (Persian: پرویز کریمی‎‎) is an Iranian football goalkeeper who currently plays for Iranian football club Esteghlal Ahvaz in the Iran Pro League.	Parviz Karimi	goalkeeper
+position played on team / speciality	Heribert Weber (born 28 June 1955 in Pöls) is a retired Austrian football defender and later a football manager.	Heribert Weber	defender
+position played on team / speciality	Slobodan Škrbić (Serbian Cyrillic: Cлoбoдaн Шкpбић ;born October 18, 1944 in Belgrade, SFR Yugoslavia) is a Serbian defender who played for SFR Yugoslavia.	Slobodan Škrbić	defender
+position played on team / speciality	Jozo Matovac (born May 22, 1970) was a professional Swedish international football defender, who was capped 8 times for Sweden.	Jozo Matovac	defender
+position played on team / speciality	Domenico Morfeo (born 16 January 1976 in Pescina) is a retired Italian football player, who played in the position of attacking midfielder.	Domenico Morfeo	midfielder
+position played on team / speciality	Haruna Doda (born 16 January 1975 in Lagos, Nigeria) is a professional footballer currently playing for Maltese Second Division side Zebbug Rangers, where he plays as a midfielder.	Haruna Doda	midfielder
+position played on team / speciality	Tun Lin Soe (Burmese: ထွန်းလင်းစိုး ) is a footballer from Burma, and a goalkeeper for the Myanmar national football team.	Tun Lin Soe	goalkeeper
+position played on team / speciality	T. J. Fast (born September 2, 1987) is a Canadian professional ice hockey defenceman currently playing with Eispiraten Crimmitschau of the German DEL2.	T. J. Fast	defenceman
+position played on team / speciality	Marcelo Tavares (born August 30, 1980) is a Brazilian football (soccer) defender who is playing for Al-Sailiya in Qatar.	Marcelo Tavares	defender
+position played on team / speciality	Pavlo Sirotin during his long football career has played as goalkeeper from 1983 for the Kyrgyzstani clubs TSOR Frunze, Alga Frunze, Alay Osh and from 1992 for the Ukrainian clubs Krystal Chortkiv, Kremin Kremenchuk, Bukovyna Chernivtsi, Prykarpattya Ivano-Frankivsk, Nyva Ternopil, Lukor Kalush and FC Luzhany.	Pavlo Sirotin	goalkeeper
+position played on team / speciality	Tommaso D'Apice (born 30 June 1988) is an Italian rugby union footballer who plays as a hooker.	Tommaso D'Apice	hooker
+position played on team / speciality	Gediminas Vičius (born 5 July 1985 in Kaunas) is a Lithuanian footballer who plays as a midfielder.	Gediminas Vičius	midfielder
+position played on team / speciality	Austin Makacha (born 1 January 1984 in Nairobi) is a Kenyan football midfielder who is playing for Mathare United.	Austin Makacha	midfielder
+position played on team / speciality	Giovanni Pini (born 25 July 1992) is an Italian professional basketball player who plays for Sidigas Avellino of the Italian Serie A. He plays at the power forward and center positions.	Giovanni Pini	power forward
+position played on team / speciality	Mark Brooke-Cowden (born 12 June 1963) is a former New Zealand rugby player that played as a flanker.	Mark Brooke-Cowden	flanker
+position played on team / speciality	Michel Der Zakarian (Armenian: Միքայել Տեր--Զաքարյան, born on 18 February 1963 in Yerevan, Soviet Union) is a former Franco-Armenian professional football defender and a current coach.	Michel Der Zakarian	defender
+position played on team / speciality	Anna Kozyupa (born 7 March 1995) is a Belarusian football defender.	Anna Kozyupa	defender
+position played on team / speciality	Helga Nadire İnan Ertürk, aka Nadija Inan or Nadja Inan (born Helga Nadire İnan on September 10, 1984), is a Turkish-German women's football midfielder currently playing in the Turkish Women's Second Football League for Sakarya Yenikent Güneşspor in Turkey.	Helga Nadire İnan Ertürk	midfielder
+position played on team / speciality	Paul Beraldo (born October 5, 1967 in Hamilton, Ontario) is a retired Italian Canadian professional ice hockey centre.	Paul Beraldo	centre
+position played on team / speciality	Mariano Sambucetti's position of choice is at lock.	Mariano Sambucetti	lock
+position played on team / speciality	Zoumana Bakayogo (born 11 August 1986) is a professional footballer who plays for Crewe Alexandra as a defender.	Zoumana Bakayogo	defender
+position played on team / speciality	Yoel Chehanovich (Hebrew: יואל צחנוביץ'‎; born July 26, 1993), is an Israeli footballer who plays as a forward for Liga Leumit club Hapoel Afula.	Yoel Chehanovich	forward
+position played on team / speciality	Mark Jonas (born October 17, 1974 in Washington, D.C.) is an American soccer midfielder who had a twelve-year professional career in the U.S. indoor and lower division outdoor leagues.	Mark Jonas	midfielder
+position played on team / speciality	Leonardo André Pimenta Faria (or simply Leo, born November 18, 1982 in Rio de Janeiro) is a Brazilian football midfielder who currently plays for Gostaresh.	Leonardo André Pimenta Faria	midfielder
+position played on team / speciality	Vince Radcliffe (9 June 1945 -- 10 March 2014) was an English professional footballer who played as a defender.	Vince Radcliffe	defender
+position played on team / speciality	Nikola Perić (Serbian Cyrillic: Hикола Перић; born 4 February 1992 in Šabac) is a Serbian football goalkeeper who plays for Vojvodina.	Nikola Perić	goalkeeper
+position played on team / speciality	Vitor Frezarin Bueno (born 5 September 1994), known as Vitor Bueno or simply Vitor, is a Brazilian footballer who plays for Santos, on loan from Botafogo, as an attacking midfielder.	Vitor Bueno	midfielder
+position played on team / speciality	Diego Daniel Bustos (born April 28, 1974 in Casilda) is a former Argentine football forward who spent most of his career in Argentina.	Diego Daniel Bustos	forward
+position played on team / speciality	Óscar Rolando Hernández (nicknamed ``Martillo'', hammer in English) is a retired Honduran football forward.	Óscar Rolando Hernández	forward
+position played on team / speciality	Tu Tamarua (born 22 June 1974) is a retired Cook Islands rugby union flanker.	Tu Tamarua	flanker
+position played on team / speciality	Wan Houliang (simplified Chinese: 万厚良; traditional Chinese: 萬厚良; pinyin: Wàn Hòuliáng; born 25 February 1986 in Beijing) is a Chinese international footballer where he currently plays as a defender for Qingdao Hainiu in the China League One.	Wan Houliang	defender
+position played on team / speciality	Jonathan Osorio (born June 12, 1992) is a Canadian soccer player who plays as a midfielder for Toronto FC in Major League Soccer and the Canadian National Team.	Jonathan Osorio	midfielder
+position played on team / speciality	Fábio Fortes Moreira (born 8 March 1992 in Lisbon) is a Portuguese footballer who plays for S.C. Mirandela on loan from Vitória S.C., as a forward.	Fábio Fortes	forward
+position played on team / speciality	Almoez Ali (born 19 August 1996) is a Qatari football player who plays for Cultural Leonesa as a forward.	Almoez Ali	forward
+present in work	Grimlock is the name of several fictional robot characters in the Transformers franchise.	Grimlock	Transformers
+present in work	Kelly Gaffney is a fictional character portrayed by Amy Carlson on the television program Law & Order: Trial by Jury.	Kelly Gaffney	Law & Order: Trial by Jury
+present in work	Penn Cage is a fictional prosecutor turned writer created by author Greg Iles in his novel The Quiet Game (1999).	Penn Cage	The Quiet Game
+present in work	Trini Kwan is a fictional character in the Power Rangers universe, portrayed by Vietnamese actress Thuy Trang.	Trini Kwan	Power Rangers
+present in work	Warrick Brown is a fictional character in the CBS crime drama CSI: Crime Scene Investigation, portrayed by Gary Dourdan.	Warrick Brown	CSI: Crime Scene Investigation
+present in work	Sheeva is a fictional character in the Mortal Kombat fighting game series created by Ed Boon and John Tobias.	Sheeva	Mortal Kombat
+present in work	Maacah (Codex Alexandrinus: Maacha, KJV: Maachah, Hebrew: מעכה Ma`aKhaH ``Crushed'') is a non-gender-specific personal name used in the Bible to refer to a number of people.	Maacah	Bible
+present in work	Alexei Volkoff (Russian: Алексей Волков) is the alias and alter ego of Hartley Winterbottom (codename Agent X), a fictional character on the television series Chuck.	Alexei Volkoff	Chuck
+present in work	Trailbreaker did not appear in The Transformers:	Trailbreaker	The Transformers
+present in work	Chang Chong-Chen (French: Tchang Tchong-Jen; Chinese: 張仲仁; pinyin: Zhāng Zhòngrén) is a fictional character in The Adventures of Tintin, the comics series by Belgian cartoonist Hergé.	Chang Chong-Chen	The Adventures of Tintin
+present in work	According to the Hebrew Bible, Esther was a Jewish queen of the Persian king Ahasuerus.	Esther	Bible
+present in work	Fitzwilliam Darcy, generally referred to as Mr. Darcy, is one of the two central characters in Jane Austen's novel Pride and Prejudice.	Mr. Darcy	Pride and Prejudice
+present in work	Tali'Zorah is a fictional character of the quarian alien race in BioWare's Mass Effect franchise, who serves as a party member (or ``squadmate'') in all three games in the Mass Effect trilogy.	Tali'Zorah	Mass Effect
+present in work	Grendel's mother (Old English: Grendles mōðor) is one of three antagonists (along with Grendel and the dragon) in the anonymous Old English poem Beowulf (c. 700--1000 AD).	Grendel's mother	Beowulf
+present in work	Scrap-Iron is a fictional character from the G.I. Joe: A Real American Hero toyline, comic books and cartoon series.	Scrap-Iron	G.I. Joe: A Real American Hero
+record label	Power Move is the third full-length album by the Screaming Females, however it was their first on Don Giovanni Records and their first not to be self-released.	Power Move	Don Giovanni Records
+record label	Enthrone Darkness Triumphant is the third studio album by Norwegian black metal band Dimmu Borgir, released on 30 May 1997 through Nuclear Blast Records.	Enthrone Darkness Triumphant	Nuclear Blast
+record label	Wolfbiker is the fourth full-length album by American band Evergreen Terrace and their first release on Metal Blade Records.	Wolfbiker	Metal Blade Records
+record label	The Bootlicker is the eleventh album by Melvins, which was released in 1999 through Ipecac Recordings.	The Bootlicker	Ipecac Recordings
+record label	Upside Downside is the second studio album by guitarist Mike Stern, released in 1986 through Atlantic Records and reissued on August 21, 2007 through Wounded Bird Records.	Upside Downside	Atlantic Records
+record label	Cha Cha Damore is the third album by Pegboy, released on October 14, 1997 through Quarterstick Records.	Cha Cha Damore	Quarterstick Records
+record label	Cables Fables is an album by jazz pianist George Cables and his trio, released in 1991 on SteepleChase Records.	Cables Fables	SteepleChase Records
+record label	Wind on the Water is the second album by Crosby & Nash, released on ABC Records in 1975, although cassette and 8-track tape versions of the album were distributed by their previous label, Atlantic Records.	Wind on the Water	ABC Records
+record label	Novelty Forever is the fourth album by Californian punk rock band Bracket, released by Fat Wreck Chords on September 23, 1997.	Novelty Forever	Fat Wreck Chords
+record label	Soon after the release of the single ``The Great Filling Station Holdup''/``Why Don't We Get Drunk'', it had sold over 50,000 copies just to jukebox operators, according to B.J. McElvee, country promotion manager for ABC-Dunhill Records.	Why Don't We Get Drunk	Dunhill Records
+record label	Musical Revue is a live album featuring Prince Far I and Suns of Arqa released on ROIR Europe in 1983.	Musical Revue	ROIR
+record label	``I'm Ready for Love'' is a 1966 single by Motown girl group Martha and the Vandellas.	I'm Ready for Love	Motown
+record label	First released by Thatch Music on 1 July 2009, Love That Music, was recorded at Undahaus Studios in Johannesburg, South Africa.	Love That Music	Thatch Music
+record label	Livin' in Hysteria is the second album by Heavens Gate, released in March 1, 1991 by No Remorse Records and later reissued by SPV GmbH.	Livin' in Hysteria	No Remorse Records
+record label	``Hungry Like the Wolf'' was written and recorded on a Saturday in the spring of 1982 at the basement studios of EMI's London headquarters.	Hungry Like the Wolf	EMI
+record label	In October, Shabooh Shoobah was released internationally on Atlantic/Atco Records and Mercury Records, peaking at No. 52 on the US Billboard 200 and No. 46 on the Hot Pop Albums chart.	Shabooh Shoobah	Mercury Records
+record label	Reintegration Time is the second album from Canadian alternative dance band Shout Out Out Out Out, released in Canada on March 3, 2009 and in the United States on May 5, 2009, on Nrmls Wlcm Records.	Reintegration Time	Shout Out Out Out Out
+record label	Lifesong is the second studio album by American Christian rock band Casting Crowns, released on August 30, 2005 by Beach Street Records and Reunion Records.	Lifesong	Beach Street Records	Reunion Records
+record label	Stereopathetic Soulmanure is the second independent studio album by American alternative rock musician Beck, released on Flipside in 1994, a week before the appearance of his Geffen debut Mellow Gold.	Stereopathetic Soulmanure	Flipside
+record label	Made in Medina is a studio album by French-Algerian raï artist Rachid Taha, released in 2000 by Barclay Records and produced and arranged by Steve Hillage.	Made in Medina	Barclay Records
+record label	Amarte a la Antigua is an album by Mexican recording artist Pedro Fernández, released by Fonovisa Records on October 20, 2009.	Amarte a la Antigua	Fonovisa Records
+record label	``ROckWrok'' is a single by the post-punk band Ultravox!, released on 7 October 1977 by Island Records.	ROckWrok	Island Records
+record label	Geffen Records withdrew from radio the second single from Loose, ``Maneater'', before promoting ``Say It Right''.	Say It Right	Geffen Records
+record label	We Insist! (subtitled Max Roach's Freedom Now Suite) is a jazz album released on Candid Records in 1960.	We Insist!	Candid Records
+record label	Coltrane's Sound is an album credited to jazz musician John Coltrane, released in 1964 on Atlantic Records, catalogue SD 1419.	Coltrane's Sound	Atlantic Records
+record label	I Am Not a Human Being II is the tenth studio album by American rapper Lil Wayne, released on March 26, 2013 in the US, by Young Money Entertainment, Cash Money Records, and Republic Records.	I Am Not a Human Being II	Cash Money Records	Republic Records
+record label	Now He Sings, Now He Sobs is a highly influential jazz piano trio album by Chick Corea, released March 14, 1968 on Solid State Records.	Now He Sings, Now He Sobs	Solid State Records
+record label	The Stars at Saint Andrea is an album by Devics, released in 2003 on the Bella Union label.	The Stars at Saint Andrea	Bella Union
+record label	Siren Song of the Counter Culture was released on August 10, 2004 and is the first Rise Against album distributed via Geffen Records.	Siren Song of the Counter Culture	Geffen Records
+record label	``He Wasn't Man Enough'' is a song by American R&B recording artist and songwriter Toni Braxton and released by LaFace Records on March 7, 2000 as the lead single from her third studio album, The Heat (2000).	He Wasn't Man Enough	LaFace Records
+record label	CBS Records, which now owned Blue Horizon (except in the US and Canada), released an album of previously unreleased material from the original Fleetwood Mac called The Original Fleetwood Mac. The album was relatively successful, and the band continued to gain popularity.	Fleetwood Mac	CBS Records
+record label	Dark Days/Light Years, the ninth studio album by Super Furry Animals, was digitally released at 8pm on 16 March 2009 via the band's website, with a physical release following on the 21st of April on Rough Trade Records.	Dark Days/Light Years	Rough Trade Records
+record label	The original version of ``You're No Good'' was cut by Dee Dee Warwick for Jubilee Records in 1963 with production by Jerry Leiber and Mike Stoller.	You're No Good	Jubilee Records
+record label	Labour of Love IV is the seventeenth album and fourth covers album by UB40, released on the Virgin Records label in 2010.	Labour of Love IV	Virgin Records
+record label	El Norra Alila is the second full-length studio album by the Israeli metal band Orphaned Land, released on July 18, 1996 by Holy Records.	El Norra Alila	Holy Records
+record label	Lion in the Morning is the debut album by British Jamaican reggae musician Julian Marley, released in 1996 on Lightyear Entertainment.	Lion in the Morning	Lightyear Entertainment
+record label	``O.K. Funky God'' is the ninth single released by Japanese singer Ami Suzuki under label Avex Trax.	O.K. Funky God	Avex Trax
+record label	Left and Leaving is an album by The Weakerthans, released July 25, 2000 on G7 Welcoming Committee Records.	Left and Leaving	G7 Welcoming Committee Records
+record label	``Tha Doso Resta'' (Greek: Θα Δώσω Ρέστα; English: I'll Give Change) is a CD single by popular Greek artist Marianta Pieridi released in Greece in March 2008 by Virus Music.	Tha Doso Resta	Virus Music
+record label	Down in the Cellar is the fourteenth studio album by Al Stewart, released in 2000 in Europe by EMI.	Down in the Cellar	EMI
+record label	Wasp Star (Apple Venus Volume 2) is the fourteenth and final studio album by the English band XTC, released on Cooking Vinyl/Idea Records on 23 May 2000.	Wasp Star (Apple Venus Volume 2)	Cooking Vinyl
+screenwriter	Brudekronen (Norwegian: The bridal crown) is a 1944 Norwegian drama film directed by Walter Fyrst, starring Carl Habel, Trygve Svendsen and Ingrid Lysaker.	Brudekronen	Walter Fyrst
+screenwriter	Unnai Ninaithu (English: Thinking About You) is a 2002 Indian Tamil film directed by Vikraman, starring Suriya, Laila and Sneha in the lead roles.	Unnai Ninaithu	Vikraman
+screenwriter	Alila is a 2003 Israeli film directed by Amos Gitai and starring Yaël Abecassis, Uri Klauzner, and Hanna Laslo.	Alila	Amos Gitai
+screenwriter	Il ficcanaso (The nosy) is a 1981 Italian giallo-comedy film directed by Bruno Corbucci.	Il ficcanaso	Bruno Corbucci
+screenwriter	Went the Day Well? is a 1942 British war film adapted from a story by Graham Greene and directed by Alberto Cavalcanti.	Went the Day Well?	Graham Greene
+screenwriter	How I Killed My Father (French: Comment j'ai tué mon père) is a 2001 French thriller-drama film directed by Anne Fontaine.	How I Killed My Father	Anne Fontaine
+screenwriter	The Eternal Chain (Italian: L'eterna catena) is a 1952 Italian drama film directed by Anton Giulio Majano.	The Eternal Chain	Anton Giulio Majano
+screenwriter	Killing the Chickens, to Scare the Monkeys is a 2011 short film directed by Jens Assur.	Killing the Chickens, to Scare the Monkeys	Jens Assur
+screenwriter	All the Love You Cannes! is a 2002 documentary film directed by Lloyd Kaufman.	All the Love You Cannes!	Lloyd Kaufman
+screenwriter	One False Move is a 1992 American thriller film co-written by Billy Bob Thornton.	One False Move	Billy Bob Thornton
+screenwriter	The Dark Side of Love (Italian: Fotografando Patrizia) is a 1984 Italian erotic romance-drama film written and directed by Salvatore Samperi.	The Dark Side of Love	Salvatore Samperi
+screenwriter	Benny's Video is a 1992 Austrian-Swiss horror-of-personality film directed by Michael Haneke.	Benny's Video	Michael Haneke
+screenwriter	The Omen is a 1976 American-British supernatural horror-drama film directed by Richard Donner and written by David Seltzer.	The Omen	David Seltzer
+screenwriter	``The Soup Nazi'' was Spike Feresten's first credited Seinfeld episode as a writer.	The Soup Nazi	Spike Feresten
+screenwriter	The Good Lie is a 2014 American drama film written by Margaret Nagle, and directed by Philippe Falardeau.	The Good Lie	Margaret Nagle
+screenwriter	Vicky and the Treasure of the Gods (German: Wickie auf großer Fahrt) is a 2011 German 3D adventure film directed by Christian Ditter.	Vicky and the Treasure of the Gods	Christian Ditter
+screenwriter	It is based on the 1992 novel Meeting Evil by Thomas Berger.	Meeting Evil	Thomas Berger
+screenwriter	How I Ended This Summer (Russian: Как я провёл этим летом, translit. Kak ya provyol etim letom) is a 2010 Russian drama film directed by Alexei Popogrebski.	How I Ended This Summer	Alexei Popogrebski
+screenwriter	How to Make Love to a Negro Without Getting Tired (also known as Comment faire l'amour avec un nègre sans se fatiguer) is a 1989 French-language Canadian film directed by Jacques W. Benoit, starring Isaach De Bankolé and written by Haitian author Dany Laferrière based on his novel of the same name.	How to Make Love to a Negro Without Getting Tired	Dany Laferrière
+screenwriter	The Betsy is a 1978 film made by the Harold Robbins International Company and released by Allied Artists and United Artists.	The Betsy	Harold Robbins
+screenwriter	The Astronaut Farmer is a 2006 American drama film directed by Michael Polish, who co-wrote the screenplay with his brother Mark.	The Astronaut Farmer	Michael Polish
+screenwriter	Phoebe in Wonderland is a 2008 independent film directed by Daniel Barnz.	Phoebe in Wonderland	Daniel Barnz
+screenwriter	Texas Chainsaw (promoted as Texas Chainsaw 3D) is a 2013 American slasher film directed by John Luessenhop, with a screenplay by Adam Marcus, Debra Sullivan and Kirsten Elms and a story by Stephen Susco, Marcus and Sullivan.	Texas Chainsaw 3D	Adam Marcus
+screenwriter	Khayal Gatha (English: The Saga of Khayal) is a 1989 Indian experimental film written and directed by Kumar Shahani.	Khayal Gatha	Kumar Shahani
+screenwriter	The Wounds (Serbian: Ране, Rane) is a 1998 Serbian drama film written and directed by Srđan Dragojević.	The Wounds	Srđan Dragojević
+screenwriter	Three Songs About Lenin (Russian: Три песни о Ленине, 1934) is a documentary silent film by Russian filmmaker Dziga Vertov.	Three Songs About Lenin	Dziga Vertov
+screenwriter	The Kid (marketed as Disney's The Kid) is a 2000 American fantasy comedy-drama film, directed by Jon Turteltaub and written by Audrey Wells.	Disney's The Kid	Audrey Wells
+screenwriter	Head in the Clouds is a 2004 Canadian-British war drama film written and directed by John Duigan.	Head in the Clouds	John Duigan
+screenwriter	Les Uns et les Autres is a 1981 French film by Claude Lelouch.	Les Uns et les Autres	Claude Lelouch
+screenwriter	Crimson Peak is a 2015 American gothic romance film by director Guillermo del Toro and written by del Toro and Matthew Robbins.	Crimson Peak	Guillermo del Toro
+screenwriter	Written by Jon Vitti and directed by Rich Moore, ``Cape Feare'' features the return of guest star Kelsey Grammer as Sideshow Bob, who tries to kill Bart Simpson after getting out of jail.	Cape Feare	Jon Vitti
+screenwriter	The Edge of the World is a 1937 British film directed by Michael Powell, about the evacuation of the Scottish archipelago of St Kilda.	The Edge of the World	Michael Powell
+screenwriter	Viridiana (pronounced: (biɾiˈðjana)) is a 1961 Spanish film directed by Luis Buñuel and produced by Mexican Gustavo Alatriste.	Viridiana	Luis Buñuel
+screenwriter	Speaking of Murder is a 1957 French crime film directed by Gilles Grangier and starring Jean Gabin.	Speaking of Murder	Gilles Grangier
+screenwriter	Evil Dead II (referred to in publicity materials as Evil Dead 2: Dead by Dawn) is a 1987 American comedy horror film directed by Sam Raimi and a sequel to the 1981 film The Evil Dead.	Evil Dead II	Sam Raimi
+screenwriter	Potiche is a 2010 French-Belgian comedy film directed by François Ozon, based on the play of the same name by Pierre Barillet and Jean-Pierre Grédy.	Potiche	François Ozon	Pierre Barillet	Jean-Pierre Grédy
+screenwriter	1:42.08 (alternatively known as 1:42.08: A Man and His Car or 1:42.08: To Qualify) is George Lucas's senior project at the University of Southern California in 1966.	1:42.08	George Lucas
+screenwriter	Yellow Emanuelle (also released as Il mondo dei sensi di Emy Wong, Emanuelle Gialla, The Last Madame Butterfly) is a 1976 Italian film directed by Bitto Albertini.	Yellow Emanuelle	Bitto Albertini
+screenwriter	Korkoro (``Alone'' in the Romani language) is a 2009 French drama film written and directed by Tony Gatlif, starring French actors Marc Lavoine, Marie-Josée Croze and James Thiérrée.	Korkoro	Tony Gatlif
+screenwriter	Mishki versus Yudenich (Russian: Мишки против Юденича) is a 1925 Soviet silent film directed by Grigori Kozintsev and Leonid Trauberg.	Mishki versus Yudenich	Grigori Kozintsev
+screenwriter	Juliet of the Spirits (Italian: Giulietta degli spiriti) is a 1965 Italian-French fantasy comedy-drama film directed by Federico Fellini and starring Giulietta Masina, Sandra Milo, Mario Pisu, Valentina Cortese, and Valeska Gert.	Juliet of the Spirits	Federico Fellini
+screenwriter	America's Sweethearts is a 2001 American romantic comedy film directed by Joe Roth and written by Billy Crystal and Peter Tolan.	America's Sweethearts	Billy Crystal	Peter Tolan
+screenwriter	The Adventurer of Tortuga (Italian: L'avventuriero della tortuga) is a 1965 Italian historical film directed by Luigi Capuano.	The Adventurer of Tortuga	Luigi Capuano
+screenwriter	Second Chorus (1940) is a Hollywood musical comedy film starring Paulette Goddard and Fred Astaire and featuring Artie Shaw, Burgess Meredith and Charles Butterworth, with music by Artie Shaw, Bernie Hanighen, Hal Borne and lyrics by Johnny Mercer.	Second Chorus	Johnny Mercer
+screenwriter	Letter to Jane (1972) is a postscript film to Tout va bien directed by Jean-Luc Godard and Jean-Pierre Gorin and made under the auspices of the Dziga Vertov Group.	Letter to Jane	Jean-Luc Godard
+screenwriter	O' Horten is a 2007 Norwegian film directed by Bent Hamer.	O' Horten	Bent Hamer
+screenwriter	Dona Flor and Her Two Husbands (Portuguese: Dona Flor e Seus Dois Maridos) is a 1976 comedy film directed by Bruno Barreto.	Dona Flor and Her Two Husbands	Bruno Barreto
+screenwriter	Statues Also Die (French: Les statues meurent aussi) is a 1953 French essay film directed by Alain Resnais, Chris Marker, and Ghislain Cloquet about historical African art and the effects colonialism has had on how it is perceived.	Statues Also Die	Chris Marker
+screenwriter	Charlotte and Her Boyfriend (French: Charlotte et son Jules) is a 13-minute 1958 film by Franco-Swiss director Jean-Luc Godard.	Charlotte and Her Boyfriend	Jean-Luc Godard
+screenwriter	In his podcast commentaries on ``Resurrection Ship'', executive producer Ronald D. Moore discussed his views of what the episode's events reveal about several of the characters.	Resurrection Ship	Ronald D. Moore
+screenwriter	Release the Prisoners to Spring (Swedish: Släpp fångarne loss, det är vår!) is a 1975 Swedish comedy film directed by Tage Danielsson.	Release the Prisoners to Spring	Tage Danielsson
+screenwriter	Redux Riding Hood, written by sitcom writer Dan O'Shannon, tells the familiar story of Red Riding Hood from the point of view of the big, bad wolf.	Redux Riding Hood	Dan O'Shannon
+screenwriter	The Wide Blue Road (Italian: La grande strada azzurra ) is a 1957 Italian romance drama film directed by Gillo Pontecorvo and Maleno Malenotti.	The Wide Blue Road	Gillo Pontecorvo
+screenwriter	Das Fest des Huhnes (German for The festival of the chicken) is a 1992 Austrian film, directed by Walter Wippersberg.	Das Fest des Huhnes	Walter Wippersberg

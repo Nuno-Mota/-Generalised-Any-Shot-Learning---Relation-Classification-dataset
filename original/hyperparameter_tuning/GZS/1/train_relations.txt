@@ -1,0 +1,25 @@
+conflict
+continent
+country
+date of death
+developer
+employer
+father
+licensed to broadcast to
+located in the administrative territorial entity
+manufacturer
+member of political party
+military branch
+mother
+named after
+narrative location
+original network
+parent taxon
+place of birth
+place of death
+position played on team / speciality
+publisher
+record label
+series
+sex or gender
+taxon rank

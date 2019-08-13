@@ -1,0 +1,10 @@
+constellation
+continent
+creator
+date of birth
+date of death
+languages spoken or written
+member of political party
+named after
+place of birth
+sex or gender

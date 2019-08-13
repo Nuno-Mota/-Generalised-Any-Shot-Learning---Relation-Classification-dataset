@@ -1,0 +1,25 @@
+author
+cast member
+country of citizenship
+country of origin
+educated at
+employer
+father
+headquarters location
+inception
+licensed to broadcast to
+located in the administrative territorial entity
+military branch
+mother
+mouth of the watercourse
+named after
+narrative location
+native language
+occupation
+place of birth
+present in work
+publisher
+record label
+spouse
+taxon rank
+voice type

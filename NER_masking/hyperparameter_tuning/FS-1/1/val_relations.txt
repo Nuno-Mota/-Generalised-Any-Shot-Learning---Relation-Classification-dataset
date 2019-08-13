@@ -1,0 +1,10 @@
+author
+continent
+country
+director
+member of sports team
+native language
+performer
+present in work
+sport
+spouse

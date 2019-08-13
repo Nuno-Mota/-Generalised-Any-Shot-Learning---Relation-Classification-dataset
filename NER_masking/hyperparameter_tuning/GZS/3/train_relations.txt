@@ -1,0 +1,25 @@
+author
+child
+conflict
+constellation
+continent
+country of origin
+developer
+dissolved or abolished
+educated at
+father
+headquarters location
+languages spoken or written
+licensed to broadcast to
+manufacturer
+member of political party
+member of sports team
+mother
+mouth of the watercourse
+participant of
+performer
+place of birth
+publisher
+sex or gender
+taxon rank
+voice type

@@ -1,0 +1,25 @@
+author
+award received
+cast member
+continent
+country
+date of birth
+director
+educated at
+father
+headquarters location
+inception
+instrument
+manufacturer
+mother
+mouth of the watercourse
+original network
+participant of
+performer
+place of birth
+place of death
+publication date
+publisher
+series
+sport
+voice type

@@ -1,0 +1,25 @@
+cast member
+continent
+country
+country of origin
+creator
+date of birth
+developer
+educated at
+father
+headquarters location
+inception
+languages spoken or written
+member of political party
+member of sports team
+military branch
+narrative location
+parent taxon
+place of death
+position held
+present in work
+screenwriter
+series
+sport
+spouse
+voice type

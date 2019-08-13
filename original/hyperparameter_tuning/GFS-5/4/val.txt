@@ -1,0 +1,500 @@
+cast member	The Carter is a 2009 documentary film about American hip hop recording artist Dwayne Michael Carter, Jr., better known as Lil Wayne.	The Carter	Lil Wayne
+cast member	Seven Ways from Sundown is a 1960 Western film about an inexperienced Texas Ranger, played by Audie Murphy, who is sent to bring in a dangerous, if charming, outlaw played by Barry Sullivan.	Seven Ways from Sundown	Audie Murphy	Barry Sullivan
+cast member	Worth Winning is a 1989 film starring Mark Harmon, Madeleine Stowe and Lesley Ann Warren, directed by Will Mackenzie.	Worth Winning	Mark Harmon	Madeleine Stowe	Lesley Ann Warren
+cast member	Naram Garam is the story of Kusum (Swaroop Sampat) and her father (AK Hangal) who are left homeless due to non-repayment of debts of the local money lender.	Naram Garam	Swaroop Sampat
+cast member	The New Maverick is a 1978 made-for-TV movie based on the 1957 television series Maverick, with James Garner as Bret Maverick, Charles Frank as newcomer cousin Ben Maverick (son of Beau Maverick), Jack Kelly as Bart Maverick, and Susan Sullivan as Poker Alice Ivers.	The New Maverick	James Garner	Charles Frank	Jack Kelly	Susan Sullivan
+cast member	Nicolas De Santis - Antonio Encarna Paso - Elisita Lola Gaos --	Elisita	Lola Gaos
+cast member	The first match from the Chicago portion of WrestleMania 2 was a WWF Women's Championship match between The Fabulous Moolah and Velvet McIntyre.	WrestleMania 2	The Fabulous Moolah	Velvet McIntyre
+cast member	La gran aventura del Zorro (``The Great Adventure of Zorro'') is a 1976 film starring Rodolfo de Anda in a Mexican version of Zorro, directed by Raúl de Anda and featuring such actors as Helena Rojo and Pedro Armendáriz, Jr.	La gran aventura del Zorro	Rodolfo de Anda
+cast member	That Darn Cat! is a 1965 American Walt Disney Productions thriller comedy film starring Hayley Mills (in her last of the six films she made for the Walt Disney Studios) and Dean Jones (starring in his first film for Disney) in a story about bank robbers, a kidnapping and a mischievous cat.	That Darn Cat!	Hayley Mills	Dean Jones
+conflict	Walter Gericke (23 December 1907 -- 19 October 1991), was a German Fallschirmjäger during World War II and Generalmajor of the West German Bundeswehr.	Walter Gericke	World War II
+conflict	Leutnant Otto Parschau (11 November 1890 - 21 July 1916) was a German World War I Flying Ace and recipient of the Pour le Mérite, Royal House Order of Hohenzollern, and Iron Cross, First Class.	Otto Parschau	World War I
+conflict	Mariano Acha (11 November 1799 - 16 September 1841) was a soldier who fought in the Argentine Civil Wars.	Mariano Acha	Argentine Civil Wars
+conflict	John Parker Hawkins (September 29, 1830 -- February 7, 1914) was a career officer of the United States Army who served as brigadier general during the American Civil War, in which he served as a commissary officer and as a commander of colored troops.	John Parker Hawkins	American Civil War
+conflict	Willy Langkeit (2 June 1907 -- 27 October 1969) was an Generalmajor in the Wehrmacht during World War II, and one of only 882 recipients of the Knight's Cross of the Iron Cross with Oak Leaves.	Willy Langkeit	World War II
+constellation	GRW +70 8247 is a white dwarf located about 43 light years from Earth in the constellation Draco.	GRW +70 8247	Draco
+constellation	V Cephei is a white main sequence star in the constellation Cepheus.	V Cephei	Cepheus
+constellation	Beta Volantis (β Vol, β Volantis) is the brightest star of the constellation Volans.	Beta Volantis	Volans
+constellation	NGC 73 is a spiral galaxy estimated to be about 350 million light-years away in the constellation of Cetus.	NGC 73	Cetus
+constellation	Gamma Cancri (γ Cnc, γ Cancri) is a star system in the constellation Cancer.	Gamma Cancri	Cancer
+continent	Mohaupt Point (66°4′S 100°47′E) is the eastern point of Currituck Island, in the Highjump Archipelago, Antarctica.	Mohaupt Point	Antarctica
+continent	Mount Melton (77°31′S 168°52′E) is a squarish mountain 1.3 nautical miles (2.4 km) west of Tent Peak in the Kyle Hills of Ross Island, Antarctica.	Mount Melton	Antarctica
+continent	Mount Macbain (83°6′S 162°18′E) is a prominent mountain, 2,205 metres (7,230 ft) high, standing between the mouths of Cornwall Glacier and Helm Glacier in the Queen Elizabeth Range, Antarctica.	Mount Macbain	Antarctica
+continent	Mount Kohnen (75°0′S 134°47′W) is a peak on the southwestern corner of Bowyer Butte, in Marie Byrd Land, Antarctica.	Mount Kohnen	Antarctica
+continent	Lacuna Island (65°31′S 65°18′W) is a small island lying 8 nautical miles (15 km) east of Tula Point, the northern end of Renaud Island, in the Biscoe Islands, Antarctica.	Lacuna Island	Antarctica
+continent	Giaever Glacier (72°37′S 31°8′E) is a glacier flowing northwest between Mount Kerckhove de Denterghem and Mount Lahaye in the Belgica Mountains of Antarctica.	Giaever Glacier	Antarctica
+continent	Foreman Glacier (69°18′S 71°22′W) is a glacier flowing south-southeast from the Havre Mountains into Palestrina Glacier, in the northern portion of Alexander Island, Antarctica.	Foreman Glacier	Antarctica
+continent	Larkman Nunatak (85°46′S 179°23′E) is a large, isolated rock nunatak, 2,660 metres (8,730 ft) high, at the southeast end of the Grosvenor Mountains of Antarctica, 12 nautical miles (22 km) east of Mauger Nunatak.	Larkman Nunatak	Antarctica
+continent	Kitney Island is a small island 2 kilometres (1 nmi) east-northeast of the Smith Rocks, 2 kilometres (1 nmi) southwest of the Wiltshire Rocks, and 5 kilometres (2.5 nmi) northwest of the Paterson Islands, off the coast of Mac. Robertson Land, Antarctica.	Kitney Island	Antarctica
+country of citizenship	Maria Bińczyk (born September 17, 1983 in Berlin, Germany) is a Polish/German ice dancer who currently represents Poland in international competition.	Maria Bińczyk	Poland
+country of citizenship	Gilbert Horal, probably, he was born an Aragonese (from the Kingdom of Aragon in modern-day Spain), and entered the Templars at a young age.	Gilbert Horal	Spain
+country of citizenship	Ngerak Florencio (born 27 June 1983 in Koror, Palau) is a track and field sprint athlete who competed internationally for Palau.	Ngerak Florencio	Palau
+country of citizenship	Ruslan Vartanov (born August 18, 1971 in Vilnius, Lithuania) is a retired Armenian-Lithuanian Greco-Roman wrestler and coach.	Ruslan Vartanov	Lithuania
+country of citizenship	Frederik Nannestad was born in Eidsberg, Norway, the son of pastor Christopher Jensen and his third wife, Karen Tønnesdatter Unrov.	Frederik Nannestad	Norway
+country of citizenship	Hamed Karoui (born 30 December 1927 in Sousse) was Prime Minister of Tunisia from 27 September 1989 to 17 November 1999.	Hamed Karoui	Tunisia
+country of citizenship	Ghislaine Barnay (born October 8, 1945 in Fort-de-France, Martinique) is a former French athlete who specialises in the women's high jump.	Ghislaine Barnay	France
+country of citizenship	Dr. Mahendra Reddy is a Fijian politician and Member of the Parliament of Fiji.	Mahendra Reddy	Fiji
+country of citizenship	Inge Viermetz (born 7 March 1908 in Aschaffenburg -- date of death unknown) was responsible for the Lebensborn in Nazi Germany.	Inge Viermetz	Germany
+country of citizenship	Sayadaw U Rewata Dhamma (4 December 1929, Thamangone -- 26 May 2004, Birmingham) was a prominent Theravada Buddhist monk and noted Abhidhamma scholar from Myanmar (Burma).	Rewata Dhamma	Myanmar
+country of citizenship	Egon Egemann (born Egon Lackner; 1963 in Graz) studied classical violin and Jazz at Graz Music Academy in Austria.	Egon Egemann	Austria
+country of citizenship	Khil Raj Regmi (Nepali: खिलराज रेग्मी, OGDB, OTSP, born 31 May 1949) was de facto Prime Minister of Nepal from 2013 to 2014.	Khil Raj Regmi	Nepal
+country of citizenship	Yusa is a Cuban singer and songwriter, born in the Buena Vista district of Havana, Cuba.	Yusa	Cuba
+country of citizenship	Wepiha Apanui (--1880) was a New Zealand tribal leader and carver.	Wepiha Apanui	New Zealand
+country of citizenship	Dennis Edmonton (born 21 April 1943 in Oshawa, Ontario, Canada), also known by the stage name Mars Bonfire, is a Canadian rock musician and songwriter, best known for writing the hit song ``Born to Be Wild'' for Steppenwolf.	Mars Bonfire	Canada
+country of citizenship	Bijan Zarnegar (Persian: بیژن زرنگار ‎, born 25 March 1940 in Kermanshah, Iran) is an Iranian practitioner of fencing.	Bijan Zarnegar	Iran
+country of citizenship	Vladyslav Nekhtiy (Ukrainian: Владислав Володимирович Нехтій; born 19 December 1991 in Almaty, Kazakhstan), is a professional Kazakh-born Ukrainian football midfielder who last played for FC Kaisar team in the Kazakhstan Premier League.	Vladyslav Nekhtiy	Kazakhstan
+country of citizenship	Emperor Go-Kashiwabara (後柏原天皇 Go-Kashiwabara-tennō) (November 19, 1464 -- May 19, 1526) was the 104th emperor of Japan, according to the traditional order of succession.	Emperor Go-Kashiwabara	Japan
+country of citizenship	A. Senapathi Gounder (9 September 1916 -- 25 February 1992) was an Indian politician, former Member of Parliament India and Member of the Legislative Assembly of Tamil Nadu.	A. Senapathi Gounder	India
+country of citizenship	Colonel (later Brigadier General) Garba Mohammed was appointed Governor of Sokoto State in Nigeria from August 1985 to December 1987 during the military regime of General Ibrahim Babangida.	Garba Mohammed	Nigeria
+country of citizenship	David Larible (born June 23, 1957 in Verona, Italy) is an Italian clown.	David Larible	Italy
+country of citizenship	Lionel Bertrand (March 10, 1906 in St. Jovite, Quebec, Canada -- March 26, 1979) was a Canadian politician, journalist and newspaper editor.	Lionel Bertrand	Canada
+country of citizenship	María José Maldonado Gómez is a Paraguayan singer, model and beauty pageant titleholder who represented Paraguay at Miss Universe 2007 pageant.	María José Maldonado	Paraguay
+country of citizenship	The government has nominated Prof Damodar Acharya as a director on the central board of the Reserve Bank of India in October 2012.	Damodar Acharya	India
+country of citizenship	Olayuk Akesuk (born 1965) is a politician from Cape Dorset, Nunavut, Canada.	Olayuk Akesuk	Canada
+country of citizenship	Aqibullah was elected a member of national assembly on a ticket of Pakistan Tehreek-e-Insaf from NA-13 (Swabi) in Pakistani general election, 2013.	Aqibullah	Pakistan
+country of citizenship	Aziza Abdel-Halim is President of the Muslim Women's National Network Australia.	Aziza Abdel-Halim	Australia
+country of citizenship	Perla Bautista (born February 18, 1940) is a multi-awarded actress in the Philippines.	Perla Bautista	Philippines
+country of citizenship	Régis Amarante Lima de Quadros (born August 3, 1976 in Porto Alegre) is a central-defender player from Brazil.	Régis Amarante Lima de Quadros	Brazil
+country of citizenship	Darcy Clay (b. Daniel Robert Bolton, 5 December 1972 -- 15 March 1998) was an Auckland, New Zealand singer/songwriter, who was made famous in 1997 for his Number 5 hit ``Jesus I Was Evil'', in which he recorded all instruments in his bedroom on a 4-track recorder.	Darcy Clay	New Zealand
+country of citizenship	Kristyan Ferrer (born February 1995 in Mexico City, Mexico) is a Mexican actor in various roles since 2001.	Kristyan Ferrer	Mexico
+country of citizenship	Birgit Lorenz (born 20 August 1963 in Berlin, Germany) is a former East German pair skater who competed with Knut Schubert.	Birgit Lorenz	Germany
+country of citizenship	Sayed Mahmood Jalal (born 5 November 1980) is a Bahraini footballer currently playing with Al Muharraq Club of Bahrain and the Bahrain national football team.	Sayed Mahmood Jalal	Bahrain
+country of citizenship	Isco represented Spain at various youth levels, including at the 2012 Olympics, and made his senior international debut in 2013.	Isco	Spain
+country of citizenship	William John Chapman Benson (c. 1818 -- 3 December 1850) was British born and came to Canada where he established himself in the Quebec timber trade.	William John Chapman Benson	Canada
+country of citizenship	Mohammad Dinah Salifou Camara (died October 21, 1897) was the last king of the Nalu people of Guinea.	Dinah Salifou	Guinea
+country of citizenship	Cornelius Francoius Kruger van Wyk (born 7 February 1980 in Wolmaransstad, South Africa) is a New Zealand cricketer who plays for the Central Districts Stags.	Kruger van Wyk	South Africa
+country of citizenship	Santo Anzà (born 17 November 1980, in Catania, Italy) is an Italian professional road racing cyclist, who last rode for the UCI ProTeam Vacansoleil-DCM.	Santo Anzà	Italy
+creator	Pob's Programme was created by Doug Wilcox and Anne Wood of Ragdoll Productions, which also created Rosie and Jim.	Pob's Programme	Anne Wood
+creator	Study of a Kneeling Nude Girl for The Entombment is a drawing of c. 1500--1501 by Michelangelo, now in the Louvre Museum.	Study of a Kneeling Nude Girl for The Entombment	Michelangelo
+creator	La Bella is a portrait of an unknown woman by Titian, painted around 1536 and now in the Palazzo Pitti in Florence.	La Bella	Titian
+creator	Varoom! is a 1963 pop art painting by Roy Lichtenstein that depicts an explosion and the onomatopoeic sound that gives it its name.	Varoom!	Roy Lichtenstein
+creator	Bitag (literally Trap) is an investigative and public service program hosted by Ben Tulfo and produced by BST Tri-Media Productions that airs in the Philippines.	Bitag	Ben Tulfo
+date of death	Joseph Samuel (c. 1780--April 1806) was an Englishman legendary for the manner in which he survived execution.	Joseph Samuel	1806
+date of death	Edward Hagarty Parry (24 April 1855 -- 19 July 1931) was a Canadian-born English international footballer.	Edward Hagarty Parry	19 July 1931
+date of death	Thomas Rice Burnham (1834-1893) or T.R. Burnham was an American photographer.	Thomas Rice Burnham	1893
+date of death	Attila (/ˈætᵻlə/ or /əˈtɪlə/; fl. 434--453), frequently referred to as Attila the Hun, was the ruler of the Huns from 434 until his death in March 453.	Attila	453
+date of death	Margherita Caffi (1650 -- 20 September 1710) was an Italian painter of still lifes of flowers and fruit.	Margherita Caffi	20 September 1710
+date of death	Sir Matthew White Ridley, 3rd Baronet (18 April 1778 -- 14 July 1836) was a politician in the United Kingdom.	Sir Matthew White Ridley, 3rd Baronet	14 July 1836
+date of death	John Oldershaw (died 1847) was a British clergyman.	John Oldershaw	1847
+date of death	Captain William Villiers-Stuart (21 August 1804 -- 7 November 1873), was a British soldier and Member of Parliament.	William Villiers-Stuart	7 November 1873
+date of death	Jan Klingers (28 August 1929, Zaandam- 22 April 1994, Zaandam) was a Dutch sprint canoer who competed in the early 1950s.	Jan Klingers	22 April 1994
+date of death	Josef Karl Richter (born 16 March 1880 in Podersam -- died 22 September 1933 in Vienna) was a Bohemian composer and military bandmaster.	Josef Karl Richter	22 September 1933
+date of death	Young Oon Kim (1914--1989) was a leading theologian of the Unification Church and its first missionary to the United States.	Young Oon Kim	1989
+date of death	Rudy Burckhardt (April 6, 1914, Basel -- August 1, 1999, Searsmont) was a Swiss-American filmmaker, and photographer, known for his photographs of hand-painted billboards which began to dominate the American landscape in the nineteen-forties and fifties.	Rudy Burckhardt	1999
+date of death	Antonio Maria Abbatini (26 January 1595 -- ? after 15 March 1679) was an Italian composer, active mainly in Rome.	Antonio Maria Abbatini	March 1679
+date of death	Kitty Fisher (1741--1767) was a prominent British courtesan.	Kitty Fisher	1767
+date of death	Sir James Gray, 2nd Baronet PC, KB (c. 1708 -- 14 February 1773) was a British diplomat and antiquary.	Sir James Gray, 2nd Baronet	14 February 1773
+date of death	Joseph Kossonogi (Hebrew: יוסף קוסונוגי‎; born 1908, died 1981) (also Yosef Kossonogy) was an Israeli painter.	Joseph Kossonogi	1981
+date of death	Stuart Cable (19 May 1970 -- 7 June 2010) was a Welsh rock drummer and broadcaster, best known as the original drummer for the band Stereophonics.	Stuart Cable	7 June 2010
+date of death	Knud Børge Andersen, known as K. B. Andersen for short, (1 December 1914 -- 23 March 1984) was a Danish politician, who served as Danish Minister of Education and Minister of Foreign Affairs, and held international offices.	K. B. Andersen	23 March 1984
+date of death	Murli Deora (1937 -- 24 November 2014) was an Indian politician belonging to the Congress Party, and Minister of Corporate Affairs until 12 July 2011.	Murli Deora	24 November 2014
+date of death	Jan van Oort (13 April 1921 in Amsterdam -- 29 November 2006 in Arnhem) was a Dutch children's book writer and comic strip cartoonist, working under the pseudonym of Jean Dulieu.	Jean Dulieu	29 November 2006
+date of death	Albert Hassler (2 November 1903 -- 22 September 1994) was a French ice hockey player and speed skater.	Albert Hassler	22 September 1994
+date of death	Hiren Bhattacharyya (Assamese: হীৰেন ভট্টাচাৰ্য) (28 July 1932 -- 4 July 2012) was one of the best known poets working in the Assamese language.	Hiren Bhattacharyya	4 July 2012
+date of death	William Sunners (1904 -- 1988) was an American author who wrote over 100 books on how to win prizes in contests.	William Sunners	1988
+date of death	Ian Robert Maxwell, MC (born Ján Ludvík Hyman Binyamin Hoch; 10 June 1923 -- 5 November 1991) was a Czechoslovakian-born British media proprietor and Member of Parliament (MP).	Robert Maxwell	5 November 1991
+date of death	Juan Madariaga (1809--1879) was an Argentine general who participated in the civil wars of the nineteenth century.	Juan Madariaga	1879
+date of death	Peter Manor (1778--1847) was best known as the founder of the town of Providence, Ohio.	Peter Manor	1847
+date of death	Neil King (7 July 1889 -- 14 July 1955) was an Australian rules footballer for Essendon in the Victorian Football League (VFL).	Neil King	14 July 1955
+date of death	Philip of Castile (Spanish: Felipe de Castilla y Suabia; 1231 -- 28 November 1274) was an Infante of Castile and son of Ferdinand III, King of Castile and León, and his first queen, Beatrice of Swabia.	Philip of Castile	28 November 1274
+date of death	General Sir Thomas Pride (died 23 October 1658) was a parliamentarian commander in the Civil War, best known as one of the Regicides of King Charles I and as the instigator of ``Pride's Purge''.	Thomas Pride	23 October 1658
+date of death	Thomas Kirkham (died 1480) was a pre-Reformation cleric who served as the Bishop of Sodor and Man in the second half of the 15th-century.	Thomas Kirkham	1480
+date of death	Rose Scott (8 October 1847 -- 20 April 1925) was an Australian women's rights activist who advocated for women's suffrage and universal suffrage in New South Wales at the turn-of-the twentieth century.	Rose Scott	20 April 1925
+date of death	Henry Forster Burder, D.D. (1783--1864) was an English nonconformist minister.	Henry Forster Burder	1864
+date of death	William Potts (May 1883 -- 1947), a Detroit police officer, is credited with inventing the modern, three-lens traffic light in Detroit in 1920 (the two-lens, red/green traffic signal was invented in London in 1868).	William Potts	1947
+date of death	Margaret Muriel Martin-Harvey (4 October 1891, London -- 15 December 1988, Hillingdon, London) was an English stage actress.	Muriel Martin-Harvey	1988
+date of death	Sir Edmund Moundeford (1596 -- May 1643) was an English politician who sat in the House of Commons at various times between 1628 and 1643.	Edmund Moundeford	1643
+date of death	Abu Faris Abdallah, nicknamed al-Wathik Billah (1564--1608) was a ruler of the Saadi dynasty.	Abu Faris Abdallah	1608
+date of death	Juozas Ūdras (14 February 1925 -- 24 May 1991) was a Lithuanian-Soviet Olympic fencer.	Juozas Ūdras	24 May 1991
+date of death	Marulla of Verona or Maria of Verona (Italian: Marulla da Verona; died 1326), was the Lady of Karystos in the Frankish Greece.	Marulla of Verona	1326
+date of death	Thaddeus Cahill (18 June 1867 -- 12 April 1934) was a prominent inventor of the early 20th century.	Thaddeus Cahill	12 April 1934
+date of death	Sir Woodbine Parish KCH (14 September 1796, London -- 16 August 1882, St. Leonards, Sussex) was a British diplomat, traveller and scientist.	Woodbine Parish	16 August 1882
+date of death	Christen Sørensen Longomontanus (or Longberg) (4 October 1562 -- 8 October 1647) was a Danish astronomer.	Christen Sørensen Longomontanus	8 October 1647
+date of death	Peter Anker (31 July 1744 -- 17 April 1832) was a Norwegian diplomat and colonialist.	Peter Anker	17 April 1832
+date of death	Matthias D'Oyly or D'Oyley (23 November 1743 -- 13 November 1815) was the Archdeacon of Lewes from 1806 until 1815.	Matthias D'Oyly	13 November 1815
+date of death	Lucy Wilson (1888--1980) was an American physicist, known for her research on theories of vision, optics and X-ray spectroscopy.	Lucy Wilson	1980
+date of death	Ernest Bramah (20 March 1868 -- 27 June 1942), born Ernest Brammah Smith, was an English author.	Ernest Bramah	27 June 1942
+date of death	Peter Crüger or Peter Krüger (20 October 1580 in Königsberg (Królewiec) -- 6 June 1639) was a mathematician, astronomer, polymath, and teacher of Johannes Hevelius.	Peter Crüger	1639
+date of death	Odoardo Borrani (22 August 1833 -- 14 September 1905) was an Italian painter associated with the Macchiaioli group.	Odoardo Borrani	14 September 1905
+date of death	Dudley Colley (ca. 1621 -- July 1674) was an Irish Member of Parliament.	Dudley Colley	1674
+date of death	Col Edward Dorsey (died 1705) was a Colonial settler of Maryland and Anne Arundel County.	Edward Dorsey	1705
+date of death	Asbjørn Toms (20 October 1915 -- 2 April 1990) was a Norwegian actor, stage director and playwright.	Asbjørn Toms	2 April 1990
+date of death	Franciszek Krajowski (born Czech: František Králíček; September 30, 1861, Velešín, south Bohemia (then in Austrian Empire) - November 22, 1932, Brest) was a Czech-Poles military officer and a General of the Polish Army.	Franciszek Krajowski	1932
+date of death	Theodorick Bland (December 2, 1708 -- 1784), also known as Theodorick Bland, Sr. or Theodorick Bland of Cawsons, was a member of the Virginia House of Burgesses, a clerk of the court of Prince George County, Virginia, and the father of Congressman Theodorick Bland.	Theodorick Bland of Cawsons	1784
+date of death	Ali Bahar (born 1960 - 3 July 2011) was a Bahraini singer, guitarist and organ player known for his music band Al Ekhwa (Arabic translation: The Brothers) .	Ali Bahar	3 July 2011
+date of death	Cedric Wyatt (7 April 1940 -- 25 September 2014) was an Australian public servant and indigenous rights advocate.	Cedric Wyatt	25 September 2014
+date of death	Massimo Serato, born Giuseppe Segato, (31 May 1916 -- 22 December 1989) was an Italian film actor with a career spanning over 40 years.	Massimo Serato	22 December 1989
+date of death	S. Kalyanaraman (2 June 1930 -- 9 January 1994), popularly known as SKR, was a vocalist in the Carnatic tradition.	S. Kalyanaraman	9 January 1994
+date of death	Kisan Mehta (31 August 1924 -- 7 March 2015) was an Indian activist and President of Save Bombay Committee and Prakruti, nonprofits based in India.	Kisan Mehta	7 March 2015
+date of death	Ammembal Subba Rao Pai (1852--1909) was a leading lawyer of Mangalore, India.	Ammembal Subba Rao Pai	1909
+date of death	Juvenal Juvêncio (25 February 1934 -- 9 December 2015) was a Brazilian lawyer, state representative, investigator of police and president of São Paulo Futebol Clube.	Juvenal Juvêncio	9 December 2015
+date of death	Silas M. Gordon (1835--1888) was an anti-union guerrilla who indirectly caused Platte City, Missouri, to be burned twice by forces during the American Civil War.	Silas M. Gordon	1888
+date of death	Burchard Precht (24 October 1651 - 26 February 1738) was a Swedish-German furniture maker and sculptor.	Burchard Precht	26 February 1738
+date of death	Giovanbattista Branconio dell'Aquila (1473 -- 1522) was a papal protonotary and chamberlain, as well as a friend of the artist Raphael (who painted The Visitation; Raphael designed the palace of Palazzo Branconio dell'Aquila in the Borgo for him).	Giovanbattista Branconio dell'Aquila	1522
+date of death	George I, Prince of Anhalt-Dessau (c. 1390 -- Dessau, 21 September 1474), was a German prince of the House of Ascania and ruler of the principality of Anhalt-Dessau.	George I, Prince of Anhalt-Dessau	21 September 1474
+date of death	Steinar Sulheim (1815--1856) was a Norwegian farmer and mountain tourism pioneer.	Steinar Sulheim	1856
+date of death	Joseph Clement ( 1779 -- 28 February 1844) was a British engineer and industrialist, chiefly remembered as the maker of Charles Babbage's first Difference engine, between 1824 and 1833.	Joseph Clement	28 February 1844
+date of death	David Bloch-Blumenfeld (Hebrew: דוד בלוך-בלומנפלד‎; 1880 -- 27 November 1947), sometimes simply David Bloch, was one of the leaders of the Labor Zionism movement in Mandate Palestine and mayor of Tel Aviv in 1925--27.	David Bloch-Blumenfeld	27 November 1947
+date of death	Leopoldo Zunini (20 December 1868, Savona - June 1944, Sasello) was an Italian diplomat.	Leopoldo Zunini	1944
+date of death	Erling Kristvik (30 August 1882 -- 9 January 1969) was a Norwegian educationalist.	Erling Kristvik	9 January 1969
+director	Land of Widows a 21-minute Indian documentary film directed by Aarti Shrivastava.	Land of Widows	Aarti Shrivastava
+director	The Clergyman (Swedish: Prästen) is a 1914 Swedish silent drama film directed by Victor Sjöström.	The Clergyman	Victor Sjöström
+director	Weapons of Death (Italian: Napoli spara!, also known as Naples Shoots) is a poliziottesco film directed by Mario Caiano in 1977.	Weapons of Death	Mario Caiano
+director	Rajjo is a 2013 Indian romantic musical produced by Four Pillars Entertainment and directed by Sahitya Akademi Award winning writer Vishwas Patil.	Rajjo	Vishwas Patil
+director	Hocus Pocus Alfie Atkins (Swedish: Hokus Pokus Alfons Åberg) is a 2013 Swedish animated feature film directed by Torill Kove.	Hocus Pocus Alfie Atkins	Torill Kove
+director	The Mutiny of the Bounty is a 1916 Australian-New Zealand silent film directed by Raymond Longford about the mutiny aboard HMS Bounty.	The Mutiny of the Bounty	Raymond Longford
+director	Arima Nambi (English:Man with the strength of the Lion) is a 2014 Indian Tamil thriller film directed by debutant Anand Shankar.	Arima Nambi	Anand Shankar
+director	Cochengo Miranda is a 1975 Argentine documentary film by filmmaker Jorge Preloran.	Cochengo Miranda	Jorge Preloran
+director	A Girl of Yesterday is a 1915 American silent comedy film directed by Allan Dwan, and distributed by Paramount Pictures and Famous Players-Lasky.	A Girl of Yesterday	Allan Dwan
+director	Taivas tiellä is a 2000 Finnish by Johanna Vuoksenmaa who wrote the screenplay and directed.	Taivas tiellä	Johanna Vuoksenmaa
+director	Two Weeks Off is a 1929 American silent comedy film directed by William Beaudine.	Two Weeks Off	William Beaudine
+director	The Active Life of Dolly of the Dailies is a 1914 drama film serial directed by Walter Edwin.	The Active Life of Dolly of the Dailies	Walter Edwin
+educated at	Griffith Edwards CBE (3 October 1928 -- 13 September 2012) was born in India and received his M.D. from Balliol College, Oxford.	Griffith Edwards	Balliol College
+educated at	Salar Kamangar (born in Tehran, Iran) holds a bachelor's degree in Biological Sciences with honors from Stanford University and was the 7th employee to join Google.	Salar Kamangar	Stanford University
+educated at	Verna Susannah Coleman was born in Sydney, the second daughter of Jack and Ruby Scott, and educated at Our Lady of Mercy College, Parramatta and the University of Sydney.	Verna Susannah Coleman	University of Sydney
+educated at	Mark Sadan began his work in art as an actor in his early twenties graduating from the American Academy of Dramatic Arts in New York City.	Mark Sadan	American Academy of Dramatic Arts
+educated at	Suk Hi Kim is the editor of North Korean Review and a senior professor of international finance at the University of Detroit Mercy in the United States.	Suk Hi Kim	University of Detroit Mercy
+employer	Beth Hayes was a professor of managerial economics in the J.L. Kellogg Graduate School of Management at Northwestern University until her death in a traffic fatality in 1984.	Beth Hayes	Northwestern University
+employer	Roy Greenslade (born 31 December 1946) is Professor of Journalism at City University London and has been a media commentator since 1992, most notably for The Guardian.	Roy Greenslade	City University London
+employer	Paul Wehman is a Professor of Physical Medicine and Rehabilitation at Virginia Commonwealth University, and an early pioneer of supported employment.	Paul Wehman	Virginia Commonwealth University
+employer	Salim Lone is a Kenyan journalist, political advisor, and former Director of the News and Media Division, Department of Public Information, of the United Nations.	Salim Lone	United Nations
+employer	Li Fang-Kuei (20 August 1902 -- 21 August 1987) was a Chinese linguist, sinologist, and professor of Chinese at the University of Washington.	Li Fang-Kuei	University of Washington
+father	Nicolas Vauquelin des Yveteaux (1567--1649) was a French libertine poet, the son of Jean Vauquelin de la Fresnaye.	Nicolas Vauquelin des Yveteaux	Jean Vauquelin de la Fresnaye
+father	Marianna Wiśniowiecka (1600 -- February 1624) - Polish noble lady (szlachcianka), the oldest daughter of Prince Konstanty Wiśniowiecki and Anna Zahorowska of Ostoja Clan.	Marianna Wiśniowiecka	Konstanty Wiśniowiecki
+father	Philip Charles Hardwick was born in Westminster in London, the son of the architect Philip Hardwick (1792--1870) and grandson of architect Thomas Hardwick (junior) (1752--1825).	Philip Charles Hardwick	Philip Hardwick
+father	Bodi Alagh Khan was Turbolad's eldest son and was handpicked by his grandfather Dayan Khan as his successor.	Bodi Alagh Khan	Turbolad
+father	Fehime Sultan (2 August 1875 -- 15 September 1929) was an Ottoman princess, the daughter of Sultan Murad V and his wife Meyliservet Kadınefendi, an ethnic Circassian.	Fehime Sultan	Murad V
+father	Lazar Vuković (Serbian Cyrillic: Лазар Вуковић; died 12 July 1410), was a Serbian prince (knez), the son of Lord Vuk Branković (r. 1378--89) and Mara Lazarević.	Lazar Vuković	Vuk Branković
+founder	Headquartered in Atlanta, Sharecare was founded in 2010 by Jeff Arnold (founder of WebMD) and Dr. Mehmet Oz, in partnership with Harpo Studios, Sony Pictures Television and Discovery Communications.	Sharecare	Mehmet Oz
+founder	Houston Endowment Inc. was founded in 1937 by Jesse H. Jones and Mary Gibbs Jones as an extension of their personal philanthropy to help establish institutions and organizations that help facilitate the growth of Houston and develop its people.	Houston Endowment Inc.	Jesse H. Jones
+founder	In 1860 the GIB Group is created by opening the first Au Bon Marché store in Brussels by François Vaxelaire.	GIB Group	François Vaxelaire
+founder	Broadway Comics was a short-lived comic book publishing company started by Jim Shooter in 1995, after his former company, Defiant Comics, had folded.	Broadway Comics	Jim Shooter
+founder	Siegel Suites is a no-lease required, residential apartment chain founded in 2006 by Steve Siegel and managed by The Siegel Group.	Siegel Suites	Steve Siegel
+inception	DEST, founded on April 29, 1938, in Berlin, was administered by the VWHA for the purpose of procuring building materials and organizing slave labor and overseeing quarry operations.	DEST	1938
+inception	The Combahee River Collective was a Black feminist lesbian organization active in Boston from 1974 to 1980.	Combahee River Collective	1974
+inception	Girvan distillery was founded in 1963 with the installation of its first Coffey still in 1963, which was celebrated with their first official bottling.	Girvan distillery	1963
+inception	Kenstar is a brand of home appliances by company Kitchen Appliances India Limited which was launched during October 1996.	Kenstar	1996
+inception	Established by the UK Government in 2003 as the National Non-Food Crops Centre (NNFCC) to help extend the competitive non-food uses of crops, NNFCC is now an international consultancy providing advice on the conversion of biomass to bioenergy, biofuels and bio-based products.	NNFCC	2003
+inception	Spectra Music Group (sometimes known plainly as Spectra) is a United States music company originally conceived in 1997, it has since expanded to represent various genres of music.	Spectra Music Group	1997
+inception	The International Defensive Pistol Association (IDPA), founded in 1996, is an organization based in Berryville, Arkansas, that has created a shooting sport based on defensive pistol techniques, using equipment including full-charge service ammunition to solve simulated ``real world'' self-defense scenarios.	International Defensive Pistol Association	1996
+inception	Metro Parent Publishing Group was founded by Alyssa Martina -- a metro-Detroit native, attorney, mother of two boys, and certified parent coach -- at her dining room table in 1986.	Metro Parent Publishing Group	1986
+inception	The University of Minnesota Rochester (UMR) is the newest campus of the University of Minnesota system, having been formally established in December 2006.	University of Minnesota Rochester	2006
+inception	The town of Lieksa was established in 1973 when the Market town of Lieksa and the Municipality of Pielisjärvi were consolidated.	Lieksa	1973
+languages spoken or written	Jean-Marie Poumeyrol (born at Libourne on June 8, 1946) is a French artist.	Jean-Marie Poumeyrol	French
+languages spoken or written	Charles Paul Phipps (1815--1880), of Chalcot House, Westbury, Wiltshire, was an English merchant in Brazil and later Conservative MP for Westbury (1869--1874) and High Sheriff of Wiltshire (1875).	Charles Paul Phipps	English
+languages spoken or written	Werner Rackwitz (3 December 1929 -- 14 March 2014) was a German opera director and politician.	Werner Rackwitz	German
+languages spoken or written	Joan Vizcarra Carreras (born 1967 in Montblanc, Tarragona) is a Spanish cartoonist.	Joan Vizcarra	Spanish
+languages spoken or written	Antonio Domínguez Ortiz (October 18, 1909 -- January 21, 2003) was a Spanish historian, one of the leading specialists in the history of the Spanish Antiguo Régimen of the 16th through 18th centuries, in particular in social history.	Antonio Domínguez Ortiz	Spanish
+languages spoken or written	Richard Malka (born 6 June 1968) is a French lawyer and comics writer.	Richard Malka	French
+languages spoken or written	Sébastien Gérardin (9 March 1751 in Mirecourt -- 17 July 1816 in Paris) was a French naturalist.	Sébastien Gérardin	French
+languages spoken or written	Henrik Dam (Full name Carl Peter Henrik Dam) (21 February 1895 -- 17 April 1976) was a Danish biochemist and physiologist.	Henrik Dam	Danish
+languages spoken or written	John Southerden Burn (3 July 1798 -- 15 June 1870) was an English solicitor and antiquary.	John Southerden Burn	English
+languages spoken or written	Divna M. Vuksanović (Serbian Cyrillic: Дивна М. Вуксановић; 17 March 1965) is a Serbian philosopher, writer, media theorist and president of the Aesthetic Society of Serbia.	Divna M. Vuksanović	Serbian
+languages spoken or written	Philibert Borie (1759--1832) was a French physician and Mayor of Paris for six days in July of 1792.	Philibert Borie	French
+languages spoken or written	Oscar Oiwa (in Japanese: 大岩オスカール) is a painter who was born in Brazil, son of Japanese immigrants.	Oscar Oiwa	Japanese
+languages spoken or written	Hermann Spieckermann (born October 28, 1950 in Dortmund) is a German Protestant theologian, biblical scholar, and historian of ancient Near Eastern religion.	Hermann Spieckermann	German
+languages spoken or written	Jean-Baptiste Coye (June 6, 1711 -- February 17, 1771) was an Occitan language writer from Mouriès, Provence.	Jean-Baptiste Coye	Occitan
+languages spoken or written	Hansjörg Göritz (born 5 June 1959) is a German architect, professor, author and designer associated with pure and minimalist architecture that emphasizes place, space, light and material.	Hansjörg Göritz	German
+languages spoken or written	Johann Georg Krünitz (March 20, 1728 -- December 20, 1796) was a German encyclopedist who started the 242-volume Oekonomische Encyklopädie and during his lifetime managed to complete its first 72 volumes.	Johann Georg Krünitz	German
+languages spoken or written	Hanna Mina (Arabic: حنا مينة‎) (born on 9 March 1924 in Latakia) is a Syrian writer, described as ``Syria's most prominent novelist''.	Hanna Mina	Arabic
+languages spoken or written	Alberto Méndez (1941-2004) was an award-winning Spanish novelist.	Alberto Méndez	Spanish
+languages spoken or written	Kenneth Womack was born in Houston, Texas, United States, and is Dean of the Wayne D. McMurray School of Humanities and Social Sciences at Monmouth University, where he also serves as Professor of English.	Kenneth Womack	English
+languages spoken or written	Aleksander Brückner (29 January 1856 -- 24 May 1939) was a Polish scholar of Slavic languages and literatures (Slavistics), philologist, lexicographer and historian of literature.	Aleksander Brückner	Polish
+languages spoken or written	Rashid Al-Daif (Arabic: رشيد الضعيف) (or Rasheed Al-Daif, Rachid El-Daïf, Rachid El-Daif) is a Lebanese author, writing in Arabic.	Rashid Al-Daif	Arabic
+languages spoken or written	Hassan Fathy (1900--1989, Arabic: حسن فتحي) was a noted Egyptian architect who pioneered appropriate technology for building in Egypt, especially by working to re-establish the use of mud brick (or adobe) and traditional as opposed to western building designs and lay-outs.	Hassan Fathy	Arabic
+languages spoken or written	Filippo Pigafetta (1533--1604) was an Italian mathematician and explorer.	Filippo Pigafetta	Italian
+languages spoken or written	Charmila is a popular film actress in Malayalam cinema.	Charmila	Malayalam
+languages spoken or written	Krzysztof Opaliński (21 January 1611 -- 6 December 1655) was a Polish noble (szlachcic), politician, writer and satirist, Voivode of Poznań and starosta kowelski, śremski, osiecki, międzyłęski.	Krzysztof Opaliński	Polish
+languages spoken or written	Maria Kuncewiczowa (Samara, Russian Empire, 30 October 1895 - 15 July 1989, Lublin, Poland) was a Polish writer and novelist.	Maria Kuncewiczowa	Polish
+languages spoken or written	Paul-André Meyer (21 August 1934 -- 30 January 2003) was a French mathematician, who played a major role in the development of the general theory of stochastic processes.	Paul-André Meyer	French
+languages spoken or written	Philip Henry Stanhope, 4th Earl Stanhope FRS (7 December 1781 -- 2 March 1855), was an English aristocrat, chiefly remembered for his role in the Kaspar Hauser case during the 1830s.	Philip Henry Stanhope, 4th Earl Stanhope	English
+languages spoken or written	Sindhu Tolani is an Indian actress working in various languages such as Telugu, Tamil, Kannada and Hindi.	Sindhu Tolani	Hindi
+languages spoken or written	Jovan Sterija Popović (pronounced (jɔ̌v̞an stɛ̂ːrija pɔ̌pɔv̞it͡ɕ); Serbian Cyrillic: Јован Стерија Поповић; 13 January 1806 -- 10 March 1856) was a Serbian playwright, poet and pedagogue who taught at the Belgrade Higher School.	Jovan Sterija Popović	Serbian
+licensed to broadcast to	KGME (910 AM), branded as Fox Sports 910, is a sports radio station located in Phoenix, Arizona and serving the Phoenix metropolitan area.	KGME	Phoenix
+licensed to broadcast to	CKHJ is a Canadian radio station in Fredericton, New Brunswick broadcasting at 1260 on the AM dial.	CKHJ	Fredericton
+licensed to broadcast to	WNCW (88.7 FM) is a non-commercial public radio station licensed to Isothermal Community College in Spindale, North Carolina.	WNCW	Spindale, North Carolina
+licensed to broadcast to	WUMB-FM (91.9 FM) in Boston, Massachusetts is the radio station of University of Massachusetts Boston.	WUMB-FM	Boston
+licensed to broadcast to	WMGA is a Hot Adult Contemporary formatted broadcast radio station licensed to Kenova, West Virginia, serving Huntington, West Virginia, Ironton, Ohio, and Ashland, Kentucky.	WMGA	Kenova, West Virginia
+manufacturer	The M-95 Degman is a prototype Croatian main battle tank, developed by the Đuro Đaković company.	M-95 Degman	Đuro Đaković
+manufacturer	RMS Cedric was laid down in 1902 at the shipyard of Harland and Wolff, Belfast.	RMS Cedric	Harland and Wolff
+manufacturer	The SP-21 Barak (Hebrew: ברק‎, lightning) is a double action/single action semi-automatic, recoil-operated pistol developed and produced by Israel Weapon Industries in 2002.	SP-21 Barak	Israel Weapon Industries
+manufacturer	Produced by the Rootes Group, the Humber Light Reconnaissance Car was an armoured car based on the Humber Super Snipe chassis (as was the 4x4 Humber Heavy Utility car).	Humber Light Reconnaissance Car	Rootes Group
+manufacturer	The Polski Fiat 125p is a motor vehicle manufactured between 1967 and 1991 in the People's Republic of Poland (1968 -- 1990) and the Republic of Poland (1990 -- 1991) by the state-owned manufacturer Fabryka Samochodów Osobowych (``FSO'') under a license agreement with Fiat.	Polski Fiat 125p	Fabryka Samochodów Osobowych
+member of political party	Hendrik Koekoek (22 May 1912 -- 8 February 1987) was a Dutch farmer and politician of the defunct Farmers' Party (Boerenpartij - BP).	Hendrik Koekoek	Farmers' Party
+member of political party	Li Zhuoran (Chinese: 李卓然; pinyin: Lǐ Zhuórán) (1899--1989) was a Chinese Communist politician who was the ninth president of the Party School of the Central Committee of the Communist Party of China, the highest training center for party workers and leaders.	Li Zhuoran	Communist Party of China
+member of political party	Muhammad Jafar (born 1951) is the Vice-President of Jamaat-e-Islami Hind, a hardline Islamic organization and movement within Islam in India and was the First National President of Students Islamic Organisation of India.	Muhammad Jafar	Jamaat-e-Islami
+member of political party	Manuel Serra Moret (Vic, 1884 -- Perpinyà, 1963) was a Catalan politician and writer, cofounder of the political party Unió Socialista de Catalunya, USC (Socialist Union of Catalonia), Conseller of Economy and Labour of the Generalitat de Catalunya and exiled President of the Parliament of Catalonia.	Manuel Serra Moret	Socialist Union of Catalonia
+member of political party	Graeme Morrice (born 23 February 1959) is a British Labour Party politician, who was the Member of Parliament (MP) for Livingston from 2010−2015.	Graeme Morrice	Labour Party
+member of political party	Simonetta Sommaruga (born 14 May 1960) is a Swiss politician of the Social Democratic Party of Switzerland who is a current member of the Swiss Federal Council, the federal government of Switzerland, and head of the Federal Department of Justice and Police (the Swiss justice minister).	Simonetta Sommaruga	Social Democratic Party of Switzerland
+member of political party	İsmail Kahraman (born 1940) is a Turkish politician from the Justice and Development Party (AKP) who currently serves as the 27th Speaker of the Grand National Assembly since 22 November 2015.	İsmail Kahraman	Justice and Development Party
+member of sports team	Lauri Ala-Myllymäki (born 4 June 1997 in Pirkkala) is a Finnish football midfielder playing for Finnish Veikkausliiga club FC Ilves.	Lauri Ala-Myllymäki	Ilves
+member of sports team	Anton Lichkov (Bulgarian: Антон Личков: born 5 August 1980 in Petrich) is a Bulgarian footballer, who currently plays as a defender for PFC Montana.	Anton Lichkov	PFC Montana
+member of sports team	Sergi Samper Montaña (born 20 January 1995) is a Spanish professional footballer who plays for FC Barcelona B as a defensive or central midfielder.	Sergi Samper	FC Barcelona
+member of sports team	Curt Miller (born October 6, 1968) is an American basketball coach, currently the head coach of the Connecticut Sun of the WNBA.	Curt Miller	Connecticut Sun
+member of sports team	Ngoy Bomboko (born May 21, 1975) is a retired Congolese football player who spent the majority of his career at TP Mazembe.	Ngoy Bomboko	TP Mazembe
+member of sports team	Łukasz Szukała (born 26 May 1984) is a Polish professional footballer who plays as a centre back for Turkish side Osmanlıspor and the Poland national football team.	Łukasz Szukała	Osmanlıspor
+member of sports team	Ronny König (born 2 June 1983 in Lichtenstein, East Germany) is a German footballer playing for Chemnitzer FC.	Ronny König	Chemnitzer FC
+member of sports team	Jozo Brkić (born 19 July 1986 in Mostar, SFR Yugoslavia) is a professional basketball player and he started his career with the team HKK Široki, Bosnia and Hercegovina	Jozo Brkić	HKK Široki
+member of sports team	Joel Bejarano Azogue (born March 21, 1996 in Santa Cruz de la Sierra) is a Bolivian footballer who currently plays midfielder for Oriente Petrolero.	Joel Bejarano	Oriente Petrolero
+member of sports team	Dedi Indra Sampurna (born April 2, 1986), is an Indonesian footballer that currently plays for Persela Lamongan in the Indonesia Super League.	Dedi Indra Sampurna	Persela Lamongan
+member of sports team	Wayne Campbell (born 23 September 1972) is a retired Australian rules football player and administrator for the Richmond Football Club in the AFL.	Wayne Campbell	Richmond Football Club
+member of sports team	Ryan Getzlaf (born May 10, 1985) is a Canadian professional ice hockey centre who currently serves as captain of the Anaheim Ducks of the National Hockey League (NHL).	Ryan Getzlaf	Anaheim Ducks
+member of sports team	Panče Stojanov (born 23 June 1975) is a Macedonian international footballer currently playing for FK Belasica.	Panče Stojanov	FK Belasica
+member of sports team	Robert Gene Hickerson (February 15, 1935 -- October 20, 2008) was an American Football offensive guard who played for the Cleveland Browns in a fifteen-year career from 1958 to 1960 and 1962 to 1973.	Gene Hickerson	Cleveland Browns
+member of sports team	Tjaša Tibaut (born 9 February 1989) is a Slovenian footballer who plays as a midfielder for ŽNK Pomurje of the Slovenian Women's League, with whom she also played the Champions League.	Tjaša Tibaut	ŽNK Pomurje
+member of sports team	Régis Kittler (born 6 October 1979 in Mulhouse) is a French football player who currently plays for French club AS Illzach Modenheim in the Championnat de France amateur 2.	Régis Kittler	AS Illzach Modenheim
+member of sports team	Ryan Hampshire (born 29 December 1994) is an English professional rugby league footballer who plays for Castleford Tigers, on loan from Wigan Warriors, in Super League.	Ryan Hampshire	Wigan Warriors
+member of sports team	Mehdi Mahdavikia (Persian: مهدی مهدوی‌کیا ‎‎, born 24 July 1977 in Tehran) is a retired Iranian football player who played for Persepolis, Hamburg SV, Eintracht Frankfurt, Steel Azin, Damash Gilan and also Iran national football team.	Mehdi Mahdavikia	Eintracht Frankfurt
+member of sports team	Steven Matt Bryant (born May 29, 1975) is an American football placekicker for the Atlanta Falcons of the National Football League.	Matt Bryant	Atlanta Falcons
+member of sports team	Douglas de Oliveira, simply Douglas (born 30 January 1986 in Ponta Grossa, Paraná), is a Brazilian footballer who plays as attacker and that currently playing on Criciúma Esporte Clube	Douglas de Oliveira	Criciúma Esporte Clube
+member of sports team	Fredrik Sonntag is a Swedish professional ice hockey defenceman who currently plays for Timrå IK of the Elitserien.	Fredrik Sonntag	Timrå IK
+member of sports team	Sebastian Mladen (born 11 December 1991) is a Romanian footballer who currently plays for F.C. Südtirol on loan from A.S. Roma, as a defender.	Sebastian Mladen	A.S. Roma
+member of sports team	Paul-José M'Poku Ebunge (born 19 April 1992) is a Congolese born footballer who plays as a winger for Chievo Verona in the Serie A, on loan from Standard Liège of the Belgian Pro League.	Paul-José M'Poku	Standard Liège
+member of sports team	José Rafael Septién Michel (born December 12, 1953, Mexico City) is a former Mexican-American placekicker in the National Football League for the Dallas Cowboys from 1978 through 1986.	Rafael Septién	Dallas Cowboys
+member of sports team	Hattaphon Bun An (born 5 May 1991, in Kedah) is a Malaysian footballer currently playing as a Striker for Kuala Lumpur FA in Malaysia Premier League.	Hattaphon Bun An	Kuala Lumpur FA
+member of sports team	Michał Goliński (born March 17, 1981 in Poznań) is a Polish footballer (midfielder) who last played for Warta Poznań.	Michał Goliński	Warta Poznań
+member of sports team	Neal Beaumont (born 1941) is a former award winning and Grey Cup champion defensive back and punter who played in the Canadian Football League for the BC Lions from 1960 to 1967.	Neal Beaumont	BC Lions
+military branch	Brigadier William Marsden Eastman GC (1911--1980), known as Bill Eastman, was a British Army officer who was awarded the George Cross for bomb disposal work between June and November 1940 on the island of Malta.	Bill Eastman	British Army
+military branch	Louis A. Kaiser (1870 -- August 12, 1939) was a Captain in the United States Navy, as well as briefly in charge of the government on Guam.	Louis A. Kaiser	United States Navy
+military branch	Captain George Nicholas Hardinge (11 April 1781 -- 8 March 1808) was an officer of the Royal Navy who served during the French Revolutionary and Napoleonic Wars.	George Nicholas Hardinge	Royal Navy
+military branch	John Grider Miller (born 23 August 1935 in Annapolis, Maryland -- died 31 August 2009 in Annapolis, Maryland) was a Colonel in the United States Marine Corps, who served as Managing Editor, of U.S. Naval Institute Proceedings and of Naval History.	John Grider Miller	United States Marine Corps
+military branch	James M. Prichett (1836--1871) was an officer of the United States Navy who served in the American Civil War.	James M. Prichett	United States Navy
+named after	In mathematics, the Radon transform in two dimensions, named after the Austrian mathematician Johann Radon, is the integral transform consisting of the integral of a function over straight lines.	Radon transform	Johann Radon
+named after	Xiaomi Inc. (i/ˈʃjaʊmi/, Chinese: 小米科技; pinyin: Xiǎomǐ Kējì, literally ``millet technology'') is a privately owned Chinese electronics company headquartered in Beijing, China.	Xiaomi	millet
+named after	Grosch's law is the following observation of computer performance attributed to Herb Grosch in 1965:	Grosch's law	Herb Grosch
+named after	Boisselot & Fils was a French piano manufacturing company established in 1831 in Marseille, France, by Jean-Louis Boisselot and sons, Louis-Constantin and Xavier Boisselot.	Boisselot & Fils	Jean-Louis Boisselot	Xavier Boisselot
+named after	Church of St Michael the Archangel and St Stanislaus Bishop and Martyr and Pauline Fathers Monastery, Skałka, which means ``a small rock'' in Polish, is a small outcrop in Kraków where the Bishop of Kraków saint Stanislaus of Szczepanów was slain by order of Polish king Bolesław II the Bold in 1079.	Skałka	Michael
+native language	Charles Augustin Sainte-Beuve (French: (sɛ̃t bœv); 23 December 1804, in Boulogne-sur-Mer -- 13 October 1869, in Paris) was a literary critic of French literature.	Charles Augustin Sainte-Beuve	French
+native language	Pierre-Antoine Gourgaud (29 April 1706 in Paris -- 1 March 1774 in Paris), stage name Dugazon père (to distinguish him from his son Dugazon), was a French actor.	Pierre-Antoine Gourgaud	French
+native language	Pierre Paul Broca (/broʊˈkɑː/ or /ˈbroʊkə/; 28 June 1824 -- 9 July 1880) was a French physician, surgeon, anatomist, and anthropologist.	Paul Broca	French
+native language	Oliver Wittke (* September 24, 1966 in Marl, North Rhine-Westphalia) is a German politician for the CDU.	Oliver Wittke	German
+native language	Paul Guers (born 19 December 1927) is a French film actor.	Paul Guers	French
+native language	Antoine-François-Marie Deschamps Saint Amand, known as Antony Deschamps and Antoni Deschamps (12 March 1800 -- 28 October 1869) was a French poet.	Antony Deschamps	French
+original network	Hurl! is an American television game show from G4 that first premiered on G4 in the USA on July 16, 2008.	Hurl!	G4
+original network	Golf With Stan Leonard was a Canadian educational sports television series which aired on CBC Television from 1960 to 1962, and in 1965.	Golf With Stan Leonard	CBC Television
+original network	En otra piel (Lit: In Another Skin / English: Part of Me) is a Spanish-language telenovela produced by United States and México-based television network Telemundo Studios, Miami.	En otra piel	Telemundo
+original network	Rhythm Rodeo was a short-lived American television series which aired on the DuMont Television Network from August 6, 1950 to January 7, 1951.	Rhythm Rodeo	DuMont Television Network
+original network	Street Fury was a TV show on G4 that showcased women and cars.	Street Fury	G4
+original network	The 20th Century Fox Hour is an American drama anthology series televised in the United States on CBS from 1955 to 1957.	The 20th Century Fox Hour	CBS
+original network	To Say the Least is an American game show that aired on NBC from October 3, 1977 to April 21, 1978.	To Say the Least	NBC
+participant of	Raymond Kaelbel (31 January 1932 in Colmar, Haut-Rhin -- 17 April 2007) was a French international footballer who was part of France national football team during 1958 FIFA World Cup.	Raymond Kaelbel	1958 FIFA World Cup
+participant of	Richard Nowakowski (born September 27, 1955 in Sztum, Poland) is a retired boxer from East Germany, who won the silver medal in the men's featherweight division (-- 57 kg) at the 1976 Summer Olympics in Montreal, Canada.	Richard Nowakowski	1976 Summer Olympics
+participant of	Sharon Vennard (born 16 September 1961) is a British competitive archer who competed at the 2012 Summer Paralympics.	Sharon Vennard	2012 Summer Paralympics
+participant of	Zephaniah Ncube (born 10 January 1957) is a Zimbabwean long-distance runner who competed in the 1980 Summer Olympics and in the 1984 Summer Olympics.	Zephaniah Ncube	1980 Summer Olympics	1984 Summer Olympics
+participant of	Benamar Kachkouche (born 18 April 1951) is an Algerian former racewalker who competed in the 1984 Summer Olympics.	Benamar Kachkouche	1984 Summer Olympics
+performer	Ain't Life Amazing is the eighth album from Canadian singer and guitarist Kim Mitchell.	Ain't Life Amazing	Kim Mitchell
+performer	Songs Not to Get Married To is the fourth LP release of the indie band Reggie and the Full Effect.	Songs Not to Get Married To	Reggie and the Full Effect
+performer	``Tweeter and the Monkey Man'' is a song by rock music supergroup The Traveling Wilburys that first appeared on the 1988 album Traveling Wilburys Vol. 1.	Tweeter and the Monkey Man	Traveling Wilburys
+performer	Del mio meglio n. 2 is a compilation album by Italian singer Mina, released in 1973.	Del mio meglio n. 2	Mina
+performer	``Pound the Alarm'' is a song by Trinidadian-American recording artist Nicki Minaj, serving as a single from her second studio album Pink Friday:	Pound the Alarm	Nicki Minaj
+performer	``Gettin' Some'' (explicitly titled ``Gettin' Some Head'') is a song by hip-hop artist Shawnna released from her second album Block Music.	Gettin' Some	Shawnna
+performer	Above Air is an album by CoH released on CD.	Above Air	CoH
+performer	``Broken Again'' is the lead single from the album Another Animal by the American heavy metal band Another Animal.	Broken Again	Another Animal
+performer	All Day Everyday is the third album by the American rap group South Central Cartel and is their most critically acclaimed and commercially successful album.	All Day Everyday	South Central Cartel
+performer	``Mirror in the Bathroom'' is a single by British ska band The Beat, released as a single in 1980 from their debut album, I Just Can't Stop It (1980).	Mirror in the Bathroom	The Beat
+performer	Dumbing Up is an album by World Party released in 2000 and then re-released with a special DVD and new track listing in 2006.	Dumbing Up	World Party
+performer	``Bloody Mary (Nerve Endings)'', often referred to as just ``Bloody Mary'', is an indie rock song performed by American alternative rock music group Silversun Pickups.	Bloody Mary (Nerve Endings)	Silversun Pickups
+performer	Lazy Afternoon among the Crocodiles is an album that experimental music and classical minimalism pioneer Terry Riley and contrabassist Stefano Scodanibbio recorded in 1997.	Lazy Afternoon among the Crocodiles	Terry Riley
+position held	Luis Adolfo Siles Salinas (June 21, 1925, La Paz, Bolivia -- October 19, 2005, La Paz) was the Constitutional President of Bolivia for a period of five months between April and September 1969.	Luis Adolfo Siles Salinas	President of Bolivia
+position held	Saint Aprus (or Aper, French: Apre, Epvre, Evre, Avre; died 507) was a bishop of Toul from 500 to 507.	Aprus	bishop
+position held	The Blessed Niccolò Albergati (1373 -- 9 May 1443) was an Italian cardinal of the Roman Catholic Church as well as a member of the Carthusian Order and was also a diplomat for the Holy See.	Niccolò Albergati	cardinal
+position held	Donald Alastair Cameron OBE (17 March 1900 -- 5 January 1974) was an Australian politician and Minister for Health.	Donald Alastair Cameron	Minister for Health
+position held	Attilio Nicora (born 16 March 1937) is an Italian cardinal of the Roman Catholic Church, Emeritus Bishop of Verona, and the President Emeritus of the Administration of the Patrimony of the Apostolic See.	Attilio Nicora	cardinal
+position played on team / speciality	José Antonio Martín Domínguez (born 4 April 1964) is a Spanish retired footballer who played as a left midfielder.	Martín Domínguez	midfielder
+position played on team / speciality	Ilario Lanna (born 20 May 1990 in Rome) is an Italian footballer who plays as a defender for the Maltese side Mosta FC.	Ilario Lanna	defender
+position played on team / speciality	Frédéric Frans (born 3 January 1989) is a Belgian professional football player who currently plays as a defender for Partick Thistle in the Scottish Premiership.	Frédéric Frans	defender
+position played on team / speciality	Teemu Lassila (born March 26, 1983) is a Finnish professional ice hockey goaltender who is currently a free agent.	Teemu Lassila	goaltender
+position played on team / speciality	Joe Right is a retired American soccer goalkeeper who played three seasons in the North American Soccer League.	Joe Right	goalkeeper
+position played on team / speciality	Recep Çetin (born 1 October 1965 in Karasu) is a Turkish footballer whose career as a defender lasted from 1979 to 2002.	Recep Çetin	defender
+position played on team / speciality	Tommy Lowry (26 August 1945 -- 22 August 2015) was an English professional footballer who played as a defender, at right back, for Liverpool and Crewe Alexandra.	Tommy Lowry	defender
+present in work	Gianni di Marco is a fictional character from the BBC serial drama EastEnders, played by Marc Bannerman from 1998 to 2000.	Gianni di Marco	EastEnders
+present in work	HMS Sword is a fictional experimental submarine of the British Royal Navy in Jules Verne's 1896 novel Facing the Flag.	HMS Sword	Facing the Flag
+present in work	In the Bible, Elon (or Ahialon in Douay--Rheims and some other translations) (Hebrew: אֵילֹן, Modern Elon, Tiberian ʼÊlōn ; ``oak''; Ancient Greek: Αἰλώμ; Latin: Ahialon) was a Judge of Israel.	Elon	Bible
+present in work	Oliver Barnes (né Napier) is a fictional character from the Australian Network Ten soap opera Neighbours, played by David Hoflin.	Oliver Barnes	Neighbours
+present in work	Dr. Cooper Freedman is a fictional character on the Grey's Anatomy spin-off, Private Practice.	Cooper Freedman	Private Practice
+publication date	Flesh for the Beast is a 2003 fantasy-horror film directed and written by Terry M. West.	Flesh for the Beast	2003
+publication date	My Style is a fashion and self-help book written by the Australian entertainer Dannii Minogue, released in September 2011.	My Style	September 2011
+publication date	Pyaara Dushman is a 1980 Bollywood Hindi movie.	Pyaara Dushman	1980
+publication date	Kadhalna Summa Illai (English: Love is not a joke) is a 2009 Tamil film directed by Ilankannan.	Kadhalna Summa Illai	2009
+publication date	Purushartham is a 1986 Indian Malayalam film, directed by KR Mohan and produced by PT Kunjumuhammed.	Purushartham	1986
+publication date	Queen Kelly (1929) is an American silent film produced in 1928-29 and released by United Artists.	Queen Kelly	1928
+publication date	Hemo the Magnificent is a one-hour Technicolor made-for-television educational film, released in 1957 by Bell Laboratories and directed by Frank Capra, and first telecast by CBS.	Hemo the Magnificent	1957
+publication date	Sennenbi (千年火, lit. ``thousand year fire'') is a 2004 Japanese movie directed by Segi Naoki.	Sennenbi	2004
+publication date	Yaaran Naal Baharan (Punjabi: ਯਾਰਾਂ ਨਾਲ ਬਹਾਰਾਂ) is a Punjabi feature film, released in 2005.	Yaaran Naal Baharan	2005
+publication date	Terror in the Sky is a low budget 1971 television movie remake of 1957's Zero Hour!, which itself was based on the 1956 television play Flight into Danger.	Terror in the Sky	1971
+publisher	Wall Street Kid is a video game released by SOFEL for the NES.	Wall Street Kid	SOFEL
+publisher	The English Seal Online was finally released on the 19 November 2007 at 8pm EST by YNK Interactive.	Seal Online	YNK Interactive
+publisher	In 2005, Blood Follows was re-published in the United States by Night Shade Books.	Blood Follows	Night Shade Books
+publisher	In July 2002 Palestar signed an agreement with Got Game Entertainment to distribute DarkSpace in retail stores.	DarkSpace	Got Game Entertainment
+publisher	The Yale Law & Policy Review is a biannual student-run law review at the Yale Law School covering the intersection of law and policy.	Yale Law & Policy Review	Yale Law School
+record label	Ta Genethlia Mou (Greek: Τα Γενέθλια Μου; English: My Birthday) is the sixth studio album by Greek singer Elli Kokkinou, released in Greece and Cyprus on 9 December 2011 by The Spicy Effect.	Ta Genethlia Mou	The Spicy Effect
+record label	Passing Stranger is the debut album of British singer-songwriter, Scott Matthews, and was originally released in April 2006, before being re-issued by Island Records in October of the same year.	Passing Stranger	Island Records
+record label	Amazing Disgrace is the fourth album by Seattle Alternative rock band The Posies and their final release for DGC Records.	Amazing Disgrace	DGC Records
+record label	Senyawa ((səˈɲawa); English: One Soul) is an Indonesian album released by Musica Studios in 2004.	Senyawa	Musica Studios
+record label	None Too Soon is the ninth studio album by guitarist Allan Holdsworth, released on 24 September 1996 through Polydor Records (Japan), JMS--	None Too Soon	Polydor Records
+screenwriter	A Countess from Hong Kong is a 1967 British comedy film and the last film directed, written, produced and scored by Charlie Chaplin.	A Countess from Hong Kong	Charlie Chaplin
+screenwriter	Antonia's Line (Original title: Antonia) is a 1995 Dutch film written and directed by Marleen Gorris.	Antonia's Line	Marleen Gorris
+screenwriter	Eternamente Pagú is a 1988 biopic about Patrícia Galvão, directed by Norma Bengell and starring Carla Camurati.	Eternamente Pagú	Norma Bengell
+screenwriter	Brenno il nemico di Roma (AKA: Brennus, Enemy of Rome, AKA: Battle of the Spartans) is a 1963 film about the sack of Rome in 387 BC. This film was written by Adriano Bolzoni, Arpad DeRiso and Nino Scolaro and was directed by Giacomo Gentilomo.	Brennus, Enemy of Rome	Adriano Bolzoni	Arpad DeRiso
+screenwriter	Two Evil Eyes (Italian: Due occhi diabolici) is a 1990 horror film, written and directed by Dario Argento and George A. Romero.	Two Evil Eyes	Dario Argento	George A. Romero
+sport	Tag team wrestling is a type of professional wrestling in which matches are contested between teams of multiple wrestlers.	Tag team	professional wrestling
+sport	John Tyler Varga (born September 24, 1993) is a dual Finnish-Canadian professional American football fullback for the Indianapolis Colts of the National Football League (NFL).	Tyler Varga	American football
+sport	Nika Metreveli (Georgian: ნიკა მეტრეველი; born January 14, 1991) is a Georgian professional basketball player who plays for Juvecaserta Basket of the Lega Basket Serie A.	Nika Metreveli	basketball
+sport	The 2007 Hungarian Figure Skating Championships (Hungarian: Senior Országos Bajnokság 2007) were the Hungarian Figure Skating Championships of the 2006-2007 figure skating season.	2007 Hungarian Figure Skating Championships	figure skating
+sport	The Esso Cup is the Canadian national women's midget ice hockey championship, sponsored by Esso.	Esso Cup	ice hockey
+sport	The Amsterdam Tournament (Dutch: Amsterdam Toernooi) was a pre-season association football competition, held in Amsterdam, Netherlands.	Amsterdam Tournament	association football
+sport	Jamie Dwyer (born 12 March 1979) is an Australian field hockey player.	Jamie Dwyer	field hockey
+sport	The 2014 Women's Baseball World Cup was an international baseball competition being held in Miyazaki, Japan from 1 September -- 7 September 2014.	2014 Women's Baseball World Cup	baseball
+sport	Charles Gorham Getchell (August 14, 1920 -- July 7, 1980) was a professional basketball and American football player.	Gorham Getchell	basketball
+sport	Miriam Blasco Soto (born 12 December 1963 in Valladolid) is a professional judo competitor, who resides in Alicante, Spain.	Miriam Blasco	judo
+sport	Thomas Schönberger (born October 14, 1986) is an Austrian professional association football player who is currently without a club.	Thomas Schönberger	association football
+sport	The Mexican National Lightweight Championship (Campeonato National de Peso Ligero in Spanish) is a Mexican professional wrestling singles championship created and sanctioned by Comisión de Box y Lucha Libre Mexico D.F. (``the Mexico City Boxing and Wrestling Commission'' in Spanish).	Mexican National Lightweight Championship	professional wrestling
+sport	FC Büsingen is a German association football club based in the exclave of Büsingen that competes in the Swiss league system, being the only German club to do so.	FC Büsingen	association football
+sport	Michael Raffl (born December 1, 1988) is an Austrian professional ice hockey left winger.	Michael Raffl	ice hockey
+sport	The 2014 Inter-Provincial Cup is the second season of the Inter-Provincial Cup, the domestic List A cricket competition of Ireland.	2014 Inter-Provincial Cup	cricket
+sport	The 1950 Australian Championships was a tennis tournament played on outdoor grass courts in Melbourne, Australia.	1950 Australian Championships	tennis
+sport	BC Nevėžis () is a professional Lithuania basketball club which currently plays in Lithuanian Basketball League and Baltic Basketball League.	BC Nevėžis	basketball
+sport	The OEC Kaohsiung is a tennis tournament held in Kaohsiung, Taiwan since 2012.	OEC Kaohsiung	tennis
+sport	The Cyclo-cross Ruddervoorde is a cyclo-cross race held in Ruddervoorde, Belgium, which is part of the Superprestige.	Cyclo-cross Ruddervoorde	cyclo-cross
+sport	Benoît Quessandier (born 2 December 1985 in Mont-Saint-Aignan) is a professional French ice hockey defenceman who participated at the 2010 IIHF World Championship as a member of the France National men's ice hockey team.	Benoît Quessandier	ice hockey
+sport	The Boston Thirteens (also written as Boston 13s) are a semi-professional rugby league football team based in Boston, Massachusetts, U.S. The team currently plays in the USA Rugby League.	Boston Thirteens	rugby league
+sport	Aylesford Bulls Ladies Rugby Football Club is a women's rugby union club based in Aylesford, Kent, England.	Aylesford Bulls Ladies	rugby union
+sport	The 2010 Tour of Turkey was the 46th edition of professional road bicycle racing Tour of Turkey.	2010 Tour of Turkey	road bicycle racing
+sport	Nikola Rađen (Serbian Cyrillic: Никола Рађен, pronounced (nǐkɔla râd͡ʑɛn)) (born 29 January 1985) is a Serbian water polo player who last played for Olympiacos in Greece.	Nikola Rađen	water polo
+sport	Đoko Šalić (Serbian: Ђоко Шалић, born September 18, 1995) is a Serbian professional basketball who plays for KK Sutjeska of the Montenegrin League and the Adriatic League.	Đoko Šalić	basketball
+sport	The 2011 NBA All-Star Game was an exhibition basketball game that was played on February 20, 2011 at Staples Center in Los Angeles, California, home of the Los Angeles Clippers and the Los Angeles Lakers.	2011 NBA All-Star Game	basketball
+sport	The 2011 European Under-18 Rugby Union Championship was the eighth annual international rugby union competition for Under 18 national rugby union teams in Europe.	2011 European Under-18 Rugby Union Championship	rugby union
+spouse	Grace Mugabe (née Marufu, 23 July 1965) is the wife of Zimbabwe President Robert Mugabe and the First Lady of Zimbabwe from her marriage to the leader in 1996.	Grace Mugabe	Robert Mugabe
+spouse	Lina Prokofiev (born Carolina Codina, 21 October 1897 -- 3 January 1989) was a Spanish singer and the wife of Russian composer Sergei Prokofiev.	Lina Prokofiev	Sergei Prokofiev
+spouse	In March 2000, Yang Lan and her husband Bruno Wu, acquired Hong Kong company ``LEUNG KEE Holdings Limited'' and changed its name to Sun Television Cybernetworks Holdings Limited.	Yang Lan	Bruno Wu
+spouse	Lü Zuan's wife Empress Yang tried to mobilize the guards to combat Lü Chao, but the guards soon abandoned her, and Lü Chao made his brother Lü Long emperor to succeed Lü Zuan.	Lü Zuan	Empress Yang
+spouse	Ferenc Szálasiné (née Gizella Lutz; 1906 -- 1992) was the longtime companion and, for a brief time, wife, of Ferenc Szálasi who served as Leader of the Hungarian Nation and de facto Prime Minister of Hungary at the end of the Second World War.	Gizella Lutz	Ferenc Szálasi
+taxon rank	Hylarana sreeni, also known as Sreeni's golden-backed frog, is a species of frog in the Ranidae family found in Southern Western and Eastern Ghats in the states of Kerala and Tamil Nadu, India, at elevations of 100 to 1500 meters.	Hylarana sreeni	species
+taxon rank	Phalaris aquatica (syn. P. tuberosa) known by the common names bulbous canary-grass and Harding grass, is a species of grass in the genus Phalaris of the Poaceae Family.	Phalaris aquatica	species
+taxon rank	Erythrina coralloides (Flame Coral Tree, Naked Coral Tree) is a species of flowering tree in the pea family, Fabaceae, that is native to eastern Mexico.	Erythrina coralloides	species
+taxon rank	Persicaria virginiana, also called jumpseed, Virginia knotweed or woodland knotweed is a North American species of smartweeds within the buckwheat family.	Persicaria virginiana	species
+taxon rank	Lechritrochoceratidae is a family of derived tarphycerids from the middle and upper Silurian, once included in the now largely abandoned Barrandeocerida.	Lechritrochoceratidae	family
+taxon rank	Metoxypilus werneri is a species of praying mantis found in New Guinea.	Metoxypilus werneri	species
+taxon rank	Stenus palposus (also known as Metastenus palposus or the Lough Neagh camphor beetle) is a species of beetle of the subfamily Steninae in the family Staphylinidae.	Stenus palposus	species
+taxon rank	Apios americana tubers were found to have a protein concentration of 15--30 mg/g. This was similar to that of other species in the Apios genus, Apios carnea and Apios fortunei.	Apios americana	species
+taxon rank	Castilleja affinis is a species of Castilleja known by the common name coast Indian paintbrush.	Castilleja affinis	species
+taxon rank	The sole species in this new genus is Lampocteis cruentiventer, the bloodybelly comb jelly.	Lampocteis	species
+taxon rank	Agrilus is a genus of jewel beetles, notable for having the largest number of species (about 3000) of any single genus in the animal kingdom.	Agrilus	genus
+taxon rank	Stathmopoda is a genus of moths of the subfamily Stathmopodinae in the Oecophoridae family.	Stathmopoda	genus
+taxon rank	Rhinatrema is a genus of caecilians in the family Rhinatrematidae.	Rhinatrema	genus
+taxon rank	Cirrhilabrus walshi is a species of wrasse native to the American Samoa.	Cirrhilabrus walshi	species
+taxon rank	Fejervarya sahyadris or Minervarya sahyadris is a species of frog in the Dicroglossidae family.	Fejervarya sahyadris	species
+taxon rank	Kassina is a genus of hyperoliid frogs, commonly referred to as running frogs.	Kassina	genus
+taxon rank	Shansiodon is a genus of dicynodont from Middle Triassic (Anisian and Landinian) of China and South Africa (sp. indet.)	Shansiodon	genus
+taxon rank	Samoana jackieburchi was a species of tropical, air-breathing land snail, a terrestrial, pulmonate, gastropod mollusk in the family Partulidae.	Samoana jackieburchi	species
+taxon rank	Janthinidae, common name the purple snails or violet snails, are a family of pelagic sea snails, marine gastropod mollusks in the informal group Ptenoglossa of the clade Hypsogastropoda.	Janthinidae	family
+taxon rank	Allamanda blanchetii (purple allamanda, violet allamanda; syn. Allamanda violacea) is a species of flowering plant in the family Apocynaceae.	Allamanda blanchetii	species
+taxon rank	Aigialosauridae (Greek, aigialos = ``seashore'' + sauros= lizard) is a family of Late Cretaceous semi-aquatic varanoid lizards, regarded by some paleontologists as a distinct monophyletic group and by others as an adaptive grade within the basal mosasauroids.	Aigialosauridae	family
+taxon rank	The Zopheridae family of beetles has grown considerably in recent years as the members of two other families have been included within its circumscription; these former families are the Monommatidae and the Colydiidae, which are now both included in the Zopheridae as subfamilies or (in the former case) even as tribe of subfamily Zopherinae.	Zopheridae	family
+taxon rank	Gladocephaloideus is a genus of gallodactylid ctenochasmatoid pterosaur from the Early Cretaceous of western Liaoning, China.	Gladocephaloideus	genus
+taxon rank	Knipowitschia iljini is a species of goby Endemic to the Caspian Sea, where it inhabits the deep waters in the central part.	Knipowitschia iljini	species
+taxon rank	Septa rubecula, common name : the ruby triton or the red redbreast triton, is a species of predatory sea snail, a marine gastropod mollusk in the family Ranellidae, the triton snails, triton shells or tritons.	Septa rubecula	species
+taxon rank	Goniastrea australensis, the lesser star coral, is a species of stony corals in the Merulinidae family.	Goniastrea australensis	species
+taxon rank	Lamprologus lemairii is a species of cichlid endemic to Lake Tanganyika where it prefers to lurk by rocks or on the lake bed waiting for fish to prey on.	Lamprologus lemairii	species
+taxon rank	Acanthemblemaria betinensis, the speckled blenny, is a species of chaenopsid blenny found in coral reefs around Colombia, in the western Atlantic ocean.	Acanthemblemaria betinensis	species
+taxon rank	Nucleolaria granulata, common name the ``granulated cowry'', is a species of sea snail, a cowry, a marine gastropod mollusk in the family Cypraeidae, the cowries.	Nucleolaria granulata	species
+taxon rank	Tianchisaurus (meaning ``heavenly pool lizard'') is a genus of ankylosaurian dinosaur from the middle Jurassic Period (Bajocian--Bathonian stages) of China.	Tianchisaurus	genus
+taxon rank	Stenorhynchus seticornis, the yellowline arrow crab or simply arrow crab, is a species of marine crab.	Stenorhynchus seticornis	species
+taxon rank	Alepas pacifica is a species of goose barnacle in the family Heteralepadidae.	Alepas pacifica	species
+taxon rank	Hoanghoniinae is a subfamily of adapiform primate that lived in Asia during the middle to late Eocene.	Hoanghoniinae	subfamily
+taxon rank	Gegeneophis is a genus of amphibian in the family Indotyphlidae.	Gegeneophis	genus
+taxon rank	Reinhardtia is a genus in the palm family native to the northern Neotropics.	Reinhardtia	genus
+taxon rank	Hebeloma vaccinum is a species of agaric fungus in the family Hymenogastraceae.	Hebeloma vaccinum	species
+taxon rank	Condylarthra is an informal group -- previously considered an order -- of extinct placental mammals, known primarily from the Paleocene and Eocene epochs.	Condylarth	order
+taxon rank	Austroliotia australis, common name the southern liotia, is a species of sea snail, a marine gastropod mollusk in the family Liotiidae.	Austroliotia australis	species
+taxon rank	It contains only one known species, Calocrater preussii, native to central Africa (Cameroon, Gabon, Congo-Brazzaville).	Calocrater	species
+taxon rank	Pestarella is a genus of thalassinidean crustacean erected in 2003 from former members of the genus Callianassa.	Pestarella	genus
+taxon rank	Koilamasuchus is an extinct genus of Early Triassic archosauriform.	Koilamasuchus	genus
+taxon rank	Eucalyptus benthamii, commonly known as Camden white gum or Nepean River gum, is a species of Eucalyptus endemic to eastern Australia.	Eucalyptus benthamii	species
+taxon rank	Diplazium molokaiense is a rare species of fern known by the common name Molokai twinsorus fern.	Diplazium molokaiense	species
+taxon rank	Metrolytoceras is an extinct cephalopod genus that lived during the Middle Jurassic, characterized by a planispiral evolute shell with smooth middle and outer whorls, flat sides, and simplified sutures.	Metrolytoceras	genus
+taxon rank	Cyclophorus fulguratus is a species of small land snail with an operculum, terrestrial pulmonate gastropod mollusc in the family Cyclophoridae.	Cyclophorus fulguratus	species
+taxon rank	Scorpis is a genus of sea chubs native to the eastern Indian Ocean and the Pacific Ocean.	Scorpis	genus
+taxon rank	Bacillus amyloliquefaciens is a species of bacterium in the genus Bacillus that is the source of the BamH1 restriction enzyme.	Bacillus amyloliquefaciens	species
+taxon rank	Arctostaphylos glandulosa, with the common name Eastwood's manzanita, is a species of manzanita.	Arctostaphylos glandulosa	species
+taxon rank	Hypomeces is a tropical genus of true weevil family.	Hypomeces	genus
+taxon rank	Cheilanthes cooperae, reclassified as Myriopteris cooperae, is a species of lip fern known by the common name Mrs. Cooper's lip fern, or simply Cooper's lip fern.	Cheilanthes cooperae	species
+taxon rank	Gorgasia galzini (Galzin's garden eel or speckled garden eel) is a species of garden eel.	Gorgasia galzini	species
+taxon rank	Austroeupatorium is a genus of plants native primarily to South America, including herbaceous perennials and shrubs.	Austroeupatorium	genus
+taxon rank	Littoraria irrorata, common name the Marsh periwinkle, is a species of sea snail, a marine gastropod mollusk in the family Littorinidae.	Littoraria irrorata	species
+taxon rank	Drosophila subsilvestris is a relatively common Northern Europeon species of fruit fly from the family Drosophilidae.	Drosophila subsilvestris	species
+taxon rank	Henicopsaltria eydouxii, commonly known as the razor grinder, is a large species of cicada native to eastern Australia.	Henicopsaltria eydouxii	species
+taxon rank	Penstemon centranthifolius is a species of penstemon known by the common name scarlet bugler.	Penstemon centranthifolius	species
+taxon rank	Iris tubergeniana (also commonly known as ) is a species in the genus Iris, it is also in the subgenus of Scorpiris.	Iris tubergeniana	species
+taxon rank	Lambis crocata, commonly known as the orange spider conch, is a species of large sea snail, a marine gastropod mollusk in the family Strombidae, the true conchs.	Lambis crocata	species
+taxon rank	Hosta clausa is a species of the genus Hosta.	Hosta clausa	species
+taxon rank	Terminalia microcarpa is a tree species in the family Combretaceae.	Terminalia microcarpa	species
+taxon rank	Hyloscirtus alytolylax is a species of frog in the Hylidae family found in Colombia and Ecuador.	Hyloscirtus alytolylax	species
+taxon rank	The Taxodiaceae were at one time regarded as a distinct plant family comprising the following ten genera of coniferous trees:	Taxodiaceae	family
+taxon rank	Bathylychnops exilis, the Javelin spookfish, is a species of barreleye found in the northern Pacific and in the eastern Atlantic Ocean near the Azores where it is found at depths of around 640 metres (2,100 ft).	Bathylychnops exilis	species
+taxon rank	Banisia myrtaea is a species of moths of the Thyrididae family.	Banisia myrtaea	species
+taxon rank	Gobius ateriformis is a species of goby native to the Atlantic Ocean along the coast of Cape Verde where it occurs in tide pools to a depth of about 11 metres (36 ft).	Gobius ateriformis	species
+taxon rank	Amietophrynus langanoensis, the Lake Langano toad is a species of toad in the family Bufonidae.	Amietophrynus langanoensis	species
+taxon rank	Zodiolestes is a genus of mustelids, now extinct, which existed during the Miocene period.	Zodiolestes	genus
+taxon rank	Adelphobates galactonotus (splash-backed poison frog or splashback poison frog) is a species of poison dart frog.	Adelphobates galactonotus	species
+taxon rank	Achillesaurus is a genus of alvarezsaurid theropod dinosaur from the Santonian-age Upper Cretaceous Bajo de la Carpa Formation of Rio Negro, Argentina.	Achillesaurus	genus
+taxon rank	Paraschistura bampurensis is a species of stone loach that is found in Iran and Pakistan.	Paraschistura bampurensis	species
+taxon rank	Spyroceras is pseudorthocerid genus from the Devonian of North America and Europe, defined by Hyatt in 1884.	Spyroceras	genus
+taxon rank	Olmeca is a genus of Mesoamerican bamboo in the grass family.	Olmeca	genus
+taxon rank	The type species, Aniksosaurus darwini, was formally described by Rubén Dario Martínez and Fernando Emilio Novas in 2006; the name was first coined in 1995 and reported in the literature in 1997.	Aniksosaurus	species
+taxon rank	Andropolia extincta was a species of moth in the Noctuidae family, but is now considered a synonym of Andropolia contacta.	Andropolia extincta	species
+taxon rank	Copepods form a subclass belonging to the subphylum Crustacea (crustaceans); they are divided into ten orders.	Copepod	subclass
+taxon rank	Eustegia is a genus of vines in the Apocynaceae, first described as a genus with this name in 180.	Eustegia	genus
+taxon rank	Munzothamnus is a monotypic genus of flowering plants in the daisy family containing the single species Munzothamnus blairii, which is known by the common name Blair's wirelettuce, or Blair's munzothamnus.	Munzothamnus	genus
+taxon rank	Gonatista grisea, common name grizzled mantis or lichen mimic, is a species of praying mantis native to the Southern United States, primarily Florida.	Gonatista grisea	species
+taxon rank	Mycena alcalina, commonly known as the stump fairy helmet mushroom, is a species of fungus in the Mycenaceae family.	Mycena alcalina	species
+taxon rank	Micracanthicus vandragti is a species of suckermouth catfish endemic to Venezuela where it is found in the Ventuari River and adjacent Orinoco River.	Micracanthicus vandragti	species
+taxon rank	Telmatherium is a genus of a North American Brontothere.	Telmatherium	genus
+taxon rank	Brachycythara biconica is a species of very small sea snail, a marine gastropod mollusk in the family Mangeliidae.	Brachycythara biconica	species
+taxon rank	Archaeopteris is an extinct genus of tree-like plants with fern-like leaves.	Archaeopteris	genus
+taxon rank	Luciobarbus capito is a species of ray-finned fish in the genus Luciobarbus from the Aral and Caspian basins, including rivers that flow into these.	Luciobarbus capito	species
+taxon rank	Ocrisiodes dispergella is a species of snout moth in the genus Ocrisiodes.	Ocrisiodes dispergella	species
+taxon rank	Coelodus is an extinct genus of prehistoric bony fish from the Late Jurassic and Cretaceous.	Coelodus	genus
+taxon rank	Suta dwyeri, common names Dwyer's snake, whip snake and variable black-naped snake, is a species of venomous snake found in Australia from New South Wales to South Queensland.	Suta dwyeri	species
+taxon rank	Hirasea operculina is a species of small air-breathing land snail, a terrestrial pulmonate gastropod mollusk in the family Endodontidae.	Hirasea operculina	species
+taxon rank	Ornithodoros moubata is a species of tick.	Ornithodoros moubata	species
+taxon rank	Pleurotomariidae, common name the ``slit snails'', is a family of large marine gastropods in the clade Vetigastropoda.	Pleurotomariidae	family
+taxon rank	Methanomethylovorans hollandica is a species of methylotrophic methanogen able to grow on dimethyl sulfide and methanethiol.	Methanomethylovorans hollandica	species
+taxon rank	Chromolaena sinuata (wavyleaf thoroughwort) is a Caribbean species of flowering shrub in the sunflower family.	Chromolaena sinuata	species
+taxon rank	Banksia plagiocarpa, commonly known as the Dallachy's banksia or blue banksia, is a species of shrub or tree in the plant genus Banksia.	Banksia plagiocarpa	species
+taxon rank	Vitis aestivalis, the summer grape, or pigeon grape is a species of grape native to eastern North America from southern Ontario east to Maine, west to Oklahoma, and south to Florida and Texas.	Vitis aestivalis	species
+taxon rank	Abelia corymbosa (syn. Zabelia corymbosa) is a species of flowering plant in the honeysuckle family, Caprifoliaceae.	Abelia corymbosa	species
+taxon rank	Diabantia minima is a species of praying mantis in the genus Diabantia in the order Mantodea.	Diabantia minima	species
+taxon rank	Tetraxylopteris is a genus of extinct vascular plants of the Middle to Upper Devonian (around 390 to 360 million years ago).	Tetraxylopteris	genus
+taxon rank	Dysallomima coarctella is a moth of the Autostichidae family and only species in the Dysallomima genus.	Dysallomima coarctella	species
+taxon rank	A single species is placed herein, Tytthostonyx glauconiticus.	Tytthostonyx	species
+taxon rank	A tenrec is any species of mammal within the family Tenrecidae, found on Madagascar and in parts of the African mainland.	Tenrec	family
+taxon rank	Africariola is a genus of tettigoniid katydid.	Africariola	genus
+taxon rank	Abraliopsis affinis is a species of enoploteuthid cephalopod in the tropical waters of the eastern Pacific Ocean, and is known from Chile, Colombia, Costa Rica, Ecuador, El Salvador, Guatemala, Honduras, Mexico, Nicaragua, Panama and Peru.	Abraliopsis affinis	species
+taxon rank	Astraeus koreanus is a species of false earthstar in the family Diplocystaceae.	Astraeus koreanus	species
+taxon rank	Gastrochilus, abbreviated Gchls in horticultural trade, is a genus of plant in family Orchidaceae.	Gastrochilus	genus
+taxon rank	Nektaspida (also called Naraoiida, Nectaspia and Nectaspida) is an extinct order of soft-bodied arthropods proposed by Raymond in 1920; its taxonomic status is uncertain.	Nektaspida	order
+taxon rank	Glyptothorax chimtuipuiensis is a species of catfish that was first described by Anganthoibi and Vishwanath 2010.	Glyptothorax chimtuipuiensis	species
+taxon rank	Guadalupe pipefish, Syngnathus insulae, is a pipefish species, inhabits the Eastern Central Pacific, endemic to Guadalupe Island in Mexico.	Guadalupe pipefish	species
+taxon rank	Bambusicola is a genus of bird in the Phasianidae family.	Bambusicola	genus
+taxon rank	Penicillium euglaucum is a species of the genus of Penicillium which was isolated from soil in Argentina.	Penicillium euglaucum	species
+taxon rank	Parrotfishes are a group of about 95 species traditionally regarded as a family (Scaridae), but now often considered a subfamily (Scarinae) of the wrasses.	Parrotfish	family
+taxon rank	Phthersigena centralis is a species of praying mantis endemic to Australia.	Phthersigena centralis	species
+taxon rank	It contains only one known species, Kjellbergiodendron celebicum, endemic to the Island of Sulawesi in Indonesia.	Kjellbergiodendron	species
+taxon rank	Columnea consanguinea is a species of flowering plants in the genus Columnea.	Columnea consanguinea	species
+taxon rank	Daqingshanodon is an extinct genus of dicynodont therapsid from the Late Permian of Inner Mongolia, China.	Daqingshanodon	genus
+taxon rank	Archidrepana is a monotypic genus of lepidoptera belonging to the subfamily of Drepaninae.	Archidrepana	genus
+taxon rank	Polyommatus loewii, the large jewel blue, is a species of blue butterfly found in South East Asia.	Polyommatus loewii	species
+taxon rank	Paracorophium excavatum is a species of amphipod in the family Corophiidae.	Paracorophium excavatum	species
+taxon rank	Protomelas kirkii is a species of cichlid endemic to Lake Malawi where it is most commonly found in areas vegetated with Vallisneria.	Protomelas kirkii	species
+taxon rank	The Porcupine caribou or Grant's caribou (Rangifer tarandus granti) is a subspecies of the caribou found in Alaska and adjacent parts of Canada.	Porcupine caribou	subspecies
+taxon rank	Ferrissia fragilis is a species of small freshwater limpet, an aquatic gastropod mollusk in the family Planorbidae.	Ferrissia fragilis	species
+taxon rank	Loxodonta adaurora is an extinct species of elephant in the genus Loxodonta, that of the African elephants.	Loxodonta adaurora	species
+taxon rank	Aegilops geniculata is a species of grass known by the common name ovate goatgrass.	Aegilops geniculata	species
+taxon rank	Amphioctopus is a genus of octopuses comprising around 16 species.	Amphioctopus	genus
+taxon rank	Acropora aculeus is a species of acroporid coral found throughout the Indian Ocean, the central Indo-Pacific, Australia, southeast Asia, Japan and the East China Sea.	Acropora aculeus	species
+voice type	Alfred Piccaver (5 February 1884 - 23 September 1958, in Vienna) was a British-American operatic tenor.	Alfred Piccaver	tenor
+voice type	Paul Derenne (born René Bouvier) (1907, Rennes -- 18 April 1988, Bec-Hellouin) was a French tenor whose eclectic repertoire allowed him a successful career on stage and on the concert platform.	Paul Derenne	tenor
+voice type	Gustav Hölzel (2 September 1813 -- 3 December 1883) was an Austro-Hungarian bass-baritone and composer who sang in the opera-houses of Austria, Germany and elsewhere for nearly fifty years.	Gustav Hölzel	bass
+voice type	Robert Todd Duncan (February 12, 1903 -- February 28, 1998) was an American baritone opera singer and actor.	Todd Duncan	baritone
+voice type	Margaret Matzenauer (sometimes spelled Margarete Matzenauer or Margarethe Matzenaur) (1 June 1881 -- 19 May 1963) was a mezzo-soprano singer with an opulent timbre and a wide range to her voice.	Margaret Matzenauer	soprano

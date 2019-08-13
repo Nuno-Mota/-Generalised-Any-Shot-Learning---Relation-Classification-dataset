@@ -1,0 +1,625 @@
+architectural style	Villa Haux is a villa in the Art Nouveau style built in 1908 by architects Richard Böklen and Carl Feil in the southern German town of Ebingen.	Villa Haux	Art Nouveau
+architectural style	The Villa Empain is a private house in the Art Deco style designed and built between 1930 and 1934 by Swiss architect Michel Polak for Baron Louis Empain, son of Belgian industrialist Baron Édouard Empain, located in Brussels, Belgium.	Villa Empain	Art Deco
+architectural style	Anne's Tablet is an Art Nouveau sculptural installation located within Mackinac Island State Park adjacent to Fort Mackinac on Mackinac Island.	Anne's Tablet	Art Nouveau
+architectural style	The Chrysler Building is an Art Deco style skyscraper located on the East Side of Midtown Manhattan in New York City, at the intersection of 42nd Street and Lexington Avenue in the Turtle Bay neighborhood.	Chrysler Building	Art Deco
+architectural style	The Verdun Natatorium is an Art Deco natatorium in Verdun, Quebec.	Verdun Natatorium	Art Deco
+architectural style	Steedman - an industrialist, engineer, and amateur architect - assembled a team of architects, landscape architects, antiquarians, and horticulturists to produce the Casa del Herrero estate -- an example of Spanish Colonial Revival architecture.	Casa del Herrero	Spanish Colonial Revival architecture
+architectural style	Rochester Cathedral, formally the Cathedral Church of Christ and the Blessed Virgin Mary, is an English church of Norman architecture in Rochester, Medway.	Rochester Cathedral	Norman architecture
+architectural style	Carleton Monroe Winslow (1876--1946), also known as Carleton Winslow Sr., was an American architect, and key proponent of Spanish Colonial Revival architecture in Southern California in the early 20th Century.	Carleton Winslow	Spanish Colonial Revival architecture
+architectural style	Construction began in 1913, and in 1917 Art Nouveau Bjelovar Synagogue was completed.	Bjelovar Synagogue	Art Nouveau
+architectural style	The Latrobe Gate is one of the nation's oldest extant examples of Greek Revival architecture.	Latrobe Gate	Greek Revival architecture
+architectural style	The Neues Schauspielhaus (English: New Theatre) on Nollendorfplatz in the Schöneberg district of Berlin was built in 1905 as a theatre and concert hall in the then-fashionable Art Nouveau style.	Neues Schauspielhaus	Art Nouveau
+canonization status	Saint Laud of Coutances (variants: Lauto, Laudo, Launus, popularly: Saint Lô) was the fifth bishop of Coutances and is venerated as a saint in the Roman Catholic and Eastern Orthodox Churches.	Laud of Coutances	saint
+canonization status	Saint Astrik of Pannonhalma (also known as Anastasius, Astericus, Ascrick, Astrissicus) (d. ca. 1030/1040) is a saint of the 11th century.	Astrik	saint
+canonization status	Austrebertha (Austreberta, Eustreberta, Austreberta of Pavilly) (French: Austreberthe) (630--704) is venerated as a saint by the Catholic Church.	Austrebertha	saint
+canonization status	Saint John Berchmans, SJ (Dutch: Jan Berchmans) (13 March 1599 -- 13 August 1621) was a Jesuit scholastic and is a saint in the Roman Catholic Church.	John Berchmans	saint
+canonization status	Saint Simeon Stylites the Younger (also known as 'St. Simeon of the Admirable Mountain') (Arabic: مار سمعان العمودي الأصغر mār semʻān l-ʻamūdī l-asghar) (521 -- May 24, 597) is a saint in the Eastern Orthodox Church and Catholic Churches of Eastern and Latin Rites.	Simeon Stylites the Younger	saint
+canonization status	Saint Afra (died 304) was a Christian martyr and a saint of Augsburg.	Saint Afra	saint
+canonization status	Saint Benignus of Dijon (French: Saint Bénigne) was a martyr honored as the patron saint and first herald of Christianity of Dijon, Burgundy (Roman Divio).	Benignus of Dijon	saint
+canonization status	Saint Guy of Anderlecht (also, Guido, Guidon, Wye of Láken) (ca. 950--1012) was a Christian saint.	Guy of Anderlecht	saint
+canonization status	The Eastern Orthodox Church venerates Gamaliel as a saint, where he is commemorated on August 2, the date when tradition holds that his relics were found, along with those of Stephen the Protomartyr, Abibas (Gamaliel's son), and Nicodemus.	Gamaliel	saint
+canonization status	Saint Waningus (also Vaneng) (born in Rouen, died c. 683) was a nobleman and royal official under Clotaire III, then later a Benedictine abbot and a saint of the Roman Catholic Church.	Waningus	saint
+canonization status	Saint Romanus of Condat (c. 390 -- c. 463) is a saint of the fifth century.	Romanus of Condat	saint
+canonization status	Saint Piatus of Tournai (also Piaton, Platon, Piat, Piato,) (died c. 286) was a Belgian saint.	Saint Piatus	saint
+canonization status	Cyril of Beloozero (Cyril of Beloezero, Russian: Кирилл Бело(е)зерский - Kirill Belo(e)zersky; 1337 -- 1427) was a monk and saint of the Russian Orthodox Church who lived in the 15th century.	Cyril of Beloozero	saint
+canonization status	Symphorosa (Italian: Sinforosa; died ca. 138 AD) is venerated as a Christian saint.	Symphorosa	saint
+canonization status	Saint Agatha of Sicily (231 AD -- 251 AD) is a Christian saint and virgin martyr.	Agatha of Sicily	saint
+canonization status	Jeanne de Lestonnac, O.D.N., (December 27, 1556 -- February 2, 1640), alternately known as Joan of Lestonnac, was a Roman Catholic saint and foundress of the Sisters of the Company of Mary, Our Lady, in 1607.	Jeanne de Lestonnac	saint
+canonization status	Pammachius (died c. 409 AD) was a Roman senator who is venerated as a saint in the Eastern Orthodox and Roman Catholic Churches.	Pammachius	saint
+canonization status	Saint Macrina the Younger (c.330-- 19 July 379) was a nun in the Early Christian Church and is a prominent saint in the Roman Catholic, Eastern Catholic, and Eastern Orthodox Church.	Macrina the Younger	saint
+canonization status	Morwenna is the eponymous patron saint of Morwenstow, a civil parish and village in north Cornwall, UK.	Morwenna	saint
+canonization status	Saint Donatus of Arezzo (Italian: San Donato di Arezzo) is the patron saint of Arezzo, and considered a bishop of the city.	Donatus of Arezzo	saint
+canonization status	Saint Foillan (Faelan, Faolan, Foelan, Foalan; French: Feuillien) is an Irish saint of the seventh century.	Foillan	saint
+canonization status	Saint Margaret Clitherow (1556 -- 25 March 1586) is an English saint and martyr of the Roman Catholic Church.	Margaret Clitherow	saint
+canonization status	Saint Dwynwen ((ˈdʊɨnwɛn); fl. 5th century), sometimes known as Dwyn or Donwen, is the Welsh patron saint of lovers.	Dwynwen	saint
+canonization status	Saint Vitalis of Gaza (died c. 625 AD) is venerated as a hermit-saint by the Orthodox Church on January 11 and Catholic Church.	Vitalis of Gaza	saint
+canonization status	Saint Meriasek (Breton: Meriadeg) was a 4th-century Breton saint.	Meriasek	saint
+canonization status	Romaric is recognized as a saint of the Roman Catholic Church, with a feast day on December 10 or December 8.	Romaric	saint
+canonization status	Rimbert is revered as a saint particularly in Friesland.	Rimbert	saint
+canonization status	Saint Sebastian (died c. 288) was an early Christian saint and martyr.	Saint Sebastian	saint
+canonization status	Saint Fulcran (died 13 February 1006) was a French saint.	Fulcran	saint
+canonization status	Guillaume Courtet became a saint on October 18, 1987.	Guillaume Courtet	saint
+canonization status	St. Donald of Ogilvy, (also known as Donivald or Domhnall), was an eighth-century Scottish saint who lived at Ogilvy, in the former Forfarshire.	Donald of Ogilvy	saint
+canonization status	Saint Aurelius was Christian saint who died around 430.	Saint Aurelius	saint
+canonization status	William Firmatus (French: Guillaume Firmat; 1026--1103) was a Norman hermit and pilgrim of the eleventh century, now venerated as a saint in the Catholic Church.	William Firmatus	saint
+chairperson	The Nueva Mayoría (Spanish for New Majority) is a Chilean electoral coalition created in 2013 and composed mainly of centre-left political parties supporting the presidential candidacy of Michelle Bachelet in the 2013 election.	Nueva Mayoría	Michelle Bachelet
+chairperson	The Democratic Rally (Greek: Δημοκρατικός Συναγερμός, Dimokratikós Sinagermós, DISY), is a conservative and Christian-democratic political party in Cyprus, led by Nicos Anastasiades, the president of the Republic of Cyprus.	Democratic Rally	Nicos Anastasiades
+chairperson	On 26 August 2005, the following candidates were elected to the board in KDE e.V. meeting, president was Eva Brucherseifer, vice president was Cornelius Schumacher, treasurer was Mirko Boehm, and board member was Aaron Seigo.	KDE e.V.	Cornelius Schumacher	Aaron Seigo
+chairperson	The Five Star Movement (Italian: Movimento Cinque Stelle (moviˈmento ˈtʃiŋkwe ˈstelle), M5S) is a political party in Italy started by Beppe Grillo, a popular comedian and blogger, with Gianroberto Casaleggio, a web strategist, on 4 October 2009.	Five Star Movement	Beppe Grillo
+chairperson	The Independent Ecological Movement (Mouvement Ecologiste Indépendant) is a political party in France founded by Antoine Waechter, former presidential candidate of The Greens in 1994.	Independent Ecological Movement	Antoine Waechter
+chairperson	Open Russia is a name shared by two initiatives advocating democracy in Russia founded by former businessman and democracy activist Mikhail Khodorkovsky.	Open Russia	Mikhail Khodorkovsky
+chairperson	The Republican Evolutionist Party (Portuguese: Partido Republicano Evolucionista, PRE), commonly known as the Evolutionist Party, was a political party in Portugal led by António José de Almeida.	Evolutionist Party	António José de Almeida
+chairperson	The English Democrats Party has welcomed defectors from the far-right British National Party into leadership roles and former members of the party have also criticised informal links with other far right organisations, though party leader Robin Tilbrook has stated that party members are expected to pledge their opposition to racism.	English Democrats	Robin Tilbrook
+chairperson	In the 2012 LegCo election, three Professional Commons members were elected to the legislature including Charles Mok in the Information Technology functional constituency (FC), Kenneth Leung in the Accountancy FC, and Dennis Kwok, who ran as a Civic Party candidate, in the Legal FC.	Professional Commons	Charles Mok
+chairperson	Paul Haas was the third president of FC Barcelona, and the first who had not participated in the founding of the institution or been a Barça player.	Paul Haas	FC Barcelona
+chairperson	Pan-Armenian National Movement spearheaded the formation of Armenian National Congress, a wide opposition coalition of many opposition Armenian parties headed by Levon Ter-Petrossian in opposition to the ruling governmental coalition headed by Armenian President Serzh Sargsyan The party is led by Aram Manukyan.	Pan-Armenian National Movement	Aram Manukyan
+chairperson	In August 2013, Yassine Brahim and other former party members left the Republican Party to revive Afek Tounes.	Afek Tounes	Yassine Brahim
+chairperson	Due to lack of effectiveness of the moderate approach and to further unite the pro-democracy camp for the 1995 Legislative Council elections, the Meeting Point and the United Democrats led by Anthony Cheung Bing-leung and Martin Lee merged into a new party, the Democratic Party, announced in April 1994.	Meeting Point	Anthony Cheung
+chairperson	Union of Social Democrats (Russian: Союз социал-демократов, Soyuz sotsial-demokratov) is an all-Russian non-governmental organization founded on October 20, 2007 by former Soviet leader Mikhail Gorbachev.	Union of Social Democrats	Mikhail Gorbachev
+chairperson	The President of the European Parliament (Parliament's speaker) is Martin Schulz (S&D), elected in January 2012.	European Parliament	Martin Schulz
+chairperson	Francesc Miró-Sans i Casacuberta (1918 -- 1989) was a Spanish businessman and former president of FC Barcelona.	Francesc Miró-Sans	FC Barcelona
+chairperson	United Civil Front (Russian: Объединённый Гражданский Фронт, Obyedinyónnïy Grazhdánskiy Front) is a social movement in Russia founded and led by chess grandmaster Garry Kasparov.	United Civil Front	Garry Kasparov
+chairperson	In Spring 2014, Senator Jan Veleba elected as an independent candidate in 2012, joined the Party of Civic Rights and became its chairman.	Party of Civic Rights	Jan Veleba
+collection	The Banquet of the Officers of the St George Militia Company in 1627 refers to a schutterstuk painted by Frans Hals for the St. George (or St. Joris) civic guard of Haarlem, and today is considered one of the main attractions of the Frans Hals Museum there.	The Banquet of the Officers of the St George Militia Company in 1627	Frans Hals Museum
+collection	Poppy Flowers (also known as Vase and Flowers and Vase with Viscaria) is a painting by Vincent van Gogh with an estimated value of $50 million to $55 million; it was stolen from Cairo's Mohamed Mahmoud Khalil Museum in August 2010 and is still yet to be found.	Poppy Flowers	Mohamed Mahmoud Khalil Museum
+collection	The Portrait of Jacopo Strada is a 1567-68 portrait of Jacopo Strada by Titian, now in the Kunsthistorisches Museum in Vienna.	Portrait of Jacopo Strada	Kunsthistorisches Museum
+collection	Landscape near Arles is an 1888 oil painting by French artist Paul Gauguin, located in the Indianapolis Museum of Art, which is in Indianapolis, Indiana.	Landscape near Arles	Indianapolis Museum of Art
+collection	Portrait of Vincenzo Mosti is a painting by Titian, executed around 1520 and now housed in the Galleria Palatina of Florence, Italy.	Portrait of Vincenzo Mosti	Galleria Palatina
+collection	The Badia Polyptych (Italian: Polittico di Badia) is a painting by the Italian artist Giotto, painted around 1300 and housed in the Uffizi Gallery of Florence.	Badia Polyptych	Uffizi
+collection	The Two Fridas is housed at the Museo de Arte Moderno in Mexico City.	The Two Fridas	Museo de Arte Moderno
+collection	Old Man with a Gold Chain is a portrait by Rembrandt, painted around 1631 and now in the Art Institute of Chicago.	Old Man with a Gold Chain	Art Institute of Chicago
+collection	Hotel Lobby is an oil painting on canvas by American realist painter Edward Hopper; it is held in the collection of the Indianapolis Museum of Art (IMA), in Indianapolis, Indiana, United States.	Hotel Lobby	Indianapolis Museum of Art
+collection	Mr and Mrs Andrews is an oil on canvas portrait of about 1750 by Thomas Gainsborough, now in the National Gallery, London.	Mr and Mrs Andrews	National Gallery
+collection	A Boy Bringing Bread (c. 1663) is an oil on canvas painting by the Dutch painter Pieter de Hooch, it is an example of Dutch Golden Age painting and is part of The Wallace Collection.	A Boy Bringing Bread	The Wallace Collection
+collection	Uncial 0162 is one of the manuscripts excavated by Bernard Pyne Grenfell and Arthur Surridge Hunt in Oxyrynchus, Egypt and is now part of the Metropolitan Museum of Art collection in New York City.	Uncial 0162	Metropolitan Museum of Art
+collection	The Lindisfarne Gospels (London, British Library Cotton MS Nero D.IV) is an illuminated manuscript gospel book produced around the year 700 in a monastery off the coast of Northumberland at Lindisfarne and which is now on display in the British Library in London.	Lindisfarne Gospels	British Library
+collection	The Favourites of the Emperor Honorius is part of the collection of the Art Gallery of South Australia, which also owns Waterhouse's Circe Invidiosa.	The Favourites of the Emperor Honorius	Art Gallery of South Australia
+collection	Madonna with Child Enthroned between Saints John the Baptist and Sebastian is a painting by the Italian Renaissance artist Pietro Perugino, executed in 1493, and housed in the Uffizi Gallery, Florence.	Madonna with Child Enthroned between Saints John the Baptist and Sebastian	Uffizi
+collection	Welsh Newspapers Online is the searchable digital archive of historic Welsh newspaper holdings of the National Library of Wales.	Welsh Newspapers Online	National Library of Wales
+collection	Portrait of Queen Christina of Denmark is late work of the Italian Renaissance master Titian, painted in 1555-1556 as an oil on canvas and now housed in the National Museum of Serbia of Belgrade, Serbia.	Portrait of Queen Christina of Denmark	National Museum of Serbia
+collection	Balbi Holy Conversation (Italian: Sacra conversazione, also known as Titian Madonna and Child with Sts Catherine and Dominic and a Donor) is an oil painting by the Italian late Renaissance painter Titian, dated to around 1513, and now held at the Fondazione Magnani-Rocca in Traversetolo, near Parma, northern Italy.	Balbi Holy Conversation	Fondazione Magnani-Rocca
+collection	Marriage Portrait of Isaac Massa and Beatrix van der Laen is a painting by the Dutch Golden Age painter Frans Hals, painted in 1622 and now in the Rijksmuseum, Amsterdam.	Marriage Portrait of Isaac Massa and Beatrix van der Laen	Rijksmuseum
+collection	The Golden Hat of Schifferstadt is on display in the Historical Museum of the Palatinate in Speyer.	Golden Hat of Schifferstadt	Historical Museum of the Palatinate
+collection	Group portrait of an unknown family or company (1658--1660) is an oil on canvas painting by the Dutch painter Pieter de Hooch, it is an example of Dutch Golden Age painting and is part of the collection of the Academy of Fine Arts Vienna.	Group portrait of an unknown family or company	Academy of Fine Arts Vienna
+collection	It has been in the collection of the Metropolitan Museum of Art in New York since 1887, when it was donated by Cornelius Vanderbilt II. Bonheur painted The Horse Fair from a series of sketches she had made at the Paris horse market on the boulevard de l'Hôpital.	The Horse Fair	Metropolitan Museum of Art
+collection	The Merciful Knight is a watercolour by the pre-Raphaelite artist Edward Burne-Jones which was completed in 1863 and is currently housed at the Birmingham Museum & Art Gallery.	The Merciful Knight	Birmingham Museum & Art Gallery
+collection	The Farnese Bull, formerly in the Farnese collection in Rome, is a massive Hellenistic sculpture.	Farnese Bull	Farnese collection
+collection	Vase with carved peony scrolls is a Cizhou-type stoneware vase of the Northern Song dynasty, made about 1100 and now in the Asian collection of the Indianapolis Museum of Art, where it is currently on display in the Richard M. Fairbanks Gallery.	Vase with carved peony scrolls	Indianapolis Museum of Art
+collection	The Apparition of Christ to the Virgin is a painting by the Italian Renaissance master Filippino Lippi, executed around 1493 and now housed in the Alte Pinakothek of Munich, Germany.	Apparition of Christ to the Virgin	Alte Pinakothek
+collection	Smiling Fishergirl is a painting by the Dutch Golden Age painter Frans Hals, painted in the early 1630s, now in a private collection.	Smiling Fishergirl	private collection
+collection	Life Underground (2001) is a permanent public artwork created by American sculptor Tom Otterness for the 14th Street -- Eighth Avenue station (A C E L trains) of the New York City Subway.	Life Underground	14th Street -- Eighth Avenue
+collection	Pont Boieldieu in Rouen, Rainy Weather is an 1896 painting by Camille Pissarro in the collection of the Art Gallery of Ontario.	Pont Boieldieu in Rouen, Rainy Weather	Art Gallery of Ontario
+collection	The Archangel ivory is the largest surviving Byzantine ivory panel, now in the British Museum.	Archangel ivory	British Museum
+collection	Lady Writing a Letter with her Maid is a painting by the Dutch artist Johannes Vermeer, completed between 1670--1671 and held in the National Gallery of Ireland.	Lady Writing a Letter with her Maid	National Gallery of Ireland
+collection	Portrait of Maria Portinari is small c 1470-72 tempera and oil on wood painting by Hans Memling in the Metropolitan Museum of Art, New York.	Portrait of Maria Portinari	Metropolitan Museum of Art
+collection	The Madonna and Child with St John and Angels (c. 1497), also known as The Manchester Madonna, is an unfinished painting attributed to Michelangelo in the National Gallery, London.	Manchester Madonna	National Gallery
+collection	The Stuttgart Psalter (Württembergische Landesbibliothek Stuttgart, Bibl. fol. 23) is a richly illuminated 9th-century psalter, considered one of the most significant of the Carolingian period.	Stuttgart Psalter	Württembergische Landesbibliothek
+collection	The Bearded Slave (Italian: Schiavo barbuto) is a marble sculpture by Michelangelo datable to around 1525--1530 and kept in the Galleria dell'Accademia in Florence.	Bearded Slave	Galleria dell'Accademia
+collection	The Ghost of a Flea is a miniature painting by the English poet, painter and printmaker William Blake, held in the Tate Gallery, London.	The Ghost of a Flea	Tate
+collection	The Noleby Runestone is now located in the Swedish Museum of National Antiquities in Stockholm.	Noleby Runestone	Swedish Museum of National Antiquities
+collection	Entry of Christ into Jerusalem is an 1125 fresco by the Master of San Baudelio de Berlanga, originally located at San Baudelio de Berlanga but now on display in the Indianapolis Museum of Art, which is in Indianapolis, Indiana.	Entry of Christ into Jerusalem	Indianapolis Museum of Art
+collection	Lady Standing at a Virginal is a genre painting created by the Dutch artist Johannes Vermeer in about 1670--1672, now in the National Gallery, London.	Lady Standing at a Virginal	National Gallery
+collection	Welsh Newspapers Online has digitised 1,266 issues of the Y Gwladgarwr (1858-1884) from the newspaper holdings of the National Library of Wales.	Y Gwladgarwr	Welsh Newspapers Online
+conferred by	The Sergio Vieira de Mello Citizen of the World award is given out by the United Nations Correspondents Association to those deemed to have made a significant contribution.	Citizen of the World	United Nations Correspondents Association
+conferred by	The William James Fellow Award is an award of the Association for Psychological Science which ``honors APS Members for their lifetime of significant intellectual contributions to the basic science of psychology''.	William James Fellow Award	Association for Psychological Science
+conferred by	The Meldola Medal and Prize was awarded annually from 1921-1979 by the Chemical Society and from 1980 by the Royal Society of Chemistry to a British chemist who was under 32 years of age for promising original investigations in chemistry (which have been published).	Meldola Medal and Prize	Chemical Society	Royal Society of Chemistry
+conferred by	The IEEE Joseph F. Keithley Award in Instrumentation and Measurement is a Technical Field Award of the Institute of Electrical and Electronics Engineers (IEEE) that was established by the IEEE Board of Directors in 2001 and first awarded in 2004.	IEEE Joseph F. Keithley Award in Instrumentation and Measurement	Institute of Electrical and Electronics Engineers
+conferred by	Illis Quorum is now awarded by the Government of Sweden, and it is currently the highest award that can be conferred upon an individual Swedish citizen by the Government.	Illis Quorum	Government of Sweden
+conferred by	The Bancroft Prize is awarded each year by the trustees of Columbia University for books about diplomacy or the history of the Americas.	Bancroft Prize	Columbia University
+conferred by	The Amelia Frances Howard-Gibbon Illustrator's Award is presented annually by the Canadian Library Association/Association canadienne des bibliothèques (CLA) to an outstanding illustrator of a new Canadian children's book.	Amelia Frances Howard-Gibbon Illustrator's Award	Canadian Library Association
+conferred by	The Environmental Media Awards have been awarded by the Environmental Media Association since 1991 to the best television episode or film with an environmental message.	Environmental Media Awards	Environmental Media Association
+conferred by	The Adolph Lomb Medal, awarded by the Optical Society of America is a prize for young scientists (age 35 or younger) for their contributions to optics.	Adolph Lomb Medal	Optical Society
+conferred by	The John Bates Clark Medal is awarded by the American Economic Association to ``that American economist under the age of forty who is adjudged to have made a significant contribution to economic thought and knowledge''.	John Bates Clark Medal	American Economic Association
+conferred by	The Charles Rees Award is granted by the Royal Society of Chemistry to ``reward excellence in the field of heterocyclic chemistry''.	Charles Rees Award	Royal Society of Chemistry
+conferred by	The MusiCares Person of the Year is an award presented annually by the National Academy of Recording Arts and Sciences, the same organization that distributes the Grammy Awards, to commend musicians for their artistic achievement in the music industry and dedication to philanthropy.	MusiCares Person of the Year	National Academy of Recording Arts and Sciences
+conferred by	The twelve member presidential Committee on the National Medal of Science is responsible for selecting award recipients and is administered by the National Science Foundation (NSF).	National Medal of Science	National Science Foundation
+conferred by	The Herman Skolnik Award is awarded annually by the Division of Chemical Information of the American Chemical Society, ``to recognize outstanding contributions to and achievements in the theory and practice of chemical information science''.	Herman Skolnik Award	American Chemical Society
+conferred by	The Oscar Robertson Trophy is given out annually to outstanding men's college basketball players by the United States Basketball Writers Association (USBWA).	Oscar Robertson Trophy	United States Basketball Writers Association
+conferred by	Bihari Puraskar is a literary award instituted by K. K. Birla Foundation .	Bihari Puraskar	K. K. Birla Foundation
+conferred by	The GlaxoSmithKline Prize and Lecture is awarded by the Royal Society of London ``for original contributions to medical and veterinary sciences published within ten years from the date of the award''.	GlaxoSmithKline Prize	Royal Society
+convicted of	Carlos DeLuna (March 15, 1962 -- December 7, 1989) was an American man who was convicted of murder and executed by the State of Texas for killing a 24-year-old gas station attendant in Corpus Christi, on the evening of February 4, 1983.	Carlos DeLuna	murder
+convicted of	Nicholas Lindsey (born January 18, 1995) is a Florida juvenile convicted of murder in the first degree of a law enforcement officer from St. Petersburg Police Department.	Nicholas Lindsey	murder
+convicted of	Nur-Pashi Kulayev (born 1980), a native of Engenoi, Chechnya, is thought to be the sole survivor of the 32 hostage-takers in the 2004 Beslan school hostage crisis, although Chechen warlord Shamil Basayev denied the claim, stating that one other escaped.	Nur-Pashi Kulayev	Beslan school hostage crisis
+convicted of	Lena Baker (June 8, 1900 -- March 5, 1945) was an African American maid who was falsely accused of capital murder by the state of Georgia in 1945 for killing her white employer, Ernest Knight, and executed by the state.	Lena Baker	murder
+convicted of	John Horwood (1803--1821) was a miner's son convicted of murder in Bristol, England and executed in 1821.	John Horwood	murder
+convicted of	Jay D. Scott (August 21, 1952 - June 14, 2001) was executed by the U.S. state of Ohio for the 1983 murder of a delicatessen owner in Cleveland.	Jay D. Scott	murder
+convicted of	Wilbert Coffin (October 1915 - 10 February 1956) was a Canadian prospector who was convicted of murder and executed in Canada.	Wilbert Coffin	murder
+convicted of	Jean Saint Malo was condemned to death by hanging, on charges of murder.	Jean Saint Malo	murder
+convicted of	John William Byrd, Jr. (December 18, 1963 -- February 19, 2002) was executed by lethal injection for the murder of convenience store clerk Monte Tewksbury.	John William Byrd, Jr.	murder
+crosses	Lambeth Bridge is a road traffic and footbridge crossing the River Thames in an east-west direction in central London, the river flows north at the crossing point.	Lambeth Bridge	River Thames
+crosses	The English Bridge is a masonry arch viaduct, crossing the River Severn in Shrewsbury, Shropshire.	English Bridge	Severn
+crosses	O'Connell Bridge (Irish: Droichead Uí Chonaill) is a road bridge spanning the River Liffey in Dublin, and joining O'Connell Street to D'Olier Street, Westmoreland Street and the south quays.	O'Connell Bridge	Liffey
+crosses	The General Pierce Bridge is a steel truss road bridge over the Connecticut River between Greenfield, Massachusetts and Montague, Massachusetts carrying Montague City Road.	General Pierce Bridge	Connecticut River
+crosses	The Royal Tweed Bridge is a road bridge in Berwick-upon-Tweed, Northumberland, England crossing the River Tweed.	Royal Tweed Bridge	River Tweed
+crosses	The Victoria Falls Bridge crosses the Zambezi River just below the Victoria Falls and is built over the Second Gorge of the falls.	Victoria Falls Bridge	Zambezi River
+crosses	Second Abidjan Bridge is a road bridge over the Ébrié Lagoon which links the two halves of the city of Abidjan in Côte d'Ivoire.	Second Abidjan Bridge	Ébrié Lagoon
+crosses	The Hunter Station Bridge is a truss bridge that carries U.S. Route 62 (US 62) across the Allegheny River in rural Tionesta Township in Forest County, Pennsylvania.	Hunter Station Bridge	Allegheny River
+crosses	The Bank Street Bridge, officially known as the Bank Street Canal Bridge, is a bridge in Ottawa, Ontario, Canada, that carries Bank Street over the Rideau Canal.	Bank Street Bridge	Rideau Canal
+crosses	The Donald R. Lobaugh Bridge (commonly known as the Freeport Bridge) is a cantilever bridge that carries vehicular traffic across the Allegheny River between both Buffalo and Allegheny townships in Pennsylvania.	Donald R. Lobaugh Bridge	Allegheny River
+crosses	In 1962, a temporary bridge was built by the military across the Arve which would later be replaced by the Hans Wilsdorf Bridge.	Hans Wilsdorf Bridge	Arve
+crosses	The Clark Bridge is a cable-stayed bridge across the Mississippi River between West Alton, Missouri and Alton, Illinois.	Clark Bridge	Mississippi River
+crosses	The Stan Musial Veterans Memorial Bridge (known as the New Mississippi River Bridge until its formal naming in 2013 and informally known as the ``Stan Span'') is a bridge across the Mississippi River between St. Clair County, Illinois, and the city of St. Louis, Missouri.	Stan Musial Veterans Memorial Bridge	Mississippi River
+crosses	Ponte Sisto is a bridge in Rome's historic centre, spanning the river Tiber.	Ponte Sisto	Tiber
+crosses	Rama VI Bridge (Thai: สะพานพระราม 6) is a railway bridge over the Chao Phraya River in Bangkok, in Thailand, connecting the districts Bang Sue and Bang Phlat.	Rama VI Bridge	Chao Phraya River
+crosses	The Jefferson Barracks Bridge, officially the Jefferson Barracks Memorial Arch Bridge, is a bridge that spans the Mississippi River on the south side of St. Louis.	Jefferson Barracks Bridge	Mississippi River
+crosses	The Liteyny Bridge (Russian: Лите́йный мост) is the second permanent bridge across the Neva river in Saint Petersburg, Russia.	Liteyny Bridge	Neva
+crosses	Pont d'Iéna (``Jena Bridge'') is a bridge spanning the River Seine in Paris.	Pont d'Iéna	Seine
+crosses	Hampton Court Bridge crosses the River Thames in England approximately north--south between Hampton, London and East Molesey, Surrey.	Hampton Court Bridge	River Thames
+crosses	Aldford Iron Bridge is a bridge crossing the River Dee north of the village of Aldford, Cheshire, England, linking the village with Eaton Hall, forming part of the Buerton Approach to the hall (grid reference SJ418601).	Aldford Iron Bridge	River Dee
+crosses	The Enneüs Heerma Bridge (Dutch: Enneüs Heermabrug) is a bridge in the Netherlands which connects the new urban district of IJburg, built on seven artificial islands in IJ Lake, with the isle of Zeeburg, a borough on the eastern edge of Amsterdam, the capital of the Netherlands.	Enneüs Heerma Bridge	IJ
+crosses	The Manhattan Bridge is a suspension bridge that crosses the East River in New York City, connecting Lower Manhattan at Canal Street with Downtown Brooklyn at the Flatbush Avenue Extension.	Manhattan Bridge	East River
+crosses	Barle Bridge is a five span stone arch bridge over the River Barle in Dulverton within the English county of Somerset, which is medieval in origin.	Barle Bridge	River Barle
+crosses	The Old Vicksburg Bridge, also known as Mississippi River Bridge, is a cantilever bridge carrying one rail line across the Mississippi River between Delta, Louisiana and Vicksburg, Mississippi.	Old Vicksburg Bridge	Mississippi River
+crosses	The Dexter Coffin Bridge is a crossing for Interstate 91 over the Connecticut River north of Hartford, Connecticut, connecting the towns of Windsor Locks, Connecticut and East Windsor, Connecticut.	Dexter Coffin Bridge	Connecticut River
+crosses	The Rock Island Swing Bridge was a swing bridge that spanned the Mississippi River between Inver Grove Heights, Minnesota and St. Paul Park, Minnesota.	Rock Island Swing Bridge	Mississippi River
+crosses	The Hejiang Bridge (Chinese: 合江长江二桥), first called Hejiang Bridge 2, is a highway bridge over the Yangtze River in Hejiang County, Sichuan, China.	Hejiang Bridge	Yangtze
+crosses	The Mark Morris Memorial Bridge (locally called the North Bridge) is a 2 lane truss bridge across the Mississippi River in the United States.	Mark Morris Memorial Bridge	Mississippi River
+crosses	The McKinley Bridge is a steel truss bridge across the Mississippi River.	McKinley Bridge	Mississippi River
+crosses	The John T. McNaughton Bridge, also known as the Pekin Bridge, is a Steel Girder Bridge that carries Illinois Route 9 over the Illinois River from downtown Pekin to Peoria County in central Illinois.	John T. McNaughton Bridge	Illinois River
+crosses	The Route 10 bridge, also known as Bennett's Meadow Bridge is a 215.5-metre (707 ft) steel stringer bridge crossing the Connecticut River in the town of Northfield, Massachusetts.	Bennett's Meadow Bridge	Connecticut River
+crosses	Most Slovenského národného povstania (English: Bridge of the Slovak National Uprising), commonly referred to as Most SNP or the UFO Bridge, and named Nový most (English: New Bridge) from 1993 to 2012, is a road bridge over the Danube in Bratislava, the capital of Slovakia.	Most SNP	Danube
+crosses	The Fleming Park Bridge is a crossing of the Ohio River, between Stowe Township, Allegheny County, Pennsylvania and Neville Island, Pennsylvania.	Fleming Park Bridge	Ohio River
+crosses	The McKeesport-Duquesne Bridge it is a truss bridge that carries vehicular traffic across the Monongahela River between McKeesport, Pennsylvania and Duquesne, Pennsylvania.	McKeesport-Duquesne Bridge	Monongahela River
+crosses	The Libeň Bridge (Czech: Libeňský most) is a bridge in Prague over the river Vltava.	Libeň Bridge	Vltava
+crosses	The Strömsund Bridge (Swedish: Strömsundsbron) is a cable-stayed road bridge, bringing road E45 over Ströms vattudal, in Strömsund, Jämtland, Sweden.	Strömsund Bridge	Ströms vattudal
+crosses	The Suffield and Thompsonville Bridge was a 5-span iron through truss bridge over the Connecticut River located between present day Suffield, Connecticut and Thompsonville, Connecticut (Enfield).	Suffield and Thompsonville Bridge	Connecticut River
+crosses	The PC&Y Railroad Bridge carries a single railroad track over the Ohio River, between Stowe Township, Allegheny County, Pennsylvania and Neville Island, Pennsylvania.	PC&Y Railroad Bridge	Ohio River
+crosses	The Hohenzollern Bridge (German: Hohenzollernbrücke) is a bridge crossing the river Rhine in the German city of Cologne (German Köln).	Hohenzollern Bridge	Rhine
+crosses	The Champ Clark Bridge is a five-span truss bridge over the Mississippi River connecting Louisiana, Missouri with the state of Illinois.	Champ Clark Bridge	Mississippi River
+crosses	The Clinton Railroad Bridge, also called the Chicago and North Western Railroad Bridge or more simply the Clinton Bridge, carries double tracked rail lines across the Mississippi River between Clinton, Iowa, and Illinois.	Clinton Railroad Bridge	Mississippi River
+crosses	The Avon Viaduct carries the railway over the River Avon at Linlithgow, West Lothian, Scotland.	Avon Viaduct	River Avon
+crosses	Wandsworth Bridge crosses the River Thames in west London.	Wandsworth Bridge	River Thames
+crosses	Simeon Willis Memorial Bridge is a bridge constructed in 1985 over the Ohio River connecting Winchester Ave. (US 23) and 13th St. (US 60) at Ashland, Kentucky to US 52 at Coal Grove, Ohio.	Simeon Willis Memorial Bridge	Ohio River
+crosses	Warden Bridge is a road bridge across the River South Tyne near Warden.	Warden Bridge	River South Tyne
+crosses	The Norwottuck Rail Trail Bridge (also known as the Northampton Lattice Truss Bridge) is a former crossing of Boston and Maine Railroad over the Connecticut River in western Massachusetts, connecting the towns of Northampton and Hadley, by the Norwottuck Rail Trail, which is currently used for bicycle and foot traffic.	Norwottuck Rail Trail Bridge	Connecticut River
+crosses	The W.D. Mansfield Memorial Bridge, commonly known as the Dravosburg Bridge, is a cantilever bridge that carries vehicular traffic across the Monongahela River between McKeesport, Pennsylvania and Dravosburg, Pennsylvania.	W.D. Mansfield Memorial Bridge	Monongahela River
+crosses	The Hitchin Flyover is a grade-separated single-track railway flyover on the Great Northern Route near Hitchin, Hertfordshire, England, which carries the Down Cambridge Flyover line over the East Coast Main Line.	Hitchin Flyover	East Coast Main Line
+crosses	James Joyce Bridge (Irish: Droichead James Joyce) is a road bridge spanning the River Liffey in Dublin, Ireland, joining the south quays to Blackhall Place on the north side.	James Joyce Bridge	Liffey
+crosses	The I-694 Bridge is a pair of girder bridges that spans the Mississippi River between the cities of Brooklyn Center and Fridley in Minnesota.	I-694 Bridge	Mississippi River
+crosses	The General Artigas Bridge is a road bridge that crosses the Uruguay River and joins Argentina and Uruguay.	General Artigas Bridge	Uruguay River
+discoverer or inventor	Syldavian is a fictional West Germanic language created by Hergé as the national language of Syldavia, a small fictional Balkan kingdom that serves as a major setting in many of The Adventures of Tintin stories.	Syldavian	Hergé
+discoverer or inventor	The Leme panoramic camera was invented by Sebastião Carvalho Leme (1918-2007), a photographer living in Marília, São Paulo, Brazil.	Leme panoramic camera	Sebastião Carvalho Leme
+discoverer or inventor	174 Phaedra is a sizable, rocky main belt asteroid that was discovered by Canadian-American astronomer James Craig Watson on September 2, 1877, and named after Phaedra, the tragic lovelorn queen in Greek mythology.	174 Phaedra	James Craig Watson
+discoverer or inventor	1353 Maartje (1935 CU) is a main-belt asteroid discovered on February 13, 1935, by Hendrik van Gent at Johannesburg.	1353 Maartje	Hendrik van Gent
+discoverer or inventor	349 Dembowska is a large asteroid of the main belt, discovered on December 9, 1892, by the French astronomer Auguste Charlois while working at the observatory in Nice, France.	349 Dembowska	Auguste Charlois
+discoverer or inventor	454 Mathesis is a main-belt asteroid that was discovered by German astronomer Friedrich Karl Arnold Schwassmann on March 28, 1900.	454 Mathesis	Friedrich Karl Arnold Schwassmann
+discoverer or inventor	Perlin noise is a type of gradient noise developed by Ken Perlin in 1983 as a result of his frustration with the ``machine-like'' look of computer graphics at the time.	Perlin noise	Ken Perlin
+discoverer or inventor	311P/PANSTARRS also known as P/2013 P5 (PANSTARRS) is an asteroid (or main-belt comet) discovered by the Pan-STARRS telescope on 27 August 2013.	311P/PANSTARRS	Pan-STARRS
+discoverer or inventor	7794 Sanvito (1996 AD4) is a main-belt asteroid discovered on January 15, 1996 by Ulisse Munari and Maura Tombelli at the Asiago Astrophysical Observatory at Cima Ekar ridge near Asiago, Italy.	7794 Sanvito	Ulisse Munari	Maura Tombelli
+discoverer or inventor	1244 Deira (1932 KE) is a main-belt asteroid discovered on May 25, 1932, by Cyril V. Jackson at Johannesburg (UO).	1244 Deira	Cyril V. Jackson
+discoverer or inventor	442 Eichsfeldia is a large main belt asteroid that was discovered by German astronomers Max Wolf and A. Schwassmann on February 15, 1899 in Heidelberg.	442 Eichsfeldia	Max Wolf
+discoverer or inventor	6239 Minos (1989 QF) is an Apollo asteroid classified as a PHA discovered on August 31, 1989 by Carolyn S. Shoemaker and Eugene Merle Shoemaker at Palomar.	6239 Minos	Carolyn S. Shoemaker	Eugene Merle Shoemaker
+discoverer or inventor	1178 Irmela is a main-belt asteroid that was discovered by Max Wolf on March 13, 1931, and given a provisional designation of 1931 EC.	1178 Irmela	Max Wolf
+discoverer or inventor	4543 Phoinix (1989 CQ1) is a Jupiter Trojan discovered on February 2, 1989 by Carolyn S. Shoemaker at Palomar.	4543 Phoinix	Carolyn S. Shoemaker
+discoverer or inventor	Minkowski 2-9, abbreviated M2-9 (and also known as Minkowski's Butterfly, the Wings of a Butterfly Nebula or just Butterfly Nebula, and Twin Jet Nebula) is a planetary nebula that was discovered by Rudolph Minkowski in 1947.	M2-9	Rudolph Minkowski
+discoverer or inventor	3917 Franz Schubert is a main-belt asteroid discovered by Freimut Börngen in Tautenburg on February 15, 1961.	3917 Franz Schubert	Freimut Börngen
+discoverer or inventor	3854 George (1983 EA) is a Mars-crossing asteroid discovered on March 13, 1983 by Carolyn S. Shoemaker and Eugene Merle Shoemaker at Palomar.	3854 George	Carolyn S. Shoemaker
+discoverer or inventor	419 Aurelia is a main-belt asteroid that was discovered by German astronomer Max Wolf on September 7, 1896, in Heidelberg.	419 Aurelia	Max Wolf
+discoverer or inventor	The Jefferson disk, or wheel cypher as Thomas Jefferson named it, also known as the Bazeries Cylinder, is a cipher system using a set of wheels or disks, each with the 26 letters of the alphabet arranged around their edge.	Jefferson disk	Thomas Jefferson
+discoverer or inventor	4954 Eric (or 1990 SQ) is an Amor asteroid with a diameter of 10.8 km that was discovered by American astronomer Brian P. Roman on 1990 September 23.	4954 Eric	Brian P. Roman
+discoverer or inventor	3318 Blixen, provisionally known as 1985 HB, is a main belt asteroid discovered by Poul Jensen and Karl Augustesen in 1985.	3318 Blixen	Poul Jensen	Karl Augustesen
+discoverer or inventor	944 Hidalgo was discovered by Walter Baade on October 31, 1920 at Bergedorf Observatory near Hamburg, Germany.	944 Hidalgo	Walter Baade
+discoverer or inventor	819 Barnardiana is a minor planet orbiting the Sun. Which was discovered on March 3, 1916 by the German astronomer Max Wolf in Heidelberg.	819 Barnardiana	Max Wolf
+discoverer or inventor	2571 Geisei, provisional designation 1981 UC, is a smaller asteroid in the asteroid belt discovered on October 23, 1981 by astronomer Tsutomu Seki at Geisei Observatory in the Kōchi Prefecture of Japan.	2571 Geisei	Tsutomu Seki
+discoverer or inventor	1033 Simona is an asteroid that was discovered by George Van Biesbroeck on September 4, 1924, and given the provisional designation 1924 SM. It was named after Simona Risteska, daughter of the discoverer.	1033 Simona	George Van Biesbroeck
+discoverer or inventor	Chess960 (or Fischer Random Chess) is a variant of chess invented and advocated by former World Chess Champion Bobby Fischer, publicly announced on June 19, 1996 in Buenos Aires, Argentina.	Chess960	Bobby Fischer
+discoverer or inventor	Chess with different armies (or Betza's Chess or Equal Armies) is a chess variant invented by Ralph Betza in 1979.	Chess with different armies	Ralph Betza
+discoverer or inventor	1298 Nocturna (1934 AE) is a main-belt asteroid discovered on January 7, 1934, by Karl Wilhelm Reinmuth at Heidelberg-Königstuhl State Observatory.	1298 Nocturna	Karl Wilhelm Reinmuth
+discoverer or inventor	In physics and optics, the Fraunhofer lines are a set of spectral lines named after the German physicist Joseph von Fraunhofer (1787--1826).	Fraunhofer lines	Joseph von Fraunhofer
+discoverer or inventor	1509 Esclangona is a small inner main belt asteroid discovered on December 21, 1938, by André Patry from Nice, France.	1509 Esclangona	André Patry
+discoverer or inventor	Laminated glass was invented in 1903 by the French chemist Édouard Bénédictus (1878-1930), inspired by a laboratory accident.	Laminated glass	Édouard Bénédictus
+discoverer or inventor	625 Xenia is a minor planet orbiting the Sun. It was discovered in 1907 by August Kopff.	625 Xenia	August Kopff
+distributor	The Lost Planet is a 1953 Columbia Pictures 15-chapter serial which has the distinction of being the last interplanetary-themed sound serial ever made.	The Lost Planet	Columbia Pictures
+distributor	Rail Simulator (Kuju Rail Simulator) is a train simulation published by Electronic Arts (EA).	Rail Simulator	Electronic Arts
+distributor	Elvira's Halloween Special is a 1986 TV special for MTV hosted by Elvira, Mistress of the Dark.	Elvira's Halloween Special	MTV
+distributor	Singham Returns is a 2014 Indian action film directed by Rohit Shetty and produced by Reliance Entertainment.	Singham Returns	Reliance Entertainment
+distributor	They Call Me Macho Woman! is a 1989 action film written and directed by Patrick G. Donahue and distributed by Troma Entertainment.	They Call Me Macho Woman!	Troma Entertainment
+distributor	Fort Ti was produced by Esskay Pictures Corporation, and was distributed by Columbia Pictures in the United States.	Fort Ti	Columbia Pictures
+distributor	The Knickerbocker Buckaroo was Fairbanks' last film under his contract with Paramount Pictures.	The Knickerbocker Buckaroo	Paramount Pictures
+distributor	The Next of Kin, also known as Next of Kin, is a 1942 World War II propaganda film produced by Ealing Studios.	The Next of Kin	Ealing Studios
+distributor	The Woman from Hell is a lost 1929 silent film drama produced and distributed by Fox Film Corporation and starring Mary Astor.	The Woman from Hell	Fox Film Corporation
+distributor	After the Board of Film Censors reviewed and approved Money No Enough, distributor Shaw Organisation released the film on 21 screens on 7 May 1998.	Money No Enough	Shaw Organisation
+distributor	The Big Mouth is a 1967 comedy film produced, directed, co-written, and starring Jerry Lewis released on July 12, 1967 by Columbia Pictures.	The Big Mouth	Columbia Pictures
+distributor	Riot on Sunset Strip is a 1967 low-budget counterculture-era exploitation movie, released by American International Pictures, and both filmed and released within six weeks of the actual late-1966 Sunset Strip curfew riots.	Riot on Sunset Strip	American International Pictures
+distributor	Rab Ne Bana Di Jodi (English: ``A Match Made By God'') is a 2008 Indian romantic comedy film written and directed by Aditya Chopra and produced by Yash Chopra and Aditya Chopra under the banner Yash Raj Films.	Rab Ne Bana Di Jodi	Yash Raj Films
+distributor	Cannonball Run II is a 1984 American comedy film starring Burt Reynolds and an all-star cast, released by Warner Bros. and Golden Harvest.	Cannonball Run II	Warner Bros.
+distributor	Hot to Trot is a 1988 comedy film released by Warner Bros. It stars Bobcat Goldthwait as an investment broker, Dabney Coleman as the head of the company Bobcat works for and John Candy as the voice of a horse that helps Bobcat's character make smart decisions in investing.	Hot to Trot	Warner Bros.
+distributor	To the Ladies is a 1923 American silent comedy film produced by Famous Players-Lasky and released by Paramount Pictures.	To the Ladies	Paramount Pictures
+distributor	Williamsburg: the Story of a Patriot, an orientation film produced by Paramount Pictures and the Colonial Williamsburg Foundation in 1957, has the distinction of being the longest-running motion picture in history, having been shown continually in the Colonial Williamsburg Visitor Center for over five decades.	Williamsburg: the Story of a Patriot	Paramount Pictures
+distributor	Green Dolphin Street is a 1947 historic drama film released by Metro-Goldwyn-Mayer and based on the novel by Elizabeth Goudge.	Green Dolphin Street	Metro-Goldwyn-Mayer
+distributor	Beloved Infidel is a 1959 DeLuxe Color biographical drama film made by 20th Century Fox CinemaScope and based on the life of F. Scott Fitzgerald.	Beloved Infidel	20th Century Fox
+distributor	Newsboys' Home is a 1938 Universal Studios film that starred Jackie Cooper and The Little Tough Guys.	Newsboys' Home	Universal Studios
+distributor	Korea Patrol (working title Korean Patrol) is a 1951 war film released by Eagle-Lion Films.	Korea Patrol	Eagle-Lion Films
+distributor	Paths to Paradise is a 1925 silent comedy directed by Clarence Badger, produced by Famous Players-Lasky and distributed by Paramount Pictures.	Paths to Paradise	Paramount Pictures
+distributor	I.T.A.L.Y. is a romantic comedy starring Jolina Magdangal, Dennis Trillo and Rufa Mae Quinto, produced and distributed by GMA Films.	I.T.A.L.Y.	GMA Films
+distributor	Ikarie XB-1 is best known internationally through an edited and English-dubbed version which was given a limited theatrical release in the USA in 1964 by American International Pictures.	Ikarie XB-1	American International Pictures
+distributor	Sakal, Sakali, Saklolo (Choked, Maybe, Help Me!), a romantic comedy movie released by Star Cinema, is an official entry to the 33rd Metro Manila Film Festival - Philippines.	Sakal, Sakali, Saklolo	Star Cinema
+distributor	What a Widow! is a 1930 American pre-Code romantic comedy film produced by and starring Gloria Swanson, and distributed through United Artists.	What a Widow!	United Artists
+distributor	Maasilamani is a Tamil film released in 2009, distributed by Sun Pictures.	Maasilamani	Sun Pictures
+distributor	The Vanishing American (1925) is a silent film western produced by Famous Players-Lasky in the United States, and distributed through Paramount Pictures.	The Vanishing American	Paramount Pictures
+distributor	High Plains Drifter is a 1973 American supernatural western film produced by Robert Daley for Malpaso Company and Universal Studios, directed by and starring Clint Eastwood, and written by Ernest Tidyman (who also wrote the novelization).	High Plains Drifter	Universal Studios
+distributor	Death by Dialogue is a 1988 horror film co-written and directed by Thomas Dewier and distributed by Troma Entertainment.	Death by Dialogue	Troma Entertainment
+distributor	Universal Studios used the legislation for the Blue Crush production, receiving approximately $16 million in a deal with local investors who, in exchange, received the film's high-tech tax credits.	Blue Crush	Universal Studios
+distributor	The Princess and the Cabbie is a 1981 television movie aired on CBS on 3 November 1981 about a young woman who struggles with dyslexia.	The Princess and the Cabbie	CBS
+distributor	High Tension was picked up by independent distributor Lions Gate Entertainment following a successful screening at the Midnight Madness section of the 2003 Toronto International Film Festival.	High Tension	Lions Gate Entertainment
+distributor	Heroes of the Wild is a 1927 American Western film serial produced by Nat Levine, directed by Harry S. Webb and released by Mascot Pictures.	Heroes of the Wild	Mascot Pictures
+distributor	The Matrimonial Bed is a 1930 American pre-Code comedy film produced and released by Warner Bros..	The Matrimonial Bed	Warner Bros.
+distributor	Drop Dead Fred is a 1991 British/American fantasy comedy film directed by Ate De Jong, produced by PolyGram Filmed Entertainment and Working Title Films and released and distributed by New Line Cinema.	Drop Dead Fred	New Line Cinema
+distributor	Siege of the Saxons is a 1963 British film directed by Nathan H. Juran and released by Columbia Pictures.	Siege of the Saxons	Columbia Pictures
+distributor	The World's Great Snare is a 1916 American silent drama film produced by Adolph Zukor's Famous Players Film Company and distributed through Paramount Pictures.	The World's Great Snare	Paramount Pictures
+distributor	Mayhem in Monsterland was produced by Apex Computer Productions, who had previously made Creatures and Creatures 2, which featured Clyde Radcliffe as the main character.	Mayhem in Monsterland	Apex Computer Productions
+distributor	Chelsea Walls is a 2001 independent film directed by Ethan Hawke and released by Lions Gate Entertainment.	Chelsea Walls	Lions Gate Entertainment
+distributor	Dreams of a Life is a 2011 drama-documentary film, released by Dogwoof Pictures, directed by Carol Morley and starring Zawe Ashton.	Dreams of a Life	Dogwoof Pictures
+distributor	Prisoner of Her Past is a 2010 documentary film, produced by Kartemquin Films, that follows the journey of Chicago Tribune music critic Howard Reich as he travels to Europe to discover why his elderly mother, Sonia Reich, believes people are trying to kill her.	Prisoner of Her Past	Kartemquin Films
+distributor	Her Right to Live is a 1917 dramatic silent film released by the Vitagraph Studios.	Her Right to Live	Vitagraph Studios
+distributor	Columbia Pictures distributed the film, premiering Drylanders in Swift Current, then releasing across the Prairies, a couple of towns at a time.	Drylanders	Columbia Pictures
+distributor	Confidential Agent is a 1945 spy film starring Charles Boyer and Lauren Bacall, and made by Warner Bros. The movie was directed by Herman Shumlin and produced by Robert Buckner with Jack L. Warner as executive producer.	Confidential Agent	Warner Bros.
+distributor	In Windows 8, Minesweeper is not included by default, although an app version of Microsoft Minesweeper developed by Arkadium is available on Windows Store.	Microsoft Minesweeper	Windows Store
+distributor	Q.U.B.E. (Quick Understanding of Block Extrusion) is a physics-based puzzle video game developed and published by Toxic Games, with help from Indie Fund, a group of successful independent game developers.	Q.U.B.E.	Indie Fund
+distributor	How to Train Your Dragon 2 is a 2014 American 3D computer-animated fantasy action film produced by DreamWorks Animation and distributed by 20th Century Fox, loosely based on the British book series of the same name by Cressida Cowell.	How to Train Your Dragon 2	20th Century Fox
+distributor	Upon its initial release on iTunes, The Moron Test became the #1 top selling app in the US App Store.	The Moron Test	App Store
+distributor	Companionate Marriage was a 1928 American silent drama film directed by Erle C. Kenton and starring Betty Bronson, and released by First National Pictures.	Companionate Marriage	First National
+distributor	U Me Aur Hum (You, Me and Us) is a 2008 Bollywood romantic drama film produced and directed by Ajay Devgan under Ajay Devgan Films and Eros International.	U Me Aur Hum	Eros International
+distributor	The After is an American science fiction drama pilot created by Chris Carter for Amazon Studios.	The After	Amazon Studios
+distributor	Trailer Town is a 2003 low-budget film shot on digital video, written and directed by Giuseppe Andrews and distributed by Troma Entertainment.	Trailer Town	Troma Entertainment
+distributor	Mona Lisa Smile is a 2003 drama film produced by Revolution Studios and Columbia Pictures in association with Red Om Films Productions, directed by Mike Newell, written by Lawrence Konner and Mark Rosenthal, and starring Julia Roberts, Kirsten Dunst, Julia Stiles and Maggie Gyllenhaal.	Mona Lisa Smile	Columbia Pictures
+distributor	Sobee has recently reached marketing and sales agreements with both STC and Telecom Egypt for I Can Football.	I Can Football	Telecom Egypt
+found in taxon	Hepatoma-derived growth factor, related protein 3, also known as HDGFRP3, is a human gene.	HDGFRP3	human
+found in taxon	Zymogen granule protein 16, also known as ZG16, is a human gene.	ZG16	human
+found in taxon	Interleukin 17 receptor A, also known as IL17RA and CDw217 (cluster of differentiation w217), is a human gene.	IL17RA	human
+found in taxon	Naked cuticle 2 (NKD2) is a human gene that encodes the protein Nkd2, one of the Naked cuticle (Nkd) family of proteins that regulate the Wnt signaling pathway.	Naked cuticle 2	human
+found in taxon	It is the homologue of the human ``G/T binding protein,'' (GTBP) also called p160 or hMSH6 (human MSH6).	MSH6	human
+found in taxon	Galactose mutarotase (aldose 1-epimerase) (gene name GALM) is a human enzyme that converts alpha-aldose to the beta-anomer.	Galactose mutarotase	human
+found in taxon	GPR156 (G protein-coupled receptor 156), is a human gene which encodes a G protein-coupled receptor belonging to metabotropic glutamate receptor subfamily.	GPR156	human
+found in taxon	Heat shock protein 47, also known as SERPINH1 is a serpin which serves as a human chaperone protein for collagen.	Heat shock protein 47	human
+found in taxon	The gene CLPB encodes protein Caseinolytic peptidase B protein homolog in human.	CLPB	human
+found in taxon	Many scientists state that there are no known polymorphisms of the human PER1 gene with significance at a population level that results in measurable behavioral or physiological changes.	PER1	human
+found in taxon	In addition, S100B, which is also present in human melanocytes, is a reliable marker for melanoma malignancy both in bioptic tissue and in serum.	S100B	human
+found in taxon	Potassium inwardly-rectifying channel, subfamily J, member 13 (KCNJ13) is a human gene encoding the Kir7.1 protein.	KCNJ13	human
+found in taxon	FAM135B is a human gene coding for a protein of unknown function.	FAM135B	human
+found in taxon	DPα and DPβ are encoded by two loci, HLA-DPA1 and HLA-DPB1, that are found in the MHC Class II (or HLA-D) region in the Human Leukocyte Antigen complex on human chromosome 6 (see protein boxes on right for links).	HLA-DP	human
+found in taxon	DEAD (Asp-Glu-Ala-Asp) box polypeptide 31, also known as DDX31, is a human gene.	DDX31	human
+found in taxon	Hippocalcin like 4, also known as HPCAL4, is a human gene.	HPCAL4	human
+found in taxon	BTLA activation inhibits the function of human CD8+ cancer-specific T cells.	BTLA	human
+found in taxon	The human gene MARCH5, also known as MITOL or RNF153, has 7 Exons and locates at the chromosome band 10q23.32-q23.33.	MARCH5	human
+found in taxon	Glutamate dehydrogenase pseudogene 5, also known as GLUDP5, is a human gene.	GLUDP5	human
+found in taxon	Histone H3s are coded by several genes in the human genome, including:	Histone H3	human
+found in taxon	RuvB-like 1 (E. coli), also known as RUVBL1 and TIP49, is a human gene.	RuvB-like 1	human
+found in taxon	Protein kinase LYK5, also known as LYK5 or STRADα, is a human protein and also denotes the gene encoding it.	LYK5	human
+found in taxon	MAS-related GPR, member F, also known as MRGPRF, is a human gene.	MRGPRF	human
+found in taxon	Exosome component 9, also known as EXOSC9, is a human gene, the protein product of which is part of the exosome complex and is an autoantigen is patients with certain auto immune diseases, most notably scleromyositis.	Exosome component 9	human
+found in taxon	Regulator of G-protein signalling 9, also known as RGS9, is a human gene, which codes for a protein involved in regulation of signal transduction inside cells.	RGS9	human
+found in taxon	Calcitonin receptor-like (CALCRL), also known as the calcitonin receptor-like receptor (CRLR), is a human protein.	CALCRL	human
+found in taxon	AHSA2 also known as AHA1, activator of heat shock 90kDa protein ATPase homolog 2 (yeast) is a human gene which encodes a protein which acts as co-chaperone of Hsp90 (heat shock protein 90).	AHSA2	human
+found in taxon	TRAF6 is a TRAF human protein.	TRAF6	human
+found in taxon	Exosome component 8, also known as EXOSC8, is a human gene, the protein product of which is part of the exosome complex.	Exosome component 8	human
+found in taxon	SLITRK1 (``SLIT and NTRK-like family, member 1'') is a human gene on chromosome 13q31.1.	SLITRK1	human
+found in taxon	Resting human cholangiocytes express PD-L1 mRNA, but not the protein, due to translational suppression by microRNA miR-513.	PD-L1	human
+found in taxon	Cytochrome P450, family 3, subfamily A, also known as CYP3A, is a human gene.	CYP3A	human
+found in taxon	CD69 (Cluster of Differentiation 69) is a human transmembrane C-Type lectin protein encoded by the CD69 gene.	CD69	human
+found in taxon	Heat shock 70kDa protein 1B, also known as HSPA1B, is a human gene.	HSPA1B	human
+found in taxon	Ribonucleoprotein, PTB-binding 1 (also known as RAVER1), is a human gene.	RAVER1	human
+found in taxon	BRCA2 and BRCA2 (/ˌbrækəˈtuː/) are a human gene and its protein product, respectively.	BRCA2	human
+found in taxon	β-Lipotropin is the predominant opioid of the anterior human and rat pituitary gland.	Lipotropin	human
+found in taxon	They also discovered a sequence of human cDNA that showed strong homology to GAB1 cDNA, which they termed GAB2.	GAB2	human
+found in taxon	UBE3A-ATS/Ube3a-ATS (human/mouse), otherwise known as ubiquitin ligase E3A-ATS, is the name for the antisense DNA strand that is transcribed as part of a larger transcript called LNCAT (large non-coding antisense transcript) at the Ube3a locus.	Ube3a-ATS	human
+found in taxon	DUF1220 is a protein domain of unknown function that shows a striking human lineage-specific (HLS) increase in copy number and may be important to human brain evolution.	DUF1220	human
+found in taxon	MEFV (Mediterranean fever) is a human gene that provides instructions for making a protein called pyrin (also known as marenostrin).	MEFV	human
+found in taxon	Bartter syndrome, infantile, with sensorineural deafness (Barttin), also known as BSND, is a human gene which is associated with Bartter syndrome.	BSND	human
+found in taxon	HLA-C belongs to the MHC (human = HLA) class I heavy chain receptors.	HLA-C	human
+found in taxon	Tet methylcytosine dioxygenase 2 (TET2) is a human gene.	Tet methylcytosine dioxygenase 2	human
+from fictional universe	Dr. Valerie Cooper received an entry in the Official Handbook of the Marvel Universe Update '89 #2.	Valerie Cooper	Marvel Universe
+from fictional universe	Frodo Baggins is a fictional character in J. R. R. Tolkien's legendarium, and one of the protagonists of The Lord of the Rings.	Frodo Baggins	Tolkien's legendarium
+from fictional universe	Y'golonac (the Defiler) is a fictional deity in the Cthulhu Mythos.	Y'golonac	Cthulhu Mythos
+from fictional universe	The Fearsome Five appears in DC Universe Online.	Fearsome Five	DC Universe
+from fictional universe	Hell's Belles is a fictional supervillain team in the Marvel Universe, composed of female mutant terrorists.	Hell's Belles	Marvel Universe
+from fictional universe	Aihal is the true name of a fictional character in Ursula K. Le Guin's Earthsea realm.	Aihal	Earthsea
+from fictional universe	Gorilla-Man appeared as part of the ``Headmen'' entry in the original Official Handbook of the Marvel Universe #5, and in the Official Handbook of the Marvel Universe Update '89 #3.	Gorilla-Man	Marvel Universe
+from fictional universe	Clarabelle Cow is a Disney fictional character within the Mickey Mouse universe of characters.	Clarabelle Cow	Mickey Mouse universe
+from fictional universe	John D. Rockerduck is a fictional character from the Duck universe.	John D. Rockerduck	Duck universe
+from fictional universe	Count Hasimir Fenring is a fictional character in the Dune universe created by Frank Herbert.	Hasimir Fenring	Dune universe
+from fictional universe	Piecemeal (Gilbert Benson) is a fictional mutant character in the Marvel Universe.	Piecemeal (Gilbert Benson)	Marvel Universe
+from fictional universe	Pierson's Puppeteers, often known just as Puppeteers, are a fictional alien race from American author Larry Niven's Known Space books.	Pierson's Puppeteers	Known Space
+from fictional universe	Trapster has often sought independent recognition, battling virtually every ``street-level'' hero in the Marvel Universe either by design or by opposition to some criminal scheme.	Trapster	Marvel Universe
+from fictional universe	The Honored Matres are a fictional matriarchal organization in Frank Herbert's science fiction Dune universe.	Honored Matres	Dune universe
+from fictional universe	Bird-Brain received an entry in the Official Handbook of the Marvel Universe Update '89 #1.	Bird-Brain	Marvel Universe
+from fictional universe	Moist von Lipwig is a fictional character from Terry Pratchett's Discworld series.	Moist von Lipwig	Discworld
+from fictional universe	Jonas Quinn is a fictional character in the Canadian-American television series Stargate SG-1, a science fiction show about a military team exploring the galaxy via a network of alien transportation devices.	Jonas Quinn	Stargate
+from fictional universe	Various New Gods, notably Darkseid, went on to interact with other denizens of the DC Universe.	New Gods	DC Universe
+from fictional universe	Queen Berúthiel is a minor fictional character in J. R. R. Tolkien's legendarium.	Queen Berúthiel	Tolkien's legendarium
+from fictional universe	Blingdenstone was a svirfneblin city in the Forgotten Realms setting of the Dungeons & Dragons fantasy role-playing game.	Blingdenstone	Forgotten Realms
+from fictional universe	The Ultra-Humanite is a scientific genius, and possesses one of the most advanced human minds in the DC Universe.	Ultra-Humanite	DC Universe
+from fictional universe	Blackfire (Komand'r) is a female supervillain who appears in the fictional DC Universe.	Blackfire	DC Universe
+from fictional universe	Flygirl made her official DC Universe debut in the final issue of The Web.	Flygirl	DC Universe
+from fictional universe	In J. R. R. Tolkien's legendarium, the Dúnedain /ˈduːnɛdaɪn/ (singular: Dúnadan, ``man of the west'') were a race of Men descended from the Númenóreans who survived the sinking of their island kingdom and came to Eriador in Middle-earth, led by Elendil and his sons, Isildur and Anárion.	Dúnedain	Tolkien's legendarium
+from fictional universe	Kyle Reese is a fictional character in the Terminator franchise.	Kyle Reese	Terminator
+from fictional universe	After the events of the Crisis on Infinite Earths re-boot of the DC Universe, Superman no longer has knowledge of Kandor; instead, he remembers Nightwing as an urban legend of Krypton, which he shares with a young Dick Grayson.	Nightwing	DC Universe
+from fictional universe	This title featured Machine Man entering the mainstream Marvel Universe.	Machine Man	Marvel Universe
+from fictional universe	Motormaster is the name of several fictional characters from the Transformers universe.	Motormaster	Transformers universe
+from fictional universe	Rictor (Julio Esteban ``Ric'' Richter) is a fictional comic book superhero in the Marvel Universe, who appears in the X-Men family of books published by Marvel Comics.	Rictor	Marvel Universe
+from fictional universe	The Justice Legion Alpha is a DC Comics superhero team, who exist in the far future of the DC Universe.	Justice Legion Alpha	DC Universe
+from fictional universe	These abilities enable him to effortlessly control millions or even billions of minds at a time, immediately induce unconsciousness in crowds of people, or even put mental blocks in the mind of Doctor Strange, the ``Sorcerer Supreme'' of the Marvel Universe, although the Hulk has proved immune to Xemnu's psionic possession.	Xemnu	Marvel Universe
+from fictional universe	Ark Megaforms (негуманоиды Ковчега) are a fictional alien race from the Noon Universe created by Boris and Arkady Strugatsky.	Ark Megaforms	Noon Universe
+from fictional universe	The Mindgrabber Kid a.k.a. Lucian Crawley is a fictional comics superhero (and occasional supervillain) in the DC Universe.	Mindgrabber Kid	DC Universe
+from fictional universe	Clan Chosen is a fictional superhero team in the Marvel Universe future/alternate timeline designated as Earth-4935, also known as Earth Askani.	Clan Chosen	Marvel Universe
+from fictional universe	The Sinestro Corps is a group of fictional characters, a villainous analog to the Green Lantern Corps in the DC Universe, derived from the emotional spectrum.	Sinestro Corps	DC Universe
+from fictional universe	The name ``Coal Tiger'' was one of several that Stan Lee and Jack Kirby were bandying back and forth as a possible name for the character who in mainstream continuity in the Marvel Universe became Black Panther.	Coal Tiger	Marvel Universe
+from fictional universe	Ithaqua (the Wind-Walker or the Wendigo) is a fictional character in the Cthulhu Mythos of H. P. Lovecraft.	Ithaqua	Cthulhu Mythos
+from fictional universe	At that point, T.H.U.N.D.E.R. Agents was planned to be brought into the DC Universe, as DC had recently done with the Milestone Media and MLJ Comics heroes.	T.H.U.N.D.E.R. Agents	DC Universe
+from fictional universe	Bird-Man appeared as part of the ``Ani-Men'' entry in the Official Handbook of the Marvel Universe Deluxe Edition #16, and in the Official Handbook of the Marvel Universe Master Edition #32.	Bird-Man	Marvel Universe
+from fictional universe	Barks in particular is credited for greatly expanding the ``Donald Duck universe'', the world in which Donald lives, and creating many additional characters such as Donald's rich uncle Scrooge McDuck.	Donald Duck	Duck universe
+head of government	Aleksi Randell has been the mayor of Turku since 2010.	Turku	Aleksi Randell
+head of government	Since October 2014, position of the mayor is held by DPS official, Slavoljub Stijepović, replacing Podgorica mayor od 14 years, Miomir Mugoša.	Podgorica	Miomir Mugoša
+head of government	The King's Commissioner of Drenthe is Jacques Tichelaar.	Drenthe	Jacques Tichelaar
+head of government	The mayor of Lucillos is Mr. José-Julián Herrera Gómez, of the ruling Partido Socialista Obrero.	Lucillos	José-Julián Herrera Gómez
+head of government	In 1996, Milo Đukanović's government severed ties between Montenegro and the Serbian regime, which was then under Slobodan Milošević.	Montenegro	Milo Đukanović
+illustrator	The Moomins (Swedish: Mumintroll) are the central characters in a series of books and a comic strip by Swedish-speaking Finnish illustrator and writer Tove Jansson, originally published in Swedish by Schildts in Finland.	Moomin	Tove Jansson
+illustrator	Varjak Paw (2003) is a novel by the British author S. F. Said and illustrated by Dave McKean.	Varjak Paw	Dave McKean
+illustrator	The Calder Game is a children's novel written by Blue Balliett and illustrated by Brett Helquist, published in 2008.	The Calder Game	Brett Helquist
+illustrator	Flora Graeca was a publication of the plants of Greece in the late 18th century, resulting from a survey by John Sibthorp and Ferdinand Bauer.	Flora Graeca	Ferdinand Bauer
+illustrator	A Bad Case of Stripes is a children's book by David Shannon published in 1998 by Blue Sky Press, a division of Scholastic Press.	A Bad Case of Stripes	David Shannon
+illustrator	Freeglader is a children's fantasy novel by Paul Stewart and Chris Riddell, first published in 2004.	Freeglader	Chris Riddell
+illustrator	Mouse Noses on Toast is a children's book written by Daren King and illustrated by David Roberts, published in 2006.	Mouse Noses on Toast	David Roberts
+illustrator	Der Struwwelpeter (1845) (or Shockheaded Peter) is a German children's book by Heinrich Hoffmann.	Struwwelpeter	Heinrich Hoffmann
+illustrator	The Little House is a 1942 book written and illustrated by Virginia Lee Burton.	The Little House	Virginia Lee Burton
+illustrator	The Adventures of Danny Meadow Mouse (1915) is a children's novel written by Thornton W. Burgess and illustrated by Harrison Cady.	The Adventures of Danny Meadow Mouse	Harrison Cady
+illustrator	Paradox in Oz was published by Hungry Tiger Press, with illustrations by Eric Shanower.	Paradox in Oz	Eric Shanower
+illustrator	The Dare Game is a children's novel written by Jacqueline Wilson and illustrated by Nick Sharratt, first published in 2000.	The Dare Game	Nick Sharratt
+illustrator	The Faraway Lurs (also published as The Distant Lurs ) is a story by the American children's author Harry Behn, published in 1963.	The Faraway Lurs	Harry Behn
+illustrator	Otto of the Silver Hand is a children's novel about the Dark Ages written and illustrated by Howard Pyle.	Otto of the Silver Hand	Howard Pyle
+illustrator	Exploding Kittens is a card game designed by Elan Lee, Shane Small and Matthew Inman from the comics site The Oatmeal.	Exploding Kittens	Matthew Inman
+illustrator	The Smurf Apprentice (original French title L'Apprenti Schtroumpf) is the seventh album of the original French-language Smurfs comic series created by Belgian artist Peyo.	The Smurf Apprentice	Peyo
+illustrator	The Four Little Girls (Les Quatre Petites Filles) is a play written in French by the painter Pablo Picasso.	The Four Little Girls	Pablo Picasso
+illustrator	Doctor Dolittle's Garden (1927) is structurally the most disorganised of Hugh Lofting's Doctor Dolittle books.	Doctor Dolittle's Garden	Hugh Lofting
+illustrator	The Thief of Always is a novel by Clive Barker that was published in 1992.	The Thief of Always	Clive Barker
+illustrator	Time of Wonder is a 1957 children's book written and illustrated by Robert McCloskey that won the Caldecott Medal in 1958.	Time of Wonder	Robert McCloskey
+illustrator	Golden Bough, an imprint of Minumsa Publishing Group purchased the publishing rights, and Dragon Raja was published upon its completion in 12 paperback volumes.	Dragon Raja	paperback
+illustrator	The Day I Swapped My Dad for Two Goldfish is a book by Neil Gaiman and Dave McKean, first published in 1997 by White Wolf Publishing.	The Day I Swapped My Dad for Two Goldfish	Dave McKean
+illustrator	Look Who It Is! is the autobiography of British comedian and television presenter Alan Carr.	Look Who It Is!	Alan Carr
+located next to body of water	Godstow is a hamlet on the River Thames about 2.5 miles (4 km) northwest of the centre of Oxford.	Godstow	River Thames
+located next to body of water	Kelmscott is a village and civil parish on the River Thames in West Oxfordshire, about 2 miles (3 km) east of Lechlade in neighbouring Gloucestershire.	Kelmscott	River Thames
+located next to body of water	One possibility is that Fort Ruychaver was situated on the right bank of the Ankobra River, opposite the Bonsa River, in the Egwira Region.	Fort Ruychaver	Ankobra River
+located next to body of water	Marktl, or often unofficially called Marktl am Inn (``Little market on the river Inn''), is a village and historic market municipality in the state of Bavaria, Germany, near the Austrian border, in the Altötting district of Upper Bavaria.	Marktl	Inn
+located next to body of water	New Melones Dam is an earth and rock filled embankment dam on the Stanislaus River, about 5 mi (8.0 km) west of Jamestown, California in the United States.	New Melones Dam	Stanislaus River
+located next to body of water	→ See List of dams in the Harz The largest rivers in the Harz are the Innerste, the Oker and the Bode in the north; the Wipper in the east; and the Oder in the south.	Harz	Innerste	Bode	Wipper	Oder
+located next to body of water	Steninge Palace (also known as Steninge Manor) is a Baroque palace overlooking Lake Mälaren near Märsta outside of Stockholm, Sweden.	Steninge Palace	Mälaren
+located next to body of water	The Rowing Stadium of the Lagoon is a sports venue near Lagoa Rodrigo de Freitas in Rio de Janeiro, Brazil.	Rowing Stadium of the Lagoon	Lagoa Rodrigo de Freitas
+located next to body of water	Lesozavodsk (Russian: Лесозаво́дск) is a town in Primorsky Krai, Russia, located on the Ussuri River (Amur's tributary), 10 kilometers (6.2 mi) from the Sino--	Lesozavodsk	Ussuri River
+located next to body of water	Rennes (; , Gallo: Resnn, , ) is a city in the east of Brittany in northwestern France at the confluence of the Ille and the Vilaine.	Rennes	Ille	Vilaine
+located next to body of water	Moulsford is on the A329, by the River Thames, just north of Streatley and south of Wallingford.	Moulsford	River Thames
+located next to body of water	In his works, the Gladden Fields are located where the Gladden river joins the Anduin.	Gladden Fields	Anduin
+located next to body of water	Ardnacrusha (Irish: Ard na Croise) is a village in County Clare, Munster, Ireland, located on the northern bank of the River Shannon.	Ardnacrusha	River Shannon
+located next to body of water	The West Sumatran coastline faces the Indian Ocean and stretches 375 km from North Sumatra province in the north-west to Bengkulu in the south-east.	West Sumatra	Indian Ocean
+located next to body of water	The Nam Pung Dam (Thai: เขื่อนน้ำพุง, rtgs: Nam Phung) is a hydroelectric dam on the Phung River in the Kut Bak District of Sakon Nakhon Province, Thailand.	Nam Pung Dam	Phung River
+located next to body of water	Kunowice ((kunɔˈvʲit͡sɛ); German: Kunersdorf) is a village in the administrative district of Gmina Słubice, within Słubice County, Lubusz Voivodeship, in western Poland, near the Oder river and the German border.	Kunowice	Oder
+located next to body of water	Sonning Eye is a hamlet on the River Thames in Oxfordshire, England, in the civil parish of Eye & Dunsden (one of its four small settlements), at what is since 1974 the southernmost tip of Oxfordshire.	Sonning Eye	River Thames
+located next to body of water	Egmond aan Zee is a village on the North Sea coast in the Dutch province of North Holland.	Egmond aan Zee	North Sea
+located next to body of water	Louisiana is bordered by Arkansas to the north, Mississippi to the east, Texas to the west, and the Gulf of Mexico to the south.	Louisiana	Gulf of Mexico
+located next to body of water	Upnor Castle is an Elizabethan artillery fort located on the west bank of the River Medway in Kent.	Upnor Castle	River Medway
+located next to body of water	The London Riverside is a redevelopment area on the north side of the River Thames in East London, England and part of the larger Thames Gateway redevelopment zone.	London Riverside	River Thames
+located next to body of water	The Tower of London, officially Her Majesty's Royal Palace and Fortress of the Tower of London, is a historic castle located on the north bank of the River Thames in central London.	Tower of London	River Thames
+located next to body of water	Bishop's Waltham is a small town in Hampshire, England situated in the Hamble Valley at the head of the River Hamble.	Bishop's Waltham	River Hamble
+location of formation	Van der Graaf Generator are an English progressive rock band, formed in 1967 in Manchester by singer-songwriters Peter Hammill and Chris Judge Smith and the first act signed by Charisma Records.	Van der Graaf Generator	Manchester
+location of formation	Alberto y Lost Trios Paranoias (also called the 'Albertos' by themselves and their fans) were a comedy rock band, formed in Manchester, England in 1972.	Alberto y Lost Trios Paranoias	Manchester
+location of formation	Black Sabbath are an English rock band, formed in Birmingham in 1968, by guitarist and main songwriter Tony Iommi, bassist and main lyricist Geezer Butler, singer Ozzy Osbourne, and drummer Bill Ward.	Black Sabbath	Birmingham
+location of formation	Hästpojken is a Swedish pop group from Gothenburg.	Hästpojken	Gothenburg
+location of formation	Ellery Bop were an 1980s Rock/indie band with Liverpool/Irish roots.	Ellery Bop	Liverpool
+location of formation	The first Super 8 Cynics gig took place in January 2011 and the group continued gigging throughout the year, including appearances in Manchester, Liverpool, London, Bolton and Preston.	Super 8 Cynics	Manchester
+location of formation	The Teardrop Explodes were an English post-punk/neo-psychedelic band formed in Liverpool in 1978.	The Teardrop Explodes	Liverpool
+location of formation	Baby Guru is a Greek band based in Athens.	Baby Guru	Athens
+location of formation	The Pale Fountains were an English jangle pop band formed in Liverpool in 1980, and composed of Mick Head (vocalist/guitarist), Chris McCaffery (bassist), Thomas Whelan (drummer) and former Dislocation Dance trumpeter Andy Diagram (horns).	The Pale Fountains	Liverpool
+location of formation	Ladytron are an electronic band formed in Liverpool in 1999.	Ladytron	Liverpool
+location of formation	Pet Shop Boys are an English electronic pop duo, formed in London in 1981 and consisting of Neil Tennant (main vocals, keyboards, occasional guitar) and Chris Lowe (keyboards, occasional vocals).	Pet Shop Boys	London
+location of formation	The Remo Four were a 1950s-1960s rock band from Liverpool, England.	The Remo Four	Liverpool
+location of formation	Concerts performed at Madison Square Garden in New York City were filmed for a HBO television special titled Lady Gaga Presents the Monster Ball Tour:	Lady Gaga	New York City
+location of formation	Ex Cathedra (/ˌɛks kəˈθeɪdrə/ EKS-kə-THAY-drə) is a British choir and early music ensemble based in Birmingham in the West Midlands, England.	Ex Cathedra	Birmingham
+location of formation	The Ramones were an American punk rock band that formed in the New York City neighborhood of Forest Hills, Queens, in 1974.	Ramones	Forest Hills
+location of formation	The Feldons are an independent Canberra-based three-piece mod britpop/powerpop band.	The Feldons	Canberra
+location of formation	Songwriter and bassist John Leyden formed Mango Groove in Johannesburg in 1984.	Mango Groove	Johannesburg
+location of formation	Inca Babies are a post-punk deathrock band from Manchester, England, initially active between 1982 and 1988 but reformed in 2007 featuring founder member and original songwriter Harry Stafford (guitars, vocals).	Inca Babies	Manchester
+location of formation	Identical twin brothers Andrew and Brian Chaplin formed Locnville in Cape Town, South Africa, in 2009.	Locnville	Cape Town
+location of formation	Ludus was a British post-punk band formed in Manchester in 1978 which featured artist, designer and singer Linder Sterling.	Ludus	Manchester
+location of formation	Red Hot Chili Peppers, also sometimes shortened to ``The Chili Peppers'' or abbreviated as ``RHCP'', are an American rock band formed in Los Angeles in 1983.	Red Hot Chili Peppers	Los Angeles
+location of formation	The Association of Mineworkers and Construction Union (AMCU) was formed in Mpumalanga, South Africa, in 1998 as a breakaway faction of the COSATU-affiliated National Union of Mineworkers (NUM).	Association of Mineworkers and Construction Union	Mpumalanga
+location of formation	The Missionaries of God's Love (MGL) is a Roman Catholic religious congregation that came into being in Canberra, Australia in 1986.	Missionaries of God's Love	Canberra
+location of formation	This Burning Effigy were an Irish gothic rock/ethereal wave band, originally formed in Dublin in 1993, and consisting of members Stephen Carey (guitar and keyboards), Ger Egan (vocals), Micheal Cowley (bass), Brian Fallon (drums).	This Burning Effigy	Dublin
+location of formation	Granulocytes are produced via granulopoiesis in the bone marrow.	Granulocyte	bone marrow
+location of formation	Cat the Dog were an English indie rock band formed in Brighton, East Sussex, in 2005.	Cat the Dog	Brighton
+location of formation	Deaf School are an English art rock/new wave band, formed in Liverpool in 1973.	Deaf School	Liverpool
+location of formation	Lansing-Dreiden was founded in Miami, Florida.	Lansing-Dreiden	Miami
+location of formation	Soundgarden is an American rock band formed in Seattle, Washington, in 1984 by singer and rhythm guitarist Chris Cornell, lead guitarist Kim Thayil, and bassist Hiro Yamamoto.	Soundgarden	Seattle
+location of formation	Kid British, often styled as KiD BRiTiSH, were a six-piece British band from Manchester, United Kingdom.	Kid British	Manchester
+location of formation	Rotary Watches Ltd was established at La Chaux-de-Fonds, Switzerland, by Moise Dreyfuss in 1895.	Rotary Watches	La Chaux-de-Fonds
+location of formation	Che Sudaka is a four-piece band, composed of Argentinians and Colombians resident in Barcelona.	Che Sudaka	Barcelona
+location of formation	The Dandy Warhols is an American rock band, formed in Portland, Oregon, in 1994 by singer-guitarist Courtney Taylor-Taylor and guitarist Peter Holmström.	The Dandy Warhols	Portland
+material used	A Faun Teased by Children is a marble sculpture by Italian artists Gian Lorenzo Bernini and his father Pietro Bernini.	A Faun Teased by Children	marble
+material used	Eden II consists of a ship made of steel, dock floats, concrete, paint, anchors, steel cable and various other mixed media, plus a guard house constructed with plywood and galvanized steel, containing LCD monitors, security cameras, a media player and an audio amplifier.	Eden II	steel	dock	concrete	paint	plywood	media player	amplifier
+material used	The Chamberlain Clock is an Edwardian, cast-iron, clock tower in the Jewellery Quarter of Birmingham, England.	Chamberlain Clock	cast-iron
+material used	Barge Haulers on the Volga or Burlaki (Russian: Burlaki na Volge, Бурлаки на Волге) is an 1870--1873 oil-on-canvas painting by the Russian realist painter and sculptor Ilya Repin.	Barge Haulers on the Volga	canvas
+material used	The Klang Bell is an ancient bronze bell found in the city of Klang, Selangor state, western Malaysia.	Klang Bell	bronze
+material used	The Codex Totomixtlahuaca or Codex Condumex is a large piece of cotton created in 1564.	Codex Totomixtlahuaca	cotton
+material used	The Sphere is 25 feet (7.6 m) high and cast in 52 bronze segments.	The Sphere	bronze
+material used	The Holme Avenue Bridge is a closed-spandrel concrete arch bridge that carries Holme Avenue across Wooden Bridge Run (a tributary of Pennypack Creek) in Philadelphia, Pennsylvania.	Holme Avenue Bridge	concrete
+material used	The Pons Aemilius (Italian: Ponte Emilio), today called Ponte Rotto, is the oldest Roman stone bridge in Rome, Italy.	Pons Aemilius	stone
+material used	Infanta Margarita Teresa in a Pink Dress is an oil on canvas portrait of Margaret Theresa of Spain by the Spanish painter Diego Velázquez, though his identification as its author is not considered secure.	Infanta Margarita Teresa in a Pink Dress	canvas
+material used	The Antenor Kore is a Late Archaic statue of a girl (Kore) made of Parian marble, which was created around 530/20 BC. The statue was found in several fragments during excavations on the Athenian Acropolis in the so-called Perserschutt.	Antenor Kore	marble
+material used	Gold leaf is gold that has been hammered into thin sheets by goldbeating and is often used for gilding.	Gold leaf	gold
+material used	The Babe's Dream is a bronze statue of Babe Ruth, by Susan Luery.	Babe's Dream	bronze
+material used	The Snake Charmer is an oil-on-canvas Orientalist painting by French artist Jean-Léon Gérôme produced around 1879.	The Snake Charmer	canvas
+material used	Spirit of the Dead Watching (Manao tupapau) is an 1892 oil on burlap canvas painting by Paul Gauguin, depicting a naked Tahitian girl lying on her stomach.	Spirit of the Dead Watching	canvas
+material used	Quince cheese, also known as dulce de membrillo (Spanish: (ˈdulθe ðe memˈbɾiʎo)), is a sweet, thick, jelly made of the pulp of the quince fruit.	Quince cheese	quince
+material used	The Charging Chasseur, or An Officer of the Imperial Horse Guards Charging is an oil painting on canvas of about 1812 by the French painter Théodore Géricault, portraying a mounted Napoleonic cavalry officer who is ready to attack.	The Charging Chasseur	canvas
+material used	Muslin (/ˈmʌslᵻn/ or /ˈmjuːslᵻn/) is a cotton fabric of plain weave.	Muslin	cotton
+material used	The Ecstasy of Saint Teresa (alternatively Saint Teresa in Ecstasy or Transverberation of Saint Teresa; in Italian: L'Estasi di Santa Teresa or Santa Teresa in estasi) is the central sculptural group in white marble set in an elevated aedicule in the Cornaro Chapel, Santa Maria della Vittoria, Rome.	Ecstasy of Saint Teresa	marble
+material used	The General W.K. Wilson Jr. Bridge consists of dual parallel tied through arches of weathering steel and beam viaducts of concrete that form one continuous span carrying four lanes of Interstate 65 across the Mobile-Tensaw River Delta northeast of the U.S. city of Mobile, Alabama.	General W.K. Wilson Jr. Bridge	concrete
+material used	Children Are the Victims of Adult Vices is a group of bronze sculptures created by Russian artist Mihail Chemiakin.	Children Are the Victims of Adult Vices	bronze
+material used	The Tomb of Antipope John XXIII is the marble-and-bronze tomb monument of Antipope John XXIII (Baldassare Cossa, c. 1360--1419), created by Donatello and Michelozzo for the Florence Baptistry adjacent to the Duomo.	Tomb of Antipope John XXIII	bronze
+material used	Charles I with M. de St Antoine is an oil painting on canvas by the Flemish painter Anthony van Dyck, depicting Charles I on horseback, accompanied by his riding master, Pierre Antoine Bourdon, Seigneur de St Antoine.	Charles I with M. de St Antoine	canvas
+material used	The Great Double is a bronze sculpture by the Argentine artist Alicia Penalba (1913-1982).	The Great Double	bronze
+material used	The Diadumenos is the winner of an athletic contest at a games, still nude after the contest and lifting his arms to knot the diadem, a ribbon-band that identifies the winner and which in the bronze original of about 420 BCE would have been represented by a ribbon of bronze.	Diadumenos	bronze
+material used	The Juno Ludovisi (also called Hera Ludovisi) is a colossal Roman marble head of the 1st century CE from an acrolithic statue of an idealized and youthful Antonia Minor as the goddess Juno.	Juno Ludovisi	marble
+material used	Panela (Spanish pronunciation: (paˈnela), Portuguese: rapadura (ʁɐpɐˈduɾɐ)) is unrefined whole cane sugar, typical of Central and of Latin America in general, which is a solid form of sucrose derived from the boiling and evaporation of sugarcane juice.	Panela	whole cane sugar
+material used	Sky Mirror is a six-metre-wide concave dish of polished stainless steel weighing ten tonnes and angled up towards the sky.	Sky Mirror	steel
+material used	The Interlachen Bridge is a reinforced concrete arch bridge on William Berry Parkway between Lake Calhoun and Lake Harriet in Minneapolis, Minnesota.	Interlachen Bridge	concrete
+material used	The Michael Jordan statue, officially known as The Spirit (and sometimes referred to as Michael Jordan's Spirit), is a bronze sculpture by Omri Amrany and Julie Rotblatt-Amrany outside the United Center in the Near West Side community area of Chicago.	Michael Jordan statue	bronze
+material used	Head I is a relatively small oil and tempera on hardboard painting by the Irish-born British figurative artist Francis Bacon.	Head I	tempera	hardboard
+material used	The Schwandbach Bridge is a deck-stiffened reinforced concrete arch bridge near Bern in Switzerland, designed by Robert Maillart and completed in 1933 at a cost of 47,298 CHF.	Schwandbach Bridge	concrete
+material used	Satsivi (Georgian: საცივი, literally means 'cold dish' in Georgian; also known as walnut sauce) is a food paste in Georgian cuisine made primarily from walnuts and is used in various recipes.	Satsivi	walnut
+material used	Shirley Temple, The Youngest, Most Sacred Monster of the Cinema in Her Time (or Shirley Temple, The Youngest, Most Sacred Monster of Contemporary Cinema), also known as the Barcelona Sphinx is a 1939 artwork in gouache, pastel and collage on cardboard, by surrealist painter Salvador Dalí.	Shirley Temple, The Youngest, Most Sacred Monster of the Cinema in Her Time	pastel	cardboard
+material used	The Steinerner Steg (Italian: Ponte Romano) is a two-arched, stone-built footbridge across the Passer in Merano, South Tyrol, northern Italy.	Steinerner Steg	stone
+material used	The Ludovisi Gaul Killing Himself and His Wife (sometimes called ``The Galatian Suicide'') is a Roman marble group depicting a man in the act of plunging a sword into his breast, looking backwards defiantly while he supports the dying figure of a woman with his left arm.	Ludovisi Gaul	marble
+material used	The Kroisos Kouros (Ancient Greek: κοῦρος) is a marble kouros from Anavyssos in Attica which functioned as a grave marker for a fallen young warrior named Kroîsos (Κροῖσος).	Kroisos Kouros	marble
+material used	Will He Round the Point? (Danish: Vil han klare pynten?) is an 1885 oil-on-canvas painting by Michael Ancher, a Danish painter associated with the Skagen Painters.	Will He Round the Point?	canvas
+material used	Pruno, or prison wine, is an alcoholic beverage variously made from apples, oranges, fruit cocktail, candy, ketchup, sugar, milk, and possibly other ingredients, including crumbled bread.	Pruno	milk
+material used	The Starry Night is an oil on canvas by the Dutch post-impressionist painter Vincent van Gogh.	The Starry Night	canvas
+material used	The Wolverine pendant of Les Eyzies is a bone pendant decorated with an engraved drawing of a wolverine, probably from the cave of Les Eyzies, Dordogne, France.	Wolverine pendant of Les Eyzies	bone
+parent company	Christopher Kane (born 26 July 1982) is a Scottish fashion designer based in London whose brand is now part of Kering.	Christopher Kane	Kering
+parent company	Marvel Productions Ltd., later known as New World Animation Ltd., was a television and film studio subsidiary of the Marvel Entertainment Group, based in Hollywood, Los Angeles, California.	Marvel Productions	Marvel Entertainment
+parent company	Woodford Reserve is an American brand of premium small batch Kentucky Straight Bourbon Whiskey produced by the Brown-Forman Corporation.	Woodford Reserve	Brown-Forman
+parent company	Carrefour Market is created in 2007, to eventually replace the older supermarkets of the Carrefour Group like Champion (Internationally), GB Supermarkets (Belgium) and GS (Italy).	Carrefour Market	Carrefour Group
+parent company	YTL Power, a subsidiary of YTL Corporation, generates and sells power as an independent power producer to Tenaga Nasional for uploading onto the National Grid, Malaysia.	YTL Power	YTL Corporation
+parent company	Uterqüe is a company owned by the Spanish Inditex group dedicated to manufacturing fashion accessories and garments such as scarves and sunglasses.	Uterqüe	Inditex
+parent company	Jean-Marc XO Vodka is a premium vodka distilled in the Cognac region of France by Jean-Marc Daucourt and owned by the Campari Group.	Jean-Marc XO Vodka	Campari Group
+parent company	In March 2015, Digital Bros, through subsidiary 505 Games, purchased 2.67% stock of Swedish game developer Starbreeze Studios.	505 Games	Digital Bros
+parent company	Partner Communications Company Ltd. (operating under the Orange brand name until February 2016, soon will change to Partner) is a mobile network operator, internet Wi-Fi and fixed telephony service provider in Israel.	Partner Communications Company	Orange
+parent company	The Musée de Radio France was a museum operated by Radio France and located in the Maison de Radio-France, near the Pont de Grenelle in the XVIe arrondissement at 116, avenue du Président Kennedy, Paris, France.	Musée de Radio France	Radio-France
+parent company	On February 5, 2010, Intel announced that it had acquired Virtutech and that Simics will now be maintained by Intel's subsidiary Wind River Systems.	Virtutech	Intel
+parent company	Dassault Aviation SA (French pronunciation: ​(daso)) is an international French aircraft manufacturer of military, regional, and business jets, a subsidiary of Dassault Group.	Dassault Aviation	Dassault Group
+parent company	Orange S.A. owns a 42.33% controlling stake in Sonatel, which is listed on the Bourse Régionale des Valeurs Mobilières (BRVM).	Sonatel	Orange
+parent company	In September 2013, Koch Industries purchased Molex for $7.2 billion.	Molex	Koch Industries
+parent company	First Air is wholly owned by the Inuit people of Quebec through the Makivik Corporation, who purchased the company in 1990.	First Air	Makivik Corporation
+parent company	Based in Paris, Keolis is owned by the SNCF (French National Railways Corporation) at 70% and the Caisse de dépôt et placement du Québec which is translated as Quebec Deposit & Investment Fund (public pension plans in the province of Quebec) at 30%.	Keolis	SNCF	Caisse de dépôt et placement du Québec
+parent company	Originally an independent company established by Jim Lee, and expanded in subsequent years by other creators, WildStorm became a publishing imprint of DC Comics in 1999.	WildStorm	DC Comics
+parent company	Its parent company, Walgreens, operates Super D Drug Stores and Ikes Deep Discount Drug, both acquired in October 1997, and May's Drug, Med-X Drug, Drug Warehouse, and Drug Mart, all acquired in July 2004, as ``Part of the USA Drug Family''.	USA Drug	Walgreens
+parent company	DB Netze (English: DB Networks) is an arm of the German national rail company Deutsche Bahn (DB) responsible for the railway infrastructure and operations.	DB Netze	Deutsche Bahn
+parent company	Mistral Air is an Italian charter airline based in Rome and a subsidiary of Poste italiane.	Mistral Air	Poste italiane
+parent company	Wanhua-BorsodChem as the European member of the Wanhua Group - is a leading chemical raw material manufacturing company headquartered in Kazincbarcika, Hungary.	BorsodChem	Wanhua Group
+parent company	On May 6, 2014, LSI Corporation was acquired by Avago Technologies for $6.6 billion.	LSI Corporation	Avago Technologies
+parent company	Iveco, an acronym for Industrial Vehicles Corporation, is an Italian industrial vehicle manufacturing company based in Turin, Italy, and entirely controlled by CNH Industrial Group.	Iveco	CNH Industrial
+parent company	Founder Technology Group Corporation (SSE: 600601), a subsidiary of Founder Group from Peking University, is an information technology state-owned enterprise in Shanghai, China.	Founder Technology	Founder Group
+parent company	Datsun is an automobile brand owned by Nissan.	Datsun	Nissan
+parent company	BNA Records, formerly known as BNA Entertainment, was a label group that shared ties with Arista Nashville and RCA Nashville from parent company Sony Music Nashville, which itself is a subsidiary of Sony Music Entertainment.	BNA Records	Sony Music Entertainment
+parent company	Its predecessor company, Albertsons, Inc., was sold to Albertsons LLC (a Cerberus Capital Management-led consortium), CVS Pharmacy, and SuperValu Inc. in 2006.	Albertsons	Cerberus Capital Management	SuperValu
+parent company	IBM China Research Laboratory (CRL) is one of the IBM Research's twelve major worldwide research laboratories.	IBM China Research Laboratory	IBM Research
+parent company	The University of Minnesota Duluth (UMD) is a regional branch of the University of Minnesota system located in Duluth, Minnesota, United States.	University of Minnesota Duluth	University of Minnesota system
+parent company	The Rocketdyne Division was founded by North American Aviation (NAA) in 1955, and was later part of Rockwell International (1967-1996) and Boeing (1996-2005).	Rocketdyne	North American Aviation	Rockwell International	Boeing
+parent company	On 21 November 2006, Schlotzsky's was acquired by Focus Brands, an affiliate of private equity firm Roark Capital Group, parent company of Moe's Southwest Grill, Carvel, Cinnabon and Auntie Anne's.	Schlotzsky's	Focus Brands
+parent company	Parker Brothers is currently a subsidiary of the multinational entertainment company Hasbro.	Parker Brothers	Hasbro
+parent company	Cisco Systems acquired Tandberg on 19 April 2010.	Tandberg	Cisco Systems
+parent company	Aruba, a Hewlett Packard Enterprise company, (formerly ``Aruba Networks, Inc.'') is a networking vendor selling enterprise wireless LAN and edge access networking equipment.	Aruba Networks	Hewlett Packard
+parent company	Bell Mobility is a Canadian CDMA, LTE and HSPA+ based wireless network (named Bell Cellular until 1993) and the division of Bell Canada which sells wireless services across Canada.	Bell Mobility	Bell Canada
+parent company	DAF Trucks NV is a Dutch truck manufacturing company and a division of Paccar.	DAF Trucks	Paccar
+parent company	France Bleu Roussillon is a public radio station part of the France Bleu network owned by Radio France for the Pyrénées-Orientales (Roussillon) department.	France Bleu Roussillon	Radio France
+parent company	The division called ``Air Yugoslavia'' has been replaced with the Charter and Tourism Department within Jat Airways in 2005.	Air Yugoslavia	Jat Airways
+parent company	Moody's Investors Service, often referred to as Moody's, is the bond credit rating business of Moody's Corporation, representing the company's traditional line of business and its historical name.	Moody's Investors Service	Moody's Corporation
+parent company	Telemundo (Spanish pronunciation: (teleˈmundo)) is an American Spanish-language broadcast television network owned by the NBCUniversal Hispanic Group, a subsidiary of the NBCUniversal Television Group division of NBCUniversal.	Telemundo	NBCUniversal
+parent company	Panrusgáz is a Hungarian natural gas company responsible for the import of natural gas from Russia mainly Gazprom.	Panrusgáz	Gazprom
+parent company	Hooters Air flights were operated by Winston-Salem, North Carolina-based Pace Airlines both as ad hoc private charters, and as scheduled USDOT public charters.	Hooters Air	Pace Airlines
+residence	Mariona Ribas (born June 18, 1984 in Sabadell, Catalonia) is a Spanish actress.	Mariona Ribas	Sabadell
+residence	Trudi Musgrave (born 10 September 1977) is an Australian retired professional tennis player, based in Newcastle, Australia.	Trudi Musgrave	Newcastle
+residence	Rosa Rosita Baltazar was born on 16 August 1960 in Livingston, Guatemala to Enes and Merejilda Baltazar and was raised in Punta Gorda, Belize, attending St. Peter Claver Primary School.	Rosita Baltazar	Punta Gorda
+residence	Belus Prajoux Nadjar (born February 27, 1955 in Santiago) is a retired professional tennis player from Chile.	Belus Prajoux	Santiago
+residence	María Corda (Mária Antónia Farkas, 4 May 1898 in Déva, Hungary (now Deva, Romania) -- 15 February 1976 in Thônex, Switzerland) was a Hungarian actress and a star of the silent film era in Germany and Austria.	María Corda	Hungary
+residence	Jesse Witten (born October 15, 1982, in Naples, Florida) is an American professional tennis player.	Jesse Witten	Naples
+residence	Gabriel Porras (born Carlos Gabriel Porras Flores, February 13, 1968 in Mexico City, Mexico) is a Mexican actor.	Gabriel Porras	Mexico City
+residence	Christian Frederik von Schalburg (15 April 1906 -- 2 June 1942) was a Danish army officer, the second commander of Free Corps Denmark and brother of Vera von Schalburg.	Christian Frederik von Schalburg	Denmark
+residence	Wojciech Jerzy Has (1 April 1925 in Kraków -- 3 October 2000 in Łódź, Poland) was a Polish film director, screenwriter and film producer.	Wojciech Jerzy Has	Kraków
+residence	Zuzana Kučová (born 26 June 1982 in Bratislava) is a Slovakian former professional tennis player.	Zuzana Kučová	Bratislava
+residence	Antonio Zugarelli (born January 17, 1950, in Rome) is a retired professional tennis player from Italy.	Antonio Zugarelli	Rome
+residence	Ann Trason (born August 30, 1960) is an American ultramarathon runner from Kensington, California.	Ann Trason	Kensington
+residence	Harriet Elam-Thomas is a United States diplomat and university professor who directs the Diplomacy Program at the University of Central Florida (UCF) in Orlando, Florida.	Harriet Elam-Thomas	Orlando
+residence	In 2012, State Government of Rajasthan posthumously awarded Jagjit Singh its highest civilian award, the Rajasthan Ratna.	Jagjit Singh	Rajasthan
+residence	Enik (*1980) is a songwriter, singer, and musician from Munich, Germany.	Enik	Munich
+residence	Daniel Dugléry did an internship as commissioner in Clermont-Ferrand; after, he was reword in Beaumont-sur-Oise (1977--1979), and Creil (1979--1982).	Daniel Dugléry	Clermont-Ferrand
+residence	Hanne Skak Jensen currently resides in her birth town Skanderborg.	Hanne Skak Jensen	Skanderborg
+residence	Peter Norbeck (August 27, 1870 -- December 20, 1936) was an American politician from South Dakota.	Peter Norbeck	South Dakota
+residence	Felice Pedroni (April 16, 1858 -- July 22, 1910), known best to Americans by his Hispanicized alias Felix Pedro, was an Italian immigrant whose discovery of gold in Interior Alaska marked the beginning of the 1902 Fairbanks Gold Rush.	Felix Pedro	Alaska
+residence	Zoltán Fülöp (born 26 July 1976 in Csorvás) is a Hungarian football (forward) player who currently plays for DSG Union Perg.	Zoltán Fülöp	Csorvás
+residence	Lucy Katz, J.D. is the Robert C. Wright Professor of Business Law, Ethics, and Dispute Resolution at Fairfield University in Fairfield, Connecticut.	Lucy Katz	Connecticut
+residence	Awashonks (also spelled Awashunckes, Awashunkes or Awasoncks) was a sachem (chief) of the Sakonnet (also spelled Saconet) tribe in Rhode Island.	Awashonks	Rhode Island
+residence	In Roman mythology, King Numitor /ˈnuːmᵻtər/ of Alba Longa, was the son of Procas, descendant of Aeneas the Trojan, and father of Rhea Silvia and Laususa In 794 BC Procas died and was meant to be succeeded by Numitor.	Numitor	Alba Longa
+residence	Lydia Fowler Wadleigh (February 8, 1817 -- October 27, 1888) was an American educator, principal of the first public high school for girls in New York City, and ``lady superintendent'' of the precursor to Hunter College.	Lydia Fowler Wadleigh	New York City
+residence	Dimitrios Patrinos (Greek: Δημήτριος Πατρινός, died 1903) was a Greek politician of Achaia and a mayor of Patras.	Dimitrios Patrinos	Patras
+residence	Cara Black (born 17 February 1979 in Salisbury, Rhodesia - now Harare, Zimbabwe) is a professional tennis player from Zimbabwe.	Cara Black	Harare
+residence	Ezra Hendrickson (born 16 January 1972 in Layou, St. Vincent) is a retired Vincentian footballer.	Ezra Hendrickson	Layou
+residence	Jonas Bronck (alternatively, Jonas Jonson Brunk, Jonas Jonasson Bronk, Jonas Jonassen Bronck) (died 1643) was an immigrant to the Dutch colony of New Netherland after whom the Bronx River, and by extension, the county and New York City borough of The Bronx are named.	Jonas Bronck	New Netherland
+residence	Miquel Crusafont i Pairó (Sabadell, Catalonia 1910-1983) was a Catalan paleontologist, specializing in mammal bones.	Miquel Crusafont i Pairó	Sabadell
+residence	Fu Ying (born January 1953 in Hohhot, Inner Mongolia; ethnic Mongol) is the current vice minister of the Foreign Ministry of the People's Republic of China.	Fu Ying	Inner Mongolia
+residence	Neslihan Demir, (born December 9, 1983 in Eskişehir) is a Turkish volleyball star, plays for Eczacıbaşı VitrA.	Neslihan Demir	Eskişehir
+residence	Mansour Nariman (Persian: منصور نریمان‎, 1935 in Mashhad --14 July 2015 in Tehran) was an Iranian oud player, researcher and writer.	Mansour Nariman	Mashhad
+residence	Wilhelm Friedrich Loeper (13 October 1883 in Schwerin -- 23 October 1935 in Dessau) was a Nazi politician and a Nazi Gauleiter in the Gau of Magdeburg-Anhalt.	Wilhelm Friedrich Loeper	Schwerin
+residence	Mohammed Yusif Yaqub (?-May 7, 2004) was a citizen of Afghanistan who was held in extrajudicial detention in the United States Guantanamo Bay detention camp, in Cuba.	Mohammed Yusif Yaqub	Guantanamo Bay detention camp
+residence	Kayavak (born August 3, 1999) is a female beluga whale that currently resides at the Shedd Aquarium in downtown Chicago, Illinois, USA.	Kayavak	Shedd Aquarium
+residence	According to some linguistic reconstructions, the Pomo people descend from the Hokan-speaking people in the Sonoma County, California region.	Pomo people	Sonoma County
+residence	Aaron McCusker (born 26 November 1978 in Portadown, County Armagh) is a Northern Irish actor most famous for playing Jamie Maguire in Channel 4's comedic drama series Shameless.	Aaron McCusker	Portadown
+residence	Ze'ev Elkin (Hebrew: זְאֵב אֵלְקִין; Russian: Зеэв Элькин; born 3 April 1971) is an Israeli politician who currently serves as a member of the Knesset for Likud and as Minister of Immigrant Absorption and Minister of Jerusalem Affairs.	Ze'ev Elkin	Jerusalem
+residence	Alfred Grünberg (18 February 1902 in Magdeburg -- 21 May 1942 in Berlin) was a worker, a member of the Communist Party of Germany (KPD) and a resistance fighter against the Nazi régime.	Alfred Grünberg	Magdeburg
+residence	Heidi El Tabakh (born September 25, 1986) is an Egyptian-born Canadian professional tennis player from Toronto, Ontario, Canada.	Heidi El Tabakh	Toronto
+residence	Marco Chiudinelli (born 10 September 1981 in Basel, Switzerland) is a tennis player from Switzerland.	Marco Chiudinelli	Basel
+residence	Mohammed Fenaitel Mohamed Al Daihani is a citizen of Kuwait who was held in extrajudicial detention in the United States Guantanamo Bay detention camp, in Cuba.	Mohammed Fenaitel Mohamed Al Daihani	Guantanamo Bay detention camp
+residence	Hamish McHamish (1999 -- 11 September 2014) was a ginger cat that lived in the town of St Andrews, Fife, Scotland.	Hamish McHamish	St Andrews
+residence	Ernesto Hernández Busto (Havana, Cuba, 1968) is a Cuban writer living in Barcelona (Spain).	Ernesto Hernández Busto	Barcelona
+residence	Haneen Zoabi was born in Nazareth to a Muslim family.	Haneen Zoabi	Nazareth
+site of astronomical discovery	13474 V'yus (1973 QO1) is a main-belt asteroid discovered on August 29, 1973, by Tamara Mikhaylovna Smirnova at the Crimean Astrophysical Observatory.	13474 V'yus	Crimean Astrophysical Observatory
+site of astronomical discovery	1309 Hyperborea (1931 TO) is an outer main-belt asteroid discovered on October 11, 1931, by Grigory Neujmin at Simeiz Observatory.	1309 Hyperborea	Simeiz Observatory
+site of astronomical discovery	57424 Caelumnoctu (2001 SP22) is a main-belt asteroid discovered on September 16, 2001 by the Lincoln Laboratory Near-Earth Asteroid Research Team at Socorro, New Mexico.	57424 Caelumnoctu	Lincoln Laboratory
+site of astronomical discovery	1827 Atkinson, provisional designation 1962 RK, is the main-belt asteroid, discovered by the Indiana Asteroid Program at the U.S. Goethe Link Observatory on September 7, 1962.	1827 Atkinson	Goethe Link Observatory
+site of astronomical discovery	2135 Aristaeus (1977 HA) is an Apollo asteroid discovered on April 17, 1977 by E. F. Helin and S. J. Bus at Palomar Observatory.	2135 Aristaeus	Palomar Observatory
+site of astronomical discovery	3198 Wallonia (1981 YH1) is a Mars-crossing asteroid discovered on December 30, 1981 by François Dossin at Haute-Provence Observatory.	3198 Wallonia	Haute-Provence Observatory
+site of astronomical discovery	1294 Antwerpia (1933 UB1) is a main-belt asteroid discovered on October 24, 1933, by Eugène Joseph Delporte at the Royal Observatory of Belgium.	1294 Antwerpia	Royal Observatory of Belgium
+site of astronomical discovery	21711 Wilfredwong is a minor planet discovered on September 7, 1999, by MIT Lincoln Laboratory's Near-Earth Asteroid Research (LINEAR) program.	21711 Wilfredwong	Lincoln Laboratory
+site of astronomical discovery	1307 Cimmeria, provisional designation 1930 UF, is a stony main-belt asteroid, discovered by Russian astronomer Grigory Neujmin at the Crimean Simeiz Observatory on October 17, 1930.	1307 Cimmeria	Simeiz Observatory
+site of astronomical discovery	4765 Wasserburg (1986 JN1) is an inner main-belt binary asteroid discovered on May 5, 1986 by C. S. Shoemaker at Palomar Observatory.	4765 Wasserburg	Palomar Observatory
+site of astronomical discovery	1765 Wrubel, provisionally designated 1957 XB, is a main-belt asteroid, discovered on December 15, 1957 by the Indiana Asteroid Program at Goethe Link Observatory in the U.S. state of Indiana.	1765 Wrubel	Goethe Link Observatory
+site of astronomical discovery	8441 Lapponica (4008 T-3) is a main-belt asteroid discovered on October 16, 1977 by Cornelis Johannes van Houten, Ingrid van Houten-Groeneveld and Tom Gehrels at Palomar Observatory.	8441 Lapponica	Palomar Observatory
+site of astronomical discovery	51829 Williemccool was discovered on July 21, 2001 at Palomar Observatory by the JPL Near Earth Asteroid Tracking Program.	51829 Williemccool	Palomar Observatory
+site of astronomical discovery	5148 Giordano (5557 P-L) is a main-belt asteroid discovered on October 17, 1960 by Cornelis Johannes van Houten, Ingrid van Houten-Groeneveld and Tom Gehrels at Palomar Observatory.	5148 Giordano	Palomar Observatory
+site of astronomical discovery	4942 Munroe (1987 DU6) is a main-belt minor planet discovered by Henri Debehogne at La Silla Observatory in Chile on February 24, 1987.	4942 Munroe	La Silla Observatory
+site of astronomical discovery	HD 118203 b was discovered in August 2005 in Haute-Provence Observatory in France by Da Silva who used the doppler spectroscopy to look for shifts in the star's spectrum caused by the planet's gravity as the planet orbits the star.	HD 118203 b	Haute-Provence Observatory
+site of astronomical discovery	2120 Tyumenia (1967 RM) is a main-belt asteroid discovered on September 9, 1967 by Tamara Mikhaylovna Smirnova at the Crimean Astrophysical Observatory.	2120 Tyumenia	Crimean Astrophysical Observatory
+site of astronomical discovery	1246 Chaka (1932 OA) is a main-belt asteroid discovered on July 23, 1932, by Cyril Jackson at Johannesburg Union Observatory, South Africa.	1246 Chaka	Union Observatory
+site of astronomical discovery	21387 Wafakhalil is a main-belt asteroid, discovered in 1998 by the Lincoln Laboratory Near-Earth Asteroid Research Team at Socorro, New Mexico.	21387 Wafakhalil	Lincoln Laboratory
+stock exchange	Lexam VG Gold is listed on the Toronto Stock Exchange (TSX: LEX), on OTCQX (LEXVF) and on the Frankfurt Stock Exchange (VN3A).	Lexam VG Gold	Toronto Stock Exchange
+stock exchange	As a result, Sun-Rype finally went public on the Toronto Stock Exchange on November 12, 1996, with 2.35 million shares opening at $2.75 a share.	Sun-Rype	Toronto Stock Exchange
+stock exchange	On April 1, 2013, NASDAQ OMX Group agreed to acquire an electronic Treasurys marketplace from brokerage firm BGC Partners Inc. in a cash-and-stock deal valued at as much as $1.23 billion.	BGC Partners	NASDAQ
+stock exchange	The Web.com Group was formed as a result of the merger of Web.com, Inc. (NASDAQ: WEB) and Website Pros, Inc. (WSP, NASDAQ: WSPI).	Web.com	NASDAQ
+stock exchange	Sina Weibo (NASDAQ: WB) is a Chinese microblogging (weibo) website.	Sina Weibo	NASDAQ
+stock exchange	Banco Cruzeiro do Sul (BM&F Bovespa:CZR4) is a Brazil-based bank mainly engaged in the consumer financing segment.	Banco Cruzeiro do Sul	BM&F Bovespa
+stock exchange	On July 9, 2007 SemGroup announced that it would establish a publicly traded affiliate, SemGroup Energy Partners LP, who would be traded on NASDAQ, under the symbol SGLP.	SemGroup	NASDAQ
+stock exchange	Thomas Cook Group plc is a British global travel company listed on the London Stock Exchange.	Thomas Cook Group	London Stock Exchange
+stock exchange	NewBridge Bank is the banking subsidiary of NewBridge Bancorp (NASDAQ: NBBC).	NewBridge Bank	NASDAQ
+stock exchange	John Laing Infrastructure Fund (LSE: JLIF) is a FTSE 250 company with a primary listing on the London Stock Exchange.	John Laing Infrastructure Fund	London Stock Exchange
+stock exchange	It was seized by U.S. financial regulators and immediately handed over to a new holding company, BankUnited, Inc., which trades on the New York Stock Exchange under the symbol BKU, on 21 May 2009, in the second largest bank failure of the Financial crisis of 2007--2010.	BankUnited	New York Stock Exchange
+stock exchange	OneBeacon Insurance Group, Ltd. is a Bermuda-domiciled holding company that is publicly traded on the New York Stock Exchange under the symbol ``OB.	OneBeacon	New York Stock Exchange
+stock exchange	Delcath Systems, Inc. Delcath Systems, Inc. (NASDAQ: DCTH) is a publicly-traded specialty pharmaceutical and medical device company that develops percutaneous perfusion technologies for the targeted administration of high-dose chemotherapeutic agents to specific organs or regions of the body.	Delcath Systems	NASDAQ
+stock exchange	On June 26, 2012, Foot Locker celebrated the 100th anniversary of the first stock offering made by its predecessor, the F. W. Woolworth Company, on the New York Stock Exchange by ringing the Closing Bell for the trading day.	Foot Locker	New York Stock Exchange
+stock exchange	Corus Bankshares, Inc. (NASDAQ: CORSQ) operated as the holding company for Corus Bank, N.A., a United States company that offered consumer and corporate banking products and services.	Corus Bankshares	NASDAQ
+stock exchange	Extra Space Storage has been a publicly traded real estate investment trust (REIT) since 2004, and is traded on the New York Stock Exchange with the ticker symbol EXR.	Extra Space Storage	New York Stock Exchange
+stock exchange	Cellectis has been trading on Alternext since 2007 and held an initial public offering on the NASDAQ exchange in March 2015.	Cellectis	NASDAQ
+stock exchange	CytRx Corp. (NASDAQ: CYTR) is a biopharmaceutical research and development oncology company based in Los Angeles, California.	CytRx	NASDAQ
+stock exchange	OpenText employs 8,500 people worldwide and is a publicly traded company, listed on the NASDAQ (OTEX) and the Toronto Stock Exchange (OTC).	OpenText	NASDAQ	Toronto Stock Exchange
+stock exchange	On September 17, 2007, American Real Estate Partners changed its name to Icahn Enterprises L.P. and its NASDAQ ticker symbol from ACP to IEP.	Icahn Enterprises	NASDAQ
+stock exchange	In September 2014, CyberArk became a public company, trading on the NASDAQ under the ticker CYBR.	CyberArk	NASDAQ
+stock exchange	On June 23, 1986 Veidekke was quoted on the Oslo Stock Exchange's main list.	Veidekke	Oslo Stock Exchange
+stock exchange	Global Sources (Chinese: 环球资源) (NASDAQ: GSOL) is a Hong-Kong based business-to-business (B2B) media company.	Global Sources	NASDAQ
+stock exchange	Middlesex Water Company (NASDAQ: MSEX) is a water utility based in the U.S. state of New Jersey that was first incorporated in 1897.	Middlesex Water Company	NASDAQ
+stock exchange	Standard Chartered has a primary listing on the London Stock Exchange and is a constituent of the FTSE 100 Index.	Standard Chartered	London Stock Exchange
+stock exchange	Vision Sciences Inc. (NASDAQ: VSCI) is an international endoscopy product manufacturer and supplier.	Vision Sciences Inc.	NASDAQ
+stock exchange	FBL Financial Group is headquartered in West Des Moines, Iowa, and is traded on the New York Stock Exchange under the symbol FFG.	FBL Financial Group	New York Stock Exchange
+stock exchange	On April 10, 2002, Regions Financial Corporation announced that it has begun the process of listing its common stock on the New York Stock Exchange (NYSE) under the ticker symbol ``RF''.	Regions Financial Corporation	New York Stock Exchange
+stock exchange	Repros Therapeutics Inc. (NASDAQ: RPRX), is a US-based development stage biopharmaceutical company headquartered in The Woodlands, Texas.	Repros Therapeutics	NASDAQ
+stock exchange	EarthLink went public on NASDAQ in January 1997.	EarthLink	NASDAQ
+stock exchange	Sarepta Therapeutics Inc. (NASDAQ: SRPT) is a medical research and drug development company with corporate offices and research facilities in Cambridge, Massachusetts, United States.	Sarepta Therapeutics	NASDAQ
+stock exchange	ABG Sundal Collier is a Nordic investment bank, publicly quoted and listed on the Oslo Stock Exchange.	ABG Sundal Collier	Oslo Stock Exchange
+stock exchange	Hersha Hospitality Trust is an American real estate investment trust, publicly traded on the New York Stock Exchange.	Hersha Hospitality Trust	New York Stock Exchange
+stock exchange	Travis Perkins plc is listed on the London Stock Exchange and is part of the FTSE 100.	Travis Perkins	London Stock Exchange
+stock exchange	In Jan 19, 2006, Baytex Energy Trust announced that the New York Stock Exchange had cleared Baytex to file an Original Listing Application to list its trust units on the NYSE.	Baytex Energy	New York Stock Exchange
+stock exchange	The Kopin Corporation (NASDAQ: KOPN) is a Westborough, Massachusetts-based electronics manufacturer, best known for its display devices for mobile electronics.	Kopin Corporation	NASDAQ
+stock exchange	China Gerui Advanced Materials Group Ltd.(河南鸽瑞复合材料有限公司) (NASDAQ: CHOP), a contract manufacturer of strip steel products, was founded in 2000 and is now headquartered in Zhengzhou City, Henan Province, the People's Republic of China.	China Gerui Advanced Materials Group Ltd.	NASDAQ
+stock exchange	Reynolds American was formed in January 2004 and began trading publicly on the New York Stock Exchange as RAI in August 2004.	Reynolds American	New York Stock Exchange
+stock exchange	Liberty Tax Service is the primary subsidiary of Liberty Tax, Inc., a NASDAQ-traded company.	Liberty Tax Service	NASDAQ
+stock exchange	Monotype Imaging Holdings, Inc. (NASDAQ: TYPE) is a Delaware corporation based in Woburn, Massachusetts.	Monotype Imaging	NASDAQ
+stock exchange	On February 20, 1996 The Andersons was first listed on NASDAQ, and around that same time the company reached sales of US$ 1 billion.	The Andersons	NASDAQ
+stock exchange	NW Natural moved from the NASDAQ stock market to a listing on the New York Stock Exchange under the symbol NWN in 2000.	NW Natural	New York Stock Exchange
+stock exchange	Since June 2006, the CTEEP is controlled by the Colombian company Interconexión Eléctrica S.A., which acquired 50.1% of its shares for auction sponsored by the Government of the State of São Paulo in BM&F Bovespa and today, holds 89.40% of the voting paper, equivalent to 37.5% of the total capital of CTEEP.	CTEEP	BM&F Bovespa
+stock exchange	Aetrium Inc. (NASDAQ: ATRM) is a global company developing, manufacturing and supplying electromechanical and electro thermal equipment for semiconductor manufacturers in United States, United Kingdom, Germany, China, South Korea, Singapore, etc. The company was founded in 1982 and is headquartered in North Saint Paul, Minnesota.	Aetrium	NASDAQ

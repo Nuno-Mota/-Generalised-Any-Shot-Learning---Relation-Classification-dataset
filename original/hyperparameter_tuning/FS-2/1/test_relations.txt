@@ -1,0 +1,10 @@
+continent
+country of origin
+date of birth
+educated at
+founder
+manufacturer
+named after
+occupation
+participant of
+series

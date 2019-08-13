@@ -1,0 +1,10 @@
+director
+member of sports team
+mother
+narrative location
+performer
+screenwriter
+series
+sport
+spouse
+taxon rank

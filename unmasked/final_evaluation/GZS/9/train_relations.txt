@@ -1,0 +1,50 @@
+author
+award received
+cast member
+child
+conflict
+constellation
+continent
+country
+country of citizenship
+country of origin
+creator
+date of birth
+date of death
+developer
+director
+dissolved or abolished
+educated at
+employer
+founder
+headquarters location
+inception
+instrument
+languages spoken or written
+located in the administrative territorial entity
+manufacturer
+member of political party
+member of sports team
+mother
+mouth of the watercourse
+named after
+narrative location
+native language
+occupation
+original network
+parent taxon
+participant of
+performer
+place of birth
+place of death
+position held
+position played on team / speciality
+present in work
+record label
+screenwriter
+series
+sex or gender
+sport
+spouse
+taxon rank
+voice type

@@ -1,0 +1,500 @@
+author	Finding the Fox is a fantasy/science fiction novel by Ali Sparkes.	Finding the Fox	Ali Sparkes
+author	``Troll Bridge'' is a Discworld short story, written by Terry Pratchett in 1991 for a collection entitled After The King:	Troll Bridge	Terry Pratchett
+author	Hokus pokus, Alfons Åberg! is a 1987 children's book by Gunilla Bergström.	Hokus pokus, Alfons Åberg!	Gunilla Bergström
+author	Wishing Moon by Michael O. Tunnell is a modern-style Arabian fantasy for children.	Wishing Moon	Michael O. Tunnell
+author	Glubbslyme is a fantasy novel by the children's author Jacqueline Wilson	Glubbslyme	Jacqueline Wilson
+author	Ancillary Justice is a science fiction novel by the American writer Ann Leckie, published in 2013.	Ancillary Justice	Ann Leckie
+author	Pish Posh is a children's novel by American author Ellen Potter, first published in 2006.	Pish Posh	Ellen Potter
+author	Witches Abroad is the twelfth Discworld novel by Terry Pratchett, originally published in 1991.	Witches Abroad	Terry Pratchett
+author	The Houses of Iszm is a science fiction novella by Jack Vance, which appeared in Startling Stories magazine in 1954.	The Houses of Iszm	Jack Vance
+author	Jusep Torres Campalans is the ``biography'' of a fictitious Catalan painter written by Spanish novelist Max Aub and published in 1958.	Jusep Torres Campalans	Max Aub
+author	The Bell Jar is the only novel written by the American writer and poet Sylvia Plath.	The Bell Jar	Sylvia Plath
+author	Ole Doc Methuselah is a collection of science fiction short stories by American writer L. Ron Hubbard, published in 1970.	Ole Doc Methuselah	L. Ron Hubbard
+author	Little Wars is a set of rules for playing with toy soldiers, written by H. G. Wells in 1913.	Little Wars	H. G. Wells
+author	Penelope and the Humongous Burp is a children's picture book by Sheri Radford and illustrated by Christine Tripp.	Penelope and the Humongous Burp	Sheri Radford
+author	The Song of Hiawatha is an 1855 epic poem, in trochaic tetrameter, by Henry Wadsworth Longfellow, featuring a Native American hero.	The Song of Hiawatha	Henry Wadsworth Longfellow
+author	Invincible Louisa is a biography by Cornelia Meigs that won the Newbery Medal and the Lewis Carroll Shelf Award.	Invincible Louisa	Cornelia Meigs
+author	NYPD Red 3 is the third novel in the James Patterson NYPD Red series.	NYPD Red 3	James Patterson
+author	The Unnamed is the second novel by American novelist Joshua Ferris.	The Unnamed	Joshua Ferris
+author	The Forbidden Territory is a novel written by Dennis Wheatley and published by Hutchinson in 1933.	The Forbidden Territory	Dennis Wheatley
+author	Lore of the Witch World is a collection of short stories by science fiction and fantasy author Andre Norton, forming part of her Witch World series.	Lore of the Witch World	Andre Norton
+author	Bharatiya Sangeet Vadya (Indian Musical Instruments) is a book (ISBN 81-263-0727-7) written by Dr. Lalmani Misra.	Bharatiya Sangeet Vadya	Lalmani Misra
+author	Silk and Insight (Kinu to Meisatsu) is a 1964 novel by the Japanese writer Yukio Mishima.	Silk and Insight	Yukio Mishima
+author	The Obscene Bird of Night (El obsceno pájaro de la noche, 1970) is the most acclaimed novel by the Chilean writer José Donoso (1924-1996).	The Obscene Bird of Night	José Donoso
+author	``Croesus and Fate'' is a short story by Leo Tolstoy that is a retelling of a Greek legend, classically told by Herodotus, about the king Croesus.	Croesus and Fate	Leo Tolstoy
+author	The Voice of Asia (1951) is a work of non-fiction published by American author James A. Michener.	The Voice of Asia	James A. Michener
+author	The Body Lovers (1967) is Mickey Spillane's tenth book featuring private investigator Mike Hammer.	The Body Lovers	Mickey Spillane
+author	The Bone Doll's Twin is the title of the first book in author Lynn Flewelling's series of fictional works, Tamir Triad.	The Bone Doll's Twin	Lynn Flewelling
+author	Du Chakay Duniya (Bengali: দু চাকায় দুনিয়া ) (Meaning :The World on Two Wheels in English) is a Bengali book written by the first Indian Globe -Trotter Bimal Mukherjee (1903--1987) based on his experiences of traveling through the world on a bicycle.	Du Chakay Duniya	Bimal Mukherjee
+author	The Burning Wire is a crime thriller novel written by Jeffery Deaver featuring the officially retired (RET), quadriplegic criminalist Lincoln Rhyme.	The Burning Wire	Jeffery Deaver
+author	Academ's Fury is a 2005 high fantasy novel by Jim Butcher.	Academ's Fury	Jim Butcher
+author	Goodbye Piccadilly, Farewell Leicester Square is a 1966 novel by Arthur La Bern, which was the basis for Alfred Hitchcock's film Frenzy (1972).	Goodbye Piccadilly, Farewell Leicester Square	Arthur La Bern
+author	Dark Destiny is a paranormal/suspense novel written by American author Christine Feehan.	Dark Destiny	Christine Feehan
+author	East Lynne is an English sensation novel of 1861 by Ellen Wood.	East Lynne	Ellen Wood
+author	The Cestus Deception is a science fiction novel by Steven Barnes set in the Star Wars galaxy during the Clone Wars.	The Cestus Deception	Steven Barnes
+author	Project Plowshare is a novella by Philip K. Dick, first published as a serial, in the November 1965 and January 1966 issues of ``Worlds Of Tomorrow'' magazine, with illustrations by Gray Morrow.	Project Plowshare	Philip K. Dick
+author	Chocolates for Breakfast is a 1956 American novel written by Pamela Moore.	Chocolates for Breakfast	Pamela Moore
+country of citizenship	Filipe Miranda Cunha Pinto known as Filipe Pinto (born in São Mamede de Infesta, Matosinhos municipality, Portugal on 3 July 1988) is a Portuguese singer who on 14 February 2010 won the 2009-2010 title in season 3 of the Portuguese reality television music competition series Ídolos.	Filipe Pinto	Portugal
+country of citizenship	Gong Hyo-jin was born in 1980 in Sinwol-dong, Gangseo District, Seoul, South Korea.	Gong Hyo-jin	South Korea
+country of citizenship	Pablo Cruz Guerrero (born February 2, 1984, Mexico City, Distrito Federal, Mexico), is a Mexican actor.	Pablo Cruz Guerrero	Mexico
+country of citizenship	Symphorien Champier (1471--1539), a Lyonnese doctor born in Saint-Symphorien, France, was a relation of the Chevalier de Bayard through his wife, Marguerite Terrail.	Symphorien Champier	France
+country of citizenship	In 1988 Alvydas Nikžentaitis defended his doctoral thesis on relations between Grand Duchy of Lithuania and Teutonic Order in the first half of the 14th century.	Alvydas Nikžentaitis	Lithuania
+country of citizenship	Petre Popa (born May 7, 1958, Tătărăuca Veche) is a writer and activist from Moldova.	Petre Popa	Moldova
+country of citizenship	Indra Bahadur Rai (Nepali: ईन्द्र बहादुर राई) is a Nepali writer and literary critic from Darjeeling, India.	Indra Bahadur Rai	India
+country of citizenship	Ben Viljoen was one of the South African refugee officers who formed a farm colony in Mexico with the assistance of Theodore Roosevelt.	Ben Viljoen	Mexico
+country of citizenship	Eminescu's Linden Tree (Romanian: Teiul lui Eminescu) is a 500-year-old silver lime (Tilia tomentosa Moench) situated in the Copou Public Garden, Iași, Romania.	Eminescu's Linden Tree	Romania
+country of citizenship	Darko Rakočević (Serbian Cyrillic: Дapкo Paкoчeвић, Chinese: 韋達高) (born 13 September 1981 in Gornji Milanovac) is a football player from Serbia currently playing in Songkhla United.	Darko Rakočević	Serbia
+country of citizenship	Portugal had so many great attacking players at that time that Jacinto João won just 10 caps for the Portuguese national team, scoring two goals.	Jacinto João	Portugal
+country of citizenship	Niko Lozančić (born 1957 in Kakanj) was the president of Federation of Bosnia and Herzegovina from 2003 to 2007.	Niko Lozančić	Bosnia and Herzegovina
+country of citizenship	Bakhteyar Gulam Mangal (born 1928) was an Afghanistan field hockey player, who competed at the 1948 Summer Olympic Games and the 1956 Summer Olympic Games.	Bakhteyar Gulam Mangal	Afghanistan
+country of citizenship	Simon Gustafsson (born 25 May 1990 in Sköllersta, Sweden) is a Swedish speedway rider who won the Team U-19 European Champion title in 2008.	Simon Gustafsson	Sweden
+country of citizenship	Lars Ernster was born in Hungary and came to Sweden 1946.	Lars Ernster	Hungary
+country of citizenship	Pamela Ann Davy is an Australian actress, who was born in Sydney, New South Wales, Australia and is best known for her roles on British television during the 1960s.	Pamela Ann Davy	Australia
+country of citizenship	Kerstin Cook (born 15 April 1989) is a Swiss model and beauty pageant titleholder who won the title of Miss Switzerland 2010 and represented her country in the 2011 Miss Universe pageant.	Kerstin Cook	Switzerland
+country of citizenship	Komlan Mally (born December 12, 1960) is a Togolese politician who served as Prime Minister of Togo from December 2007 to September 2008.	Komlan Mally	Togo
+country of citizenship	Max Valiquette is one of Canada's best known culture and media experts and commentators.	Max Valiquette	Canada
+country of citizenship	Mevrouw van Aerden, née Maria Ponderus (January 27, 1672 -- April 20, 1764), was an 18th-century art collector and hofje founder from the Northern Netherlands.	Maria Ponderus	Netherlands
+country of citizenship	Neil Nongkynrih (born 9 July 1970) is an award winning concert pianist from Shillong, Meghalaya, India.	Neil Nongkynrih	India
+country of citizenship	Tamba Songu M'briwa (born 1910-1968) was a prominent Sierra Leonean politician and paramount chief from the Kono ethnic group, who formed one of the few political parties in Sierra Leone before independence.	Tamba Songu M'briwa	Sierra Leone
+country of citizenship	Homai Vyarawalla (9 December 1913 -- 15 January 2012), commonly known by her pseudonym ``Dalda 13'', was India's first woman photojournalist.	Homai Vyarawalla	India
+country of citizenship	Marit Bergman grew up in Rättvik, Sweden, but now lives in Brooklyn, New York.	Marit Bergman	Sweden
+country of citizenship	William Lancelot Jordan was born in Georgetown (now George) South Africa, the youngest son of Mrs. J. E. Jordan.	William Lancelot Jordan	South Africa
+country of citizenship	J.C. Hryb (born John-Christophe Hryb) is an interior designer born in Versailles (France) and emigrated to The United States of America in 1993.	J.C. Hryb	France
+country of citizenship	György Pálfi (born 11 April 1974 in Budapest, Hungary) is a Hungarian filmmaker.	György Pálfi	Hungary
+country of citizenship	Kalzeubet Pahimi Deubet (born 1 January 1957) is a Chadian businessman and politician who has been Prime Minister of Chad since November 2013.	Kalzeubet Pahimi Deubet	Chad
+country of citizenship	Rosemarie Köhn (born 20 October 1939 in Rathenow) was a bishop in the Diocese of Hamar of the Church of Norway from 1993 to 1 November 2006.	Rosemarie Köhn	Norway
+country of citizenship	Professor Arthur Sserwanga is an accountant, academic and academic administrator in Uganda, the third-largest economy in the East African Community.	Arthur Sserwanga	Uganda
+country of citizenship	Shahnawaz Kabir is a First class and List A cricketer from Bangladesh.	Shahnawaz Kabir	Bangladesh
+country of citizenship	Etelvina Villanueva y Saavedra (1897--1969) was a Bolivian poet and educator In 1923, María Sánchez Bustamante organized the first feminist group in Bolivia El Ateneo Femenino with the goals of attaining civil and political equality as well as furthering their artistic growth.	Etelvina Villanueva y Saavedra	Bolivia
+country of citizenship	Slobodan Beštić (Serbian: Слободан Бештић) (born March 27, 1964 in Pančevo, Serbia) is a Serbian actor.	Slobodan Beštić	Serbia
+country of citizenship	Anwaar Ahmad (b. 11 June 1947 Multan) is an Urdu short story writer, scholar and academician from Pakistan.	Anwaar Ahmad	Pakistan
+country of citizenship	Bishop Christopher (secular name Ruben Spartas Mukasa, born Reuben Mukasa Mugimba Sobanja; 1899 - 1982) was an early-20th Century religious reformer in Uganda.	Ruben Spartas Mukasa	Uganda
+country of citizenship	Nikolai Getman (Mykola Hetman; Russian: Николай Гетман, Ukrainian: Микола Гетьман), an artist, was born in 1917 in Kharkiv, Ukraine, and died at his home in Orel, Russia, in August 2004.	Nikolai Getman	Russia
+country of citizenship	Toufic El Bacha (in Arabic توفيق الباشا) also written as Toufiq/Tawfiq el Basha/Al Basha (b. in Beirut, Lebanon 1924 - died Lebanon 2005) Lebanese renowned composer and musician.	Toufic El Bacha	Lebanon
+country of citizenship	Matthew Erickson is a Canadian voice actor who works for Ocean Studios in Vancouver, British Columbia, Canada and the Calgary-based Blue Water Studios.	Matthew Erickson	Canada
+country of citizenship	James J. Thomson was a Scottish footballer who played in the first ever international match, Scotland v England (1872), for Scotland.	James J. Thomson	Scotland
+country of citizenship	Sonia Theodoridou (Greek: Σόνια Θεοδωρίδου) was born in Veria, northern Greece.	Sonia Theodoridou	Greece
+country of citizenship	Marshall Godschalk (born 28 February 1984 in Curaçao) is a rower from the Netherlands.	Marshall Godschalk	Netherlands
+country of citizenship	Themis Tolis (born 28 March 1974, in Athens, Greece) is the drummer for Greek black metal band Rotting Christ.	Themis Tolis	Greece
+country of citizenship	Frederick Richard Edmund Emmett (11 December 1903 -- 3 July 1974) was a New Zealand music dealer and colour therapist.	Frederick Richard Edmund Emmett	New Zealand
+country of citizenship	Claude Longchamp (born March 14, 1957 in Fribourg, Switzerland) is a Swiss historian and political scientist (with no university degree).	Claude Longchamp	Switzerland
+country of citizenship	On February 8, 2013 Céline Bara was declared ineligible for a period of three years by the Constitutional Council of France.	Céline Bara	France
+country of citizenship	Goran Nava (Serbian Cyrillic: Горан Нава, born April 15, 1981) is a Serbian-Italian middle distance runner who competed for Serbia in track and field.	Goran Nava	Serbia
+country of citizenship	Master of the Housebook and Master of the Amsterdam Cabinet are two names used for an engraver and painter working in South Germany in the last quarter of the 15th century.	Master of the Housebook	Germany
+country of citizenship	Ibrahim Boubacar Keïta (born January 29, 1945), or as he is often known, IBK, is a Malian politician who has been President of Mali since 2013.	Ibrahim Boubacar Keïta	Mali
+country of citizenship	Elise Kellond-Knight (born 10 August 1990) is an Australia internationaln football player, who currently plays for Turbine Potsdam in the German Allianz Frauen Bundesliga and the Australian national team.	Elise Kellond-Knight	Australia
+country of citizenship	John Jackson Oakden (1818 -- 31 March 1884), pastoralist, was an English explorer of South Australia, part of the European exploration of Australia, and a pioneer runholder of the Canterbury Region of New Zealand.	John Jackson Oakden	Australia
+country of citizenship	Abdolvahed Mousavi Lari ( pronunciation ahb-dohl-vah-HEHD moo-sah-VEE LAH-ree; born 1954) was the interior minister of the Islamic Republic of Iran during the presidency of Mohammad Khatami.	Abdolvahed Mousavi Lari	Iran
+country of citizenship	Kathleen Satchwell, commonly known as Kathie Satchwell, is a judge of the Gauteng Division of the High Court (formerly the North Gauteng High Court) in South Africa.	Kathleen Satchwell	South Africa
+country of citizenship	Misto Treska (19 April 1914 - 23 June 1993) was an Albanian writer, translator, politician, prosecutor, and diplomat of Albania during communist regime.	Misto Treska	Albania
+country of citizenship	Juliana Schalch plays the First Daughter of the President of Brazil in the 2012 miniseries O Brado Retumbante.	Juliana Schalch	Brazil
+country of citizenship	Mary Elizabeth Simpson (1865--1948) was a notable New Zealand religious teacher, healer and writer.	Mary Elizabeth Simpson	New Zealand
+country of citizenship	Arturo de Ascanio (1929 -- April 6, 1997) is considered the father of Spanish card magic, referred to by Milbourne Christopher as ``the Dai Vernon of Spain''.	Arturo de Ascanio	Spain
+country of citizenship	Johnny Amadeus Cecotto, more commonly known as Johnny Cecotto Jr. (born September 9, 1989 in Augsburg, Germany) is a racing driver.	Johnny Cecotto Jr.	Germany
+country of citizenship	Leonardo Chiariglione (born 1943 in Almese, Turin province, Piedmont, Italy) is an Italian engineer.	Leonardo Chiariglione	Italy
+country of citizenship	Hari Manjhi (b. 28 January 1963) is a politician from Gaya, currently representing that Lok Sabha seat in the Parliament of India.	Hari Manjhi	India
+country of citizenship	Karl Brandt (January 8, 1904 -- June 2, 1948) was a German physician and Schutzstaffel (SS) officer in Nazi Germany.	Karl Brandt	Germany
+country of citizenship	Gintaras Sodeika (born 27 April 1961 in Vilnius, Lithuania) is a Lithuanian painter, composer and politician.	Gintaras Sodeika	Lithuania
+country of citizenship	Marita Karlsen (20 August 1957 -- 18 February 2003) was a Norwegian and swimmer who represented Norway in the late 1970s and the early 1980s.	Marita Karlsen	Norway
+country of citizenship	Mal Ryder (real name Paul Bradley Couling) (born 27 February 1944 in Llanfrechfa, Wales), is a British singer who became quite popular in Italy in the late 1960s, singing with Mal and the Primitives.	Mal Ryder	Italy
+country of citizenship	Khoisan X (4 March 1955 -- 13 October 2010), formerly Benny Alexander, was a South African political activist born in Kimberley, South Africa.	Khoisan X	South Africa
+country of citizenship	Savumiamoorthy Thondaman (August 30, 1913 -- October 30, 1999) also spelled Saumyamurthy Thondaman was a Sri Lankan politician who represented the Indian Tamils of Sri Lanka of which he was a member.	Savumiamoorthy Thondaman	Sri Lanka
+country of citizenship	Miguel Ramos Corrada born on 12 October (1949) in Llerandi (near Parres, Asturies, Spain), but lived in Xixón, where he died on 20 August (2013).	Miguel Ramos Corrada	Spain
+country of citizenship	Catherine de Vivonne, marquise de Rambouillet (1588 -- 2 December 1665), known as Madame de Rambouillet, was a society hostess and a major figure in the literary history of 17th-century France.	Catherine de Vivonne, marquise de Rambouillet	France
+country of citizenship	Rev. Charles Nerinckx (2 October 1761, Herfelingen -- 12 August 1824) was a Roman Catholic missionary priest who migrated from Belgium to work in Kentucky.	Charles Nerinckx	Belgium
+country of citizenship	Manaia Cherrington (born 2 August 1994) is a New Zealand professional rugby league footballer who currently plays for the Wests Tigers in the National Rugby League.	Manaia Cherrington	New Zealand
+country of citizenship	Lorraine Monk, OC, O.Ont, née Lorraine Althea Constance Spurrell (b. Montreal, Quebec, Canada) is a Canadian photographer.	Lorraine Monk	Canada
+country of citizenship	Tansel Başer (born 17 April 1978 in Melbourne, Victoria, Australia) is a former Australian-Turkish footballer.	Tansel Başer	Australia
+country of citizenship	Madonna Harris, MBE, formerly Madonna Gilchrist (born 1956), is a New Zealand multi-sportswoman who has competed for New Zealand at both the Summer and Winter Olympics.	Madonna Harris	New Zealand
+country of citizenship	On 28 April 1945, Henri Krasucki returned to France, ``just in time to demonstrate for the 1st of May,'' as he said humorously.	Henri Krasucki	France
+country of citizenship	Carmen María Montiel Ávila is a Venezuelan pageant titleholder She is the Miss Venezuela titleholder for 1984, and was the official representative of Venezuela to the Miss Universe 1984 pageant held in Miami, Florida, USA, on July 9, 1984, when she won the title of 2nd Runner Up.	Carmen María Montiel	Venezuela
+country of citizenship	J. Michael Miltenberger (born March 17, 1951 in Ottawa, Ontario, Canada) is a former carpenter and a current territorial level politician from northern Canada.	Michael Miltenberger	Canada
+country of citizenship	Bernard Mullins Campbell, also known as Bérnal Mullins, (born December 5, 1973 in Cartago, Costa Rica) is a retired Costa Rican football striker.	Bernard Mullins Campbell	Costa Rica
+country of citizenship	Grant Stevens (born 27 October 1953 in Walcha, NSW, Australia) left his homeland in the 1970s for London, where he recorded various albums and singles for his bands The Soho Jets and Razar, produced by The Who producer Kit Lambert.	Grant Stevens	Australia
+country of citizenship	Iva Obradović (Serbian Cyrillic: Ива Обрадовић, born May 6, 1984 in Novi Sad, SR Serbia, Yugoslavia) is a rower from Serbia.	Iva Obradović	Serbia
+country of citizenship	Olga Kozlova (Russian: Ольга Козлова; born 1986 in Penza, Russia) is a Russian pianist.	Olga Kozlova	Russia
+country of citizenship	Daniel Tam Chi Kin (also Tam Chi Kin, Chinese: 譚智健; pinyin: Tán Zhìjiàn; Jyutping: taam4 zi3 gin6; born July 28, 1980) is a Hong Kong former swimmer, who specialized in breaststroke events.	Tam Chi Kin	Hong Kong
+country of citizenship	Adolf Heeb (born 11 July 1940) is a former cyclist and politician from Liechtenstein.	Adolf Heeb	Liechtenstein
+country of citizenship	Shigeru Takada (Japanese:高田 繁, born July 24, 1945 in Osaka, Japan) is a former manager of the Hokkaido Nippon-Ham Fighters and the Tokyo Yakult Swallows in Japan's Nippon Professional Baseball.	Shigeru Takada	Japan
+country of citizenship	Trịnh Tùng (1550--1623), also known as Trịnh Tòng and later given the title Bình An Vương, was the de facto ruler of Vietnam from 1572 to 1623.	Trịnh Tùng	Vietnam
+country of citizenship	Gerald Morkel (born 2 February 1941) is a former Mayor of Cape Town and Premier of the Western Cape province in South Africa.	Gerald Morkel	South Africa
+country of citizenship	Ana Gros (born 21 January 1991 in Velenje, Slovenia, then Yugoslavia) is a Slovenian handballer who plays for Metz HB in right back position.	Ana Gros	Slovenia
+country of citizenship	Om Bikram Rana is the 20th IGP of Nepal.	Om Bikram Rana	Nepal
+country of citizenship	Lisa del Bo, was born Reinhilde Goossens on 9 June 1961 in Mopertingen, Belgium.	Lisa del Bo	Belgium
+country of citizenship	Fray Íñigo Abbad y Lasierra (1745--1813), born in Estadilla, Spain, was a Benedictine monk and the first historian to extensively document Puerto Rico's history, nationality and culture.	Fray Íñigo Abbad y Lasierra	Spain
+country of citizenship	Sakiko Yamaoka lives in Tokyo, Japan and graduated in 1984 from an art school in Musashino where she studied oil painting.	Sakiko Yamaoka	Japan
+country of citizenship	Irina Slutsky was born in Kazakhstan, which was, at the time, part of the Soviet Union.	Irina Slutsky	Soviet Union
+country of citizenship	Basem Ali (Arabic: باسم على‎; born 27 October 1988 in Cairo) is an Egyptian footballer who plays for Al-Ahly in the Egyptian Premier League, and for Egypt national football team.	Basem Ali	Egypt
+country of citizenship	João Zorro was a late 13th century Galician or Portuguese minstrel at the court of Afonso III of Portugal, or as it is most likely at the court of Denis of Portugal.	João Zorro	Portugal
+country of citizenship	So Chol (c. 1907 -- 1992) was a member of North Korea's inner ruling circle, holding political and diplomatic posts.	So Chol	North Korea
+country of citizenship	Salih Hulusi Pasha (Ottoman Turkish: صالح خلوصي پاشا‎;‎ 1864--1939), known as Salih Hulusi Kezrak after the 1934 Surname Law, was one of the last Grand Viziers of the Ottoman Empire, under the reign of the last Ottoman sultan Mehmed VI Vahdeddin, between 8 March 1920 and 2 April 1920.	Salih Hulusi Pasha	Ottoman Empire
+country of citizenship	Milena Reljin (Serbian Cyrillic: Милена Рељин) (born May 25, 1967 in Belgrade, SR Serbia, Yugoslavia) is a Serbian rhythmic gymnast.	Milena Reljin	Serbia
+country of citizenship	``It was called 'The United States of America versus Billie Holiday'.	Billie Holiday	United States of America
+country of citizenship	Mór Than also designed the first Hungarian postage stamp in 1848, but it was never used because Hungary remained part of the Austrian Empire in that time, after the Hungarian Revolution of 1848.	Mór Than	Austrian Empire
+country of citizenship	Eileen Kampakuta Brown was an Aboriginal elder from Australia.	Eileen Kampakuta Brown	Australia
+country of citizenship	Ata Messan Ajavon Zeus is a Togolese politician, and has been the chairman of the Save Togo Collective since the party was founded.	Ata Messan Ajavon Zeus	Togo
+country of citizenship	Sydney Crooks (born Sydney Roy Crooks, 24 February 1945, Westmoreland, Jamaica), also known as Sidney Crooks, Sidney Roy, Luddy Pioneer, Luddy Crooks and now Norris Cole, is a Jamaican singer and record producer, and a member of The Pioneers since 1962.	Sydney Crooks	Jamaica
+country of citizenship	Hippolyte Dangbeto (born November 2, 1969 in Grand-Popo, Benin) is a French born Beninese former professional football player.	Hippolyte Dangbeto	Benin
+country of citizenship	Kalyani Nair is a singer from Chennai, India (born in Thiruvananthapuram, Kerala).	Kalyani Nair	India
+country of citizenship	Martine Andraos (born 11 August 1990 in Kafaraaka, Koura district, Lebanon) was Miss Lebanon 2009.	Martine Andraos	Lebanon
+date of death	Frank Thorpe (13 November 1879 -- 17 April 1928) was an English footballer who played as a centre-half for various clubs in the 1900s, including Southampton and Bury, with whom he won the FA Cup in 1903.	Frank Thorpe	17 April 1928
+date of death	Ebenezer Adams (2 October 1765 -- 15 August 1841) was an American educator.	Ebenezer Adams	15 August 1841
+date of death	Norman Bullock (8 September 1900 -- 22 October 1970) was the manager of Leicester City from 1949 to 1955.	Norman Bullock	22 October 1970
+date of death	Thomas Bedwell (died April 1595) was an English mathematician and military engineer.	Thomas Bedwell	April 1595
+date of death	Reverend Fr. John M. Corridan (1911-1984) was a Jesuit priest who fought against corruption and organized crime on the New York City waterfront.	John M. Corridan	1984
+date of death	Arthur Stuart, 7th Earl Castle Stewart, MC (6 August 1889 -- 5 November 1961), styled Viscount Stuart from 1915 to 1921, was an Anglo-Irish peer and Unionist politician.	Arthur Stuart, 7th Earl Castle Stewart	5 November 1961
+date of death	Przybysław Dyjamentowski (1694--1774) - was a notable Polish documents forger and writer.	Przybysław Dyjamentowski	1774
+date of death	Edward Falles Spence, known as E.F. Spence, (1832--1892) was a California banker, entrepreneur and property developer who was a member of the state legislature, a Nevada County official and the mayor of Los Angeles, California, in 1884--86.	Edward Falles Spence	1892
+date of death	Cenaze Hasan Pasha (also known as Meyyit Hasan Pasha or Kethüda Hasan Pasha; died 1810) was a short-term Ottoman grand vizier in 1789.	Cenaze Hasan Pasha	1810
+date of death	William Gordon, 2nd Earl of Aberdeen (1679 -- 30 March 1746), known between c. 1691 and 1720 as Lord Haddo, was a Scottish peer, Tory politician and Jacobite.	William Gordon, 2nd Earl of Aberdeen	30 March 1746
+date of death	Fred Hughson (22 May 1914 -- 23 October 1987) was an Australian rules footballer who played for, captained, and later coached Fitzroy in the Victorian Football League (VFL).	Fred Hughson	23 October 1987
+date of death	René Burri (9 April 1933 -- 20 October 2014) was a Swiss photographer known for his photos of major political, historical and cultural events and key figures of the second half of the 20th century.	René Burri	20 October 2014
+date of death	Sergio Guerri (25 December 1905--15 March 1992) was an Italian Cardinal of the Roman Catholic Church who served as personal theologian to five popes from 1955 to 1989, and was elevated to the cardinalate in 1969.	Sergio Guerri	15 March 1992
+date of death	Georgios Kountouriotis (Greek: Γεώργιος Κουντουριώτης) (1782--1858) was a Greek ship-owner and politician who served as prime minister from March to October 1848.	Georgios Kountouriotis	1858
+date of death	Desert Orchid (11 April 1979 -- 13 November 2006), known as Dessie, was an English racehorse.	Desert Orchid	13 November 2006
+date of death	Eduardo Cremasco (1946 -- 11 September 1988) was an Argentine footballer.	Eduardo Cremasco	11 September 1988
+date of death	Fulbert of Chartres (French: Fulbert de Chartres; 952-970--10 April 1028) was the Bishop of Chartres from 1006 to 1028 and a teacher at the Cathedral school there.	Fulbert of Chartres	1028
+date of death	Sir Stuart Saunders Hogg CIE (17 February 1833 -- 23 March 1921) was a British civil servant in the Indian Civil Services of British India.	Stuart Saunders Hogg	23 March 1921
+date of death	Alfred Balfour (7 September 1885 -- 26 January 1963) was a British railwayman and politician.	Alfred Balfour	26 January 1963
+date of death	William Bardolf, 4th Baron Bardolf and 3rd Baron Damory (21 October 1349 -- 29 January 1386) of Wormegay, Norfolk, was an extensive landowner in Norfolk, Lincolnshire, Suffolk and Surrey.	William Bardolf, 4th Baron Bardolf	29 January 1386
+date of death	Ziri ibn Atiyya (Berber language: Ziri n Ɛaṭiyya Ameɣraw) also known as Ziri ibn Atiyya ibn Abd Allah ibn Tabādalt ibn Muhammad ibn Khazar az-Zanātī al-Maghrāwī al-Khazarī (died 1001) was the first tribal leader of the Berber Maghrawa tribal confederacy and kingdom.	Ziri ibn Atiyya	1001
+date of death	Sir John Hely (born c. 1650; died 7 April 1701) was an English-born judge in Ireland, who was also the founder of the prominent landowning Hely family of Foulkstown Castle, County Kilkenny, who are chiefly remembered for developing the village of Johnstown.	John Hely	7 April 1701
+date of death	Adam Sędziwój Czarnkowski, of the Nałęcz coat-of-arms (1555-1628) was a Polish nobleman (szlachcic).	Adam Sędziwój Czarnkowski	1628
+date of death	Janet Backhouse (8 February 1938 -- 3 November 2004) was a leading authority in the field of illuminated manuscripts.	Janet Backhouse	3 November 2004
+date of death	Ole Mørk Sandvik (9 May 1875 -- 5 August 1976) was a Norwegian educator, musicologist and folk-song collector.	Ole Mørk Sandvik	5 August 1976
+date of death	David A. Jenkins (1822--1886) was a Republican politician and North Carolina State Treasurer from 1868 until 1876.	David A. Jenkins	1886
+date of death	Henry Edward Shortt (15 April 1887 -- 9 November 1987) was an Anglo-Indian protozoologist.	Henry Edward Shortt	9 November 1987
+date of death	Peter Cadogan (26 January 1921 -- 18 November 2007) was an English writer and political activist Cadogan was born into a middle-class family in Newcastle upon Tyne, where his father was employed by a shipping company.	Peter Cadogan	18 November 2007
+date of death	Friedrich Heinrich Helmut Fritsche (January 2, 1932 - 2008) was a German agronomist and politician.	Helmut Fritsche	2008
+date of death	Kurt Gildisch (2 March 1904 -- 3 March 1956) became the third commander of Adolf Hitler's personal bodyguard (SS-Begleitkommando des Führers) on 11 April 1933.	Kurt Gildisch	3 March 1956
+date of death	William I, Count of Nassau-Dillenburg (nicknamed William the Rich, Dutch: Willem de Rijke; 10 April 1487 -- 6 October 1559) was a count of Nassau-Dillenburg from the House of Nassau.	William I, Count of Nassau-Dillenburg	6 October 1559
+date of death	Belle Chrystall (25 April 1910 -- 7 June 2003) was a British actress who appeared in a number of leading roles in British films during the 1930s.	Belle Chrystall	7 June 2003
+date of death	Laurie Kerr (25 June 1928 -- 28 December 2001) was an Australian rules footballer who played with Carlton in the VFL during the 1950s.	Laurie Kerr	28 December 2001
+date of death	Vice Admiral Sir Henry Kellett KCB (2 November 1806 -- 1 March 1875) was a British naval officer and explorer.	Henry Kellett	1 March 1875
+date of death	Ivan Nelipić (died 1344) was a prince (knez) of Knin (his seat) and Drniš and the region around the rivers Cetina, Čikola, Krka, and Zrmanja.	Ivan Nelipić	1344
+date of death	Sir John Addis KCMG (11 June 1914 -- 31 July 1983) was a British diplomat, ambassador to Laos, the Philippines and China, and a collector of Ming porcelain which he gave to the British Museum.	John Addis	31 July 1983
+date of death	Alfred Nicholson Leeds (9 March 1847 -- 25 August 1917) was an English amateur palaeontologist.	Alfred Nicholson Leeds	25 August 1917
+date of death	Austin Leslie (2 July 1934 -- 29 September 2005) was an internationally famous New Orleans, Louisiana, chef whose work defined 'Creole Soul'.	Austin Leslie	29 September 2005
+date of death	George von Kunheim (July 1523 -- 18 October 1611), born in the Prussian city of Wehlau (modern Znamensk) and died in Mühlhausen (modern Gvardeyskoye), married Margaretha Luther, youngest daughter and child of Martin Luther on August 5, 1555.	George von Kunheim	18 October 1611
+date of death	Thomas Gregg (18 November 1859 in Willford -- 25 March 1938 in Gotham) was an England cricket player who played 35 first-class matches for Gloucestershire and Somerset in the 1880s.	Thomas Gregg	25 March 1938
+date of death	Ibrahim Hassan Kheite (1930--1984), better known by the artistic name, Ibrahim Ghannam, was an artist considered to be one of the founders of the Palestinian plastic art movement.	Ibrahim Ghannam	1984
+date of death	Raja Swar Khan (died 1980), of Chajana Murree, was a notable Mangral Rajput and a headmaster of a Pakistani school as well as the leading personality of his area.	Raja Swar Khan	1980
+date of death	Maryon Eilertsen (9 January 1950 -- 24 January 2015) was a Norwegian actress and theatre director.	Maryon Eilertsen	24 January 2015
+date of death	Benjamin Harkarvy (16 December 1930 in New York City -- 30 March 2002 in New York City) was an American dance teacher, choreographer, and artistic director.	Benjamin Harkarvy	30 March 2002
+date of death	Elizabeth Killigrew, Viscountess Shannon (baptized 16 May 1622, St Margaret Lothbury, London -- died 1680) was an English courtier, the daughter of Sir Robert Killigrew and sister of dramatist Thomas Killigrew.	Elizabeth Killigrew, Viscountess Shannon	1680
+date of death	Mstivoj (935? - 995) was an Obodrite prince (princeps Winulorum) from 965 or 967 until his death.	Mstivoj	995
+date of death	Charles Louis Mitchell (26 February 1859 -- 30 May 1918) was a Scottish artist who gained a local reputation as a painter of landscapes and later of portraits.	Charles Louis Mitchell	30 May 1918
+date of death	Master of the Antwerp Adoration (active 1500 -- 1520), was a Flemish painter.	Master of the Antwerp Adoration	1520
+date of death	Søren Georg Jensen (4 October 1917 -- 20 September 1982) was a Danish silversmith and sculptor.	Søren Georg Jensen	20 September 1982
+date of death	Gustav Hartenstein (18 March 1808 -- 2 February 1890) was a German philosopher and author.	Gustav Hartenstein	2 February 1890
+date of death	Lauretta Masiero (25 October 1927 -- 23 March 2010) was an Italian actress and singer.	Lauretta Masiero	23 March 2010
+date of death	Lewis Strange Wingfield (1842--1891) was an Irish traveller, actor, writer, and painter.	Lewis Strange Wingfield	1891
+date of death	John Beloff (19 April 1920 -- 1 June 2006) was a psychology professor at Edinburgh University and parapsychologist.	John Beloff	1 June 2006
+date of death	Lolo Ferrari, born Eve Valois (9 February 1963 -- 5 March 2000), was a French dancer, sex star, pornographic actress, actress and singer billed as ``the woman with the largest breasts in the world'' though their size was artificially achieved.	Lolo Ferrari	5 March 2000
+date of death	Marcus Nonnenmacher (1653--1720) was a cabinet-maker for the Prague court.	Marcus Nonnenmacher	1720
+date of death	Samuel J. Stone (1887-1981) under the pseudonym B. Virdot gave out cash gifts to 150 people in Canton, Ohio in 1933 in an anonymous social experiment.	Samuel J. Stone	1981
+date of death	Jan Prandota (c. 1200 -- 20 September 1266) was bishop of Kraków from 1242 to his death in 1266.	Jan Prandota	20 September 1266
+date of death	Gladys Buchanan Unger (September 16, 1884 or 1885 -- May 25, 1940) was an American author who also lived in England, and who wrote screenplays for Broadway, plays for the London stage, and for Hollywood films.	Gladys Buchanan Unger	1940
+date of death	Joseph Hers (1884 -- 1965) was a Belgian railroad engineer who served as a botanist in northern China from 1919-1924 where he discovered several new varieties of lilac.	Joseph Hers	1965
+date of death	Yurye of Silla (r. 284-298, died 298), also known as Yuri or by his official title Yurye Isageum, was the fourteenth ruler of the Korean state of Silla.	Yurye of Silla	298
+date of death	Henricus Aeneae (born Henricus Aenee, 19 August 1743 -- 1 November 1810) was a Dutch scientist.	Henricus Aeneae	1 November 1810
+date of death	Charlotte Denman Lozier (March 16, 1844-January 3, 1870) was an American physician and lecturer.	Charlotte Denman Lozier	1870
+date of death	Abdul Ghani Lone (Urdu;عُبدالغنی لُون) ( pronunciation AHB-duhl GAH-nee LOHN 6 May 1932 -- 21 May 2002) was an Indian lawyer, politician and Kashmiri separatist leader.	Abdul Ghani Lone	21 May 2002
+date of death	Pietro Riminucci, also known as Serafino of Pietrarubbia, (Pietrarubbia, Pesaro e Urbino, Italy, 25 April 1875 -- Macerata, Italy, 17 March 1960) was a lay brother professed in the Order of Friars Minor Capuchin.	Pietro Riminucci	17 March 1960
+date of death	Munsha Singh Dukhi (1 July 1890 -- 26 January 1971) was an Indian national revolutionary and poet, who fought for the Independence of India from the British Empire.	Munsha Singh Dukhi	26 January 1971
+date of death	Karamanlı or Karamani Mehmet Pasha was an Ottoman statesman who served as Grand Vizier from 1477 to 1481.	Karamani Mehmet Pasha	1481
+date of death	Francis Inigo Thomas (1865--1950), known as Inigo Thomas, was a British artist and garden designer.	Inigo Thomas	1950
+date of death	Erbin of Dumnonia (ca. 427 -- ca. 480) was a 5th-century King of Dumnonia (now Cornwall and Devon) and saint of Wales.	Erbin of Dumnonia	480
+date of death	Margaret John (14 December 1926 -- 2 February 2011) was a Welsh, BAFTA award-winning actress, best known for her role as Doris in Gavin & Stacey.	Margaret John	2 February 2011
+date of death	Gerhard Aspheim (27 September 1930 -- 21 November 2009) was a Norwegian jazz trombonist.	Gerhard Aspheim	21 November 2009
+date of death	Gao Guanwu (Chinese: 高冠吾; pinyin: Gāo Guānwú; Wade--Giles: Kao Kuan-wu;Hepburn: Ko Kango); (1892 -- 1957) was a politician and military leader in the pre-war Republic of China.	Gao Guanwu	1957
+date of death	Sir Thomas Witherley MD (1618--1694) was Physician in Ordinary to King Charles II, Second Physician to King James II, and President of the Royal College of Physicians from 1684 to 1687.	Thomas Witherley	1694
+date of death	Sidi Mahrez ben Khalaf or Abu Mohamed Mahrez ben Khalaf ben Zayn (Arabic: سيدي محرز بن خلف‎; 951--1022) was a Tunisian Wali, scholar of the Maliki school of jurisprudence and a Qadi.	Sidi Mahrez	1022
+date of death	Thomas MacDonagh (Irish: Tomás Mac Donnchadha; 1 February 1878 -- 3 May 1916) was an Irish political activist, poet, playwright, educationalist and revolutionary leader.	Thomas MacDonagh	3 May 1916
+date of death	Ayatollah Sayyed Abbas Almohri (1912--1988) (آية الله سيد عباس المهري) was one of the first Kuwaiti Shia scholars based in Kuwait.	Abbas Almohri	1988
+date of death	Frederick Frye Rockwell (Orleans, Massachusetts, 1884--Nyack, New York, 1976) was an American author of gardening books, and an editor of numerous magazines and periodical columns pertaining to horticulture.	Frederick Frye Rockwell	1976
+date of death	Sir John Rivers (died 27 February 1584) was a Tudor-era businessman who became Lord Mayor of London.	John Rivers	27 February 1584
+date of death	Isabella Lilias Trotter (14 July 1853 -- 28 August 1928) was an artist and a Protestant missionary to Algeria.	Lilias Trotter	28 August 1928
+date of death	Count János Cseszneky de Milvány et Csesznek (ca. 1535-1593) was a Hungarian magnate, member of the Cseszneky family.	Count János Cseszneky de Milvány et Csesznek	1593
+date of death	Hans Engelmann (16 June 1872 - 5 May 1914) was a composer of popular music in the late 19th and early 20th centuries.	Hans Engelmann	5 May 1914
+date of death	Robert Dalglish (4 January 1808 -- 6 June 1880) was a Scottish Radical politician.	Robert Dalglish	6 June 1880
+date of death	Donald Reilly (11 November 1933 -- 18 June 2006) was a cartoonist best known for his long association with The New Yorker magazine.	Donald Reilly	18 June 2006
+date of death	Henry Munster (13 October 1823 -- 11 April 1894) was a British lawyer, sportsman and Liberal politician who was unseated at his only attempt at election to the House of Commons.	Henry Munster	11 April 1894
+date of death	Meir Amit (Hebrew: מאיר עמית‎, 17 March 1921 -- 17 July 2009) was an Israeli politician & cabinet minister.	Meir Amit	17 July 2009
+date of death	Jānis Pīnups (10 May 1925 -- 15 June 2007) was the last of the World War II Forest brothers, who only came out of hiding in 1995, at the age of 70.	Jānis Pīnups	2007
+date of death	John Lee Thompson (1 August 1914 -- 30 August 2002), better known as J. Lee Thompson, was an English film director, active in England and Hollywood.	J. Lee Thompson	30 August 2002
+date of death	John Millard Dunn (5 January 1865 -- 3 March 1936) was organist and choirmaster for St. Peter's Cathedral, Adelaide for 44 years.	John Millard Dunn	3 March 1936
+date of death	Abu Bakr Muhammad (died 941) was the first Muhtajid ruler of Chaghaniyan (10th-century--939) and governor of Samanid Khurasan (933--939).	Abu Bakr Muhammad	941
+date of death	Russell Spanner (1916--1974) was a Canadian designer who contributed to residential furniture designs in the 1950s.	Russell Spanner	1974
+date of death	Treadway Russell Nash (24 June 1724 -- 26 January 1811) was English clergyman, now known as an early historian of Worcestershire, and the author of Collections for the History of Worcestershire, an important source document for Worcestershire county histories.	Treadway Russell Nash	26 January 1811
+date of death	Louis de Gonzague Baillairgé, (18 February 1808 -- 20 March 1896), was the son of Pierre-Florent Baillairgé and grandson of Jean Baillairgé.	Louis de Gonzague Baillairgé	20 March 1896
+date of death	Jürgen Harpke (February 15, 1943 -- 2010) was an East German sprint canoer who competed in the late 1960s.	Jürgen Harpke	2010
+date of death	Ali Mardan Khan (Persian: علی مردان خان‎‎, Urdu: علی مردان خان‎) (died April 1657) was a Kurdish military leader and administrator, serving under the Safavid kings Shah Abbas I and Shah Safi, and later the Mughal ruler Shah Jahan.	Ali Mardan Khan	April 1657
+date of death	Hermann Blau (21 January 1871 -- 18 February 1944 ) was a German engineer and chemist, and inventor of Blau gas.	Hermann Blau	18 February 1944
+date of death	Margravine Albertina Frederica of Baden-Durlach (3 July 1682 -- 22 December 1755) was a German princess.	Margravine Albertina Frederica of Baden-Durlach	22 December 1755
+date of death	Gesualdo Francesco Ferri (San Miniato, Province of Pisa, January 2, 1728-1788) was an Italian painter, active mainly in Florence.	Gesualdo Francesco Ferri	1788
+date of death	Jin Zhuo (Chinese: 晉灼) was a Chinese scholar and commentator from the Jin state (晉, 265--420 CE) of the late 3rd--4th century CE. His works are cited by ancient and modern scholars, and in many cases his comments are only known from the works of the Chinese classical historians.	Jin Zhuo	420
+date of death	Frederick William Cadogan DL, JP (16 December 1821 -- 30 November 1904), styled The Honourable from 1831, was a British barrister and Liberal politician.	Frederick William Cadogan	30 November 1904
+date of death	Edward W Nelson (1883--1923) was an invertebrate zoologist and polar explorer.	Edward W Nelson	1923
+date of death	William Stourton, 5th Baron Stourton (c. 1457 -- 1523) was a younger son of the second Baron Stourton.	William Stourton, 5th Baron Stourton	1523
+date of death	Freddie Mack (15 September 1934 -- 11 January 2009), sometimes also spelled Freddy Mack and also known as Mr. Superbad, was a retired light-heavyweight boxer, who took the Gold medal for the United States at the 1952 Helsinki Olympics in Finland.	Freddie Mack	11 January 2009
+date of death	Dixon Ryan Fox (1887 in Potsdam, New York -- 1945) was an American educator, researcher, and president of Union College from 1934-45.	Dixon Ryan Fox	1945
+date of death	Mohammed Rafeh (9 March 1982 - 2 November 2012) was a Syrian actor popular around the Arab world.	Mohammed Rafeh	2 November 2012
+date of death	Lorrin Andrews (1795--1868) was an early American missionary to Hawaii and judge.	Lorrin Andrews	1868
+date of death	John F. McGrath, Jr (1922--2007) was the designer of the first electronic railroad track scale for Union Carbide.	John F. McGrath	2007
+date of death	Darizavyn Losol (Mongolian: Дарьжавын Лосол ; April 15, 1890 -- July 25, 1940) was a revolutionary leader and post-Revolution governmental figure in Mongolia until he was purged in 1939.	Darizavyn Losol	1940
+date of death	Piero Corti (16 September 1925 -- 20 April 2003) was an Italian doctor who chose to work in a hospital in Uganda for most of his life.	Piero Corti	20 April 2003
+date of death	Paul Adolphe Marie Prosper Granier de Cassagnac (1843, Guadeloupe -- 1904, Saint-Viâtre) was the son of Adolphe Granier de Cassagnac, and while still young associated with his father in both politics and journalism.	Paul Adolphe Marie Prosper Granier de Cassagnac	1904
+date of death	Tulio Chiossone (1905--2001) was a Venezuelan historian, writer, jurist and criminal lawyer, humanist, scholar, judge, legislator, politician, scholar and writer.	Tulio Chiossone	2001
+date of death	Maginel Wright Enright Barney (June 19, 1881 -- April 18, 1966) was an American children's book illustrator and graphic artist.	Maginel Wright Enright	1966
+date of death	Svea Kristina Frisch (15 June 1898 in Ramsberg, Örebro county -- 1991), known as Kristina Lindstrand, was a Swedish actor, journalist, author, and poet.	Svea Kristina Frisch	1991
+date of death	Alfred Macorig (8 December 1921 -- 21 December 1996) was an Italian-French racing cyclist.	Alfred Macorig	21 December 1996
+date of death	Francis Bindon (c.1690 -- 1765) was a popular architect and painter in 18th century Ireland.	Francis Bindon	1765
+date of death	John Tirel, or Tyrell (died 1395) was a prominent judge and statesman in fourteenth-century Ireland who held office as Serjeant-at-law (Ireland) and Chief Justice of the Irish Common Pleas.	John Tirel	1395
+date of death	Jayant Desai (born Jayantilal Jhinabhai Desai, 28 February 1909 -- 19 April 1976) was an Indian film director and producer.	Jayant Desai	19 April 1976
+date of death	Otto Zeinenger (1513--1576) was an obscure yet influential theologian of the early Reformation.	Otto Zeinenger	1576
+date of death	Adolf Gawalewicz (born 2 September 1916 in Lvov; died 11 June 1987 in Cracow) was a Polish jurist and writer best known for his memoirs of his years at Auschwitz and other Nazi concentration camps.	Adolf Gawalewicz	11 June 1987
+date of death	Louis-Prudent-Alexandre Robichaud (25 January 1890 -- 17 March 1971) was a New Brunswick political figure and jurist.	Louis-Prudent-Alexandre Robichaud	17 March 1971
+date of death	Israel Jacob Kligler (24 April 1888 -- 23 September 1944) was a microbiologist.	Israel Jacob Kligler	23 September 1944
+date of death	Richard C. Brown (1939--2004) served as the United States Ambassador to Uruguay under George H. W. Bush, from 1990 to 1993.	Richard C. Brown	2004
+date of death	Sir Thomas Plumer MR (10 October 1753 -- 5 April 1824) was a British judge and politician, the first Vice Chancellor of England and later Master of the Rolls.	Thomas Plumer	5 April 1824
+date of death	Veronica Guerin (5 July 1958 -- 26 June 1996) was an Irish crime reporter who was murdered on 26 June 1996 by drug lords, an event which helped establish the Criminal Assets Bureau.	Veronica Guerin	26 June 1996
+date of death	Max Rée (7 October 1889 -- 7 March 1953) was a Danish costume designer and art director.	Max Rée	7 March 1953
+date of death	Joel Abraham List (1780--1848) was one of the seven founding members of the Society for the Culture and Science of the Jews (Verein fuer Cultur und Wissenschaft der Juden); he served as its president from March 1820 to March 1821.	Joel Abraham List	1848
+date of death	Hugo Theodor Christoph (16 April 1831 -- 5 November 1894) was a German and Russian entomologist.	Hugo Theodor Christoph	5 November 1894
+date of death	Liang Zhenpu (梁振蒲) (1863--1932) was a Chinese martial artist.	Liang Zhenpu	1932
+date of death	Cecilia Lucy Brightwell (1811--1875), was an English etcher and author, mostly of volumes of short biographies intended for young people .	Cecilia Lucy Brightwell	1875
+date of death	Johann Conrad Brunner (16 January 1653 -- 2 October 1727) was a Swiss anatomist, especially cited for his work on the pancreas and duodenum.	Johann Conrad Brunner	2 October 1727
+date of death	Jean-Pierre Maréchal (4 October 1915 -- 27 June 1949) was an engineer and racing driver who died after his Aston Martin team car crashed in the first postwar running of the 24 Hours of Le Mans endurance race.	Pierre Maréchal	27 June 1949
+date of death	Abia Brown (1743 -- 1785) served as a Deputy to the Provincial Congress of New Jersey in 1775 (at Trenton) and 1776 (at New Brunswick).	Abia Brown	1785
+date of death	Sir Robert Fitzwygram, 2nd Baronet FRS (25 September 1773 -- 17 December 1843), born Robert Wigram, was a Director of the Bank of England and a Tory politician.	Sir Robert Fitzwygram, 2nd Baronet	17 December 1843
+date of death	Sir Reginald Blaker, 2nd Baronet TD (27 April 1900 -- 3 January 1975) was a British Conservative politician.	Reginald Blaker	3 January 1975
+date of death	Samuel Masham, 1st Baron Masham (1678/9 -- 1758), was a courtier in the court of Queen Anne, and the husband of her favourite, Abigail Masham (née Hill), Baroness Masham.	Samuel Masham, 1st Baron Masham	1758
+date of death	Dušan Žanko (10 November 1904, Trilj, Kingdom of Dalmatia -- 23 January 1980, Caracas) was a Croatian writer and the intendant of the Croatian National Theatre in Zagreb from 1941 to 1943.	Dušan Žanko	23 January 1980
+educated at	Theresa A. Jones is a researcher and professor at the University of Texas at Austin and the Institute for Neuroscience.	Theresa A. Jones	University of Texas at Austin
+educated at	Karl Klare graduated from Columbia University in 1967 with a Bachelor of Arts, and received his master's degree the following year from Yale University.	Karl Klare	Columbia University	Yale University
+educated at	In her honour, Robert Lewins established the Constance Naden Medal and had a bust of her installed at Mason Science College (now the University of Birmingham).	Constance Naden	University of Birmingham
+educated at	Robert Finigan's interest in wine was sparked while studying at Harvard University.	Robert Finigan	Harvard University
+educated at	Edward Zelinsky is a tax scholar on the subject of United States tax law, professor at Cardozo Law School in New York City, and frequent visiting professor at the Yale Law School.	Edward Zelinsky	Yale Law School
+educated at	Richard Henry Walthew was born in Islington in Middlesex, the only son of Richard Frederick Walthew and his wife, Emily the daughter of Charles Jeffreys Esq. He was a pupil of Hubert Parry for four years at the Royal College of Music (1890--1894).	Richard Henry Walthew	Royal College of Music
+educated at	Charles Nam attended an Army Specialized Training Program at Harvard University in 1944, completed his Bachelor of Arts in Applied Statistics at New York University in 1950 and attended the University of North Carolina at Chapel Hill for both his Master's degree in Sociology (1957) as well as his Ph.D (1959).	Charles Nam	Harvard University	New York University	University of North Carolina at Chapel Hill
+educated at	Reverend William Webb Ellis (24 November 1806 -- 24 January 1872) was an Anglican clergyman and the alleged inventor of rugby football whilst a pupil at Rugby School.	William Webb Ellis	Rugby School
+educated at	Steven Heine received a B.A. in Religious Thought from the University of Pennsylvania in 1971.	Steven Heine	University of Pennsylvania
+educated at	At his alma mater the University of Michigan, Evans founded the John D. Evans Fund for Media and Technology in 1997, which among other things supports the John D. Evans Chair in Media Technology.	John D. Evans	University of Michigan
+educated at	Nicolás Repetto was born in Buenos Aires in 1871 and enrolled at the prestigious Colegio Nacional de Buenos Aires, a public college preparatory school.	Nicolás Repetto	Colegio Nacional de Buenos Aires
+educated at	Born in Milwaukee, Wisconsin, Paul Farrow graduated from the Waukesha County Technical College and Carroll University.	Paul Farrow	Waukesha County Technical College
+educated at	Karl Paymah attended Washington State University and was a letterman in football.	Karl Paymah	Washington State University
+member of political party	Fayez Ghosn (Arabic: فايز غصن‎) (born 28 June 1950) is a Lebanese politician, the former minister of defense, and a member of the Marada Movement.	Fayez Ghosn	Marada Movement
+member of political party	Luiz Eduardo Greenhalgh is a Brazilian politician and one of the founders of the Workers' Party (``PT'').	Luiz Eduardo Greenhalgh	Workers' Party
+member of political party	Gyula Hegyi (born 30 April 1951 in Békéscsaba) is a Hungarian politician and a former Member of the European Parliament for the Hungarian Socialist Party, part of the Party of European Socialists.	Gyula Hegyi	Hungarian Socialist Party
+member of political party	Marceli Nowotko (Polish pronunciation: (marˈt͡sɛli nɔˈvɔtkɔ); pseudonyms: Marian, Stary; 8 July 1893, Warsaw -- 28 November 1942, Warsaw) was a Polish communist activist and first secretary of the Polish Workers Party (PPR).	Marceli Nowotko	Polish Workers Party
+member of political party	Munishwar Dutt Upadhyay (3 August 1898 - 26 June 1983) was an Indian politician and statesman, a leader in the Indian independence movement, the Educationist and Member of Parliament from Pratapgarh, Uttar Pradesh belongs to the Indian National Congress.	Munishwar Dutt Upadhyay	Indian National Congress
+member of political party	Anneliese Dodds (born 16 March 1978) is a British Member of the European Parliament for the South East England region for the Labour Party.	Anneliese Dodds	Labour Party
+member of political party	Jaime Serrano Cedillo (1967 -- 16 September 2012) was the deputy of Nezahualcóyotl, State of Mexico and a member of the Institutional Revolutionary Party (PRI).	Jaime Serrano Cedillo	Institutional Revolutionary Party
+member of political party	Datuk Eric Majimbun (born 7 February 1950) was the Member of the Parliament of Malaysia for the Sepanggar constituency in Sabah from 2004 to 2013, as a member of the Sabah Progressive Party (SAPP).	Eric Majimbun	Sabah Progressive Party
+member of political party	Joseph Berchtold (6 March 1897 -- 23 August 1962) was an early senior Nazi Party member and a co-founder of both the Sturmabteilung (SA) and Schutzstaffel (SS).	Joseph Berchtold	Nazi Party
+member of political party	John Patrick Hopkins (October 29, 1858 -- October 13, 1918) served as mayor of Chicago, Illinois (1893--1895) for the Democratic Party.	John Patrick Hopkins	Democratic Party
+member of political party	Sitaram Yechury (born 12 August 1952) is an Indian politician and a leader of the Communist Party of India (Marxist).	Sitaram Yechury	Communist Party of India (Marxist
+mouth of the watercourse	The Chambira River is a major tributary river of the Marañón River, and has been the traditional territory of the Urarina peoples for at least the past 350 years, if not much longer.	Chambira River	Marañón River
+mouth of the watercourse	The Rhonelle is a river of northern France, right tributary of the Scheldt.	Rhonelle	Scheldt
+mouth of the watercourse	The Little Ossipee River is a 33.7-mile-long (54.2 km) tributary of the Saco River in southwestern Maine, USA.	Little Ossipee River	Saco River
+mouth of the watercourse	The river Glems is a right tributary of the river Enz in Baden-Württemberg, Germany and around 45 km (28 mi) long.	Glems	Enz
+mouth of the watercourse	The Sonthi River (Thai: ลำสนธิ, rtgs: Lam Sonthi, Thai pronunciation: (lam sǒntʰíʔ)) is a tributary of the Pa Sak River.	Sonthi River	Pa Sak River
+performer	Troublizing was released by Ric Ocasek in 1997 on Sony Records.	Troublizing	Ric Ocasek
+performer	``Neverending Love'', written by Per Gessle, was the first release by the Swedish pop duo Roxette, and was later included on their debut album Pearls of Passion.	Neverending Love	Roxette
+performer	TP.3 Reloaded is the seventh studio album by R&B singer R. Kelly.	TP.3 Reloaded	R. Kelly
+performer	Impact Is Imminent is the fourth album by thrash metal band Exodus, released in 1990.	Impact Is Imminent	Exodus
+performer	Love and Poetry is the first studio album by British psychedelic band Andwella's Dream.	Love and Poetry	Andwella
+performer	To the Nameless Dead is the sixth studio album by the Irish black metal band Primordial, released in 2007.	To the Nameless Dead	Primordial
+performer	Antes de que Cuente Diez (English: Before I Count to Ten) is the fifth studio album by Spanish rock band Fito & Fitipaldis.	Antes de que Cuente Diez	Fito & Fitipaldis
+performer	``Haven't Met You Yet'' is the first single from Canadian singer Michael Bublé's fourth album, Crazy Love, released on August 31, 2009.	Haven't Met You Yet	Michael Bublé
+performer	Legs to Make Us Longer is the second album by American guitarist Kaki King, released in 2004 (see 2004 in music).	Legs to Make Us Longer	Kaki King
+performer	``Flyin' High (In the Friendly Sky)'' is a 1971 song co-written and produced by singer Marvin Gaye, later issued as the third track on Marvin's lauded What's Going On album.	Flyin' High (In the Friendly Sky)	Marvin Gaye
+performer	``Luchini AKA This Is It'' is the lead single released from Camp Lo's debut album, Uptown Saturday Night.	Luchini AKA This Is It	Camp Lo
+performer	My Heart Has a Wish That You Would Not Go is the fourth and final studio album by Scottish band Aereogramme.	My Heart Has a Wish That You Would Not Go	Aereogramme
+performer	Gas 5 was Gasolin's fifth album in five years and was released in October 1975.	Gas 5	Gasolin
+performer	When Lightn' Strikes is an album by Canadian guitarist Lenny Breau, released in 1984.	When Lightn' Strikes	Lenny Breau
+performer	``Hold Me, Thrill Me, Kiss Me, Kill Me'' is a 1995 single by U2 from the Batman Forever soundtrack album.	Hold Me, Thrill Me, Kiss Me, Kill Me	U2
+performer	Phosphene Dream is the third album from Austin, Texas rock band The Black Angels.	Phosphene Dream	The Black Angels
+performer	Ladies Edition, Woman's World is R&B group H-Town's third album, released October 28, 1997.	Ladies Edition, Woman's World	H-Town
+performer	Acid Reflex is the sixth studio album by rapper Paris.	Acid Reflex	Paris
+performer	Some Other Stuff is the second album by American trombonist Grachan Moncur III recorded in 1964 and released on the Blue Note label in 1965.	Some Other Stuff	Grachan Moncur III
+performer	Start the Car is the third solo album from the singer/songwriter Jude Cole.	Start the Car	Jude Cole
+performer	Corazón Profundo (English: Deep Heart) is the thirteenth studio album by Colombian recording artist Carlos Vives, released by Sony Music on April 23, 2013.	Corazón Profundo	Carlos Vives
+performer	``What Kind of Fool'' is the title of a vocal duet from 1981 (see 1981 in music) by singers Barbra Streisand and Barry Gibb.	What Kind of Fool	Barbra Streisand	Barry Gibb
+performer	We Are Legends is the sixth album released by rap group, Partners-N-Crime.	We Are Legends	Partners-N-Crime
+performer	``She La'' is the second single by Canadian rock group 54-40 from the band's 1992 album, Dear Dear.	She La	54-40
+performer	Take Off Your Clothes! is a comedy album by Bob Kevoian of The Bob & Tom Show, which was first released in 2000.	Take Off Your Clothes!	Bob Kevoian
+performer	Sean-Nós Nua is the sixth full-length album by Irish singer Sinéad O'Connor.	Sean-Nós Nua	Sinéad O'Connor
+performer	Night Fly is the first mini-album released by Japanese actress and Japanese pop artist Ai Maeda.	Night Fly	Ai Maeda
+performer	``Me Muero'' (Spanish for ``I Die'' or ``I Am Dying'') is La 5ª Estación's second single release from their third studio album, El mundo se equivoca.	Me Muero	La 5ª Estación
+performer	``Hey Daddy (Daddy's Home)'' is a song by American R&B singer, Usher.	Hey Daddy (Daddy's Home)	Usher
+performer	``Pump It Up!'' is a song recorded by Belgian artist Danzel.	Pump It Up!	Danzel
+performer	Birth of the Sun is a 2002 album released by bassist Marcel Jacob credited as Rising Force.	Birth of the Sun	Rising Force
+performer	The Latin Bit is an album by American jazz guitarist Grant Green featuring performances recorded in 1962 and released on the Blue Note label.	The Latin Bit	Grant Green
+performer	``I Am the Mob'' is a song by Welsh rock band Catatonia from their album International Velvet.	I Am the Mob	Catatonia
+performer	Jazz in the Garden is the debut release from the Stanley Clarke Trio, featuring pianist Hiromi and drummer Lenny White.	Jazz in the Garden	Stanley Clarke	Lenny White
+performer	Ending Is Beginning is the fifth official album release from Christian rock band Downhere.	Ending Is Beginning	Downhere
+performer	``Hey, Soul Sister'' is a song by the American rock band Train.	Hey, Soul Sister	Train
+performer	Hit & Myth is the fifth studio album by New Zealand singer Jenny Morris, released in August 2002, by Yep!	Hit & Myth	Jenny Morris
+performer	The Roar of the Greasepaint is an album by American jazz pianist Ahmad Jamal featuring performances of tunes from the musical, The Roar of the Greasepaint --	The Roar of the Greasepaint	Ahmad Jamal
+performer	``S-E-X-X-Y'' is a single released in 1996 by musical group They Might Be Giants, alongside their sixth album, Factory Showroom.	S-E-X-X-Y	They Might Be Giants
+performer	``Instrumedley'' (a portmanteau of instrumental medley), sometimes referred to as The Dance of Instrumentals, is an instrumental musical piece performed only during live shows by the progressive metal band Dream Theater.	Instrumedley	Dream Theater
+performer	The Silent World of Hector Mann is a 2010 album by Duke Special, featuring songs inspired by the fictional silent film star Hector Mann from Paul Auster's 2002 novel The Book of Illusions, who starred in twelve films before disappearing.	The Silent World of Hector Mann	Duke Special
+performer	Powertrip is the fourth studio album by Monster Magnet, released on June 16, 1998.	Powertrip	Monster Magnet
+performer	``Start of Something Good'' is the fourth official single from American rock band Daughtry's album Break the Spell.	Start of Something Good	Daughtry
+performer	``One Moment in Time'' is a worldwide hit Emmy Award winning song written by Albert Hammond and John Bettis, produced by Narada Michael Walden and recorded by American singer Whitney Houston for the 1988 Summer Olympics and the 1988 Summer Paralympics held in Seoul, South Korea.	One Moment in Time	Whitney Houston
+performer	Overground Music is the debut 1990 album (not counting the cassette-only albums released the previous year) from the Hungarian musical ensemble After Crying.	Overground Music	After Crying
+performer	``Feels Like Tonight'' is the fourth main single (sixth overall) from Daughtry's debut album.	Feels Like Tonight	Daughtry
+performer	``O-o-h Child'' is a 1970 single recorded by Chicago soul family group the Five Stairsteps and released on the Buddah label.	O-o-h Child	Five Stairsteps
+performer	Groncho is the third b-side album by Argentine rock group Babasónicos.	Groncho	Babasónicos
+performer	I Have the Room Above Her is an album by jazz drummer Paul Motian recorded in 2004 released on the ECM label and featuring performances by Motian with Bill Frisell and Joe Lovano.	I Have the Room Above Her	Paul Motian
+performer	Stop All the World Now is the second full-length album by American singer-songwriter Howie Day.	Stop All the World Now	Howie Day
+performer	``Cosmic Love'' is a song by English indie rock band Florence and the Machine, released as the sixth (seventh, counting the re-release of ``Dog Days Are Over'') single from their debut album Lungs (2009).	Cosmic Love	Florence and the Machine
+performer	Feel This is the third album by The Jeff Healey Band.	Feel This	Jeff Healey
+performer	Bass on Top is an album by American jazz bassist Paul Chambers recorded in 1957 and released on the Blue Note label.	Bass on Top	Paul Chambers
+performer	Congliptious is a 1968 album by Roscoe Mitchell's Art Ensemble which later became the Art Ensemble of Chicago.	Congliptious	Roscoe Mitchell
+performer	Unglaublicher Laerm (English: Incredible Noise) is the second release of Einstürzende Neubauten's Musterhaus project, a series of highly experimental CD releases that were only available via an annual subscription through their website or from shows during their 25th Anniversary Tour.	Unglaublicher Laerm	Einstürzende Neubauten
+performer	``Someone Else's Trouble Now'' is a song written by Pam Tillis and Gary Nicholson, and recorded by American country music band Highway 101.	Someone Else's Trouble Now	Highway 101
+performer	Min barndoms jular is a Christmas album from Swedish country and pop-schlager singer Kikki Danielsson.	Min barndoms jular	Kikki Danielsson
+performer	Boomchild is the third solo album from Dennis DeYoung.	Boomchild	Dennis DeYoung
+performer	Pampered Menial is the debut album by American progressive rock/AOR band Pavlov's Dog, released in 1975.	Pampered Menial	Pavlov's Dog
+performer	Released in 2010, Moments with Allah is the seventh album released by Ahmed Bukhatir.	Moments with Allah	Ahmed Bukhatir
+performer	The Big Sell-Out is the fourth studio album by the experimental college rock/art-rock band Bongwater.	The Big Sell-Out	Bongwater
+performer	``My Little Town'' is a 1975 song by the American duo Simon & Garfunkel.	My Little Town	Simon & Garfunkel
+performer	Culeg Vise (English: I Pick Up Dreams) is the eleventh studio album by Romanian female recording artist and songwriter Paula Seling, the winner of Golden Stag in 2002.	Culeg Vise	Paula Seling
+performer	On Broadway Volume 3 is the third album of Broadway show tunes by Paul Motian to be released on the German JMT label.	On Broadway Volume 3	Paul Motian
+performer	We Can Replace You is the debut CD of the Chicago-based rock band, The Cells.	We Can Replace You	The Cells
+performer	``Blue American'' is a song on alternative rock band Placebo's third album, Black Market Music.	Blue American	Placebo
+performer	The Long Fall Back to Earth is the ninth full-length studio album from Jars of Clay.	The Long Fall Back to Earth	Jars of Clay
+performer	Tennessee Slim Is the Bomb is the fourth album by American R&B/rock singer, Joi, and was released independently through Joi's own Joilicious Music Label.	Tennessee Slim Is the Bomb	Joi
+performer	Kiss + Swallow is the debut album by IAMX and was released on July 13, 2004.	Kiss + Swallow	IAMX
+performer	Nurds is a 1980 album by The Roches, the follow-up to their debut.	Nurds	The Roches
+performer	Painted Head is an album by folk artist Tim Hardin, recorded in England and released in 1972.	Painted Head	Tim Hardin
+performer	ZT's Blues is the fifth album by jazz saxophonist Stanley Turrentine recorded for the Blue Note label in 1961 but not released until 1985 and performed by Turrentine with Tommy Flanagan, Grant Green, Paul Chambers, and Art Taylor.	ZT's Blues	Stanley Turrentine
+performer	The Beauty of Hindsight is the thirteenth studio album by the British singer Judie Tzuke.	The Beauty of Hindsight	Judie Tzuke
+performer	Violeta Violeta is a series of studio albums by Norwegian alternative rock group Kaizers Orchestra, comprising their sixth, seventh, and eighth studio albums.	Violeta Violeta	Kaizers Orchestra
+performer	Casting Shadows (2003) is the seventh and final studio album by the German synthpop duo Wolfsheim.	Casting Shadows	Wolfsheim
+performer	Love Starts After Dark is the fourth and final album by Gene Page.	Love Starts After Dark	Gene Page
+performer	``Quand tu reviendras'' (English translation: ``When Will You Come Back'', sometimes attested ungrammatically as ``When You Will Come Back'') was the Belgian entry in the Eurovision Song Contest 1968, performed in French by Claude Lombard.	Quand tu reviendras	Claude Lombard
+performer	``Island Girl'' is a song performed by Elton John that went to number one for three weeks on the Billboard Hot 100 in the U.S. and number 14 in the UK in 1975.	Island Girl	Elton John
+performer	Soul on Soul is the 14th album by trumpeter Dave Douglas and his first on a major label.	Soul on Soul	Dave Douglas
+performer	``Long, Long Way to Go'' is a 2003 song by British hard rock band Def Leppard from their X album.	Long, Long Way to Go	Def Leppard
+performer	War Orphans is an album by Swedish pianist Bobo Stenson recorded in 1997 and released on the ECM label.	War Orphans	Bobo Stenson
+performer	Todo Lo Que Soy-En Vivo is a live album by Fey, a Mexican pop singer.	Todo Lo Que Soy-En Vivo	Fey
+performer	Wanderer on the Edge of Time is the ninth album from progressive/thrash metal band Mekong Delta, released in June 2010.	Wanderer on the Edge of Time	Mekong Delta
+place of birth	Chay Yew (謝耀) is a playwright and stage director who was born in Singapore.	Chay Yew	Singapore
+place of birth	Maryam Moqadam (Persian: مریم مقدم‎, born 1970 in Tehran) is an Iranian actress.	Maryam Moqadam	Tehran
+place of birth	Ascelin of Lombardy, also known as Nicolas Ascelin or Ascelin of Cremona, was a 13th-century Dominican friar whom Pope Innocent IV sent as an envoy to the Mongols in March 1245.	Ascelin of Lombardy	Cremona
+place of birth	Jakob Jantscher (born January 8, 1989 in Graz) is an Austrian professional footballer who plays as a winger or striker for FC Luzern in the Swiss Super League.	Jakob Jantscher	Graz
+place of birth	Johnny Maddox (born August 4, 1927 in Gallatin, Tennessee, United States) is an American ragtime pianist, historian, and collector of musical memorabilia.	Johnny Maddox	Gallatin, Tennessee
+place of birth	Maria Vladimirovna, Grand Duchess of Russia (Russian: Мари́я Влади́мировна Рома́нова; born 23 December 1953 in Madrid), has been a claimant to the headship of the Imperial Family of Russia who reigned as Emperors and Autocrats of All the Russias, since 1992.	Maria Vladimirovna, Grand Duchess of Russia	Madrid
+place of birth	Shergo Biran (born 4 January 1979 in West Berlin) is a German football player of Albanian ethnic origin.	Shergo Biran	Berlin
+place of birth	Ian MacLean (born August 13, 1966 in Paisley, Scotland) is a former footballer.	Ian MacLean	Paisley
+place of birth	Zsuzsanna Lovász-Pavlik (née Lovász; born 17 December 1976 in Budapest) is a retired Hungarian handball player.	Zsuzsanna Lovász-Pavlik	Budapest
+place of birth	John Nesmith (August 3, 1793 in Windham, New Hampshire -- October 15, 1869) was an American politician who served as the 25th Lieutenant Governor for the Commonwealth of Massachusetts in 1862.	John Nesmith	Windham, New Hampshire
+place of birth	Albert Leung (Hong Kong, 7 December 1961) pen name Lin Xi (林夕) is a prolific and award-winning lyricist based in Hong Kong.	Lin Xi	Hong Kong
+place of birth	Patrick Conrad (born 16 July 1945 in Antwerp) is a Flemish poet, screenwriter and novelist, and one of the founders of The Pink Poets.	Patrick Conrad	Antwerp
+place of birth	Karel Finek (27 May 1920 in Hradec Králové--8 September 1989) was a Czech footballer and football manager.	Karel Finek	Hradec Králové
+place of birth	Rubin Dantschotter (Dutch pronunciation: (ˈrybɪn ˈdɑntsxɔtər); born 18 February 1986 in Bruges) is a Belgian professional football player.	Rubin Dantschotter	Bruges
+place of birth	Yehudi Menuhin was born in New York City to a family of Belorussian Jews.	Yehudi Menuhin	New York City
+place of birth	Theyre Lee-Elliott (28 May 1903 -- 24 December 1988) was an English artist who created notable Art Deco logos such as the Speedbird and painted the ballet and religious art. He was born David Lee Theyre Elliott in 1903 in Lewes.	Theyre Lee-Elliott	Lewes
+place of birth	Jack Syperek (born September 25 in Antigonish, Nova Scotia) is a Canadian musician who is best known as the bassist for the rock group The Trews.	Jack Syperek	Antigonish
+place of birth	Hans Adam Dorten was born in Endenich and attended primary and secondary schools in nearby Bonn.	Hans Adam Dorten	Endenich
+place of birth	Leah Remini was born in New York City, in Brooklyn, to Vicki Marshall, a schoolteacher, and George Remini, who owned an asbestos removal company.	Leah Remini	Brooklyn
+place of birth	Born in Savannakhet, Laos in 1961, Vong Phaophanit was educated in Paris and later studied at the Ecole des Beaux Arts, Aix en Provence, in France.	Vong Phaophanit	Savannakhet
+place of birth	Patrick Leugueun (born February 25, 1982 in Yaoundé) is a Cameroonian football defender currently playing for the French side Stade Bordelais.	Patrick Leugueun	Yaoundé
+place of birth	Alberto Fuentes Mohr was born in Quetzaltenango on 22 November 1927 as the son Dr. Alberto Fuentes Castillo and Maria Luisa Mohr.	Alberto Fuentes Mohr	Quetzaltenango
+place of birth	Adam Logan (born 1975 in Kingston, Ontario) is a research mathematician and a top Canadian Scrabble player.	Adam Logan	Kingston
+place of birth	Rong Hao started his football career with Wuhan Guanggu in 2006, making his debut and scoring his first goal for the club on 27 May 2006 in a 1-0 win against Shenyang Ginde.	Rong Hao	Wuhan
+place of birth	John Hyden (born October 7, 1972 in Pensacola, Florida), and raised in San Diego, California, where he attended Mt.	John Hyden	Pensacola
+place of birth	Antun Vrančić was from Dalmatian town of Šibenik (modern Croatia), then part of the Republic of Venice.	Antun Vrančić	Šibenik
+place of birth	Mikhail Prishvin was born in the family mansion of Krutschevo in Oryol Governorate (now in Stanovlyansky District, Lipetsk Oblast) into the family of a merchant.	Mikhail Prishvin	Lipetsk Oblast
+place of birth	Yang Hi Choe-Wall was born in Seoul, Korea, the fourth child of a family of six children.	Yang Hi Choe-Wall	Seoul
+place of birth	Sharon Walraven (born 19 June 1970, Schaesberg) is a Dutch wheelchair tennis player.	Sharon Walraven	Schaesberg
+place of birth	Giorgio da Sebenico was born in the Dalmatian city of Zara (now Zadar, Croatia), which was part of the Republic of Venice (see Venetian Dalmatia).	Giorgio da Sebenico	Zadar
+place of birth	Ján Svorada (born August 28, 1968 in Trenčín) is a retired Slovak and Czech road racing cyclist.	Ján Svorada	Trenčín
+place of birth	Nurkhon (``Нурхон''), Nurkhon Yulacheva, was a young Uzbek dancer born in Margilan, a city in Fergana Province in eastern Uzbekistan.	Nurkhon	Margilan
+place of birth	Like Ausonius, Siburius came from Bordeaux.	Siburius	Bordeaux
+place of birth	Muhammad ibn Yusuf al-Harawi (Persian: محمد بن یوسف هروی‎‎, fl. 1492-1518 and died 1542) was a Persian late 15th century physician from Herat, now part of Afghanistan.	Muhammad ibn Yusuf al-Harawi	Afghanistan
+place of birth	Chin Sophonpanich (Thai: ชิน โสภณพนิช, Chinese: 陳弼臣, 1910 - 1988) was a prominent Thai businessman and the founder of Bangkok Bank and Bangkok Insurance.	Chin Sophonpanich	Bangkok
+place of birth	Johann Joseph Gassner (22 August 1727 in Braz, near Bludenz, Vorarlberg -- 1779 Pondorf, now part of Winklarn, Bavaria) was a noted exorcist.	Johann Joseph Gassner	Bludenz
+place of birth	Sidi Mohamed Barkat (born 1948 in Oran) is an Algerian philosopher employed in Paris.	Sidi Mohamed Barkat	Oran
+place of birth	Tan Mang Ling (born 9 October 1974 in Kuala Lumpur), usually credited as Ling Tan, is a Malaysian supermodel.	Ling Tan	Kuala Lumpur
+place of birth	Mark Saltzman began his career in New York City as a script writer and songwriter for Sesame Street, where he earned seven Emmy awards.	Mark Saltzman	New York City
+place of birth	Gong Li was born in Shenyang, China, Liaoning, the youngest in a family of five children.	Gong Li	Shenyang
+place of birth	Rola El-Halabi (in Arabic رولا الحلبي) (born in Beirut, Lebanon, on 17 March 1985) is a professional German boxer of Lebanese origin and former double world champion in the WIBF and WIBA.	Rola El-Halabi	Beirut
+place of birth	Manuel Rivera Garrido (born 16 March 1978 in Lima), known as Rivera, is a Peruvian football player.	Manuel Rivera Garrido	Lima
+place of birth	The City of Regina named a hockey arena in Murray Balfour's honour.	Murray Balfour	Regina
+place of birth	Pieter Timmermans (Ninove, 14 June 1964) is a Belgian businessman and CEO of the Federation of Belgian Enterprises.	Pieter Timmermans	Ninove
+place of birth	Annemarie Bostroem was born to a family of doctors in Leipzig.	Annemarie Bostroem	Leipzig
+place of birth	Soufiane Dadda (born 18 June 1990, in Venlo) is a Dutch-Moroccan professional footballer who is currently without a club.	Soufiane Dadda	Venlo
+place of birth	Rafael Guízar y Valencia was born in Cotija de la Paz, Michoacán, on April 26, 1878 (his brother, Antonio Guízar y Valencia, served as the Bishop of Chihuahua for 49 years).	Rafael Guízar y Valencia	Michoacán
+place of birth	Anna Gasser (born 16 August 1991, Villach) is an Austrian snowboarder, competing in slopestyle.	Anna Gasser	Villach
+place of birth	Alain Manoukian was born to Armenian parents in Marseille, France on 19 February 1946.	Alain Manoukian	Marseille
+place of birth	Jeff Widener (born August 11, 1956 in Long Beach, California) is an American photographer, best known for his image of the Tank Man confronting a column of tanks in Tiananmen Square during the Tiananmen Square protests of 1989 which made him a nominated finalist for the 1990 Pulitzer.	Jeff Widener	Long Beach
+place of birth	Aleksandr Aleksandrovich Mikhailov (1888, Morshansk - 1983) was a Russian astronomer who was a member of the Soviet Academy of Sciences.	Aleksandr Aleksandrovich Mikhailov	Morshansk
+place of birth	Charles Keeping was born and grew up in Lambeth, London, in a terraced house that housed three generations.	Charles Keeping	Lambeth
+place of birth	Lange was born in Oakland, California, the son of Geraldine L., a television show host, and Ted Lange.	Ted Lange	Oakland
+place of birth	Pierre Paul Nicolas Henrion de Pansey was born on 28 March 1742 in Tréveray, Meuse, near to Ligny in Lorraine.	Pierre Paul Nicolas Henrion de Pansey	Tréveray
+place of birth	Eusebio Cáceres (born 10 September 1991 in Onil) is a Spanish track and field athlete who specialises in the long jump.	Eusebio Cáceres	Onil
+place of birth	Thelma Buchholdt was born Thelma Juana Garcia on August 1, 1934 in the small fishing village of Claveria, Cagayan, Philippines.	Thelma Buchholdt	Claveria
+place of birth	Thomas Gordon Hartley (born 1931 in Beaumont, Texas) is an American botanist.	Thomas Gordon Hartley	Beaumont
+place of birth	Stavros Xarchakos was born in Athens, where he studied at the Athens Conservatoire.	Stavros Xarchakos	Athens
+place of birth	Natasha Eloi (born in Hammersmith, England) is a Canadian television personality and videographer.	Natasha Eloi	Hammersmith
+place of birth	Justin Gloden (born 22 March 1953 in Elvange) is a Luxembourgish athlete competing in the long-distance events.	Justin Gloden	Elvange
+place of birth	Robert Walter Rolf (born 26 August 1914 in Rock Island, Illinois) was an American Naval officer.	Robert Walter Rolf	Rock Island
+place of birth	Tiffany Limos (born January 31, 1980 in Dallas, Texas) is an American actress best known for her role as Peaches in the 2002 film Ken Park.	Tiffany Limos	Dallas
+place of birth	Jackie Stallone was born Jacqueline Frances Labofish in Washington, D.C. Her father, John Paul Labofish (15 January 1891-11 September 1956), was a Washington lawyer.	Jackie Stallone	Washington, D.C.
+place of birth	George Llewellyn Lloyd (1877-1 August 1957) was a Welsh international half-back who played club rugby for Newport and county rugby with Kent.	Llewellyn Lloyd	Newport
+place of birth	David Lavender was born and raised on a cattle ranch 20 miles north of Telluride, Colorado, then a fading mining town.	David Lavender	Telluride
+place of birth	Greg Andrulis (born February 15, 1958 in Waterbury, Connecticut) is an American soccer coach, currently the head coach at George Mason University.	Greg Andrulis	Waterbury
+place of birth	László Vágner (born December 24, 1955 in Gávavencsellő) is a Hungarian former football referee.	László Vágner	Gávavencsellő
+place of birth	Karl Theodor Fahr (October 3, 1877 - 1945) was a German pathologist born in Pirmasens of the Rhineland-Palatinate.	Karl Theodor Fahr	Pirmasens
+place of birth	Mikhail Tatarnikov used to study opera and symphony conducting at the Saint Petersburg Conservatory under guidance from Alexander Polishchuk.	Mikhail Tatarnikov	Saint Petersburg
+place of birth	Milton Rogovin was born December 30, 1909 in Brooklyn, New York City of ethnic Jewish parents who emigrated to America from Lithuania, then part of the Russian empire.	Milton Rogovin	Brooklyn	New York City
+place of birth	Olav Thon (born 29 June 1923 in Ål, Hallingdal) is a Norwegian real estate developer and listed in the Forbes list of billionaires as the 198th richest person in the world with a net worth of $6 billion as of March 2013.	Olav Thon	Ål
+place of birth	Born in Bas-du-Bourg, a poor neighbourhood of Basse-Terre, Élie Domota is the third child of a family of six.	Élie Domota	Basse-Terre
+place of birth	Arthur Vichot (born 26 November 1988 in Colombier-Fontaine) is a French professional cyclist and member of UCI ProTeam FDJ.	Arthur Vichot	Colombier-Fontaine
+place of death	Jean-Pierre Genet (24 October 1940 in Brest -- 15 March 2005 in Loctudy) was a professional road bicycle racer from Brest, France from 1964 to 1976.	Jean-Pierre Genet	Loctudy
+place of death	General Julien Augustin Joseph Mermet (born Le Quesnoy 9 May 1772 -- died Paris 28 October 1837) fought in the Napoleonic Wars as a division commander in Italy and in the Peninsular War.	Julien Augustin Joseph Mermet	Paris
+place of death	İzzettin Çalışlar (1882 in Yanya (Ioannina), Janina Vilayet -- August 20, 1951 in Istanbul) was an officer of the Ottoman Army and the general of the Turkish Army.	İzzettin Çalışlar	Istanbul
+place of death	Erik Neutsch (born Schönebeck, then in Saxony 21 June 1931; died Halle 20 August 2013) was one of the most successful writers in the German Democratic Republic (Communist East Germany).	Erik Neutsch	Halle
+place of death	Florentina López de Jesús (July 25, 1939 -- February 9, 2014) was a traditional Amuzgo weaver from Xochistlahuaca, Guerrero, Mexico.	Florentina López de Jesús	Xochistlahuaca
+place of death	Eulogio Martínez Ramiro (born 11 June 1935 in Asunción, Paraguay, died 30 September 1984 in Barcelona, Spain) was a Paraguayan-Spaniard football striker.	Eulogio Martínez	Barcelona
+place of death	Marco Cardisco, also known as Marco Calabrese, (Born in Tiriolo c.1486 - c.1542) was an Italian painter of the Renaissance period, active mainly in Naples during 1508-1542.	Marco Cardisco	Naples
+place of death	Olof Melin (Olof Werling Melin) (b. 3 August 1861, Göteborg, Sweden -- d. 15 January 1940, Stockholm, Sweden) was a Swedish colonel and the creator of Melin Shorthand, the dominant shorthand system in Sweden.	Olof Melin	Stockholm
+place of death	Kosta Trifković (Serbian Cyrillic: Коста Трифковић; born in Novi Sad, Vojvodina, Habsburg Monarchy on October 20, 1843 - died in Novi Sad on February 19, 1875) was a Serbian writer and one of the best comediographers of the time.	Kosta Trifković	Novi Sad
+place of death	Samuel Johnston (December 15, 1733 -- August 17, 1816) was an American planter, lawyer, and statesman from Chowan County, North Carolina.	Samuel Johnston	Chowan County
+place of death	Teddy Tetzlaff (February 5, 1883 Los Angeles, California -- December 8, 1929 Artesia, California) was an American racecar driver active in the formative years of auto racing.	Teddy Tetzlaff	Artesia
+place of death	Heinrich Kiesling listed as missing in action on 18 June 1944 in the area of Vitebsk, Belarus.	Heinrich Kiesling	Vitebsk
+place of death	Dina Halpern (15 July 1909, Warsaw -- 17 February 1989, Chicago) - Polish actress of Jewish origin, who became famous mainly for her roles in the pre-war Jewish films and stage plays in Yiddish.	Dina Halpern	Chicago
+place of death	Christian Poveda, also known as Christian Gregorio Poveda Ruiz (January 12, 1957, in Algiers, Algeria -- September 2, 2009, in Tonacatepeque, El Salvador) was a Hispanic-French photojournalist and a film director.	Christian Poveda	Tonacatepeque
+place of death	Hsi Chung-yi (24 July 1937 -- 27 December 1968), known by her stage name Betty Loh Ti, was a Hong Kong actress originally from Shanghai, China.	Betty Loh Ti	Hong Kong
+place of death	Albe Vidaković (1 October 1914, Subotica -- 18 April 1964, Zagreb) was a Croatian composer, catholic priest and musicologist from Bačka today Vojvodina, Serbia.	Albe Vidaković	Zagreb
+place of death	Giustino Menescardi (1720-1776) was an Italian painter and scenic designer, active in Northern Italy and Venice in a late Baroque style.	Giustino Menescardi	Venice
+place of death	Giustino Durano (May 5, 1923 in Brindisi, Italy - February 18, 2002 in Bologna, Italy) was a long lasting movie actor who is best known for his work as Eliseo Orefice in the 1997 film, Life Is Beautiful.	Giustino Durano	Bologna
+place of death	Michele Lessona (20 September 1823, Venaria Reale, Piedmont -- 20 July 1894, Turin) was an Italian zoologist.	Michele Lessona	Turin
+place of death	Giovanni Faber (or Johann Faber) (1574--1629) was a German papal doctor, botanist and art collector, originally from Bamberg in Bavaria, who lived in Rome from 1598.	Giovanni Faber	Rome
+place of death	Luigi Gioli (San Frediano a Settimo, Pisa, 1854 -- Florence, 1947) was an Italian painter.	Luigi Gioli	Florence
+place of death	Erkki Karu (born Erland Fredrik Kumlander) (10 April 1887 Helsinki -- 8 December 1935 Helsinki) was a Finnish film director, screenwriter and producer, and one of the pioneers of the Finnish cinema.	Erkki Karu	Helsinki
+place of death	Alejandro Carnicero (Íscar, 1693 - Madrid, 1756) was a Spanish sculptor of the Baroque period.	Alejandro Carnicero	Madrid
+place of death	Tobias Michael (born 13 June 1592 in Dresden - died 26 June 1657 in Leipzig) was a German composer and cantor of the Thomasschule in Leipzig from 1631 until his death.	Tobias Michael	Leipzig
+place of death	Elissa Aalto (22 November 1922, Kemi -- 12 April 1994, Helsinki; born Elsa Kaisa Mäkiniemi) was a Finnish architect and author.	Elissa Aalto	Helsinki
+place of death	Szlama Ber Winer nom de guerre Yakov (Ya'akov) Grojanowski (23 September 1911 -- c. 10 April 1942), was a Polish Jew from Izbica Kujawska, who survived the Chełmno extermination camp during the Holocaust in Poland.	Szlama Ber Winer	extermination camp
+place of death	Archie McCardell died at his home in Casper, Wyoming on July 10, 2008, of complications from heart failure.	Archie McCardell	Casper
+place of death	Ernest Jean-Marie Millard de Bois Durand (29 July 1872 -- 18 January 1946) was a painter, watercolorist and illustrator born in Paris.	Ernest Jean-Marie Millard de Bois Durand	Paris
+place of death	In January 1955, Rodolfo Graziani died of natural causes in Rome, aged 72 years.	Rodolfo Graziani	Rome
+place of death	James Alexander Shohat (aka Jacques Chokhate (or Chokhatte), 18 November 1886, Brest-Litovsk -- 8 October 1944, Philadelphia) was an American mathematician at the University of Pennsylvania who worked on the moment problem.	James Alexander Shohat	Philadelphia
+place of death	Shamai Haber (born February 15, 1922, Łódź, Poland) was a sculptor who lived and worked in Paris, France.	Shamai Haber	Paris
+place of death	Robert Ruark (December 29, 1915, in Wilmington, North Carolina -- July 1, 1965, in London, England) was an American author, syndicated columnist, and big game hunter.	Robert Ruark	London
+place of death	Johann Philipp Breyne (9 August 1680 in Danzig (Gdańsk) in Poland -- 12 December 1764 in Danzig), son of Jacob Breyne (1637--97), was a German botanist, palaeontologist, zoologist and entomologist.	Johann Philipp Breyne	Gdańsk
+place of death	Thomas MacNevin (1814-- 8 February 1848) was an influential Irish writer and journalist, who died under ``peculiarly sad circumstances'' in a Bristol asylum.	Thomas MacNevin	Bristol
+place of death	Miguel Castaño Quiñones (February 23, 1883 in León, Spain - November 21, 1936) was a Spanish socialist politician and journalist, member of Parliament during the Second Spanish Republic and the first democratically elected Mayor of León, serving until his assassination in 1936 by francoist rebels during the Spanish Civil War.	Miguel Castaño	León
+place of death	Arsène Mersch (Koerich, 14 December 1913 -- Koerich, 12 July 1980) was a Luxembourgian professional road bicycle racer and cyclo-cross racer, who became national champion in both categories twice.	Arsène Mersch	Koerich
+place of death	Maria Barroso married her university colleague Mario Soares in 1949 at the 3rd Conservatory of the Civil Register of Lisbon, while he was in the Aljube prison.	Maria Barroso	Lisbon
+series	Shatterglass, a novel by Tamora Pierce, is the fourth book in The Circle Opens series.	Shatterglass	The Circle Opens
+series	Ripley's Game (1974) is a psychological thriller by Patricia Highsmith, the third in her series about the con artist and murderer Tom Ripley.	Ripley's Game	Tom Ripley
+series	``Simpsons Already Did It'' is the seventh episode of the sixth season of the American animated television series South Park, and the 86th episode of the series overall.	Simpsons Already Did It	South Park
+series	The Adventures of Super Diaper Baby is an American children's novel by Dav Pilkey, credited as ``George Beard and Harold Hutchins'', categorized as part of the author's Captain Underpants series of books as a spin-off to the series.	The Adventures of Super Diaper Baby	Captain Underpants
+series	``Adam's Ribs'' is the eleventh episode of the third season of M*A*S*H, and fifty-ninth overall.	Adam's Ribs	M*A*S*H

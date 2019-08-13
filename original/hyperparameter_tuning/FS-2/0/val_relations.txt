@@ -1,0 +1,10 @@
+constellation
+developer
+director
+father
+manufacturer
+parent taxon
+performer
+position played on team / speciality
+present in work
+screenwriter

@@ -1,0 +1,625 @@
+IUCN conservation status	As a result, the June sucker has become ``critically endangered'' as the pure species is lost as a result of hybridisation with the Utah sucker, and predatory fish feed on its larvae.	June sucker	critically endangered
+IUCN conservation status	The IUCN Redlist 3.1, which uses the Birdlife International checklist, lumps the common and widespread grey-headed parrot with Cape parrots and brown-necked parrots, each of which are more narrowly distributed and more threatened, leading to an assessment of least concern.	Cape parrot	least concern
+IUCN conservation status	Eriocaulon santapaui is a critically endangered monocotyledonous plant endemic to the Western Ghats around Khandala and Pune in the state of Maharashtra, India.	Eriocaulon santapaui	critically endangered
+IUCN conservation status	Nicrophorus americanus, also known as the American burying beetle or giant carrion beetle, is a critically endangered species of beetle endemic to North America.	Nicrophorus americanus	critically endangered
+IUCN conservation status	Adansonia perrieri (Perrier's Baobab) is an endangered species in the genus Adansonia.	Adansonia perrieri	endangered species
+IUCN conservation status	Isoetes sinensis is recorded to be a critically endangered species due to industrial development and agricultural expansion.	Isoetes sinensis	critically endangered
+IUCN conservation status	Salmo ezenami is a critically endangered freshwater salmonid fish, endemic to Lake Kezenoi-Am (Lake Eizenam) in Northern Caucasus.	Salmo ezenami	critically endangered
+IUCN conservation status	The Araripe manakin (Antilophia bokermanni) is a critically endangered bird from the family of manakins (Pipridae).	Araripe manakin	critically endangered
+IUCN conservation status	The Fiji crested iguana or Fijian crested iguana (Brachylophus vitiensis) is a critically endangered species of iguana native to some of the northwestern islands of the Fijiian archipelago, where it is found in dry forest.	Fiji crested iguana	critically endangered
+IUCN conservation status	The Mindanao horned frog is currently listed as vulnerable on the endangered species scale because its distribution is rather fragmented; it covers an area of less than 20,000 km2 and is continuously shrinking due to deforestation.	Mindanao horned frog	vulnerable
+IUCN conservation status	Jeypore Indian gecko (Geckoella jeyporensis), also known as the Jeypore ground gecko or the Patinghe Indian gecko, is a critically endangered species of gecko found in India, which was until recently considered extinct.	Geckoella jeyporensis	critically endangered
+IUCN conservation status	The Jefferson salamander is a species of least concern globally, but its habitat is threatened in parts of its range.	Jefferson salamander	least concern
+IUCN conservation status	Paretroplus maromandia is an endangered species of cichlid fish from fresh and brackish water in northwestern Madagascar, where known from the Maintsomalaza, Andranomalaza and Maevarano Rivers, and Lake Andrapongy.	Paretroplus maromandia	endangered species
+IUCN conservation status	Due to small and declining population, the MacGregor's honeyeater is evaluated as vulnerable on the IUCN Red List of Threatened Species.	MacGregor's honeyeater	vulnerable
+IUCN conservation status	The Siau scops owl (Otus manadensis siaoensis) is a critically endangered owl and may be extinct.	Siau scops owl	critically endangered
+IUCN conservation status	Ravenea rivularis is an endangered species of flowering plant in the Arecaceae family.	Ravenea rivularis	endangered species
+IUCN conservation status	The Taita thrush (Turdus helleri), also known as Taita olive thrush or Heller's ground thrush, is a critically endangered bird from the family of thrushes (Turdidae), endemic to the Taita Hills in Kenya.	Taita thrush	critically endangered
+IUCN conservation status	Ctenitis squamigera, commonly known as the Pacific Lacefern or Pauoa, is a critically endangered species of fern found only on the islands of Hawaii.	Ctenitis squamigera	critically endangered
+IUCN conservation status	The IUCN has classed Brugmansia arborea as Extinct in the Wild.	Brugmansia arborea	Extinct in the Wild
+IUCN conservation status	Poecilotheria hanumavilasumica, also known as the Rameshwaram ornamental, or Rameshwaram parachute spider, is a critically endangered species of tarantula earlier thought endemic to Ramanathapuram district in the state of Tamil Nadu, India.	Poecilotheria hanumavilasumica	critically endangered
+IUCN conservation status	The Echigo mole (Mogera etigo) is an endangered species of mammal in the family Talpidae.	Echigo mole	endangered species
+IUCN conservation status	While there are no known specific threats to the Waccamaw killifish, it is currently classified as vulnerable by the IUCN because of its restriction to a single location.	Waccamaw killifish	vulnerable
+IUCN conservation status	Savi's warbler is assessed by the IUCN in their Red List of Threatened Species as being of least concern.	Savi's warbler	least concern
+IUCN conservation status	Young Komodo dragons are vulnerable and therefore dwell in trees, safe from predators and cannibalistic adults.	Komodo dragon	vulnerable
+IUCN conservation status	Although the total population of the Carpathian newt is probably declining, the International Union for Conservation of Nature has assessed it as being of ``least concern'' in view of its wide range, presumed large total population and tolerance to variations to its habitat.	Carpathian newt	least concern
+IUCN conservation status	The Visayan warty pig (Sus cebifrons) is a critically endangered species in the pig genus (Sus).	Visayan warty pig	critically endangered
+IUCN conservation status	Voanioala gerardii is critically endangered because of its scarcity.	Voanioala	critically endangered
+IUCN conservation status	Garrido's hutia (Mysateles garridoi) is a critically endangered or possibly extinct species that is found in the Greater Antillean moist forests Global 200 ecoregion.	Garrido's hutia	critically endangered
+IUCN conservation status	Iberocypris palaciosi is only known from two tributaries of the Guadalquivir river, from a total stretch of less than 100 km. It is threatened by habitat loss and considered critically endangered.	Iberocypris palaciosi	critically endangered
+IUCN conservation status	Capoeta pestai, called the ``Eğirdir longsnout scraper'', or the ``siraz baligi'', is a critically endangered freshwater fish species in the Cyprinidae family, found only in Turkey.	Capoeta pestai	critically endangered
+IUCN conservation status	Nymphoides sivarajanii is a critically endangered aquatic plant of the family Menyanthaceae endemic to Chettipadi in Malappuram district in Kerala, India.	Nymphoides sivarajanii	critically endangered
+IUCN conservation status	The Madagascan grebe is currently classified as vulnerable by the IUCN.	Madagascan grebe	vulnerable
+IUCN conservation status	Buddleja ibarrensis is an endangered species endemic to a small area of Ecuador in the vicinity of Ibarra in subtropical or tropical moist montane forest at an elevation of 2,200 m threatened by deforestation.	Buddleja ibarrensis	endangered species
+IUCN conservation status	Henkel's leaf-tailed gecko is currently classified as vulnerable by the IUCN.	Henkel's leaf-tailed gecko	vulnerable
+IUCN conservation status	Shelley's crimsonwing Cryptospiza shelleyi is a vulnerable species of estrildid finch found in Burundi, eastern Democratic Republic of the Congo, Rwanda and western Uganda in Africa.	Shelley's crimsonwing	vulnerable
+IUCN conservation status	Purcell's hunter slug, scientific name Chlamydephorus purcelli, is an endangered species of air-breathing land slug, a terrestrial pulmonate gastropod mollusk in the family Chlamydephoridae.	Purcell's hunter slug	endangered species
+IUCN conservation status	Anisoptera costata is an endangered species of plant in the family Dipterocarpaceae.	Anisoptera costata	endangered species
+IUCN conservation status	The Tana River mangabey (Cercocebus galeritus) is a highly endangered species of primate in the family Cercopithecidae.	Tana River mangabey	endangered species
+IUCN conservation status	The New Zealand plover, red-breasted plover, or New Zealand dotterel (Charadrius obscurus) is an endangered species found only in certain areas of New Zealand.	New Zealand plover	endangered species
+IUCN conservation status	Telmatobius brachydactylus is an endangered species of frog in the Telmatobiidae family.	Telmatobius brachydactylus	endangered species
+IUCN conservation status	Katria katria is a vulnerable species of cichlid fish from the Mangoro and Nosivolo Rivers in east-central Madagascar.	Katria katria	vulnerable
+IUCN conservation status	Daphnia jollyi is listed as a vulnerable species on the IUCN Red List.	Daphnia jollyi	vulnerable
+IUCN conservation status	The California sheephead is considered vulnerable due to high fishing rates off of the coast of southern California.	California sheephead	vulnerable
+IUCN conservation status	The Andaman shrew or Andaman white-toothed shrew (Crocidura andamanensis) is a critically endangered species of mammal in the family Soricidae.	Andaman shrew	critically endangered
+IUCN conservation status	Asplundia lutea is a critically endangered species of plant in the Cyclanthaceae family.	Asplundia lutea	critically endangered
+IUCN conservation status	Prismatomeris andamanica is a critically endangered species of plant in the Rubiaceae family.	Prismatomeris andamanica	critically endangered
+cause of death	Gerry Bridgwood died on 2 March 2012 after a suspected heart attack just days after he had decided to retire from the pub trade.	Gerry Bridgwood	heart attack
+cause of death	Amis pour la vie (and marked his last great success making nearly $151,211,264 at the box office. Christian Fechner died of cancer on November 25, 2008. Fechner had two children: film producer Alexandra Fechner and Maxime Fechner, owner of the fashion brand Kymerah.	Christian Fechner	cancer
+cause of death	Horácio Roque died of a stroke on 19 May 2010, at the Hospital of São José, at São José, in Lisbon, Portugal.	Horácio Roque	stroke
+cause of death	Bruno Étienne (born in 1937 in La Tronche, Isère, died in Aix-en-Provence on 4 March 2009 after a cancer) was a French sociologist, freemason and a political analyst.	Bruno Étienne	cancer
+cause of death	Richard Sonnenfeldt died on October 9, 2009 from complications of a stroke at his home in Port Washington, New York at the age of 86.	Richard Sonnenfeldt	stroke
+cause of death	Upon his return to Syria in 1918, he discovered Dahoum had succumbed to typhus in 1916.	Dahoum	typhus
+cause of death	Six months after the capture of Khartoum, Muhammad Ahmad died of typhus.	Muhammad Ahmad	typhus
+cause of death	Tommy Scott Wild West Show. Altogether, Al St. John acted in 346 movies, spanning four decades from 1912 to 1952. He was working with a traveling Wild West show in Georgia and was waiting to go on when he suffered a massive heart attack and died at age 70.	Al St. John	heart attack
+cause of death	James E. Mayo died on July 13, 1995, at George Washington University Hospital of lung cancer.	James E. Mayo	lung cancer
+cause of death	Henry Lehrman died of a heart attack in Hollywood in 1946 and was interred in the Hollywood Memorial Park Cemetery next to Virginia Rappe.	Henry Lehrman	heart attack
+cause of death	Faisal bin Fahd died of a heart attack in King Faisal Specialist Hospital in Riyadh on 21 August 1999, shortly after returning from the Pan Arab Games held in Jordan.	Faisal bin Fahd	heart attack
+cause of death	Michael Stroka died from kidney cancer in Los Angeles, California at age 58.	Michael Stroka	kidney cancer
+cause of death	Marvin Sylvor died of kidney failure in Miami, on April 9, 2008, at the age of 75.	Marvin Sylvor	kidney failure
+cause of death	On 30 August 2011, aged 35, Revo Jõgisalu died from skin cancer.	Revo Jõgisalu	skin cancer
+cause of death	In January 2011 Anton Buslov was diagnosed with Hodgkin's lymphoma.	Anton Buslov	Hodgkin's lymphoma
+cause of death	İsmet Güney died of cancer on June 23, 2009, at the age of 77.	İsmet Güney	cancer
+cause of death	Jean Ichbiah died from complications of a brain tumor on January 26, 2007.	Jean Ichbiah	brain tumor
+cause of death	Jane Weinberger had been in poor health before suffering a stroke in July 2009.	Jane Weinberger	stroke
+cause of death	Jeremy Sinden was the husband of actress Delia Lindsay from 1978 until his death from lung cancer in 1996 at the age of 45.	Jeremy Sinden	lung cancer
+cause of death	In 1974 she married her fourth husband, John E. Velde Jr. Gail Patrick died from leukemia on July 6, 1980, age 69, at her Hollywood home of more than 30 years.	Gail Patrick	leukemia
+cause of death	Ahmet Vardar kept writing his column until he was diagnosed with pancreatic cancer in November 2009, according to the NTV news web site.	Ahmet Vardar	pancreatic cancer
+cause of death	Brigadier General Cornelius Vanderbilt III died aboard his yacht from a cerebral hemorrhage while vacationing in Miami Beach, Florida in 1942.	Cornelius Vanderbilt III	cerebral hemorrhage
+cause of death	Gary Moore died of a heart attack in his sleep at the age of 58 during the early hours of 6 February 2011.	Gary Moore	heart attack
+cause of death	A. Myra Keen died of cancer on January 4, 1986.	Myra Keen	cancer
+cause of death	William Melville died of kidney failure in February 1918.	William Melville	kidney failure
+cause of death	Walter Battiss died in Port Shepstone, KwaZulu-Natal of a heart attack on 20 August 1982.	Walter Battiss	heart attack
+cause of death	Scobie Breasley died on 21 December 2006 after suffering a stroke a few days earlier.	Scobie Breasley	stroke
+cause of death	Ng Chiau-tong suffered a heart attack while undergoing routine sinus surgery at Koo Foundation Sun Yat-Sen Cancer Center in Taipei.	Ng Chiau-tong	heart attack
+cause of death	On 21 November 2007 Herbert Saffir died of a heart attack at South Miami Hospital in Miami, Florida according to his son, Richard Saffir.	Herbert Saffir	heart attack
+cause of death	Bob Wills, 70, ''Western Swing`` bandleader-composer; of pneumonia; in Fort Worth.	Bob Wills	pneumonia
+cause of death	Posy Miller was a British actor who died of leukemia in late 2002.	Posy Miller	leukemia
+cause of death	Hans Dijkstal died on 9 May 2010 after a long fight against bone cancer, he was 67.	Hans Dijkstal	bone cancer
+cause of death	On March 3, 1994, just a month before his fiftieth birthday, Karel Kryl died of a heart attack in a Munich hospital.	Karel Kryl	heart attack
+cause of death	Hacı Sabancı died on 26 June 1998, the day after his 63rd birthday, in İstanbul after a two-year struggle against lung cancer.	Hacı Sabancı	lung cancer
+cause of death	Kim Anderzon died of spinal cancer in her home on 24 October 2014.	Kim Anderzon	cancer
+cause of death	Wellington Mara succumbed to lymphoma in 2005 at age 89.	Wellington Mara	lymphoma
+cause of death	Tunku Annuar died at 12:20 am on 21 May 2014 at Pantai Hospital in Ipoh, Perak, of a heart attack.	Tunku Annuar	heart attack
+cause of death	In 1990, Frank Zappa was diagnosed with terminal prostate cancer.	Frank Zappa	prostate cancer
+cause of death	Leona Helmsley died from congestive heart failure at the age of 87, on August 20, 2007, at Dunnellen Hall, her summer home in Greenwich, Connecticut.	Leona Helmsley	heart failure
+cause of death	Patricia Courtney died in her homeland of Everett, Massachusetts at the age of 71, following complications from stomach cancer.	Patricia Courtney	stomach cancer
+cause of death	Ina Claire died on February 21, 1985, in San Francisco, California, after a heart attack.	Ina Claire	heart attack
+cause of death	Earl Woods was diagnosed with prostate cancer in 1998.	Earl Woods	prostate cancer
+cause of death	Caro Jones died on September 3, 2009, of multiple myeloma in Los Angeles at the age of 86 after a fourteen-year battle with the disease.	Caro Jones	multiple myeloma
+cause of death	Lyudmila Zykina died on 1 July 2009 after suffering a heart attack.	Lyudmila Zykina	heart attack
+cause of death	Richard M. Powell died of prostate cancer in Los Angeles, California, aged 79.	Richard M. Powell	prostate cancer
+cause of death	Ian Ballantine was 79 when he died of a heart attack in 1995.	Ian Ballantine	heart attack
+cause of death	Marcello Malpighi died of apoplexy (an old-fashioned term for a stroke or stroke-like symptoms) in Rome on 29 September 1694, at the age of 66.	Marcello Malpighi	stroke
+cause of death	On November 24, 1994, Benjamin Ruggiero died of lung cancer at the age of 68.	Benjamin Ruggiero	lung cancer
+cause of death	Raymond Bryan Dillard died of a heart attack on October 1, 1993, in the woods near Zionsville, Pennsylvania.	Raymond Bryan Dillard	heart attack
+cause of death	Aline MacMahon died in 1991, aged 92, of pneumonia in New York City, seven years after the death of her mother.	Aline MacMahon	pneumonia
+cause of death	On December 13, 2003, Elizabeth Bates died, after a year-long struggle with pancreatic cancer.	Elizabeth Bates	pancreatic cancer
+cause of death	Fouad al-Tikerly died of pancreatic cancer at a hospital in Amman, Jordan, on February 11, 2008, at the age of 81.	Fouad al-Tikerly	pancreatic cancer
+cause of death	To avoid the revenge of his brother, Gildo committed suicide by hanging.	Gildo	suicide by hanging
+cause of death	William Modell died in Manhattan on February 14, 2008, of complications from prostate cancer at the age of 86.	William Modell	prostate cancer
+cause of death	Gilberto Mestrinho died of lung cancer at the Hospital Prontocord in Manaus, Brazil, on July 19, 2009, at the age of 81.	Gilberto Mestrinho	lung cancer
+cause of death	In 1970 Delia Scala was diagnosed with breast cancer, and underwent a radical mastectomy.	Delia Scala	breast cancer
+cause of death	While visiting his one of his ex-wives, step-daughter Christy and friends in Huntington Beach, California, Frankie Darro suddently died of a heart attack on Christmas Day, 1976, three days after his 59th birthday.	Frankie Darro	heart attack
+cause of death	On June 16, 1977, Wernher von Braun died of pancreatic cancer in Alexandria, Virginia, at the age of 65.	Wernher von Braun	pancreatic cancer
+cause of death	On 3 December 1988 Erwin Sick died at the age of 79 years due to a heart attack.	Erwin Sick	heart attack
+cause of death	Pedro Saúl Pérez was 54 years old when he died of an apparent heart attack while walking on a street in Puerto Rico's capital city, San Juan.	Pedro Saúl Pérez	heart attack
+cause of death	John Kendrick Bangs died from stomach cancer in 1922 at age fifty-nine, in Atlantic City, New Jersey.	John Kendrick Bangs	stomach cancer
+discoverer or inventor	639 Latona is a minor planet orbiting the Sun that was discovered by German astronomer Karl Julius Lohnert on July 19, 1907 at Heidelberg.	639 Latona	Karl Julius Lohnert
+discoverer or inventor	The Katsukawa school (勝川派, -ha) was a school of Japanese ukiyo-e art, founded by Miyagawa Shunsui.	Katsukawa school	Miyagawa Shunsui
+discoverer or inventor	For example its first sighting is often credited to Robert Hooke, who described a spot on the planet in May 1664; however, it is likely that Hooke's spot was in the wrong belt altogether (the North Equatorial Belt, versus the current Great Red Spot's location in the South Equatorial Belt).	Great Red Spot	Robert Hooke
+discoverer or inventor	1426 Riviera (1937 GF) is a main-belt asteroid discovered on April 1, 1937, by Marguerite Laugier at Nice.	1426 Riviera	Marguerite Laugier
+discoverer or inventor	1119 Euboea is a main belt asteroid orbiting the Sun. It was discovered by Karl Wilhelm Reinmuth on October 27, 1927, at Heidelberg, Germany.	1119 Euboea	Karl Wilhelm Reinmuth
+discoverer or inventor	242 Kriemhild is a main belt asteroid that was discovered by Austrian astronomer Johann Palisa on September 22, 1884 in Vienna and was named after Kriemhild, a mythological Germanic princess, by Moriz von Kuffner, a Viennese industrialist and sponsor of astronomy.	242 Kriemhild	Johann Palisa
+discoverer or inventor	Comet Machholz, formally designated C/2004 Q2, is a long-period comet discovered by Donald Machholz on August 27, 2004.	Comet Machholz	Donald Machholz
+discoverer or inventor	1214 Richilde (1932 AA) is a Main-belt asteroid discovered on January 1, 1932, by Max Wolf at Heidelberg.	1214 Richilde	Max Wolf
+discoverer or inventor	Argo Navis is the only one of the 48 constellations listed by the 2nd century astronomer Ptolemy that is no longer officially recognized as a constellation.	Argo Navis	Ptolemy
+discoverer or inventor	33 Polyhymnia is a main belt asteroid that was discovered by French astronomer Jean Chacornac on October 28, 1854 and named after Polyhymnia, the Greek Muse of sacred hymns.	33 Polyhymnia	Jean Chacornac
+discoverer or inventor	176 Iduna is a large main-belt asteroid that was discovered by German-American astronomer Christian Heinrich Friedrich Peters on October 14, 1877, in Clinton, New York.	176 Iduna	Christian Heinrich Friedrich Peters
+discoverer or inventor	Makemake was discovered on March 31, 2005, by a team led by Michael E. Brown, and announced on July 29, 2005.	Makemake	Michael E. Brown
+discoverer or inventor	210 Isabella is a large and dark Main belt asteroid that was discovered by Johann Palisa on November 12, 1879 in Pola.	210 Isabella	Johann Palisa
+discoverer or inventor	Pluto was discovered by Clyde Tombaugh in 1930, and was originally considered the ninth planet from the Sun. After 1992, its status as a planet fell into question following the discovery of several objects of similar size in the Kuiper belt.	Pluto	Clyde Tombaugh
+discoverer or inventor	782 Montefiore is a minor planet orbiting the Sun that was discovered by Austrian astronomer Johann Palisa on March 18, 1914 and named for Clarice Sebag-Montefiore, wife of Alfons von Rothschild of Vienna.	782 Montefiore	Johann Palisa
+discoverer or inventor	880 Herba is a minor planet orbiting the Sun that was discovered by German astronomer Max Wolf on July 22, 1917 in Heidelberg.	880 Herba	Max Wolf
+discoverer or inventor	7345 Happer (1992 OF) is a Mars-crossing asteroid discovered on July 28, 1992, by Robert H. McNaught at Siding Spring.	7345 Happer	Robert H. McNaught
+discoverer or inventor	1494 Savo (1938 SJ) is a main-belt asteroid discovered on September 16, 1938, by Yrjö Väisälä in Turku.	1494 Savo	Yrjö Väisälä
+discoverer or inventor	275 Sapientia is a very large Main belt asteroid that was discovered by Johann Palisa on April 15, 1888 in Vienna.	275 Sapientia	Johann Palisa
+discoverer or inventor	89 Julia is a large main-belt asteroid that was discovered by French astronomer Édouard Stephan on August 6, 1866.	89 Julia	Édouard Stephan
+discoverer or inventor	793 Arizona is a minor planet orbiting the Sun that was discovered in 1907 by American businessman Percival Lowell.	793 Arizona	Percival Lowell
+discoverer or inventor	6489 Golevka is an Apollo, Mars-crosser, and Alinda asteroid discovered in 1991 by Eleanor F. Helin.	6489 Golevka	Eleanor F. Helin
+discoverer or inventor	The name Rusthawelia was kept (and discovery credited to Arend); the name 525 Adelaide was reused for the object 1908 EKa discovered October 21, 1908 by Joel Hastings Metcalf.	525 Adelaide	Joel Hastings Metcalf
+discoverer or inventor	Robert Stirling was a Scottish minister who invented the first practical example of a closed cycle air engine in 1816, and it was suggested by Fleeming Jenkin as early as 1884 that all such engines should therefore generically be called Stirling engines.	Stirling engine	Robert Stirling
+discoverer or inventor	376 Geometria is a main belt asteroid that was discovered by French astronomer Auguste Charlois on September 18, 1893 in Nice, France.	376 Geometria	Auguste Charlois
+discoverer or inventor	575 Renate is a minor planet orbiting the Sun which was discovered by German astronomer Max Wolf on September 19, 1905.	575 Renate	Max Wolf
+discoverer or inventor	564 Dudu is a minor planet orbiting the Sun. It was discovered May 9, 1905 by German astronomer Paul Götz at Heidelberg, and was named for a female character in the novel Thus Spoke Zarathustra by Friedrich Nietzsche.	564 Dudu	Paul Götz
+discoverer or inventor	103 Hera is a moderately large main-belt asteroid that was discovered by Canadian-American astronomer James Craig Watson on September 7, 1868, and named after Hera, queen and fifth in power of the Olympian gods in Greek mythology.	103 Hera	James Craig Watson
+discoverer or inventor	467 Laura (1901 FY) is Main-belt asteroid discovered on January 9, 1901 by Max Wolf at Heidelberg.	467 Laura	Max Wolf
+discoverer or inventor	Plutonium was first produced and isolated on December 14, 1940 by Dr. Glenn T. Seaborg, Joseph W. Kennedy, Edwin M. McMillan, and Arthur C. Wahl by deuteron bombardment of uranium-238 in the 60-inch cyclotron at the University of California, Berkeley.	Plutonium	Joseph W. Kennedy
+discoverer or inventor	Messier 99 was discovered by Pierre Méchain on March 17, 1781 along .	Messier 99	Pierre Méchain
+distributor	Paths to Paradise is a 1925 silent comedy directed by Clarence Badger, produced by Famous Players-Lasky and distributed by Paramount Pictures.	Paths to Paradise	Paramount Pictures
+distributor	I.T.A.L.Y. is a romantic comedy starring Jolina Magdangal, Dennis Trillo and Rufa Mae Quinto, produced and distributed by GMA Films.	I.T.A.L.Y.	GMA Films
+distributor	Ikarie XB-1 is best known internationally through an edited and English-dubbed version which was given a limited theatrical release in the USA in 1964 by American International Pictures.	Ikarie XB-1	American International Pictures
+distributor	Sakal, Sakali, Saklolo (Choked, Maybe, Help Me!), a romantic comedy movie released by Star Cinema, is an official entry to the 33rd Metro Manila Film Festival - Philippines.	Sakal, Sakali, Saklolo	Star Cinema
+distributor	What a Widow! is a 1930 American pre-Code romantic comedy film produced by and starring Gloria Swanson, and distributed through United Artists.	What a Widow!	United Artists
+distributor	Maasilamani is a Tamil film released in 2009, distributed by Sun Pictures.	Maasilamani	Sun Pictures
+distributor	The Vanishing American (1925) is a silent film western produced by Famous Players-Lasky in the United States, and distributed through Paramount Pictures.	The Vanishing American	Paramount Pictures
+distributor	High Plains Drifter is a 1973 American supernatural western film produced by Robert Daley for Malpaso Company and Universal Studios, directed by and starring Clint Eastwood, and written by Ernest Tidyman (who also wrote the novelization).	High Plains Drifter	Universal Studios
+distributor	Death by Dialogue is a 1988 horror film co-written and directed by Thomas Dewier and distributed by Troma Entertainment.	Death by Dialogue	Troma Entertainment
+distributor	Universal Studios used the legislation for the Blue Crush production, receiving approximately $16 million in a deal with local investors who, in exchange, received the film's high-tech tax credits.	Blue Crush	Universal Studios
+distributor	The Princess and the Cabbie is a 1981 television movie aired on CBS on 3 November 1981 about a young woman who struggles with dyslexia.	The Princess and the Cabbie	CBS
+distributor	High Tension was picked up by independent distributor Lions Gate Entertainment following a successful screening at the Midnight Madness section of the 2003 Toronto International Film Festival.	High Tension	Lions Gate Entertainment
+distributor	Heroes of the Wild is a 1927 American Western film serial produced by Nat Levine, directed by Harry S. Webb and released by Mascot Pictures.	Heroes of the Wild	Mascot Pictures
+distributor	The Matrimonial Bed is a 1930 American pre-Code comedy film produced and released by Warner Bros..	The Matrimonial Bed	Warner Bros.
+distributor	Drop Dead Fred is a 1991 British/American fantasy comedy film directed by Ate De Jong, produced by PolyGram Filmed Entertainment and Working Title Films and released and distributed by New Line Cinema.	Drop Dead Fred	New Line Cinema
+distributor	Siege of the Saxons is a 1963 British film directed by Nathan H. Juran and released by Columbia Pictures.	Siege of the Saxons	Columbia Pictures
+distributor	The World's Great Snare is a 1916 American silent drama film produced by Adolph Zukor's Famous Players Film Company and distributed through Paramount Pictures.	The World's Great Snare	Paramount Pictures
+distributor	Mayhem in Monsterland was produced by Apex Computer Productions, who had previously made Creatures and Creatures 2, which featured Clyde Radcliffe as the main character.	Mayhem in Monsterland	Apex Computer Productions
+distributor	Chelsea Walls is a 2001 independent film directed by Ethan Hawke and released by Lions Gate Entertainment.	Chelsea Walls	Lions Gate Entertainment
+distributor	Dreams of a Life is a 2011 drama-documentary film, released by Dogwoof Pictures, directed by Carol Morley and starring Zawe Ashton.	Dreams of a Life	Dogwoof Pictures
+distributor	Prisoner of Her Past is a 2010 documentary film, produced by Kartemquin Films, that follows the journey of Chicago Tribune music critic Howard Reich as he travels to Europe to discover why his elderly mother, Sonia Reich, believes people are trying to kill her.	Prisoner of Her Past	Kartemquin Films
+distributor	Her Right to Live is a 1917 dramatic silent film released by the Vitagraph Studios.	Her Right to Live	Vitagraph Studios
+distributor	Columbia Pictures distributed the film, premiering Drylanders in Swift Current, then releasing across the Prairies, a couple of towns at a time.	Drylanders	Columbia Pictures
+distributor	Confidential Agent is a 1945 spy film starring Charles Boyer and Lauren Bacall, and made by Warner Bros. The movie was directed by Herman Shumlin and produced by Robert Buckner with Jack L. Warner as executive producer.	Confidential Agent	Warner Bros.
+distributor	In Windows 8, Minesweeper is not included by default, although an app version of Microsoft Minesweeper developed by Arkadium is available on Windows Store.	Microsoft Minesweeper	Windows Store
+distributor	Q.U.B.E. (Quick Understanding of Block Extrusion) is a physics-based puzzle video game developed and published by Toxic Games, with help from Indie Fund, a group of successful independent game developers.	Q.U.B.E.	Indie Fund
+distributor	How to Train Your Dragon 2 is a 2014 American 3D computer-animated fantasy action film produced by DreamWorks Animation and distributed by 20th Century Fox, loosely based on the British book series of the same name by Cressida Cowell.	How to Train Your Dragon 2	20th Century Fox
+distributor	Upon its initial release on iTunes, The Moron Test became the #1 top selling app in the US App Store.	The Moron Test	App Store
+distributor	Companionate Marriage was a 1928 American silent drama film directed by Erle C. Kenton and starring Betty Bronson, and released by First National Pictures.	Companionate Marriage	First National
+distributor	U Me Aur Hum (You, Me and Us) is a 2008 Bollywood romantic drama film produced and directed by Ajay Devgan under Ajay Devgan Films and Eros International.	U Me Aur Hum	Eros International
+distributor	The After is an American science fiction drama pilot created by Chris Carter for Amazon Studios.	The After	Amazon Studios
+distributor	Trailer Town is a 2003 low-budget film shot on digital video, written and directed by Giuseppe Andrews and distributed by Troma Entertainment.	Trailer Town	Troma Entertainment
+distributor	Mona Lisa Smile is a 2003 drama film produced by Revolution Studios and Columbia Pictures in association with Red Om Films Productions, directed by Mike Newell, written by Lawrence Konner and Mark Rosenthal, and starring Julia Roberts, Kirsten Dunst, Julia Stiles and Maggie Gyllenhaal.	Mona Lisa Smile	Columbia Pictures
+distributor	Sobee has recently reached marketing and sales agreements with both STC and Telecom Egypt for I Can Football.	I Can Football	Telecom Egypt
+distributor	The Saint's Vacation is the title of a 1941 adventure film produced by the British arm of RKO Pictures.	The Saint's Vacation	RKO Pictures
+distributor	Ivan Veramathiri (English: He is different) is a 2013 Indian Tamil action film written and directed by M. Saravanan.film presented by director N. Linguswamy and produced by his brother N. Subash Chandrabose under banner Thirupathi Brothers assocaition with UTV Motion Pictures Ronnie Screwvala and Siddharth Roy Kapur .	Ivan Veramathiri	UTV Motion Pictures
+distributor	Jimmywork is a 2004 mockumentary film written and directed by Simon Sauvé and produced by Atopia.	Jimmywork	Atopia
+distributor	Nina, the Flower Girl is a lost 1917 silent drama film produced by D. W. Griffith through his Fine Arts Films and distributed by Triangle Film Corporation.	Nina, the Flower Girl	Triangle Film Corporation
+distributor	Secret of the Incas was filmed by Paramount Pictures on location in Peru at Cuzco and Machu Picchu, the first time that a major Hollywood studio filmed at this archeological site.	Secret of the Incas	Paramount Pictures
+distributor	The Dancer of Paris is a 1926 American silent drama film produced and distributed by First National Pictures.	The Dancer of Paris	First National
+distributor	Percept Picture Company, an advertising agency has produced Pyaar Mein Kabhi Kabhi with 300 debutantes, an industry first in Indian cinema.	Pyaar Mein Kabhi Kabhi	Percept Picture Company
+distributor	I Married a Witch was in production from 15 April through 27 May 1942, and was one of a number of films sold by Paramount to United Artists in September, when UA did not have enough and Paramount had a surplus.	I Married a Witch	United Artists
+distributor	Staying Single When, released in Cambodia's main cinema, 'Kirirom' (now closed) in March 2007 and premiered on CTN, Cambodia's most popular TV channel, in October 2007, is a 100-minute romantic comedy from the production company Khmer Mekong Films (KMF).	Staying Single When	Khmer Mekong Films
+distributor	Deep Gold is a 2011 action film directed by Michael Gleissner and produced by Bigfoot Entertainment.	Deep Gold	Bigfoot Entertainment
+found in taxon	This property was conserved from the human QSER1 to the Coelacanth QSER1.	QSER1	human
+found in taxon	CARM1 (coactivator-associated arginine methyltransferase 1), also known as PRMT4 (protein arginine N-methyltransferase 4), is an enzyme (EC 2.1.1.125) encoded by the CARM1 gene found in human beings, as well as many other mammals.	CARM1	human
+found in taxon	DnaJ (Hsp40) homolog, subfamily C, member 13, also known as DNAJC13, is a human gene.	DNAJC13	human
+found in taxon	The UQCR11 protein may function as a binding factor for the iron-sulfur protein in Complex III, which is ubiquitous in human cells.	UQCR11	human
+found in taxon	Paracaspases (human: MALT1) are members of the C14 family of cysteine proteases.	Paracaspase	human
+found in taxon	zinc finger, also known as ZDHHC2, is a human gene.	ZDHHC2	human
+found in taxon	Reversion-inducing-cysteine-rich protein with kazal motifs, also known as RECK, is a human gene, thought to be a metastasis suppressor.	RECK	human
+found in taxon	HMG-box transcription factor 1, also known as HBP1, is a human protein.	HBP1	human
+found in taxon	Hepatoma-derived growth factor, related protein 3, also known as HDGFRP3, is a human gene.	HDGFRP3	human
+found in taxon	Zymogen granule protein 16, also known as ZG16, is a human gene.	ZG16	human
+found in taxon	Interleukin 17 receptor A, also known as IL17RA and CDw217 (cluster of differentiation w217), is a human gene.	IL17RA	human
+found in taxon	Naked cuticle 2 (NKD2) is a human gene that encodes the protein Nkd2, one of the Naked cuticle (Nkd) family of proteins that regulate the Wnt signaling pathway.	Naked cuticle 2	human
+found in taxon	It is the homologue of the human ``G/T binding protein,'' (GTBP) also called p160 or hMSH6 (human MSH6).	MSH6	human
+found in taxon	Galactose mutarotase (aldose 1-epimerase) (gene name GALM) is a human enzyme that converts alpha-aldose to the beta-anomer.	Galactose mutarotase	human
+found in taxon	GPR156 (G protein-coupled receptor 156), is a human gene which encodes a G protein-coupled receptor belonging to metabotropic glutamate receptor subfamily.	GPR156	human
+found in taxon	Heat shock protein 47, also known as SERPINH1 is a serpin which serves as a human chaperone protein for collagen.	Heat shock protein 47	human
+found in taxon	The gene CLPB encodes protein Caseinolytic peptidase B protein homolog in human.	CLPB	human
+found in taxon	Many scientists state that there are no known polymorphisms of the human PER1 gene with significance at a population level that results in measurable behavioral or physiological changes.	PER1	human
+found in taxon	In addition, S100B, which is also present in human melanocytes, is a reliable marker for melanoma malignancy both in bioptic tissue and in serum.	S100B	human
+found in taxon	Potassium inwardly-rectifying channel, subfamily J, member 13 (KCNJ13) is a human gene encoding the Kir7.1 protein.	KCNJ13	human
+found in taxon	FAM135B is a human gene coding for a protein of unknown function.	FAM135B	human
+found in taxon	DPα and DPβ are encoded by two loci, HLA-DPA1 and HLA-DPB1, that are found in the MHC Class II (or HLA-D) region in the Human Leukocyte Antigen complex on human chromosome 6 (see protein boxes on right for links).	HLA-DP	human
+found in taxon	DEAD (Asp-Glu-Ala-Asp) box polypeptide 31, also known as DDX31, is a human gene.	DDX31	human
+found in taxon	Hippocalcin like 4, also known as HPCAL4, is a human gene.	HPCAL4	human
+found in taxon	BTLA activation inhibits the function of human CD8+ cancer-specific T cells.	BTLA	human
+found in taxon	The human gene MARCH5, also known as MITOL or RNF153, has 7 Exons and locates at the chromosome band 10q23.32-q23.33.	MARCH5	human
+found in taxon	Glutamate dehydrogenase pseudogene 5, also known as GLUDP5, is a human gene.	GLUDP5	human
+found in taxon	Histone H3s are coded by several genes in the human genome, including:	Histone H3	human
+found in taxon	RuvB-like 1 (E. coli), also known as RUVBL1 and TIP49, is a human gene.	RuvB-like 1	human
+found in taxon	Protein kinase LYK5, also known as LYK5 or STRADα, is a human protein and also denotes the gene encoding it.	LYK5	human
+found in taxon	MAS-related GPR, member F, also known as MRGPRF, is a human gene.	MRGPRF	human
+found in taxon	Exosome component 9, also known as EXOSC9, is a human gene, the protein product of which is part of the exosome complex and is an autoantigen is patients with certain auto immune diseases, most notably scleromyositis.	Exosome component 9	human
+found in taxon	Regulator of G-protein signalling 9, also known as RGS9, is a human gene, which codes for a protein involved in regulation of signal transduction inside cells.	RGS9	human
+found in taxon	Calcitonin receptor-like (CALCRL), also known as the calcitonin receptor-like receptor (CRLR), is a human protein.	CALCRL	human
+found in taxon	AHSA2 also known as AHA1, activator of heat shock 90kDa protein ATPase homolog 2 (yeast) is a human gene which encodes a protein which acts as co-chaperone of Hsp90 (heat shock protein 90).	AHSA2	human
+found in taxon	TRAF6 is a TRAF human protein.	TRAF6	human
+found in taxon	Exosome component 8, also known as EXOSC8, is a human gene, the protein product of which is part of the exosome complex.	Exosome component 8	human
+found in taxon	SLITRK1 (``SLIT and NTRK-like family, member 1'') is a human gene on chromosome 13q31.1.	SLITRK1	human
+found in taxon	Resting human cholangiocytes express PD-L1 mRNA, but not the protein, due to translational suppression by microRNA miR-513.	PD-L1	human
+found in taxon	Cytochrome P450, family 3, subfamily A, also known as CYP3A, is a human gene.	CYP3A	human
+found in taxon	CD69 (Cluster of Differentiation 69) is a human transmembrane C-Type lectin protein encoded by the CD69 gene.	CD69	human
+found in taxon	Heat shock 70kDa protein 1B, also known as HSPA1B, is a human gene.	HSPA1B	human
+found in taxon	Ribonucleoprotein, PTB-binding 1 (also known as RAVER1), is a human gene.	RAVER1	human
+home venue	The Festival of North Norway (Norwegian: Festspillene i Nord-Norge) is a festival based in Harstad, Norway.	Festival of North Norway	Harstad
+home venue	Jokerit plays its home games at the Hartwall Arena.	Jokerit	Hartwall Arena
+home venue	Ferroviário Esporte Clube play their home games at Estádio Nhozinho Santos.	Ferroviário Esporte Clube	Estádio Nhozinho Santos
+home venue	Once Municipal play all their home games at the Estadio Simeón Magaña which has a capacity of 5,000 people and is located in the city center of Ahuachapan.	Once Municipal	Estadio Simeón Magaña
+home venue	Syrianska FC's current home is in Södertälje at the Södertälje Fotbollsarena stadium and is also the home of local rival Assyriska Föreningen.	Syrianska FC	Södertälje Fotbollsarena
+home venue	For its one year of existence, the Altoona Mountain Citys were managed by Ed Curtis and played in Altoona's Columbia Park.	Altoona Mountain Citys	Columbia Park
+home venue	Palmeiras Nordeste Futebol played their home games at Estádio Municipal Alberto Oliveira, nicknamed Estádio Joia da Princesa.	Palmeiras Nordeste Futebol	Estádio Joia da Princesa
+home venue	Cruz Azul plays in the top division Liga MX at its home venue the Estadio Azul, located in the southwestern part of Mexico City in the Colonia Ciudad de los Deportes, adjacent the Nápoles neighborhood.	Cruz Azul	Estadio Azul
+illustrator	The Book of Snobs is a collection of satirical works by William Makepeace Thackeray first published in the magazine Punch as The Snobs of England, By One of Themselves.	The Book of Snobs	William Makepeace Thackeray
+illustrator	Great Day for Up! is a book written by Dr. Seuss and illustrated by Quentin Blake.	Great Day for Up!	Quentin Blake
+illustrator	Turtles Go Hollywood was written by Daniel Greenberg with art by Kevin Long, and was published by Palladium Books in 1990 as a 48-page book.	Turtles Go Hollywood	Kevin Long
+illustrator	Chicka Chicka Boom Boom is a bestselling children's book written by Bill Martin, Jr. and John Archambault, illustrated by Lois Ehlert, and published by Simon & Schuster in 1989.	Chicka Chicka Boom Boom	Lois Ehlert
+illustrator	Nathaniel Fludd, Beastologist is an ongoing series of chapter books for children written by R. L. LaFevers and illustrated by Kelly Murphy.	Nathaniel Fludd, Beastologist	Kelly Murphy
+illustrator	Apt. 3 is a 1971 children's picture book by American author and illustrator Ezra Jack Keats.	Apt. 3	Ezra Jack Keats
+illustrator	The Wonder City of Oz (1940) is the thirty-fourth in the series of Oz books created by L. Frank Baum and his successors, and the first written and illustrated solely by John R. Neill.	The Wonder City of Oz	John R. Neill
+illustrator	Catwings is a series of four American children's picture books written by Ursula K. Le Guin, illustrated by S. D. Schindler, and originally published by Scholastic from 1988 to 1999.	Catwings	S. D. Schindler
+illustrator	Years in the Making: the Time-Travel Stories of L. Sprague de Camp is a 2005 collection of short stories by science fiction and fantasy author L. Sprague de Camp edited by Mark L. Olson and illustrated by Bob Eggleton, published in hardcover by NESFA Press.	Years in the Making: the Time-Travel Stories of L. Sprague de Camp	Bob Eggleton
+illustrator	The Olympic Smurfs (original French title: Les Schtroumpfs Olympiques) is the eleventh album of the original French-language Smurfs comic series created by Belgian artist Peyo.	The Olympic Smurfs	Peyo
+illustrator	The Gruffalo's Child by Julia Donaldson and Axel Scheffler is the bestselling sequel to The Gruffalo.	The Gruffalo's Child	Axel Scheffler
+illustrator	Like a Velvet Glove Cast in Iron is a graphic novel by American cartoonist Daniel Clowes.	Like a Velvet Glove Cast in Iron	Daniel Clowes
+illustrator	The Hundred Dresses is a 1944 children's book by Eleanor Estes, illustrated by Louis Slobodkin.	The Hundred Dresses	Louis Slobodkin
+illustrator	De divina proportione (On the Divine Proportion) is a book on mathematics written by Luca Pacioli and illustrated by Leonardo da Vinci, composed around 1498 in Milan and first printed in 1509.	De divina proportione	Leonardo da Vinci
+illustrator	A Theory of Fun for Game Design is a book written and illustrated by Raph Koster.	A Theory of Fun for Game Design	Raph Koster
+illustrator	The Moomins (Swedish: Mumintroll) are the central characters in a series of books and a comic strip by Swedish-speaking Finnish illustrator and writer Tove Jansson, originally published in Swedish by Schildts in Finland.	Moomin	Tove Jansson
+illustrator	Varjak Paw (2003) is a novel by the British author S. F. Said and illustrated by Dave McKean.	Varjak Paw	Dave McKean
+illustrator	The Calder Game is a children's novel written by Blue Balliett and illustrated by Brett Helquist, published in 2008.	The Calder Game	Brett Helquist
+industry	Taylor Wessing LLP is an international law firm with 28 offices internationally.	Taylor Wessing	law firm
+industry	Hill+Knowlton Strategies is a global public relations company, headquartered in New York City, United States, with 90 offices in 52 countries.	Hill+Knowlton Strategies	public relations
+industry	Ironshore Inc. provides broker-sourced specialty property and casualty insurance coverages for varying risks on a global basis through its platforms in Australia, Bermuda, Canada, Ireland, Singapore, the United States and the United Kingdom.	Ironshore	insurance
+industry	SunEdison's subsidiaries TerraForm Power and TerraForm Global own and operate renewable-energy projects around the globe.	SunEdison	renewable-energy
+industry	Rami Levy Hashikma Marketing (Hebrew: רמי לוי שיווק השקמה‎, Rami Levy Shivuk Hashikma) is the third largest Israeli retail supermarket chain, behind Shufersal Ltd. and Alon Holding--	Rami Levy Hashikma Marketing	retail
+industry	With the increasing dominance of Wal-Mart throughout the country during the 1990s and up to the present, Meijer is facing the effects of an intensely competitive retail industry.	Meijer	retail
+industry	The Económico TV (ETV) is a private Portuguese digital cable business news television channel that is owned by the same group of the Portuguese newspaper Diário Económico and Brazilian Brasil Econômico.	Económico TV	news
+industry	Saddleback Leather Company (SBL) is a Fort Worth, Texas, United States-based, privately owned American leather goods retailer founded in 2003 by Dave Munson.	Saddleback Leather Company	leather
+industry	That same year Saatva launched Loom and Leaf, an ecofriendly brand of luxury memory foam mattresses.	Saatva	memory foam
+industry	Sovran Bank was a US-based regional bank that operated in Virginia between 1983 and 1990, and was the leading subsidiary of Sovran Financial Corporation.	Sovran Bank	bank
+industry	CNBC Europe (referred to on air simply as CNBC) is a business and financial news television channel which airs across Europe, the Middle East and Africa.	CNBC Europe	news
+industry	Al Jazeera English (AJE) is an international state-funded 24-hour English-language news and current affairs TV channel owned and operated by Al Jazeera Media Network, which is headquartered in Doha, Qatar.	Al Jazeera English	news
+industry	Xiaomi designs, develops, and sells smartphones, mobile apps, and related consumer electronics.	Xiaomi	consumer electronics
+industry	Higgs and Hill was a major British construction company responsible for building some of London's finest buildings.	Higgs and Hill	construction
+industry	In 1986, Valmet sold its shipbuilding operations to Wärtsilä Oy, which merged them with its own shipyards to form Wärtsilä Marine.	Valmet	shipbuilding
+industry	Founded in 2010 and launched the following year, Saatva is credited as being the oldest mattress e-tailer.	Saatva	mattress
+industry	OSN News is a 24-hour satellite and cable channel offering exclusively American news programming from ABC, CBS, NBC, PBS, and MSNBC to U.S. expats and other viewers abroad, primarily geared towards an audience in the Arab countries.	OSN News	news
+industry	RTP3 is a Portuguese 24-hour news channel operated by Rádio e Televisão de Portugal (RTP), the public-service broadcaster.	RTP3	news
+industry	Al Jazeera Balkans (AJB) is an international news television station headquartered in Sarajevo, Bosnia and Herzegovina aimed at the media markets of the countries that used to be constituent units of SFR Yugoslavia.	Al Jazeera Balkans	news
+industry	Fiat S.p.A., or Fabbrica Italiana Automobili Torino (Italian Automobile Factory of Turin), was an Italian holding company whose original and core activities were in the automotive industry, and that was succeeded by Fiat Chrysler Automobiles NV (FCA).	Fiat S.p.A.	automotive industry
+industry	The main product offered by Virgin Media Ireland is cable and MMDS (``wireless cable'') television services, in analogue, and SD and HD digital formats, using DVB-C encrypted using Nagravision.	Virgin Media Ireland	cable'') television
+industry	In the 1990s, attempts to revive the automotive industry of Isotta Fraschini were made.	Isotta Fraschini	automotive industry
+industry	Flintco, LLC is a United States construction company based in Tulsa, Oklahoma.	Flintco	construction
+industry	Lima Airport Partners S.R.L. is a Limited liability company that operates Peru's main airport: the Jorge Chávez International Airport in Callao, near Lima.	Lima Airport Partners	airport
+industry	SIC Notícias (Portuguese pronunciation: (ˈsik nuˈtisiɐʃ)) is the cable news channel of the Portuguese television network SIC (Sociedade Independente de Comunicação) and the second thematic channel of the station.	SIC Notícias	news
+industry	ABC Television Productions, LLC (dba ABC Studios), is the television production division of Disney--	ABC Studios	television production
+industry	4INFO is an American corporation that provides mobile advertising technology for the placement and tracking of advertisements; including on computers, mobile phones, and end-point systems such as cash registers.	4INFO	advertising
+industry	Scotts Shipbuilding and Engineering Company Limited, often referred to simply as Scotts, was a Scottish shipbuilding company based in Greenock on the River Clyde.	Scotts Shipbuilding and Engineering Company	shipbuilding
+industry	Dr. ing. A. Aas-Jakobsen AS, trading as Aas-Jakobsen, is a civil engineering consultant company specializing in structural engineering.	Aas-Jakobsen	civil engineering
+industry	Ĭsa Knox is a Korean cosmetics company.	Ĭsa Knox	cosmetics
+industry	Acta Wireless is a venture capital firm that specializes in providing seed-stage funding to wireless and telecom companies.	Acta Wireless	venture capital
+industry	Fincantieri - Cantieri Navali Italiani S.p.A. (Italian pronunciation: (finkanˈtjɛːri)) is an Italian shipbuilding company based in Trieste, Italy.	Fincantieri	shipbuilding
+industry	Ultra Electronics Holdings (LSE: ULE) is a British company serving the defence, security, transport and energy industries.	Ultra Electronics	transport
+industry	Natixis Global Asset Management is a French asset management company with €294 billion in assets under management as of December 31, 2013.	Natixis Global Asset Management	asset management
+license	Lightspark is a free and open source SWF player released under the terms of the GNU Lesser General Public License (LGPL) version 3.	Lightspark	GNU Lesser General Public License
+license	On April 11, 2010, SugarCRM announced that starting with version 6.0.0, the Sugar Community Edition would be licensed under the GNU Affero General Public License version 3.	SugarCRM	Affero General Public License
+license	Fans quickly joined in on the parody by submitting numerous fake reviews to several popular freeware download sites and game review sites giving Progress Quest the highest scores possible.	Progress Quest	freeware
+license	The main parts of Opsi are Open Source licensed under the GNU General Public License.	Opsi	GNU General Public License
+license	In 2002, with its commercial viability long past, Leor Zolman released BDS C's source code into the public domain, thus making it free software.	BDS C	public domain
+license	Pygame was originally written by Pete Shinners and is released under the open source free software GNU Lesser General Public License.	Pygame	GNU Lesser General Public License
+license	CSPro, short for the Census and Survey Processing System, is a public domain statistical package developed by the U.S. Census Bureau and ICF International.	CSPro	public domain
+license	From version 2.2 on, Jython (including the standard library) is released under the Python Software Foundation License (v2).	Jython	Python Software Foundation License
+license	Under this model, users may choose to use the Aptana IDE under the free software/open source GNU General Public License (commonly known as the ``GPL'') or under the Aptana Public License (known as the ``APL'').	Aptana	GNU General Public License
+license	The OpenSSL License is Apache License 1.0 and SSLeay License bears some similarity to a 4-clause BSD License.	OpenSSL	Apache License
+license	Dev-Pascal is a free integrated development environment (IDE) distributed under the GNU General Public License for programming in Pascal and Object Pascal.	Dev-Pascal	GNU General Public License
+license	LLVM was released under the University of Illinois/NCSA Open Source License, a permissive free software licence.	LLVM	University of Illinois/NCSA Open Source License
+license	QVM86 was a GNU GPLv2 licensed drop-in replacement for the then closed-source KQEMU.	QEMU	GPLv2
+license	The MoinMoin code is licensed under the GNU General Public License v2, or (at the user's option) any later version (except some 3rd party modules that are licensed under other Free Software licenses compatible with the GPL).	MoinMoin	GNU General Public License
+license	GeoGebra includes open-source libraries licensed under the GNU General Public License (GPL), the LGPL, the Apache license and others.	GeoGebra	GNU General Public License
+license	Released under the terms of the GNU General Public License, GKrellM is free software.	GKrellM	GNU General Public License
+military rank	Auguste-Louis Petiet (19 July 1772 in Rennes -- 1 August 1858) was a French brigadier general and a politician.	Auguste-Louis Petiet	brigadier general
+military rank	Al-Muhallab ibn Abi Sufra (Arabic: أبو سعيد, المهلّب بن أبي صفرة الأزدي‎), also known as Abu Sa'id (c. 632, Oman/UAE -- February 702, Khorasan), was an Azdi Arab warrior and general, originally from Dibba on present-day Oman-UAE border.	Al-Muhallab ibn Abi Sufra	warrior
+military rank	SS-Hauptsturmführer Hans Bothmann or Hans Johann Bothmann (November 11, 1911 -- April 4, 1946) was the last commandant of the Chełmno extermination camp from 1942 on (SS card number 117630); leader of the SS Special Detachment Bothmann conducting the extermination of Jews from the Łódź Ghetto and other places.	Hans Bothmann	commandant
+military rank	Carlo Zeno (or Zen) (1333 -- March 8, 1418) was an Italian admiral from Venice, who is considered a hero of the War of Chioggia against the Republic of Genoa.	Carlo Zeno	admiral
+military rank	Alan Hyde Gardner, 2nd Baron Gardner, KCB (5 February 1770 -- 22 December 1815) was a British admiral.	Alan Hyde Gardner, 2nd Baron Gardner	admiral
+military rank	Captain Samantha Carter made her first appearance in ``Children of the Gods'', the pilot episode of Stargate SG-1, as a United States Air Force Captain who joined the fictional SG-1 team under the command of Colonel Jack O'Neill.	Samantha Carter	Colonel
+military rank	Nikolay Karlovich Krabbe (Russian: Николай Карлович Краббе) (September 19, 1814 -- January 3, 1876) was an admiral of the Russian Imperial Navy.	Nikolay Karlovich Krabbe	admiral
+military rank	Gabriel de Mendizábal Iraeta ``Primer Conde de Cuadro de Alba de Tormes'' (14 May 1765, Bergara, Gipuzkoa) - 1 September 1838, Madrid) was a Basque Spanish general officer who fought in the Peninsular War.	Gabriel de Mendizábal Iraeta	general officer
+military rank	Jal Cursetji (born May 20, 1919) is a retired Indian Navy admiral who served as the 10th Chief of the Naval Staff from March 1, 1976 until February 28, 1979.	Jal Cursetji	admiral
+military rank	Vice Admiral Cuthbert Collingwood, 1st Baron Collingwood (26 September 1748 -- 7 March 1810) was an admiral of the Royal Navy, notable as a partner with Lord Nelson in several of the British victories of the Napoleonic Wars, and frequently as Nelson's successor in commands.	Cuthbert Collingwood, 1st Baron Collingwood	admiral
+military rank	José Segundo Roca was an Argentine colonel.	José Segundo Roca	colonel
+noble family	Da Geng or Tai Geng (Chinese: 太庚) was a king of the Shang dynasty of ancient China.	Tai Geng	Shang dynasty
+noble family	Sophie Marie of Hesse-Darmstadt (7 May 1661, Darmstadt -- 22 August 1712, Gotha) was a member of the House of Hesse and by marriage Duchess of Saxe-Eisenberg.	Sophie Marie of Hesse-Darmstadt	House of Hesse
+noble family	Frederick, Margrave of Brandenburg-Bayreuth (May 10, 1711 in Weferlingen -- February 26, 1763 in Bayreuth), was a member of the House of Hohenzollern and Margrave of Brandenburg-Bayreuth.	Frederick, Margrave of Brandenburg-Bayreuth	Hohenzollern
+noble family	Burkhard I, Count of Zollern (born: before 1025; killed as part of a feud in 1061) is considered the first well-documented ancestor of the Hohenzollern dynasty.	Burkhard I, Count of Zollern	Hohenzollern
+noble family	Ernest I, Prince of Anhalt-Dessau (died Dessau, 12 June 1516), was a German prince of the House of Ascania and ruler of the principality of Anhalt-Dessau.	Ernest I, Prince of Anhalt-Dessau	House of Ascania
+noble family	Childebert I (c. 496 -- 13 December 558) was a Frankish King of the Merovingian dynasty, as third of the four sons of Clovis I who shared the kingdom of the Franks upon their father's death in 511.	Childebert I	Merovingian dynasty
+noble family	Cleopatra was a member of the Ptolemaic dynasty, a family of Macedonian Greek origin that ruled Egypt after Alexander the Great's death during the Hellenistic period.	Cleopatra	Ptolemaic dynasty
+noble family	The Tianqi Emperor (23 December 1605 -- 30 September 1627), personal name Zhu Youxiao, was the 15th emperor of the Ming dynasty of China, reigning from 1620--1627.	Tianqi Emperor	Ming dynasty
+noble family	Franz, Duke of Bavaria (German: Franz Bonaventura Adalbert Maria Herzog von Bayern), born 14 July 1933) is head of the House of Wittelsbach, the former ruling family of the Kingdom of Bavaria.	Franz, Duke of Bavaria	House of Wittelsbach
+noble family	Merovech (Latin: Meroveus or Merovius) (d. 453/457) is the semi-legendary founder of the Merovingian dynasty of the Salian Franks (although Chlodio may in fact be the founder), which later became the dominant Frankish tribe.	Merovech	Merovingian dynasty
+noble family	Zhong Ding (Chinese: 仲丁) was a Shang dynasty King of China.	Zhong Ding	Shang dynasty
+noble family	Dorothea of Saxony (German: Dorothea von Sachsen; 4 October 1563, Dresden -- 13 February 1587, Wolfenbüttel) was a Saxon princess from the House of Wettin and by marriage Duchess of Brunswick-Wolfenbüttel.	Dorothea of Saxony	House of Wettin
+noble family	Haraldr Guðrøðarson and his predecessors were members of the Crovan dynasty, and ruled an island-kingdom that encompassed the Mann and portions of the Hebrides, variously known as the Kingdom of the Isles or the Kingdom of Mann and the Isles.	Haraldr Guðrøðarson	Crovan dynasty
+noble family	Congal Cáech (also Congal Cláen) was a king of the Cruithne of Dál nAraidi, in modern Ulster, from around 626 to 637.	Congal Cáech	Dál nAraidi
+noble family	Charles de Fitz-James, Duke of Fitz-James (4 November 1712 in Saint-Germain-en-Laye -- 22 March 1787 at his hôtel particulier, Paris) was a French general, descended from the British House of Stuart.	Charles de Fitz-James	House of Stuart
+noble family	Cynan ab Iago (c. 1014 -- c. 1063) was a Welsh prince of the House of Aberffraw sometimes credited with briefly reigning as King of Gwynedd.	Cynan ab Iago	House of Aberffraw
+noble family	Anne Pierre d'Harcourt was a French nobleman, notable as a duke of Harcourt and the fourth marshal of France from the House of Harcourt.	Anne Pierre d'Harcourt	House of Harcourt
+noble family	Prince William Pitt Leleiohoku II, born William Pitt Kalahoʻolewa (1854--1877), was a prince of the Kingdom of Hawaiʻi and member of the reigning House of Kalākaua.	Leleiohoku II	House of Kalākaua
+noble family	King Wu of Zhou (Chinese: 周武王; pinyin: Zhōu Wǔ wáng) was the first king of the Zhou dynasty of ancient China.	King Wu of Zhou	Zhou dynasty
+noble family	Fabrizio Colonna (c. 1450 -- 18 March 1520) was an Italian condottiero, a member of the powerful Colonna family.	Fabrizio Colonna	Colonna family
+noble family	Mahanandin was a king of the Shishunaga dynasty of the Indian subcontinent.	Mahanandin	Shishunaga dynasty
+noble family	Salomon Mayer von Rothschild (9 September 1774 -- 28 July 1855) was a German-born banker in the Austrian Empire and the founder of the Austrian branch of the prominent Mayer Amschel Rothschild family.	Salomon Mayer von Rothschild	Rothschild family
+noble family	Isabella Teotochi Albrizzi (1760 - 27 September 1836) was a Venetian writer, salonist and countess Isabella Albrizzi married first to the Venetian patrician Antonio Marin, and then to the state inquisitor Giuseppe Albrizzi.	Isabella Teotochi Albrizzi	Marin
+noble family	Hugleik or Ochilaik (a namesake of Hygelac) was a Swedish king of the House of Yngling, according to the Ynglinga saga.	Hugleik	Yngling
+noble family	Emperor Yagbe'u Seyon (Amharic: ይግባ ጽዮን?), also Yagbea-Sion (throne name Salomon), was Emperor (nəgusä nägäst) (18 June 1285 -- 1294) of Ethiopia, and a member of the Solomonic dynasty.	Yagbe'u Seyon	Solomonic dynasty
+noble family	Philip of Swabia (February/March 1177 -- 21 June 1208) was a prince of the House of Hohenstaufen and King of Germany from 1198 to 1208.	Philip of Swabia	House of Hohenstaufen
+noble family	Antiochus I Soter (Greek: Ἀντίοχος Α΄ ὁ Σωτήρ; epithet means ``the Saviour''; c. 324/3 -- 261 BC), was a king of the Hellenistic Seleucid Empire.	Antiochus I Soter	Seleucid Empire
+noble family	Andreas, Prince of Saxe-Coburg and Gotha, Duke of Saxony (given names: Andreas Michael Friedrich Hans Armin Siegfried Hubertus; born 21 March 1943) has been the head of the House of Saxe-Coburg and Gotha since 1998.	Andreas, Prince of Saxe-Coburg and Gotha	House of Saxe-Coburg and Gotha
+noble family	Dawit III (Ge'ez ዳዊት), throne name Adbar Sagad (Ge'ez አድባር ሰገድ, ``to whom the mountains bow''), also known as Dawit the Singer, was nəgusä nägäst (8 February 1716 - 18 May 1721) of Ethiopia and a member of the Solomonic dynasty.	Dawit III	Solomonic dynasty
+noble family	Amda Iyasus (Ge'ez: ዓምደ ኢየሱስ ʿāmda iyasus, ``Pillar of Jesus,'' Amharic: made iyesus?) was Emperor (nəgusä nägäst) (throne name Badel Nan በድል ናኝ badil nāñ; 1433--1434) of Abyssinia, and a member of the Solomonic dynasty.	Amda Iyasus	Solomonic dynasty
+noble family	Viewed as paranoid and dangerous, An Lushan was assassinated in 757 by his own son, An Qingxu, after which the state of Yan continued to spiral into a turmoil that eventually led to its collapse in 763.	An Lushan	Yan
+noble family	Gulab Singh was born on 18 October 1792 in a Hindu Jamwal Dogra Rajput family.	Gulab Singh	Jamwal
+noble title	-- (2004) ``Eardley , Sir Culling Eardley, third baronet (1805--1863)'', Oxford Dictionary of National Biography, Oxford University Press, accessed 4 August 2007 (subscription or UK public library membership required)	Culling Eardley	baronet
+noble title	Sir Edward Blackett, 4th Baronet (9 April 1719 -- 3 February 1804) was a baronet and member of the British House of Commons for Northumberland.	Sir Edward Blackett, 4th Baronet	baronet
+noble title	Sir James Johnstone, 3rd Baronet (9 February 1697 -- 10 December 1772) was a Scottish baronet and politician.	Sir James Johnstone, 3rd Baronet	baronet
+noble title	Doyle was born near Tadcaster, Yorkshire, to a military family which produced several distinguished officers, including his father, Major-General Sir Francis Hastings Doyle, 1st Baronet, who was created a baronet in 1828.	Francis Hastings Doyle	baronet
+noble title	In Greek mythology, Pandion I (Ancient Greek: Πανδίων) was a legendary King of Athens, the son and heir to Erichthonius of Athens and his wife, the naiad Praxithea.	Pandion I	King of Athens
+noble title	Oedipus (US /ˈɛdᵻpəs/ or UK /ˈiːdᵻpəs/; Ancient Greek: Οἰδίπους Oidípous meaning ``swollen foot'') was a mythical Greek king of Thebes.	Oedipus	king of Thebes
+noble title	Sir Hugh Cholmeley, 4th Baronet (21 July 1632 -- 9 January 1689) was an English politician and baronet.	Sir Hugh Cholmeley, 4th Baronet	baronet
+noble title	Sir Currimbhoy Ebrahim was knighted during the Prince and Princess of Wales's Indian tour of 1905 and created a baronet in 1910 and further granted lands to support that dignity by the Currimbhoy Ebrahim Baronetcy Act 1913 following the precedent set by the Cowasji Jehangir Baronetcy Act.	Currimbhoy Ebrahim	baronet
+noble title	Sir John Call, 1st Baronet (30 June 1731 -- 1 March 1801) was an English engineer and baronet.	John Call	baronet
+noble title	Sir Isaac Astley, 1st Baronet (died 7 September 1659) was an English baronet.	Isaac Astley	baronet
+noble title	Sir John Pakington, 1st Baronet (1600--1624) was an English baronet and M.P. for Aylesbury in 1623--16234.	Sir John Pakington, 1st Baronet	baronet
+noble title	Robert Bertie, 1st Duke of Ancaster and Kesteven PC (20 October 1660 -- 26 July 1723), styled Lord Willoughby de Eresby between 1666 and 1701 and known as The Earl of Lindsey between 1701 and 1706 and as The Marquess of Lindsey between 1706 and 1715, was a British statesman and nobleman.	Robert Bertie, 1st Duke of Ancaster and Kesteven	Earl of Lindsey
+noble title	Sir John Hoskyns, 2nd Baronet PRS (23 July 1634 -- 12 September 1705) was an English baronet.	Sir John Hoskyns, 2nd Baronet	baronet
+operating system	GNUstep features a cross-platform, object-oriented IDE.	GNUstep	cross-platform
+operating system	The LG G Watch R (model W110) is an Android Wear-based smartwatch announced and released by LG and Google on October 25, 2014.	LG G Watch R	Android Wear
+operating system	The LifeDrive was a Palm OS-based handheld personal digital assistant device that was produced by PalmOne, a former incarnation of Palm, Inc. The device was PalmOne's first and only foray into the ``Mobile Manager'' device category.	LifeDrive	Palm OS
+operating system	FFmpeg is developed under Linux, but it can be compiled under most operating systems, including Mac OS X, Microsoft Windows, as well as AmigaOS and its heir MorphOS.	FFmpeg	OS X	Microsoft Windows
+operating system	Firefox is available for Windows, OS X and Linux operating systems, with its mobile versions available for Android, and Firefox OS; where all of these versions use the Gecko layout engine to render web pages, which implements current and anticipated web standards, but an additional version released in late 2015 --	Firefox	OS X	Linux	Android
+operating system	F-Droid is a software repository (or ``app store'') for Android applications.	F-Droid	Android
+operating system	The Huawei U8800 Ideos X5 is a touchscreen mobile phone running Android, and which targets the mid-high phone market.	Huawei U8800	Android
+operating system	Process Explorer is a freeware task manager and system monitor for Microsoft Windows created by Sysinternals, which has been acquired by Microsoft.	Process Explorer	Microsoft Windows
+operating system	AdAway is a free and open source ad blocking application for the Android mobile operating system.	AdAway	Android
+operating system	ClassDojo is available as a web application that can be used in any device with a web browser, and also with native applications for iPhone (iOS) and Android.	ClassDojo	iOS	Android
+operating system	KPhone is a SIP User Agent for Linux.	KPhone	Linux
+operating system	FreeWRL is an open source compliant VRML/X3D browser for Microsoft Windows, Linux and Mac OS X.	FreeWRL	Microsoft Windows
+point in time	The Godhra train burning was an incident that occurred on the morning of 27 February 2002, in which 59 people died in a fire inside the Sabarmati Express train near the Godhra railway station in the Indian state of Gujarat.	Godhra train burning	27 February 2002
+point in time	The Lathen train collision occurred on 22 September 2006 when a Transrapid magnetic levitation (or ``maglev'') train collided with a maintenance vehicle near Lathen, Germany, killing 23 people.	Lathen train collision	22 September 2006
+point in time	The Fiat X1/23 is a concept car originally shown in 1972 at the Turin Motor Show and in 1976 as an electric car by the Italian manufacturer Fiat.	Fiat X1/23	1972
+point in time	The 1963 BAC One-Eleven test crash was a fatal accident of a British Aircraft Corporation aircraft on 22 October 1963, near Chicklade in Wiltshire, England.	1963 BAC One-Eleven test crash	22 October 1963
+point in time	The Tuzla massacre was a massacre of civilians committed by the Army of Republika Srpska on 25 May 1995 in Tuzla during the Bosnian War.	Tuzla massacre	25 May 1995
+point in time	The 1996 Belgian Air Force Hercules accident is an aviation accident that occurred on 15 July 1996 at Eindhoven Airport, the Netherlands.	1996 Belgian Air Force Hercules accident	15 July 1996
+point in time	The Feyzin disaster occurred in a refinery near the town of Feyzin, 10 kilometres (6 miles) south of Lyon, France), on 4 January 1966.	Feyzin disaster	4 January 1966
+point in time	The Battle of Kudal-Sangamam was fought in 1062 by the forces of the Chola king Rajendra Chola II and the Western Chalukya king Someshvara I at Kudal-Sangamam, where the Krishna and the Tungabhadra meet.	Battle of Kudal-Sangamam	1062
+point in time	The 2004 Grozny stadium bombing occurred on 9 May 2004 when a bomb exploded in the Dynamo stadium in the Chechen capital, Grozny, killing 10 people including the republic's president Akhmad Kadyrov and another 56 people were wounded.	2004 Grozny stadium bombing	9 May 2004
+point in time	The 1924 Imperial Airways de Havilland DH.34 crash occurred on 24 December 1924 when de Havilland DH.34 G-EBBX of Imperial Airways crashed at Purley, Surrey, United Kingdom killing all eight people on board.	1924 Imperial Airways de Havilland DH.34 crash	24 December 1924
+point in time	The Battle of Adrianople (9 August 378), sometimes known as the Battle of Hadrianopolis, was fought between an Eastern Roman army led by the Eastern Roman Emperor Valens and Gothic rebels (largely Thervings as well as Greutungs, non-Gothic Alans, and various local rebels) led by Fritigern.	Battle of Adrianople	9 August 378
+point in time	Aeroflot Flight 5463 was a Soviet domestic passenger flight from Chelyabinsk to Almaty which crashed on 30 August 1983 while approaching Almaty.	Aeroflot Flight 5463	30 August 1983
+point in time	The 41st Venice International Film Festival was held in 1984 under the direction of Gian Luigi Rondi.	41st Venice International Film Festival	1984
+point in time	The June 2011 Peshawar bombings occurred on 12 June 2011 in Peshawar, Khyber Pakhtunkhwa, Pakistan At least 34 people were killed and more than 90 were injured when two bombs exploded in a market soon after midnight.	June 2011 Peshawar bombings	12 June 2011
+point in time	Air Rhodesia Flight 827, the Umniati, was a scheduled flight between Kariba and Salisbury that was shot down on 12 February 1979 by Zimbabwe People's Revolutionary Army (ZIPRA) guerrillas using a Strela 2 missile soon after take-off.	Air Rhodesia Flight 827	12 February 1979
+point in time	Airblue Flight 202 was a scheduled domestic passenger flight which crashed on 28 July 2010 near Islamabad, the capital of Pakistan, killing all 146 passengers and six crew on board.	Airblue Flight 202	28 July 2010
+point in time	The Gold dust robbery took place in 1839 in Falmouth, Cornwall.	Gold dust robbery	1839
+point in time	The 2014 Beijing ePrix, formally the 2014 FIA Formula E Evergrande Spring Beijing ePrix, was a Formula E motor race that was held on 13 September 2014 at the Beijing Olympic Green Circuit in Beijing, China.	2014 Beijing ePrix	13 September 2014
+point in time	Suryamani massacre (Bengali: সূর্যমণি হত্যাকান্ড) took place on the early hours of 7 October 1971 in Suryamani village of the then Barisal district.	Suryamani massacre	7 October 1971
+point in time	Indian Airlines Flight 605 was an A320 fly-by-wire flight on 14 February 1990 that crashed on its final approach to Bengaluru (formerly Bangalore) airport, killing 92 people.	Indian Airlines Flight 605	14 February 1990
+point in time	The 28th Torino Film Festival was held in 2010 in Turin, Italy.	28th Torino Film Festival	2010
+point in time	The 11th Chennai International Film Festival took place in Chennai , Tamil Nadu, India from 12 to 19 December 2013.	11th Chennai International Film Festival	2013
+point in time	The Great Fire of Brisbane was a major conflagration that swept through the central parts of Brisbane in the Colony of Queensland (now a state of Australia) on 1 December 1864.	Great Fire of Brisbane	1 December 1864
+point in time	The Battle of Havrincourt was a World War I battle fought on 12 September 1918, involving the British Third Army (under the command of General Sir Julian Byng) against German troops, including those of the 3rd and 10th Corps, in the town of Havrincourt, France.	Battle of Havrincourt	12 September 1918
+point in time	The 1999 Chamoli earthquake occurred on 28 March 1999 in the Chamoli district in the Indian state of Uttar Pradesh (now in Uttarakhand).	1999 Chamoli earthquake	28 March 1999
+point in time	Dolle Dinsdag (Mad Tuesday) took place in the Netherlands on 5 September 1944.	Dolle Dinsdag	5 September 1944
+point in time	The 1947 FA Cup Final was contested by Charlton Athletic and Burnley at Wembley, England on 26 April 1947.	1947 FA Cup Final	26 April 1947
+point in time	In a strict sense, the Union of Krewo or Act of Krėva (also Union of Krevo, Act of Kreva) was a set of prenuptial promises made in the Kreva Castle on 14 August 1385 by Jogaila, Grand Duke of Lithuania, in exchange for marriage to the underage reigning Queen Jadwiga of Poland.	Union of Krewo	14 August 1385
+point in time	The Drownings at Nantes (French: Noyades de Nantes) were a series of mass executions by drowning during the Reign of Terror in Nantes, France, that occurred between November 1793 and February 1794.	Drownings at Nantes	1793	1794
+point in time	Hewa Bora Airways Flight 952 (EO952/ALX952) was a passenger flight which crashed at Bangoka International Airport, Kisangani, Democratic Republic of the Congo, on 8 July 2011.	Hewa Bora Airways Flight 952	8 July 2011
+point in time	Transgender Day of Remembrance (TDoR), which occurs annually on November 20, is a day to memorialize those who have been murdered as a result of transphobia and to bring attention to the continued violence endured by the transgender community.	Transgender Day of Remembrance	November 20
+point in time	The Moseley Royal Commission, officially titled the Royal Commission Appointed to Investigate, Report and Advise Upon Matters in Relation to the Condition and Treatment of Aborigines was a Government of Western Australia Royal Commission established in 1934 to hear evidence regarding the treatment of Aboriginal people.	Moseley Royal Commission	1934
+point in time	The National Salvation Junta (Junta de Salvação Nacional, Portuguese pronunciation: (ˈʒũtɐ dɨ saɫvɐˈsɐ̃w̃ nɐsiuˈnaɫ)) was a group of military officers designated to maintain the government of Portugal in April 1974, after the Carnation Revolution had overthrown the Estado Novo dictatorial regime.	National Salvation Junta	1974
+point in time	Kmetija 2 was the second season of Farm franchise of Slovenia was aired in 2007 by POP TV.	Kmetija 2	2007
+point in time	XL Airways Germany Flight 888T was an Airbus A320 which crashed into the Mediterranean Sea, 7 km off Canet-en-Roussillon on the French coast, close to the Spanish border, on 27 November 2008.	XL Airways Germany Flight 888T	27 November 2008
+point in time	Caribbean Airlines Flight 523 was a passenger flight which overran the runway at Cheddi Jagan International Airport, Georgetown, Guyana, on 30 July 2011.	Caribbean Airlines Flight 523	30 July 2011
+point in time	French Constitutional Law of 1940, are the bills that were voted into law on 10 July 1940 by the National Assembly, which comprised both the Senate and the Chamber of Deputies during the French Third Republic.	French Constitutional Law of 1940	10 July 1940
+point in time	National Airlines Flight 16 was a domestic (U.S.), scheduled passenger flight from Miami, Florida, to Lakeland, Florida, that crashed on 5 October 1945.	National Airlines Flight 16	5 October 1945
+point in time	The Downend air crash occurred on 6 November 1957 when a prototype Bristol Britannia aircraft crashed in woods near Overndale Road in Downend, a suburb of Bristol, England, on its landing approach at Filton airport during a test flight.	Downend air crash	6 November 1957
+point in time	Northwest Airlines Flight 421 was a domestic scheduled passenger flight from Chicago, Illinois to Minneapolis, Minnesota that crashed on 29 August 1948.	Northwest Airlines Flight 421	29 August 1948
+point in time	The Battle of Maloyaroslavets took place on 24 October 1812, between the Russians, under Marshal Mikhail Illarionovich Kutuzov, and part of the corps of Eugène de Beauharnais, Napoleon's stepson, under General Alexis Joseph Delzons which numbered about 20,000 strong.	Battle of Maloyaroslavets	24 October 1812
+point in time	The Karaiskakis Stadium disaster was an incident that occurred on 8 February 1981, in the Karaiskakis Stadium in Neo Faliro, Piraeus, Greece, after the conclusion of a football match between Olympiacos and AEK Athens.	Karaiskakis Stadium disaster	8 February 1981
+point in time	The 1998 MIAT Mongolian Airlines crash was a domestic flight that crashed on 26 May 1998, killing all on board.	1998 MIAT Mongolian Airlines crash	26 May 1998
+point in time	The Grayrigg derailment was a fatal railway accident that occurred at approximately 20:15 GMT on 23 February 2007, just to the south of Grayrigg, Cumbria, in the North West England region of the United Kingdom.	Grayrigg derailment	23 February 2007
+point in time	Korean Air Lines Flight 015 was a Boeing 747 operating a scheduled passenger flight from Los Angeles International Airport, in Los Angeles, California, to Gimpo International Airport in Seoul, South Korea with an intermediate stop in Anchorage, Alaska, that crashed while attempting to land on 19 November 1980.	Korean Air Lines Flight 015	19 November 1980
+point in time	The 1994 Black Hawk shootdown incident, sometimes referred to as the Black Hawk Incident, was a friendly fire incident over northern Iraq that occurred on 14 April 1994 during Operation Provide Comfort (OPC).	1994 Black Hawk shootdown incident	14 April 1994
+point in time	Sree Angan massacre (Bengali: শ্রীঅঙ্গন হত্যাকান্ড) refers to the massacre of Bengali Hindu monks of Sree Angan monastery in Faridpur on 21 April 1971.	Sree Angan massacre	21 April 1971
+point in time	Aeroflot Flight 244 was hijacked on 15 October 1970, the first successful airline hijacking in the Soviet Union.	Aeroflot Flight 244	15 October 1970
+point in time	Linea Aeropostal Venezolana Flight 253 was a regularly scheduled passenger flight from Idlewild International Airport, New York bound for Caracas International Airport, Caracas, Venezuela on 20 June 1956.	Linea Aeropostal Venezolana Flight 253	20 June 1956
+point in time	The Čemerno massacre refers to the massacre of the Serbs of the village of Čemerno, in the Ilijaš Municipality, near Sarajevo, on 10 June 1992, during the Bosnian War.	Čemerno massacre	10 June 1992
+point in time	The Battle of Walaja was a battle fought in Mesopotamia (Iraq) in May 633 between the Rashidun Caliphate army under Khalid ibn al-Walid and Al-Muthanna ibn Haritha against the Sassanid Empire and its Arab allies.	Battle of Walaja	May 633
+point in time	The Battle of Adwa (also known as Adowa, or sometimes by the Italian name Adua) was fought on 1 March 1896 between the Ethiopian Empire and the Kingdom of Italy near the town of Adwa, Ethiopia, in Tigray.	Battle of Adwa	1 March 1896
+point in time	The Sutton Wick air crash occurred on 5 March 1957 when a Blackburn Beverley C Mk 1 heavy transport aircraft, serial number XH117, of 53 Squadron Royal Air Force crashed at Sutton Wick, Drayton, Berkshire, England, following shut-down of one engine and partial loss of power on another.	Sutton Wick air crash	5 March 1957
+point in time	The 1994 Hajj stampede resulted in the deaths of at least 270 pilgrims on 23 May 1994 during the Hajj in Mecca during the Stoning of the Devil ritual.	1994 Hajj stampede	23 May 1994
+point in time	The 1957 Nutts Corner BEA Viscount crash was a British European Airways (BEA) flight from London to Belfast that crashed at Nutts Corner Airport on 23 October 1957, killing all seven passengers and crew.	1957 Nutts Corner BEA Viscount crash	23 October 1957
+point in time	EgyptAir Flight 741 was a flight between Cairo International Airport and the now-defunct Nicosia International Airport that crashed on 29 January 1973.	EgyptAir Flight 741	29 January 1973
+point in time	On 15 August 1976, SAETA Flight 232 en route from Quito, Ecuador, to Cuenca was reported missing while in flight.	SAETA Flight 232	15 August 1976
+point in time	Vietnam Airlines Flight 474 crashed on approach to Nha Trang Airport on 14 November 1992 during Cyclone Forrest.	Vietnam Airlines Flight 474	14 November 1992
+point in time	The Schiedam train disaster took place in the Netherlands on 4 May 1976 near the station Schiedam Rotterdam-West.	Schiedam train disaster	4 May 1976
+production company	Wax and Wane (Traditional Chinese: 團圓) is a 2011 Hong Kong television drama produced by Television Broadcasts Limited (TVB), with Nelson Cheung serving as the executive producer.	Wax and Wane	Television Broadcasts Limited
+production company	Grey's Anatomy is produced by ShondaLand, in association with The Mark Gordon Company, and ABC Studios (formerly Touchstone Television).	Grey's Anatomy	ABC Studios
+production company	Fire Creek is a 2006 independent film released theatrically by Brigham Young University.	Fire Creek	Brigham Young University
+production company	The Wife Takes a Flyer (UK title: A Yank in Dutch) is a 1942 romantic comedy film made by Columbia Pictures, directed by Richard Wallace, and starring by Joan Bennett and Franchot Tone.	The Wife Takes a Flyer	Columbia Pictures
+production company	You're Fired (1919) is a silent film comedy, produced by Famous Players-Lasky and distributed by Paramount Pictures.	You're Fired	Famous Players-Lasky
+production company	Call Me Claus is a television movie starring Whoopi Goldberg.	Call Me Claus	Whoopi Goldberg
+production company	The Adventures of Kathlyn (1913) is an American motion picture serial released on December 29, 1913 by the Selig Polyscope Company.	The Adventures of Kathlyn	Selig Polyscope Company
+production company	Juliet of the Spirits was shot at Cinecittà Studios, Cinecittà, Rome, Lazio, Italy;	Juliet of the Spirits	Cinecittà
+production company	President Gari Pellam (English: Wife of President) is a 1992 Telugu film directed by A. Kodandarami Reddy and produced by V.Doraswamy Raju on VMC Productions.	President Gari Pellam	VMC Productions
+production company	The Great Mouse Detective is a 1986 American animated mystery-comedy film produced by Walt Disney Feature Animation, originally released to movie theaters on July 2, 1986 by Walt Disney Pictures.	The Great Mouse Detective	Walt Disney Pictures
+production company	Fatal Move reunites writer, producer and director Dennis Law, with initially the same crew and several actors he used to make the 2006 film Fatal Contact.	Fatal Move	Dennis Law
+production company	Gone Nutty (also known as Scrat's Missing Adventure) is an animated short film, directed by Carlos Saldanha for Blue Sky Studios.	Gone Nutty	Blue Sky Studios
+production company	After its completion in December 1985, Orion Pictures originally scheduled Cherry 2000 for a U.S. release on August 15, 1986.	Cherry 2000	Orion Pictures
+production company	Produced by the National Film Board of Canada (NFB) for $74,871, Cry of the Wild was launched in over 500 theatres in the United States, grossed over one million dollars in its opening week, generating a reported $4.5 million to $5+ million in gross box office.	Cry of the Wild	National Film Board of Canada
+production company	The Actor's Children is a 1910 American silent short drama written by Lloyd Lonergan and produced by the Thanhouser Company in New Rochelle, New York.	The Actor's Children	Thanhouser Company
+production company	The Locket is a 1946 film noir directed by John Brahm, starring Laraine Day, Brian Aherne, Robert Mitchum, and Gene Raymond, and released by RKO Pictures.	The Locket	RKO Pictures
+production company	Alpha House is an American political satire television series produced by Amazon Studios.	Alpha House	Amazon Studios
+production company	Bolshevism on Trial is a 1919 American motion picture drama made by the Mayflower Photoplay Company and distributed through Lewis J. Selznick's Select Pictures Corporation.	Bolshevism on Trial	Mayflower Photoplay Company
+production company	In August 2010, Emilio Diez Barroso and Darlene Carmaño Loquet of NALA Films announced that they were teaming up with Will Ferrell, Adam McKay, Kevin Messick and Jessica Elbaum of Gary Sanchez Productions to produce the Spanish-language comedy, Casa de Mi Padre, starring Will Ferrell.	Casa de Mi Padre	NALA Films	Gary Sanchez Productions
+production company	Paramount Pictures has licensed three adaptations of Roman Holiday into musicals:	Roman Holiday	Paramount Pictures
+production company	Cars 2 is a 2011 American computer-animated action comedy spy film produced by Pixar and released by Walt Disney Pictures.	Cars 2	Pixar
+production company	A Separation (Persian: جدایی نادر از سیمین‎‎ Jodaí-e Nadér az Simín, ``The Separation of Nader and Simin'') is a 2011 Iranian drama film written and directed by Asghar Farhadi, starring Leila Hatami, Peyman Moaadi, Shahab Hosseini, Sareh Bayat, and Sarina Farhadi.	A Separation	Asghar Farhadi
+production company	The Beast from 20,000 Fathoms (aka The Monster from Beneath the Sea) is a 1953 American black-and-white science fiction monster film from Warner Bros., produced by Jack Dietz and Hal E. Chester, directed by Eugène Lourié, and starring Paul Christian, Paula Raymond, Cecil Kellaway, and Kenneth Tobey.	The Beast from 20,000 Fathoms	Warner Bros.
+production company	To the Devil a Daughter is a 1976 horror film, directed by Peter Sykes and produced by Hammer Film Productions and Terra-Filmkunst.	To the Devil a Daughter	Hammer Film Productions
+production company	Stuck on You! is a 1982 comedy film directed by Lloyd Kaufman and Michael Herz of Troma Entertainment.	Stuck on You!	Troma Entertainment
+production company	The French Line is a 1954 musical film starring Jane Russell made by RKO Pictures, directed by Lloyd Bacon and produced by Edmund Grainger, with Howard Hughes as executive producer.	The French Line	RKO Pictures
+production company	Gold Diggers of 1933 is a Pre-Code Warner Bros. musical film directed by Mervyn LeRoy with songs by Harry Warren (music) and Al Dubin (lyrics), staged and choreographed by Busby Berkeley.	Gold Diggers of 1933	Warner Bros.
+production company	Katch It With Khanyi is a South African television talk show produced by Endemol Africa and hosted by Khanyi Mbau where she interviews South African celebrities, including politicians, footballers and artists.	Katch It With Khanyi	Endemol
+production company	The Wrong Trousers is a 1993 stop-motion animated short film directed by Nick Park at Aardman Animations, featuring his characters Wallace and Gromit.	The Wrong Trousers	Aardman Animations
+production company	The Centerfold Girls (1974) is a thriller directed by John Peyser and distributed by Troma Entertainment.	Centerfold Girls	Troma Entertainment
+production company	Belle of the Nineties (1934) is Mae West's fourth motion picture, directed by Leo McCarey and released by Paramount Pictures.	Belle of the Nineties	Paramount Pictures
+production company	A Ticket to Tomahawk is a 1950 American western musical comedy film, released by 20th Century Fox, directed by Richard Sale and starring Dan Dailey and Anne Baxter.	A Ticket to Tomahawk	20th Century Fox
+production company	Unlike The Hustler, which was released by 20th Century Fox, The Color of Money was released by Disney's Touchstone Pictures label.	The Color of Money	Touchstone Pictures
+production company	The Kiss of the Vampire (also known as Kiss of Evil) is a 1963 British vampire film made by the film studio Hammer Film Productions.	The Kiss of the Vampire	Hammer Film Productions
+production company	Daddy's Deadly Darling (also titled Pigs, Daddy's Girl, The Strange Love Exorcist and Roadside Torture Chamber) is a 1972 horror film directed by Marc Lawrence and currently distributed by Troma Entertainment.	Daddy's Deadly Darling	Troma Entertainment
+production company	The Traces of Death series is distributed by Darrin Ramage of Brain Damage Films.	Traces of Death	Brain Damage Films
+production company	Aliens in the Attic is a 2009 American family science fiction comedy film produced by 20th Century Fox and Regency Enterprises and starring Carter Jenkins, Austin Butler, Ashley Tisdale, Ashley Boettcher, Henri Young, Regan Young, Josh Peck, J. K. Simmons, Kari Wahlgren, and Thomas Haden Church .	Aliens in the Attic	Regency Enterprises
+production company	Little Dieter Needs to Fly is a 1997 documentary film made for German television, written and directed by Werner Herzog, produced by Werner Herzog Filmproduktion.	Little Dieter Needs to Fly	Werner Herzog Filmproduktion
+production company	Ernest Scared Stupid is a 1991 American horror comedy fantasy film directed by John R. Cherry III and starring Jim Varney.	Ernest Scared Stupid	John R. Cherry III
+production company	Wreck-It Ralph is a 2012 American 3D computer-animated fantasy-comedy film produced by Walt Disney Animation Studios and released by Walt Disney Pictures.	Wreck-It Ralph	Walt Disney Animation Studios
+production company	The Pink Panther 2 was theatrically released on February 6, 2009 by Metro-Goldwyn-Mayer and Columbia Pictures and was released on DVD and Blu-ray on July 27, 2009 by 20th Century Fox Home Entertainment and MGM Home Entertainment.	The Pink Panther 2	Metro-Goldwyn-Mayer
+production company	Bhaskar Bharti is a daily show that aired on Sony Entertainment Television (India) from Mondays to Thursdays.	Bhaskar Bharti	Sony
+production company	Ragini MMS 2 is a 2014 Indian erotic-horror film directed by Bhushan Patel and co-produced by Ekta Kapoor and Shobha Kapoor under Balaji Motion Pictures and ALT Entertainment.	Ragini MMS 2	Balaji Motion Pictures
+production company	As of 2015, the first three series of Great Continental Railway Journeys have been released on DVD by FremantleMedia under licence from Boundless and the BBC.	Great Continental Railway Journeys	FremantleMedia
+production company	RocknRolla, written by Ritchie, was produced by Joel Silver's Dark Castle Entertainment, Ritchie's own company, Toff Guy Films, French company StudioCanal and distributed by Warner Bros..	RocknRolla	Dark Castle Entertainment	StudioCanal	Warner Bros.
+production company	Get a Horse! is a 2013 American 3D animated slapstick comedy short film, produced by Walt Disney Animation Studios.	Get a Horse!	Walt Disney Animation Studios
+production company	Waar Parriwar was a singing reality television show that aired 3 days a week (Monday to Wednesday) on Sony TV in 2008.	Waar Parriwar	Sony
+production company	Kuch Toh Log Kahenge (People Will Talk) was a Hindi television series on Sony Entertainment Television India.	Kuch Toh Log Kahenge	Sony
+production company	About Schmidt was theatrically released on December 13, 2002 by New Line Cinema.	About Schmidt	New Line Cinema
+production company	True Lies was the first Lightstorm Entertainment project to be distributed under Cameron's multimillion-dollar production deal with 20th Century Fox, as well as the first major production for the visual effects company Digital Domain, which was co-founded by Cameron.	True Lies	Lightstorm Entertainment
+production company	The original soundtrack album for You Are the Apple of My Eye was released by Sony Music Entertainment Taiwan on 5 August 2011.	You Are the Apple of My Eye	Sony Music Entertainment Taiwan
+production company	I Am Omega, stylized as I Am Ωmega, is a 2007 direct-to-DVD American doomsday film produced by The Asylum and starring Mark Dacascos.	I Am Omega	The Asylum
+production company	Chittod Ki Rani Padmini Ka Johur (English: The Johur of the Queen Padmini of Chittod) was an Indian historical television drama on Sony Entertainment Television (India), based on the life of Rani Padmini, the famous 14th-century queen of Chittod, Mewar, Rajasthan.	Chittod Ki Rani Padmini Ka Johur	Sony
+production company	The Politician's Love Story is a 1909 short drama film directed by D. W. Griffith for the Biograph Company.	The Politician's Love Story	Biograph Company
+programming language	OpenMDAO is an open-source Multidisciplinary Design, Analysis, and Optimization (MDAO) framework, written in the Python programming language.	OpenMDAO	Python
+programming language	The Android App for GnuCash is written in Java and does not share any code with the PC software.	GnuCash	Java
+programming language	Apache Wicket, commonly referred to as Wicket, is a lightweight component-based web application framework for the Java programming language conceptually similar to JavaServer Faces and Tapestry.	Apache Wicket	Java
+programming language	Apache AxKit was an XML Apache publishing framework run by the Apache foundation written in Perl.	AxKit	Perl
+programming language	The webmail portion of the project was started by Nathan and Luke Ehresman in 1999 and is written in PHP. SquirrelMail can be employed in conjunction with a LAMP ``stack'', and any other operating systems that support PHP are supported as well.	SquirrelMail	PHP
+programming language	The Logitech Media Server software is written in Perl, and will run on Linux, Microsoft Windows, Apple Macintosh, BSD, and piCorePlayerOS platforms.	Logitech Media Server	Perl
+programming language	GNU LibreDWG is a software library programmed in C to manage DWG computer files, native proprietary format of computer-aided design software AutoCAD.	LibreDWG	C
+programming language	JEUS (an abbreviation of Java Enterprise User Solution) is a Korean Web application server which is developed by TmaxSoft.	JEUS	Java
+programming language	PeerTracker is a free (licensed as GPL) BitTorrent peer tracker software written in PHP that is designed to be fast and to have a low consumption of system resources.	PeerTracker	PHP
+programming language	ActorFoundry is a Java-based library for Actor programming.	ActorFoundry	Java
+programming language	Reductio is open source software written using the Java Programming Language from an idea that originated in a research paper called QuickCheck:	Reductio	Java
+programming language	ItsNat Natural AJAX, is an open source Java component-based Ajax framework.	ItsNat	Java
+programming language	In August 2011, Quora switched its infrastructure's Python implementation from CPython to PyPy, in order to improve response time.	Quora	Python
+programming language	Viaweb was also unusual for being partially written in the Lisp programming language.	Viaweb	Lisp
+programming language	EasyEclipse is an open source software project hosted in Sourceforge that provides several bundled distributions of the Eclipse IDE pre configured with plug-ins for special purposes such as Python programming, Ruby on Rails, etc. It is released under CPL, EPL and OSL.	EasyEclipse	Python
+programming language	JOnAS is an open-source implementation of the Java EE application server specification, developed and hosted by the ObjectWeb consortium (ObjectWeb is a non-profit European consortium, founded by INRIA, Groupe Bull, and France Télécom).	JOnAS	Java
+programming language	Apache ActiveMQ is an open source message broker written in Java together with a full Java Message Service (JMS) client.	Apache ActiveMQ	Java
+programming language	With its code written in C++, the Unreal Engine features a high degree of portability and is a tool used by many game developers today.	Unreal Engine	C++
+programming language	Jmol is an open-source Java tool for molecular modelling chemical structures in 3D, that does not require 3D acceleration plugins.	Jmol	Java
+programming language	The Second Berkeley Software Distribution (2BSD), released in May 1979, included updated versions of the 1BSD software as well as two new programs by Joy that persist on Unix systems to this day: the vi text editor (a visual version of ex) and the C shell.	Berkeley Software Distribution	C
+programming language	It is sold in two flavours: as standalone software package called SocialEngine PHP, and as software as a service under the name SocialEngine Cloud.	SocialEngine	PHP
+programming language	GODI is a package management system for the OCaml programming language.	GODI	OCaml
+programming language	Since its beginnings OTRS has been implemented in the programming language Perl.	OTRS	Perl
+programming language	Magento is an open-source e-commerce platform written in PHP for e-commerce web sites.	Magento	PHP
+programming language	Muine is written in C# using Mono and Gtk#.	Muine	C
+programming language	Smarty allows PHP programmers to define custom functions that can be accessed using Smarty tags.	Smarty	PHP
+programming language	TCPDF is a free and open source software PHP class for generating PDF documents.	TCPDF	PHP
+programming language	Written in Scala, GeoMesa is capable of ingesting, indexing, and querying billions of geometry features using a highly parallelized index scheme.	GeoMesa	Scala
+programming language	Classic Shell is programmed in C++.	Classic Shell	C++
+programming language	IronPython is written entirely in C#, although some of its code is automatically generated by a code generator written in Python.	IronPython	C
+programming language	Open Inventor, originally IRIS Inventor, is a C++ object oriented retained mode 3D graphics toolkit designed by SGI to provide a higher layer of programming for OpenGL.	Open Inventor	C++
+programming language	The MOEA Framework is an open-source evolutionary computation library for Java that specializes in multi-objective optimization.	MOEA Framework	Java
+programming language	BCX converts BASIC source code to C/C++ source code which can then be compiled using any one of a number of available Microsoft Win32 C/C++ compilers.	BCX	BASIC
+programming language	JCreator is a Java IDE created by Xinox Software.	JCreator	Java
+programming language	BitSpirit (Chinese: 比特精灵) is a freeware, closed source BitTorrent client by ByteLinker Inc. It is available for Microsoft Windows and written in C++.	BitSpirit	C++
+programming language	Nette Framework is an open-source framework for creating web applications in PHP 5.	Nette Framework	PHP
+programming language	PySynth is a lightweight open source software synthesizer written in Python.	PySynth	Python
+service entry	The PTRD-41 (Shortened from Russian, ProtivoTankovoye Ruzhyo Degtyaryova;Противотанковое однозарядное ружьё системы Дегтярёва образца 1941 года;``Degtyaryov Anti-Tank Rifle'') was an anti-tank rifle produced and used from early 1941 by the Soviet Red Army during World War II. It was a single-shot weapon which fired a 14.5×114mm round.	PTRD	1941
+service entry	The Dragunov SVDK large caliber sniper rifle (any rifle caliber above 9 mm is considered a large caliber in Russia) is a somewhat controversial weapon, adopted by Russian army in 2006.	SVDK	2006
+service entry	The Pistolet modèle An XIII was a flintlock cavalry pistol, in service in French units from 1806.	Pistolet modèle An XIII	1806
+service entry	The M1 Abrams entered U.S. service in 1980, replacing the M60 tank.	M1 Abrams	1980
+service entry	Previously known as LAV-300 A1, it was named LAV-600 in 1986.	LAV-600	1986
+service entry	At FCM Jammy and Savatier finished the Char 2C prototype, the other nine tanks being built almost simultaneously; all ten were delivered in 1921 and modified by the factory until 1923.	Char 2C	1921
+service entry	Adopted in 1997, the QBU-88 is, by the modern sense, not a true sniper rifle -- it is more of designated marksman rifle, intended for aimed semi-automatic fire at ranges beyond the capabilities of standard infantry assault rifles.	QBU-88	1997
+service entry	The Nahkampfkanone 1 was an experimental Swiss tank destroyer that saw service between 1944 and 1947.	Nahkampfkanone 1	1944
+service entry	The DRG Class 99.19 engines were metre gauge, ten-coupled, superheated, steam locomotives that were employed in the southwestern German state of Württemberg from 1927.	DRG Class 99.19	1927
+service entry	The Disney bomb saw limited use by the United States Army Air Forces in Europe from February to April 1945.	Disney bomb	1945
+service entry	The Panzerfaust 3 (Tank fist 3 or ``The German RPG'') is a modern disposable recoilless anti-tank weapon, which was developed between 1978 and 1985 and put into service by the Bundeswehr in 1992.	Panzerfaust 3	1992
+service entry	The Type 97 motorcycle, or Rikuo, was a copy of a Harley-Davidson motorcycle produced from 1935 in Japan under license from Harley-Davidson by the Sankyo Company (later Rikuo Nainen Company).	Type 97 motorcycle	1935
+service entry	The NBR 141 Class consisted of two steam locomotives of the 2-4-0 wheel arrangement built by the North British Railway (NBR) in 1869.	NBR 141 Class	1869
+service entry	The Costa Mesa facility produced 234 Stoner 63s, when production was then moved in September 1964 to the Cadillac Gage plant in Warren, Michigan.	Stoner 63	1964
+service entry	The Vetterli rifles were a series of Swiss army service rifles in use from 1869 to circa 1890, when they were replaced with Schmidt--	Vetterli rifle	1869
+service entry	The first versions of the Ak 5 family were made by the Swedish company FFV Ordnance AB (now part of Saab Bofors Dynamics) under license from FN, with deliveries starting in 1986.	Ak 5	1986
+service entry	The Mark 10 torpedo was a torpedo put into use by the United States in 1915.	Mark 10 torpedo	1915
+service entry	The Levavasseur project was an early project for a tank designed in 1903 by the French Captain Levavasseur of the 6th Artillery Battalion, described as a ``automobile cannon project'' (French: Projet de canon autopropulseur).	Levavasseur project	1903
+standards body	ISO 3103 is a standard published by the International Organization for Standardization (commonly referred to as ISO), specifying a standardized method for brewing tea, possibly sampled by the standardized methods described in ISO 1839.	ISO 3103	International Organization for Standardization
+standards body	ISO 3166-2:RS is the entry for Serbia in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1.	ISO 3166-2:RS	International Organization for Standardization
+standards body	ISO 3166-2:GP is the entry for Guadeloupe in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1.	ISO 3166-2:GP	International Organization for Standardization
+standards body	ISO 3166-2:LT is the entry for Lithuania in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1.	ISO 3166-2:LT	International Organization for Standardization
+standards body	ISO 3166-2:AT is the entry for Austria in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1.	ISO 3166-2:AT	International Organization for Standardization
+standards body	ISO 3166-2:TZ is the entry for Tanzania in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1.	ISO 3166-2:TZ	International Organization for Standardization
+standards body	ISO 3166-2:GN is the entry for Guinea in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1.	ISO 3166-2:GN	International Organization for Standardization
+standards body	IEEE 2030 was a project of the standards association of the Institute of Electrical and Electronics Engineers (IEEE) that developed a ``Guide for Smart Grid Interoperability of Energy Technology and Information Technology Operation with the Electric Power System (EPS), and End-Use Applications and Loads''.	IEEE 2030	Institute of Electrical and Electronics Engineers
+standards body	ISO 3166-2:LU is the entry for Luxembourg in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1.	ISO 3166-2:LU	International Organization for Standardization
+standards body	ISO 3166-2:BH is the entry for Bahrain in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1.	ISO 3166-2:BH	International Organization for Standardization
+standards body	ISO 3166-2:GE is the entry for Georgia in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1.	ISO 3166-2:GE	International Organization for Standardization
+standards body	ISO 3166-2:BD is the entry for Bangladesh in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1.	ISO 3166-2:BD	International Organization for Standardization
+standards body	ISO 3166-2:BF is the entry for Burkina Faso in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1.	ISO 3166-2:BF	International Organization for Standardization
+standards body	The content of Iconclass is currently maintained by the Rijksbureau voor Kunsthistorische Documentatie (Netherlands Institute for Art History).	Iconclass	Netherlands Institute for Art History
+standards body	ISO 3166-2:FR is the entry for France in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1.	ISO 3166-2:FR	International Organization for Standardization
+standards body	ISO 3166-2:LK is the entry for Sri Lanka in ISO 3166-2, part of the ISO 3166 standard published by the International Organization for Standardization (ISO), which defines codes for the names of the principal subdivisions (e.g., provinces or states) of all countries coded in ISO 3166-1.	ISO 3166-2:LK	International Organization for Standardization
+standards body	ISIRI 13262 is a standard published by the Institute of Standards and Industrial Research of Iran (ISIRI) in 2011 based on Directive 2009/78/EC.	ISIRI 13262	Institute of Standards and Industrial Research of Iran
+start time	38 Parrots (Russian: 38 попугаев, translit. Tridtsat vosem popugaev) is a series of ten children's cartoons produced in the Soviet Union between 1976 and 1991 by Soyuzmultfilm.	38 Parrots	1976
+start time	TPH Club as known as Tú Puedes Hacerlo was an Spanish children's program aired on Televisión Española between 13 September 1999 and September 2004 and hosted by Paloma Lago.	TPH Club	13 September 1999
+start time	The Ruskin Pottery was an English pottery studio founded in 1898 by Edward R. Taylor, the first Principal of both the Lincoln School of Art and the Birmingham School of Art, to be run by his son, William Howson Taylor, formerly a student there.	Ruskin Pottery	1898
+start time	Thread-locking fluid was developed by American professor Vernon K. Krieble in 1953.	Thread-locking fluid	1953
+start time	The Jicarilla War began in 1849 and was fought between the Jicarilla Apaches and the United States military in the New Mexico Territory.	Jicarilla War	1849
+start time	The Second Cabinet of Alexis Tsipras was sworn in on 23 September 2015, following the Greek legislative election in September 2015.	Second Cabinet of Alexis Tsipras	23 September 2015
+start time	The Tenth Menzies Ministry was the forty-first Australian Commonwealth ministry, and ran from 18 December 1963 to 21 January 1966.	Tenth Menzies Ministry	1963
+start time	The 53rd government of Turkey (6 March 1996 -- 28 June 1996), known as ``ANAYOL'' or ``Second Mesut Yılmaz government,'' was a coalition government formed by True Path Party (DYP) and Motherland Party (ANAP).	53rd government of Turkey	1996
+start time	The Evangelical Magazine was a monthly magazine published in London from 1793 to 1904, and aimed at Calvinist Christians.	Evangelical Magazine	1793
+start time	The First Anglo-Maratha War (1775--1782) was the first of three Anglo-Maratha wars fought between the British East India Company and Maratha Empire in India.	First Anglo-Maratha War	1775
+start time	The group stage of the 2014 FIFA World Cup took place in Brazil from 12 June 2014 to 26 June 2014: each team played three games.	2014 FIFA World Cup	12 June 2014
+start time	The Bosnian Crusade was fought against unspecified heretics from 1235 until 1241.	Bosnian Crusade	1235
+start time	The Van Rompuy Government was the federal government of Belgium from 30 December 2008 until 15 November 2009.	Van Rompuy Government	2008
+start time	The Uruguayan Civil War, also known in Spanish as the Guerra Grande (``Great War''), was a series of armed conflicts that took place between the Colorado Party and the National Party in Uruguay from 1839 to 1851.	Uruguayan Civil War	1839
+start time	Saas Bina Sasural premiered on 18 October 2010, and was produced by Vipul D. Shah of Optimystix Entertainment.	Saas Bina Sasural	18 October 2010
+start time	The Cabinet of Ewa Kopacz was the government of Poland from 22 September 2014 to 16 November 2015.	Cabinet of Ewa Kopacz	22 September 2014
+start time	The Leterme I Government was the federal government of Belgium from 20 March 2008 to 22 December 2008.	Leterme I Government	2008
+start time	Built in 1902, the Menominee Opera House (later known as Menominee Theatre) resides in the Historic Waterfront District of downtown Menominee, Michigan.	Menominee Opera House	1902
+start time	Malmö Östra hospital murders is the name of a Swedish case of serial murders committed by the then 18-year-old Anders Hansson at a hospital in Malmö between October 1978 and January 1979.	Malmö Östra hospital murders	October 1978
+start time	Polònia launched on 16 February 2006 with great success, making it among the most watched TV programmes in Catalonia.	Polònia	16 February 2006
+start time	Ethics in America was a ten-part television series, originally aired from 1988 to 1989, in which panels of leading intellectuals from various professions discussed the ethical implications of hypothetical scenarios, which often touched on politics, the media, medicine, and law.	Ethics in America	1988
+start time	The Stolojan I Cabinet was the Cabinet of the Government of Romania between October 16, 1991 and 1992.	Stolojan I Cabinet	1991
+start time	The Cabinet of Josip Manolić was the Croatian Government cabinet announced on 24 August 1990, when previous prime minister Stjepan Mesić left Zagreb to assume the Croatian seat at the Yugoslav collective presidency following armed insurrection by ethnic Serbs.	Cabinet of Josip Manolić	1990
+start time	The Lola T370 was a Formula One car designed by Andy Smallman and used by Embassy Hill in the 1974 season, and the early part of the 1975 season.	Lola T370	1974
+start time	The Sunbeam Rapier is an automobile produced by Sunbeam from 1955 to 1976, in two different body-styles, the ``Series'' cars (which underwent several revisions) and the later (1967--76) fastback shape, part of the ``Arrow'' range.	Sunbeam Rapier	1955
+start time	The Forty Years' War (Burmese: အနှစ်လေးဆယ်စစ်; 1385 -- 1424; also Ava-Pegu War or the Mon-Burmese War) was a military conflict fought between the Burmese-speaking Kingdom of Ava and the Mon-speaking Kingdom of Hanthawaddy Pegu.	Forty Years' War	1385
+start time	The Moro I Cabinet was the Government of Italy headed by Prime Minister Aldo Moro from 4 December 1963 until 22 July 1964 for a total of 231 days, or 7 months and 18 days.	Moro I Cabinet	1963
+start time	The Second Anglo-Maratha War (1803--1805) was the second conflict between the British East India Company and the Maratha Empire in India.	Second Anglo-Maratha War	1803
+start time	The Swedish Chemical Society (Swedish: Svenska Kemistsamfundet) was established in 1883 and is a nonprofit organisation to promote the development of chemistry in Sweden.	Swedish Chemical Society	1883
+start time	The New York State Engineer and Surveyor was a state cabinet officer in the State of New York between 1848 and 1926.	New York State Engineer and Surveyor	1848
+start time	The Development Reform Cabinet (Indonesian: Kabinet Reformasi Pembangunan) was the Indonesian cabinet which served under President BJ Habibie during his term as President from 21 May 1998-20 October 1999.	Development Reform Cabinet	1998
+start time	Lufthansa Flight 181 was a Boeing 737--230 Adv aircraft named Landshut that was hijacked on 13 October 1977, by four members of the Popular Front for the Liberation of Palestine who called themselves Commando Martyr Halima.	Lufthansa Flight 181	13 October 1977
+start time	The Societa Valdostana Automobili (SVA), was an Italian automobile manufacturer, active in Pont Saint Martin from 1948 to 1951.	Societa Valdostana Automobili	1948
+start time	The Colorado War was fought from 1863 to 1865 and was an Indian War between the Cheyenne and Arapaho tribes and white settlers and militia in the Colorado Territory and adjacent regions.	Colorado War	1863
+start time	#1Lib1Ref (``One Librarian, One Reference'') was a Wikipedia publicity drive that asked each librarian on Earth to mark the 15th anniversary of the foundation of Wikipedia, on 15 January 2016, by adding a citation to the online encyclopedia.	1Lib1Ref	15 January 2016
+start time	The 2nd government of Turkey (6 March 1924 -- 22 November 1924) was the second government in the history of the Turkey.	2nd government of Turkey	1924
+start time	Hjärnkontoret (``Think Tank'') is a Swedish children's science programme broadcast by SVT since 10 January 1995 (then hosted by Fredrik Berling).	Hjärnkontoret	10 January 1995
+start time	Tattletales is an American game show which first aired on the CBS daytime schedule on February 18, 1974.	Tattletales	1974
+vessel class	USS Pilotfish (SS-386), a Balao-class submarine, was a ship of the United States Navy named for the pilot fish, a carangoid fish, often seen in warm latitudes in company with sharks.	USS Pilotfish (SS-386)	Balao-class submarine
+vessel class	HMAS Huon (D50), named after the Huon River, was a River-class torpedo-boat destroyer of the Royal Australian Navy (RAN).	HMAS Huon (D50)	River-class torpedo-boat destroyer
+vessel class	USS Burton Island (AG-88) was a United States Navy Wind-class icebreaker that was later re-commissioned in the United States Coast Guard as the USCGC Burton Island (WAGB-283).	USCGC Burton Island (WAGB-283)	Wind-class icebreaker
+vessel class	The second USS Cummings (DD-365) was a Mahan-class destroyer in the United States Navy, named for Andrew Boyd Cummings.	USS Cummings (DD-365)	Mahan-class destroyer
+vessel class	USS Blueback (SS-326), a Balao-class submarine, was the first submarine of the United States Navy to be named for a type of salmon, specifically, the Blueback salmon, also known as the sockeye salmon.	USS Blueback (SS-326)	Balao-class submarine
+vessel class	USS Jimmy Carter (SSN-23) is the third and last Seawolf-class submarine in the United States Navy.	USS Jimmy Carter	Seawolf-class submarine
+vessel class	USS Cabezon (SS-334) was a Balao-class submarine of the United States Navy, named for the cabezon, a saltwater fish of sculpin family inhabiting the North Atlantic and North Pacific Oceans (cabezon means ``big head'' in Spanish).	USS Cabezon (SS-334)	Balao-class submarine
+vessel class	USS Graham (DD-192) was a Clemson-class destroyer in the United States Navy during World War I. She was named for Secretary of the Navy William A. Graham (1804--1875).	USS Graham (DD-192)	Clemson-class destroyer
+vessel class	USS Black (DD-666) was a Fletcher-class destroyer of the United States Navy, named for Lieutenant Commander Hugh D. Black (1903--1942), who was killed in action during the sinking of his ship, Jacob Jones in February 1942.	USS Black	Fletcher-class destroyer
+vessel class	Costa Diadema is a Dream-class cruise ship operated by Costa Crociere.	Costa Diadema	Dream-class cruise ship
+vessel class	USS Waters (DD-115) was a Wickes-class destroyer in the United States Navy during World War I and World War II, later designated APD-8.	USS Waters (DD-115)	Wickes-class destroyer
+vessel class	USS Essex (LHD-2) is a United States Navy Wasp-class amphibious assault ship built at what is now Huntington Ingalls Industries in Pascagoula, Mississippi, and commissioned on 17 October 1992 while moored at North Island NAS beside USS Kitty Hawk.	USS Essex (LHD-2)	Wasp-class amphibious assault ship
+vessel class	The first USS Walker (DD-163) was a Wickes class destroyer that saw service in the United States Navy during World War I. She was named for Admiral John Grimes Walker.	USS Walker (DD-163)	Wickes class destroyer
+vessel class	USS Portsmouth (SSN-707), a Los Angeles-class submarine, was the fourth ship of the United States Navy to be named for Portsmouth, New Hampshire, and Portsmouth, Virginia.	USS Portsmouth (SSN-707)	Los Angeles-class submarine
+vessel class	SM UB-101 was a German Type UB III submarine or U-boat in the Imperial German Navy during World War I. She was commissioned into the Imperial German Navy on 31 October 1918 as SM UB-101.	SM UB-101	German Type UB III submarine
+vessel class	USS Boise (CL-47) was a light cruiser of the Brooklyn-class cruiser in the United States Navy.	USS Boise (CL-47)	Brooklyn-class cruiser
+vessel class	USS Theenim (AKA-63) was an Andromeda class attack cargo ship said to be named after a star in the constellation Eridanus.	USS Theenim (AKA-63)	Andromeda class attack cargo ship
+vessel class	USS Rowe (DD-564) was a Fletcher-class destroyer of the United States Navy, named for Lieutenant John Rowe, who served with Lt. Stephen Decatur during the First Barbary War.	USS Rowe (DD-564)	Fletcher-class destroyer
+vessel class	SM UB-16 was a German Type UB I submarine or U-boat in the German Imperial Navy (German: Kaiserliche Marine) during World War I. The submarine was sunk by a British submarine in May 1918.	SM UB-16	German Type UB I submarine
+vessel class	USS Talbot (DD-114) was a Wickes-class destroyer in the United States Navy during World War I and later designated, APD-7 in the World War II. She was the second ship named in honor of Silas Talbot.	USS Talbot (DD-114)	Wickes-class destroyer
+vessel class	USS Allentown (PF-52), a United States Navy Tacoma-class frigate in commission from 1944 to 1945, has thus far been the only U.S. Navy ship to be named for Allentown, Pennsylvania.	USS Allentown (PF-52)	Tacoma-class frigate
+vessel class	USS Lancetfish (SS-296), a Balao-class submarine, was the only ship of the United States Navy to be named for the lancetfish (Alepisaurus ferox), a large voracious, deep sea fish having long lancetlike teeth and a high long dorsal fin.	USS Lancetfish (SS-296)	Balao-class submarine
+vessel class	USS Robert G. Bradley (FFG-49), an Oliver Hazard Perry-class frigate, is a ship of the United States Navy named for Lieutenant Robert G. Bradley (1921--1944), who was awarded the Navy Cross posthumously for his heroism on USS Princeton (CVL-23) during the Battle of Leyte Gulf.	USS Robert G. Bradley (FFG-49)	Oliver Hazard Perry-class frigate
+vessel class	USS Buchanan (DD-131), named for Franklin Buchanan, was a Wickes-class destroyer in the United States Navy.	USS Buchanan (DD-131)	Wickes-class destroyer
+vessel class	USS Kete (SS-369), a Balao-class submarine, was the only ship of the United States Navy to be named for the kete, the foureye butterflyfish Chaetodon capistratus.	USS Kete (SS-369)	Balao-class submarine
+vessel class	USS Mesa Verde (LPD-19) is the third San Antonio-class amphibious transport dock and the first ship of the United States Navy to be named for Mesa Verde National Park in Colorado.	USS Mesa Verde	San Antonio-class amphibious transport dock
+vessel class	USS Bradford (DD-545) was a Fletcher-class destroyer of the United States Navy.	USS Bradford (DD-545)	Fletcher-class destroyer
+vessel class	USS Kraken (SS-370), a Balao-class submarine, was a ship of the United States Navy named for the kraken, a legendary sea monster believed to haunt the coasts of Norway.	USS Kraken (SS-370)	Balao-class submarine
+vessel class	The first USS Gridley (DD-92) was a Wickes-class destroyer in the United States Navy during the World War I. She was named in honor of Charles Vernon Gridley.	USS Gridley (DD-92)	Wickes-class destroyer
+vessel class	USS Delphy (DD-261) was a Clemson-class destroyer in the United States Navy following World War I. Named for Richard Delphy, she was the flagship of the destroyer group involved in the Honda Point Disaster.	USS Delphy (DD-261)	Clemson-class destroyer
+vessel class	HMS Kipling (F91) was a K-class destroyer built for the Royal Navy during the 1930s.	HMS Kipling (F91)	K-class destroyer
+vessel class	USS Killen (DD-593), a Fletcher-class destroyer, was a ship of the United States Navy named for Edward Killen, who served in the First Barbary War.	USS Killen (DD-593)	Fletcher-class destroyer
+vessel class	The first USS Jenkins (DD-42) was a modified Paulding-class destroyer in the United States Navy during World War I. She was named for Rear Admiral Thortan A. Jenkins.	USS Jenkins (DD-42)	Paulding-class destroyer

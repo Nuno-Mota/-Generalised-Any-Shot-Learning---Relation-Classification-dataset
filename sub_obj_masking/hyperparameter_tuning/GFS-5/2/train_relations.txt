@@ -1,0 +1,25 @@
+cast member
+continent
+country
+creator
+date of death
+educated at
+instrument
+languages spoken or written
+licensed to broadcast to
+located in the administrative territorial entity
+member of political party
+native language
+occupation
+parent taxon
+participant of
+performer
+place of birth
+place of death
+publication date
+publisher
+series
+sex or gender
+sport
+taxon rank
+voice type

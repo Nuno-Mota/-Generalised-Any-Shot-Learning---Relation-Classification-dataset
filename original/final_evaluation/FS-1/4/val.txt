@@ -1,0 +1,625 @@
+IUCN conservation status	Barau's petrel is considered to be an endangered species.	Barau's petrel	endangered species
+IUCN conservation status	Red List of Threatened Species ver. 3.1, the Alaska marmot is considered to be a ``least concern'' status signifying a relatively low concern in terms of the dangers they face.	Alaska marmot	least concern
+IUCN conservation status	The Hawaiian monk seal, Neomonachus schauinslandi (formerly Monachus schauinslandi), is a highly endangered species of earless seal in the family Phocidae that is endemic to the Hawaiian Islands.	Hawaiian monk seal	endangered species
+IUCN conservation status	Acanthagrion taxaense is a critically endangered species of damselfly, endemic to Brazil.	Acanthagrion taxaense	critically endangered
+IUCN conservation status	Due to ongoing habitat loss and degradation, limited range and illegal hunting, the Chinese monal is evaluated as vulnerable on IUCN Red List of Threatened Species.	Chinese monal	vulnerable
+IUCN conservation status	Eastern freshwater cod were recognised as a potentially separate and endangered species of cod in 1984, and were declared a protected species in that year.	Eastern freshwater cod	endangered species
+IUCN conservation status	Aloe suzannae is a critically endangered species of plant in the genus Aloe, indigenous to the south of Madagascar.	Aloe suzannae	critically endangered
+IUCN conservation status	Abronia taeniata is a vulnerable species of arboreal alligator lizard described in 1828 by Arend Friedrich August Wiegmann.	Abronia taeniata	vulnerable
+IUCN conservation status	Barkudia insularis is a critically endangered limbless lizard which was described in 1917 by Nelson Annandale and rediscovered in the wild in 2003.	Barkudia insularis	critically endangered
+IUCN conservation status	The Houston toad (Anaxyrus houstonensis, formerly Bufo houstonensis) is an endangered species of amphibian that is endemic to Texas in the United States.	Houston toad	endangered species
+IUCN conservation status	The Australian hobby is not listed as a threatened species within Australia and is listed as a species of least concern on International Union for the Conservation of Nature Red List.	Australian hobby	least concern
+IUCN conservation status	The Cardamon Garra (Garra hughi) is an endangered species of ray-finned fish in the genus Garra.	Garra hughi	endangered species
+IUCN conservation status	Kitti's hog-nosed bat (Craseonycteris thonglongyai), also known as the bumblebee bat, is a vulnerable species of bat and the only extant member of the family Craseonycteridae.	Kitti's hog-nosed bat	vulnerable
+IUCN conservation status	Widespread throughout its large range, Wilson's storm petrel is evaluated as least concern on the IUCN Red List of Threatened Species.	Wilson's storm petrel	least concern
+IUCN conservation status	The Chinese bahaba is threatened by massive overfishing that continues despite legal protection in the mainland China (but not in Hong Kong); it has been listed as critically endangered by the International Union for Conservation of Nature.	Chinese bahaba	critically endangered
+IUCN conservation status	The Bornean white-bearded gibbon, (Hylobates albibarbis), also known as the Bornean agile gibbon or southern gibbon, is an endangered species of gibbon endemic to southern Borneo, between the Kapuas and Barito rivers.	Bornean white-bearded gibbon	endangered species
+IUCN conservation status	Cyclura rileyi cristata, commonly known as the White Cay Iguana or Sandy Cay Rock Iguana, is a critically endangered subspecies of lizard of the genus Cyclura native to a single cay in the Bahamas:	Cyclura rileyi cristata	critically endangered
+IUCN conservation status	The European badger is classified as being of least concern by the IUCN as it has a wide range and a large population size which is stable, and even increasing in some areas.	European badger	least concern
+IUCN conservation status	Adrianichthys kruyti (the duckbilled buntingi or duck-bill Poso minnow) is a critically endangered species of ricefish that is endemic to Lake Poso, Sulawesi, Indonesia.	Adrianichthys kruyti	critically endangered
+IUCN conservation status	Widespread throughout its large range, the Swinhoe's storm petrel was previously evaluated as least concern on the IUCN Red List of Threatened Species, but was uplisted to near threatened in 2012.	Swinhoe's storm petrel	near threatened
+IUCN conservation status	Aipysurus foliosquama, also known as the leaf-scaled sea snake, is a critically endangered species of venomous sea snake in the family Elapidae.	Aipysurus foliosquama	critically endangered
+IUCN conservation status	As a result, the June sucker has become ``critically endangered'' as the pure species is lost as a result of hybridisation with the Utah sucker, and predatory fish feed on its larvae.	June sucker	critically endangered
+IUCN conservation status	The IUCN Redlist 3.1, which uses the Birdlife International checklist, lumps the common and widespread grey-headed parrot with Cape parrots and brown-necked parrots, each of which are more narrowly distributed and more threatened, leading to an assessment of least concern.	Cape parrot	least concern
+IUCN conservation status	Eriocaulon santapaui is a critically endangered monocotyledonous plant endemic to the Western Ghats around Khandala and Pune in the state of Maharashtra, India.	Eriocaulon santapaui	critically endangered
+IUCN conservation status	Nicrophorus americanus, also known as the American burying beetle or giant carrion beetle, is a critically endangered species of beetle endemic to North America.	Nicrophorus americanus	critically endangered
+IUCN conservation status	Adansonia perrieri (Perrier's Baobab) is an endangered species in the genus Adansonia.	Adansonia perrieri	endangered species
+based on	XBEL, or the XML Bookmark Exchange Language, is an open XML standard for sharing Internet URIs, also known as bookmarks (or favorites in Internet Explorer).	XBEL	XML
+based on	Chasing Christmas is a 2005 contemporary re-telling of the Charles Dickens classic A Christmas Carol.	Chasing Christmas	A Christmas Carol
+based on	All the Little Animals is a 1998 feature film, directed and produced by Jeremy Thomas, based on the novel of the same name by Walker Hamilton.	All the Little Animals	Walker Hamilton
+based on	The Oregon Duck (also known as the Fighting Duck, or simply The Duck) is the mascot of the University of Oregon Ducks athletic program, based on Disney's Donald Duck character through a special license agreement.	The Oregon Duck	Donald Duck
+based on	The series has been compared to Fifty Shades of Grey because both originated as Twilight fan fiction, with the International Business Times reporting that Gabriel's Inferno differs in that it bears ``few similarities to the story that inspired it''.	Gabriel's Inferno	Twilight
+based on	The Legend of Neil is a comedy web series distributed by Comedy Central's partner Atom.com and is a parody of the Nintendo game The Legend of Zelda.	The Legend of Neil	The Legend of Zelda
+based on	Kaavalan (English: Bodyguard) is a 2011 Tamil romantic movie and directed by Siddique, starring Vijay and Asin in the lead roles.	Kaavalan	Bodyguard
+based on	The Angriest Man in Brooklyn is a 2014 American comedy-drama film directed by Phil Alden Robinson, It is a remake of the 1997 Israeli film The 92 Minutes of Mr. Baum, written and directed by Assi Dayan.	The Angriest Man in Brooklyn	The 92 Minutes of Mr. Baum
+based on	King Solomon's Treasure is a 1979 British-Canadian low-budget film based on the novels King Solomon's Mines and Allan Quatermain by H. Rider Haggard.	King Solomon's Treasure	King Solomon's Mines
+based on	Susan Lenox (Her Fall and Rise) is a 1931 American Pre-Code film starring Greta Garbo and Clark Gable, based on the novel by David Graham Phillips.	Susan Lenox (Her Fall and Rise)	David Graham Phillips
+based on	Based on the novel Hot Saturday by Harvey Fergusson, the film is about a pretty, virtuous small-town bank clerk who becomes the victim of a vicious rumor.	Hot Saturday	Harvey Fergusson
+based on	L'Ile Mysterieuse / La Isla misteriosa y el capitán Nemo / Die Geheimnisvolle Insel (The Mysterious Island) is a 1973 European TV miniseries production (300 minutes) adapted from Jules Verne's novel L'Île mystérieuse.	La Isla misteriosa y el capitán Nemo	The Mysterious Island
+based on	As with its predecessors, Power Rangers Turbo is a based on one of the entries of the Super Sentai Series; in Turbo's case, the source of the series is Gekisou Sentai Carranger.	Power Rangers Turbo	Gekisou Sentai Carranger
+based on	The World Is Not Enough (1999) is the nineteenth film in the James Bond series, and the third to star Pierce Brosnan as the fictional MI6 agent James Bond.	The World Is Not Enough	James Bond
+based on	The Hedgehog (Le Hérisson) is a French film directed by Mona Achache, loosely based on the novel The Elegance of the Hedgehog by Muriel Barbery.	The Hedgehog	The Elegance of the Hedgehog
+based on	Power Rangers Zeo is an American television series and the fourth season of the Power Rangers franchise, based on the Super Sentai series Chōriki Sentai Ohranger.	Power Rangers Zeo	Chōriki Sentai Ohranger
+based on	Brazilian Western (Portuguese: Faroeste Caboclo) is a 2013 Brazilian crime drama film directed and produced by René Sampaio, starring Fabrício Boliveira, Isis Valverde and César Trancoso.	Brazilian Western	Faroeste Caboclo
+based on	Shortcut to Happiness is a 2003 film adaptation of the Stephen Vincent Benet classic short story The Devil and Daniel Webster.	Shortcut to Happiness	The Devil and Daniel Webster
+based on	The Missing is a 2003 American Revisionist Western thriller film directed by Ron Howard, based on Thomas Eidson's 1996 novel The Last Ride.	The Missing	The Last Ride
+based on	Wherever She Goes is a 1951 Australian feature film that tells the early part of the life story of pianist Eileen Joyce.	Wherever She Goes	Eileen Joyce
+based on	C-evo is based on Civilization II, but with the aim of correcting the latter's alleged design mistakes by implementing six design principles which correct the game itself and strengthen its weak artificial intelligence.	C-evo	Civilization II
+based on	Common Development and Distribution License (CDDL) is a free software license, produced by Sun Microsystems, based on the Mozilla Public License (MPL).	Common Development and Distribution License	Mozilla Public License
+based on	Nearing Grace is a 2005 film directed by Rick Rosenthal, based on the novel by Scott Sommer.	Nearing Grace	Scott Sommer
+based on	L'Amour et Psyché, enfants (translated: Cupid and Psyche as Children, 1890, Salon of 1890, No. 330) is one of William-Adolphe Bouguereau's most famous paintings.	L'Amour et Psyché, enfants	Cupid and Psyche
+based on	A dzsungel könyve (English: The Jungle Book, Hungarian pronunciation: (ˌɒ ˈdʒuŋɡɛl ˈkøɲvɛ)) is a Hungarian musical based on The Jungle Book.	A dzsungel könyve	The Jungle Book
+based on	Beyond the Poseidon Adventure is a 1979 American adventure film, a sequel to the 1972 film The Poseidon Adventure.	Beyond the Poseidon Adventure	The Poseidon Adventure
+based on	Tom & Viv is a 1994 period drama film directed by Brian Gilbert, based on the 1984 play by the same name by British playwright Michael Hastings about the early love life of American poet T.S. Eliot.	Tom & Viv	Michael Hastings
+based on	Don Quijote cabalga de nuevo (English: Don Quijote Rides Again) is a 1973 Spanish-Mexican comedy film directed by Roberto Gavaldón based on Miguel de Cervantes's novel Don Quixote, starring Cantinflas as Sancho Panza, Fernando Fernán Gómez as Don Quixote, and María Fernanda D'Ocón as Dulcinea.	Don Quijote cabalga de nuevo	Don Quixote
+based on	Patrick Bateman is a fictional character, the antihero and narrator of the novel American Psycho by Bret Easton Ellis, and its film adaptation.	Patrick Bateman	American Psycho
+based on	A Christmas Story is a 1983 American Christmas comedy film based on the short stories and semi-fictional anecdotes of author and raconteur Jean Shepherd, based on his book In God We Trust: All Others Pay Cash, with some elements derived from Wanda Hickey's Night of Golden Memories.	A Christmas Story	In God We Trust: All Others Pay Cash
+based on	Mobilinux is a Linux kernel operating system targeted to smartphones.	Mobilinux	Linux
+based on	Quasimodo d'El Paris is a 1999 French film that is a comedic adaptation of the novel The Hunchback of Notre Dame (Notre-Dame de Paris) by Victor Hugo.	Quasimodo d'El Paris	The Hunchback of Notre Dame
+based on	Cython is a derivative of the Pyrex language, and supports more features and optimizations than Pyrex.	Cython	Pyrex
+based on	In adapting the play to film, the title was changed from The Madness of George III to The Madness of King George.	The Madness of King George	The Madness of George III
+based on	The Man on the Roof (Swedish: Mannen på taket) is a 1976 Swedish film directed by Bo Widerberg, based on the 1971 novel The Abominable Man by Sjöwall and Wahlöö.	The Man on the Roof	The Abominable Man
+based on	Simon Birch is a 1998 American comedy-drama film loosely based on A Prayer for Owen Meany by John Irving and was directed and written for the screen by Mark Steven Johnson.	Simon Birch	A Prayer for Owen Meany
+based on	Virtual Nightmare is a made-for-TV horror film produced in 2000, loosely based on the Frederik Pohl short story The Tunnel under the World.	Virtual Nightmare	The Tunnel under the World
+based on	A Flintstones Christmas Carol is a 1994 made-for-television animated film featuring The Flintstones and based on the novel A Christmas Carol by Charles Dickens.	A Flintstones Christmas Carol	A Christmas Carol
+based on	Ready to Rumble is a 2000 American comedy film directed by Brian Robbins and written by Steven Brill, which is based on Turner Broadcasting's now defunct professional wrestling promotion, World Championship Wrestling (WCW).	Ready to Rumble	World Championship Wrestling
+based on	The GNU Assembler, commonly known as gas or simply as, its executable name, is the assembler used by the GNU Project.	GNU Assembler	assembler
+based on	The Man Who Sleeps (French: Un homme qui dort) is a 1974 French drama film directed by Bernard Queysanne and Georges Perec, based on Perec's 1967 novel A Man Asleep.	The Man Who Sleeps	A Man Asleep
+based on	Precision Graphics Markup Language (PGML) is an XML-based language for representing vector graphics.	Precision Graphics Markup Language	XML
+canonization status	Saint Mutien-Marie Wiaux, F.S.C., (also known as Mutien-Marie of Malonne) was a Belgian member of the Brothers of Christian Schools, who spent his life as a teacher and is honored as a saint by the Catholic Church.	Mutien-Marie Wiaux	saint
+canonization status	Saint Drogo of Sebourg (March 14, 1105-- April 16, 1186), also known as Dreux, Drugo, and Druron, is a French saint.	Saint Drogo	saint
+canonization status	Saint Kateri Tekakwitha (pronounced (ˈɡaderi deɡaˈɡwita) in Mohawk), given the name Tekakwitha, baptized as Catherine and informally known as Lily of the Mohawks (1656 -- April 17, 1680), is a Roman Catholic saint who was an Algonquin--	Kateri Tekakwitha	Catholic saint
+canonization status	Saint Faith or ``Saint Faith of Conques'' (Latin Sancta Fides, French Sainte-Foy, Spanish Santa Fe) is a saint who is said to have been a girl or young woman of Agen in Aquitaine.	Saint Faith	saint
+canonization status	Saint Magnus of Füssen, otherwise Magnoald or Mang, was a missionary saint in southern Germany, also known as the Apostle of the Allgäu.	Magnus of Füssen	saint
+canonization status	Saint Cuthbert (c. 634 -- 20 March 687) was a saint of the early Northumbrian church in the Celtic tradition.	Cuthbert	saint
+canonization status	Saint Germaine Cousin (Germana Cousin, Germaine of Pibrac, Germana) (1579--1601) is a French saint.	Germaine Cousin	saint
+canonization status	Wilfrid (originally spelled Wilfrith; c. 633 -- c. 709) was an English bishop and saint.	Wilfrid	saint
+canonization status	Saint Antoninus of Piacenza, or Placentia (died 303 AD) is a patron saint of Piacenza in Italy.	Saint Antoninus of Piacenza	saint
+canonization status	Monegundis (Monegund, Monegundes) (died 570 AD) was a Frankish hermit and saint.	Monegundis	saint
+canonization status	Ubald of Gubbio (Italian: Ubaldo; Latin: Ubaldus; French: Ubalde; ca. 1084--1160) was a medieval bishop of Gubbio, in Umbria, today venerated as a saint by the Catholic Church.	Ubald	saint
+canonization status	Saint Barbara (Greek: Αγία Βαρβάρα), Feast Day December 4, known in the Eastern Orthodox Church as the Great Martyr Barbara, was an early Christian saint and martyr.	Saint Barbara	saint
+canonization status	Cassian, or Saint Cassian of Imola, or Cassius was a Christian saint of the 4th century.	Cassian of Imola	saint
+canonization status	Saint Diomedes (Diomede) of Tarsus (d. between 298 and 311 AD) is venerated as a Christian saint and martyr, one of the Holy Unmercenaries.	Saint Diomedes	saint
+canonization status	Simeon of Mantua (9??--1016) was a Benedictine monk of Armenian origin who was canonized as a saint in the late 11th century.	Simeon of Mantua	saint
+canonization status	Ulphia (Ulphe, Olfe, Wulfe, Wolfia, Wulfia) of Amiens (d. 8th century) is a saint of the Catholic Church, venerated particularly at Amiens.	Ulphia	saint
+canonization status	After his death in 624, Mellitus was revered as a saint.	Mellitus	saint
+canonization status	Felix of Burgundy, also known as Felix of Dunwich (died 8 March 647 or 648), was a saint and the first bishop of the East Angles.	Felix of Burgundy	saint
+canonization status	Saint Quirinus of Neuss (German: Quirin, Quirinus), sometimes called Quirinus of Rome (which is the name shared by another martyr) is venerated as a martyr and saint of the Catholic and Eastern Orthodox churches.	Quirinus of Neuss	saint
+canonization status	Antoninus of Sorrento (died 625) was an Italian abbot, hermit, and saint.	Antoninus of Sorrento	saint
+canonization status	Saint Aelhaiarn or Aelhaearn (Welsh for ``Iron Eyebrows''; fl. early 7th century) was a Welsh confessor and saint of the British Church.	Aelhaiarn	saint
+canonization status	Saint Catherine of Bologna (8 September 1413 -- 9 March 1463) was an Italian nun, artist and saint.	Catherine of Bologna	saint
+canonization status	Saint Aldegonde (or Adelgonde) (Latin: Aldegundis or Adelgundis) (c. 639--684 AD) was a Frankish Benedictine abbess who is honored as a saint by the Roman Catholic Church in France and Eastern Orthodox Church.	Aldegonde	saint
+canonization status	Saint Marcouf (also called Marculf, Marcoul or Marcou), Abbot of Nantus in the Cotentin, is a saint born in the Saxon colony of Bayeux in Normandy around 500 AD and who is best known for the healing of scrofula.	Saint Marcouf	saint
+canonization status	Mother Théodore Guérin (1798--1856), designated by the Vatican as Saint Theodora, was a French-American saint and is the foundress of the Sisters of Providence of Saint Mary-of-the-Woods, Indiana, a congregation of Catholic nuns.	Théodore Guérin	saint
+canonization status	Saint Spyridon, Bishop of Trimythous also sometimes written Saint Spiridon (Greek: Ἅγιος Σπυρίδων; c. 270 -- 348) is a saint honoured in both the Eastern and Western Christian traditions.	Saint Spyridon	saint
+canonization status	István Pongrácz (1584-1619) was a Hungarian Jesuit priest, martyr and saint of the Catholic Church.	István Pongrácz	saint
+canonization status	Tryphon of Vyatka (c. 1546--1612) was a Russian abbot and saint.	Tryphon of Vyatka	saint
+canonization status	Saint Ansanus (Italian: Sant'Ansano) (died 304 AD), called The Baptizer or The Apostle of Siena, is the patron saint of Siena, a scion of the Anician family of Rome.	Ansanus	saint
+canonization status	Saint Laud of Coutances (variants: Lauto, Laudo, Launus, popularly: Saint Lô) was the fifth bishop of Coutances and is venerated as a saint in the Roman Catholic and Eastern Orthodox Churches.	Laud of Coutances	saint
+canonization status	Saint Astrik of Pannonhalma (also known as Anastasius, Astericus, Ascrick, Astrissicus) (d. ca. 1030/1040) is a saint of the 11th century.	Astrik	saint
+canonization status	Austrebertha (Austreberta, Eustreberta, Austreberta of Pavilly) (French: Austreberthe) (630--704) is venerated as a saint by the Catholic Church.	Austrebertha	saint
+chairperson	The Ploughmen's Front (Romanian: Frontul Plugarilor) was a Romanian left-wing agrarian-inspired political organisation of ploughmen, founded at Deva in 1933 and led by Petru Groza.	Ploughmen's Front	Petru Groza
+chairperson	Enrique Piñeyro Queralt, also referred to as Enric Piñeyro or the Marqués de la Mesa de Asta, was a Spanish aristocrat and president of FC Barcelona between 1940 and 1943.	Enrique Piñeyro Queralt	FC Barcelona
+chairperson	The Peoples Temple of the Disciples of Christ, commonly shortened to Peoples Temple, was a new religious movement founded in 1955 by Jim Jones.	Peoples Temple	Jim Jones
+chairperson	The Secretary General of the Society for Threatened Peoples International (STPI) and Society for Threatened Peoples-Germany (STP) is Tilman Zülch.	Society for Threatened Peoples	Tilman Zülch
+chairperson	Workers and Unemployed Action (WUA; Irish: Grúpa Gníomhaíochta na n-Oibrithe is iad atá Dífhostaithe) is an Irish political party based in Clonmel in South County Tipperary, set up in 1985 by Séamus Healy.	Workers and Unemployed Action	Séamus Healy
+chairperson	The Democratic Leftwing Republican Party (Portuguese: Partido Republicano Esquerdista Democrático, PRED) was a political party in Portugal, led by José Domingues dos Santos (a former Prime Minister).	Democratic Leftwing Republican Party	José Domingues dos Santos
+chairperson	Nepali Congress divided to two parties, the Nepali Congress (Democratic) led by former Prime Minister Sher Bahadur Deuba and the other led by Girija Prasad Koirala.	Nepali Congress (Democratic)	Sher Bahadur Deuba
+chairperson	The Grand Central Art Galleries were the exhibition and administrative space of the nonprofit Painters and Sculptors Gallery Association, an artists' cooperative established in 1922 by Walter Leighton Clark together with John Singer Sargent, Edmund Greacen, and others.	Grand Central Art Galleries	Walter Leighton Clark
+chairperson	Roland Dorgelès (French pronunciation: ​(dɔʁʒəlɛs); 15 June 1885 -- 18 March 1973) was a French novelist and a member of the Académie Goncourt.	Roland Dorgelès	Académie Goncourt
+chairperson	The Yugoslav National Movement (Serbo-Croatian: Jugoslavenski narodni pokret), also known as the United Militant Labour Organization (Združena borbena organizacija rada, or Zbor) was a Yugoslav fascist movement led by politician Dimitrije Ljotić.	Yugoslav National Movement	Dimitrije Ljotić
+chairperson	ANO 2011 is a centrist and populist political party in the Czech Republic founded by Andrej Babiš, second wealthiest man in the Czech republic, owner of Agrofert and media publishing company MAFRA.	ANO 2011	Andrej Babiš
+chairperson	Enric Reyna i Martínez (Barcelona, 1940) is a builder from Barcelona, known to have been the 37th president of FC Barcelona on 12 February 2003, following the resignation of Joan Gaspart.	Enric Reyna	FC Barcelona
+chairperson	Fernando Segovia (born 1948) is Oberlin Graduate Professor of New Testament and Early Christianity at Vanderbilt University Divinity School, and is also the current President of the Society of Biblical Literature.	Fernando Segovia	Society of Biblical Literature
+chairperson	The Independent Turkey Party (Turkish: Bağımsız Türkiye Partisi, BTP) is a nationalist and Islamic political party founded on 25 September 2001 by Prof Dr. Haydar Baş.	Independent Turkey Party	Haydar Baş
+chromosome	Because TOMM40 is located on chromosome 19, and is closely adjacent to APOE, another gene known to be associated with Alzheimer's, another study has suggested that the statistically significant correlation of TOMM40 with Alzheimer's is due to linkage disequilibrium.	TOMM40	chromosome 19
+chromosome	C11orf73 is a protein important in lung and multicellular organismal development that, in humans, is encoded by the C11orf73 gene (chromosome 11 open reading frame 73).	C11orf73	chromosome 11
+chromosome	FAM46C is found on chromosome 1 at the locus 1p12 FAM46C contains one domain of unknown function, DUF1693, and as such has been placed in the DUF1693 protein family.	FAM46C	chromosome 1
+chromosome	The human DLC1 gene is located on the short arm of chromosome 8 (8p21.3-22), within a region that frequently undergoes loss of heterozygosity by either genomic deletion or epigenetic silencing mechanisms in several types of solid cancers.	DLC1	chromosome 8
+chromosome	The FZD9 gene is located within the Williams syndrome common deletion region of chromosome 7, and heterozygous deletion of the FZD9 gene may contribute to the Williams syndrome phenotype.	FZD9	chromosome 7
+chromosome	Interestingly, mutations in region q23.1 of human chromosome 6 -- the same chromosome that codes for TAAR1 -- have been linked to schizophrenia.	TAAR1	chromosome 6
+chromosome	An NIDCD-supported investigator recently has identified a mutation in a gene on chromosome 6, called the KIAA0319 gene, that appears to play a key role in Specific Language Impairment.	KIAA0319	chromosome 6
+chromosome	The FMR1 gene is located on the X chromosome and contains a DNA segment called CGG trinucleotide.	FMR1	X chromosome
+chromosome	The DHRS7B gene is located on the positive strand of chromosome 17, beginning at position 21030258 and ending at position 21094836 (64579 bp).	DHRS7B	chromosome 17
+chromosome	In humans, the CD38 protein is encoded by the CD38 gene which is located on chromosome 4.	CD38	chromosome 4
+chromosome	ATP-binding cassette sub-family A member 13 also known as ABCA13 is a protein that in humans is encoded by the ABCA13 gene on chromosome 7.	ABCA13	chromosome 7
+chromosome	The E-selectin locus flanks the L-selectin locus on chromosome 1.	E-selectin	chromosome 1
+chromosome	CCDC90B is located on chromosome 11 in humans.	CCDC90B	chromosome 11
+chromosome	The gene for CXCL13 is located on human chromosome 4 in a cluster of other CXC chemokines.	CXCL13	chromosome 4
+chromosome	The human OCA2 gene is located on the long arm (q) of chromosome 15, specifically from base pair 28,000,020 to base pair 28,344,457 on chromosome 15.	OCA2	chromosome 15
+chromosome	Chitinase domain-containing protein 1 (CHID1) is a highly conserved protein of unknown function located on the short (p) arm of chromosome 11 near the telomere.	Chitinase domain-containing protein 1	chromosome 11
+chromosome	In humans, C7orf43 is located in the long arm of human chromosome 7 (7q22.1), and is on the negative (antisense) strand.	C7orf43	chromosome 7
+chromosome	The gene for CCL20 (scya20) is located on chromosome 2 in humans.	CCL20	chromosome 2
+chromosome	Neuroblastoma breakpoint family, member 3, also known as NBPF3, is a human gene of the neuroblastoma breakpoint family, which resides on chromosome 1 of the human genome.	NBPF3	chromosome 1
+chromosome	Galectin-3 is encoded by a single gene, LGALS3, located on chromosome 14, locus q21--q22.	Galectin-3	chromosome 14
+connecting line	Dong-eui University Station (Hangul: 동의대역; hanja: 東義大驛) is a station of the Busan Metro Line 2 in Gaya-dong, Busanjin District, Busan, South Korea.	Dong-eui University Station	Busan Metro Line 2
+connecting line	Yulli Station (Hangul: 율리역; hanja: 栗里驛) is a station of the Busan Metro Line 2 in Geumgok-dong, Buk District, Busan, South Korea.	Yulli Station	Busan Metro Line 2
+connecting line	Yodoyabashi Station (淀屋橋駅, Yodoyabashi-eki) is a railway station on the Osaka Municipal Subway Midosuji Line and the Keihan Railway Keihan Main Line.	Yodoyabashi Station	Keihan Main Line
+connecting line	Antuo Hill Station (Chinese: 安托山站; pinyin: Āntuō Shān Zhàn) is a Metro station of Shenzhen Metro Shekou Line.	Antuo Hill Station	Shekou Line
+connecting line	Farum station is the terminus of the Hareskovbanen radial of the S-train network around Copenhagen, Denmark.	Farum station	Hareskovbanen
+connecting line	National Cemetery Station (Hangul: 현충원역; hanja: 顯忠院驛) is a station of the Daejeon Metro Line 1 in Guam-dong, Yuseong District, Daejeon, South Korea.	National Cemetery Station	Daejeon Metro Line 1
+connecting line	Gangdong Station (강동역, 江東驛, river east station) is a station on Seoul Subway Line 5.	Gangdong Station	Seoul Subway Line 5
+connecting line	Deokjeong Station is a station in Seoul Subway Line 1.	Deokjeong Station	Seoul Subway Line 1
+connecting line	Sandefjord Airport Station (Norwegian: Sandefjord lufthavn stasjon), also known as Torp Station (Torp stasjon), is on the Vestfold Line in Sandefjord, Norway.	Sandefjord Airport Station	Vestfold Line
+connecting line	Halden Station (Norwegian: Halden stasjon) is a railway station located in downtown Halden in Østfold, Norway, located on the Østfold Line.	Halden Station	Østfold Line
+connecting line	Hongik University Station (Hangul: 홍대입구역; hanja: 弘大入口驛; RR: Hongdae-ipgu-yeok) is a station on the Seoul Subway Line 2 as well as the AREX and Yongsan lines.	Hongik University Station	Seoul Subway Line 2	AREX
+connecting line	The Yongle Station (Chinese: 永樂車站; pinyin: Yǒnglè Chēzhàn) is a railway station of Taiwan Railways Administration (TRA) North-Link Line located at Su'ao Township, Yilan County, Taiwan.	Yongle Station	North-Link Line
+connecting line	Cheongnyangni Station (청량리역) is a station of Seoul Subway Line 1 and Gyeongui-Jungang Line and it is a Seoul terminus of passenger trains serving the eastern part of South Korea.	Cheongnyangni Station	Jungang Line
+connecting line	Geumnyeonsan Station (Hangul: 금련산역; hanja: 金蓮山驛) is a station of the Busan Metro Line 2 in Namcheon-dong, Suyeong District, Busan, South Korea.	Geumnyeonsan Station	Busan Metro Line 2
+connecting line	Amsa Station ia a railway station on Seoul Subway Line 8 located over both Amsa-dong and Cheonho-dong in Gangdong-gu, Seoul.	Amsa Station	Seoul Subway Line 8
+connecting line	Changsha Railway Station (simplified Chinese: 长沙站; traditional Chinese: 長沙站; pinyin: Chángshā' zhàn) is a railway station of Beijing-- Guangzhou Railway.	Changsha Railway Station	Beijing-- Guangzhou Railway
+connecting line	Tøyen Station (Norwegian: Tøyen stasjon) is a railway station located in Oslo on the Gjøvik Line.	Tøyen Station	Gjøvik Line
+connecting line	Munhyeon Station (Hangul: 문현역; hanja: 門峴驛) is a station of the Busan Metro Line 2 in Munhyeon-dong, Nam District, Busan, South Korea.	Munhyeon Station	Busan Metro Line 2
+connecting line	Zhuhai Railway Station (Chinese: 珠海站; pinyin: Zhūhǎi Zhàn), also called Gongbei Station (拱北站), is an elevated station of the Guangzhou-- Zhuhai Intercity Railway (Guangzhu ICR).	Zhuhai Railway Station	Guangzhou-- Zhuhai Intercity Railway
+connecting line	Ganeung Station is a metro station on the Seoul Subway Line 1, located in northern Uijeongbu, South Korea.	Ganeung Station	Seoul Subway Line 1
+connecting line	Alvik metro station is a station on the green line of the Stockholm metro, and the Tvärbanan and Nockebybanan tramways, located in Traneberg, Västerort.	Alvik metro station	Tvärbanan	Nockebybanan
+connecting line	Kelvinbridge subway station is a Glasgow Subway station serving the Woodlands, Woodside and Hillhead areas of Glasgow, Scotland.	Kelvinbridge subway station	Glasgow Subway
+connecting line	Arendal Station (Norwegian: Arendal stasjon) is the terminus railway station of the Arendal Line, located in Arendal, Norway.	Arendal Station	Arendal Line
+connecting line	Tanbang Station (Hangul: 탄방역; hanja: 炭坊驛) is a station of the Daejeon Metro Line 1 in Tanbang-dong, Seo District, Daejeon, South Korea.	Tanbang Station	Daejeon Metro Line 1
+connecting line	Linguang Station is a station on the Wenshan Line of the Taipei Metro, located on the border of Daan and Xinyi districts, Taipei, Taiwan.	Linguang Station	Wenshan Line
+connecting line	Donghae Station is a railway station on Yeongdong Line, Samcheok Line, Mukhohang Line, and Bukpyeong Line.	Donghae Station	Yeongdong Line	Samcheok Line	Bukpyeong Line
+connecting line	Digital Media City Station(디지털미디어시티역) is a railway station on Seoul Subway Line 6, AREX and Gyeongui Line.	Digital Media City Station	Seoul Subway Line 6	AREX	Gyeongui Line
+connecting line	Vystavochnaya (Russian: Выставочная) is a station on the Filyovskaya Line of the Moscow Metro.	Vystavochnaya	Filyovskaya Line
+connecting line	Millak Station (Hangul: 민락역; hanja: 民樂驛) is a station of the Busan Metro Line 2 in Suyeong-dong, Suyeong District, Busan, South Korea.	Millak Station	Busan Metro Line 2
+connecting line	Toucheng Station (Chinese: 頭城車站; pinyin: Tóuchéng Chēzhàn) is a railway station on the Taiwan Railways Administration (TRA) Yilan Line located in Toucheng Township, Yilan County, Taiwan.	Toucheng Station	Yilan Line
+connecting line	Sports Park Station (Hangul: 체육공원역; hanja: 體育公園驛) is a station of the Busan Metro Line 3 in Daejeo-dong, Gangseo District, Busan, South Korea.	Sports Park Station	Busan Metro Line 3
+connecting line	Sijiaoting Station (Chinese: 四腳亭車站; Hanyu Pinyin: Sìjiǎotíng Chēzhàn; Tongyong Pinyin: Sìhjiǎotíng Chejhàn) is a railway station on the Taiwan Railway Administration (TRA) Yilan Line.	Sijiaoting Station	Yilan Line
+connecting line	Naengjeong Station (Hangul: 냉정역; hanja: 開琴驛) is a station of the Busan Metro Line 2 in Jurye-dong, Sasang District, Busan, South Korea.	Naengjeong Station	Busan Metro Line 2
+connecting line	Sira Station (Norwegian: Sira stasjon) (IATA: XOQ) is a railway station located at the village of Sira in Flekkefjord, Norway on the railway Sørlandet Line.	Sira Station	Sørlandet Line
+connecting line	The Gare de Charenton was a former French railway station on the Paris-- Marseille railway, located in the commune of Charenton-le-Pont .	Gare de Charenton	Paris-- Marseille railway
+connecting line	Shuangxi Station (Chinese: 雙溪車站; Hanyu Pinyin: Shuāngxī Chēzhàn; Tongyong Pinyin: Shuangsi Chejhàn) is a railway station on the Taiwan Railway Administration (TRA) Yilan Line.	Shuangxi Station	Yilan Line
+connecting line	Konkuk University Station (Korean: 건대입구역) is a rapid transit station on Seoul Subway Line 2 and Line 7.	Konkuk University Station	Seoul Subway Line 2
+connecting line	On 7 June 1989, Surinam Airways Flight 764, a Douglas DC-8, registered N1809E, from Amsterdam Airport Schiphol in the Netherlands crashed during approach to Johan Adolf Pengel International Airport, killing 176 of the 187 on board.	Johan Adolf Pengel International Airport	Amsterdam Airport Schiphol
+connecting line	Maschen Marshalling Yard (German: Maschen Rangierbahnhof, abbreviated to Maschen Rbf or AM in the official railway directory) near Maschen south of Hamburg on the Hanover-- Hamburg railway is the largest marshalling yard in Europe, its size only being exceeded worldwide by the Bailey Yard in the US state of Nebraska.	Maschen Marshalling Yard	Hanover-- Hamburg railway
+connecting line	The Shihcheng Station (Chinese: 石城車站; pinyin: Shíchéng Chēzhàn) is a railway station of Taiwan Railway Administration (TRA) Yilan Line located at Toucheng Township, Yilan County, Taiwan.	Shihcheng Station	Yilan Line
+connecting line	Abbey Road DLR station is a Docklands Light Railway station in the West Ham neighbourhood of the London Borough of Newham, in east London, England.	Abbey Road DLR station	Docklands Light Railway
+connecting line	Banseok Station (Hangul: 반석역; hanja: 盤石驛) is a station of the Daejeon Metro Line 1 in Banseok-dong, Yuseong District, Daejeon, South Korea.	Banseok Station	Daejeon Metro Line 1
+connecting line	Chilgok-Unam Station is a station of the Daegu Metro Line 3 in Guam-dong, Buk District, Daegu, South Korea.	Chilgok-Unam Station	Daegu Metro Line 3
+connecting line	Giheung Station is a subway station of the Bundang Line and EverLine, in the city of Yongin, Gyeonggi-do.	Giheung Station	Bundang Line
+connecting line	Singeumho Station is a station on the Seoul Subway Line 5, Seoul, South Korea.	Singeumho Station	Seoul Subway Line 5
+connecting line	Bongeunsa Station is a station on Seoul Subway Line 9 that opened on March 28, 2015.	Bongeunsa Station	Seoul Subway Line 9
+connecting line	Eidsvoll Verk Station (Norwegian: Eidsvoll Verk stasjon) is a railway station located on the Gardermoen Line at Råholt near Eidsvoll Verk in Eidsvoll, Norway.	Eidsvoll Verk Station	Gardermoen Line
+connecting line	Vakås Station (Norwegian: Vakås holdeplass) is a railway station on the Drammen Line located at Vakås in Asker, Norway.	Vakås Station	Drammen Line
+connecting line	The Taipei Metro Nanshijiao Station is the southern terminus of the Zhonghe Line (part of the Orange Line) located in Zhonghe District, New Taipei City, Taiwan.	Nanshijiao Station	Zhonghe Line
+connecting line	Choryang Station (Hangul: 초량역; hanja: 草梁驛) is a station of the Busan Metro Line 1 in Choryang-dong, Dong District, Busan, South Korea.	Choryang Station	Busan Metro Line 1
+connecting line	Mangu Station is a station on the Jungang Line, and Gyeongchun Line since 21 December 2010.	Mangu Station	Jungang Line
+connecting line	Bondivatn Station (Norwegian: Bondivatn holdeplass) is a railway station located in Asker, Norway on the Spikkestad Line.	Bondivatn Station	Spikkestad Line
+connecting line	Shekou Port Station (Chinese: 蛇口港站; pinyin: Shékǒu Gǎng Zhàn) is a Metro station of Shenzhen Metro Shekou Line.	Shekou Port Station	Shekou Line
+connecting line	Rosebank railway station is a Metrorail station on the Southern Line in Rosebank, a suburb of Cape Town.	Rosebank railway station	Southern Line
+connecting line	Huangbeiling Station (Chinese: 黄贝岭站; pinyin: Huángbèilǐng Zhàn) is a station on the Shekou Line of the Shenzhen Metro in Shenzhen, Guangdong, China.	Huangbeiling Station	Shekou Line
+connecting line	Fengfu Station (Chinese: 豐富車站; Hanyu Pinyin: Fēngfù Chēzhàn; Tongyong Pinyin: Fongfù Chejhàn) is a railway station of Taiwan Railway Administration (TRA) Taichung Line located in Houlong Township, Miaoli County, Taiwan.	Fengfu Station	Taichung Line
+connecting line	Novokuznetskaya (Russian: Новокузнецкая) is a Moscow Metro station on the Zamoskvoretskaya Line.	Novokuznetskaya	Zamoskvoretskaya Line
+connecting line	Gaegeum Station (Hangul: 개금역; hanja: 開琴驛) is a station of the Busan Metro Line 2 in Gaegeum-dong, Busanjin District, Busan, South Korea.	Gaegeum Station	Busan Metro Line 2
+connecting line	Anyang Station opened as a stop-off on the Gyeongbu Line, which it remains today, on January 1, 1905.	Anyang Station	Gyeongbu Line
+connecting line	Hongje Station is a rapid transit station on Seoul Subway Line 3.	Hongje Station	Seoul Subway Line 3
+designer	All the developers and manufacturers of the Tor missile system unified into Almaz-Antey in 2002.	Tor missile system	Almaz-Antey
+designer	Pyramid of Doom is a text-based adventure program written by Scott Adams.	Pyramid of Doom	Scott Adams
+designer	The Ultimax 100 is a Singapore-made 5.56mm light machine gun, developed by the Chartered Industries of Singapore (CIS, now ST Kinetics) by a team of engineers under the guidance of American firearms designer L. James Sullivan.	Ultimax 100	L. James Sullivan
+designer	The McLaren MP4-21 is a Formula One car designed by Adrian Newey for the 2006 Formula One season.	McLaren MP4-21	Adrian Newey
+designer	The Ordnance BL 15-inch howitzer was developed by the Coventry Ordnance Works late in 1914 in response to the success of its design of the 9.2-inch siege howitzer.	BL 15-inch howitzer	Coventry Ordnance Works
+designer	The British Railways BR Standard Class 9F 2-10-0 is a class of steam locomotive designed for British Railways by Robert Riddles.	BR Standard Class 9F	Robert Riddles
+designer	The GER Class N31 was a class of eighty-two 0-6-0 steam locomotives designed by James Holden for the Great Eastern Railway.	GER Class N31	James Holden
+designer	Time Pilot (夕イム・パイ口ツ卜) is a multi-directional scrolling shooter and free-roaming aerial combat arcade game designed by Yoshiki Okamoto, released by Konami in 1982, and distributed in the United States by Centuri.	Time Pilot	Yoshiki Okamoto
+designer	The BRM P67 was an experimental Formula One car, designed by Tony Rudd and built by the British Racing Motors team in Bourne, Lincolnshire, England.	BRM P67	Tony Rudd
+designer	Fight Night Round 4 is a boxing video game developed by EA Sports.	Fight Night Round 4	EA Sports
+designer	Wipeout Pulse is a racing game, developed by SCE Studio Liverpool for the Sony PlayStation Portable, sequel to Wipeout Pure.	Wipeout Pulse	SCE Studio Liverpool
+designer	Hexic 2 is the sequel to Alexey Pajitnov's puzzle game Hexic, developed by Carbonated Games.	Hexic 2	Alexey Pajitnov
+designer	The Final Fantasy Legend was conceived by Nobuyuki Hoshino and developed under director Akitoshi Kawazu; renowned composer Nobuo Uematsu wrote its score.	The Final Fantasy Legend	Akitoshi Kawazu
+designer	The SIG MG 710-3 is a Swiss 7.62 mm general-purpose machine gun (GPMG) designed and manufactured by SIG - Schweizerische Industrie Gesellschaft (currently Swiss Arms AG).	SIG MG 710-3	Schweizerische Industrie Gesellschaft
+designer	The USRA 2-6-6-2 was a standardized design of 2-6-6-2 Mallet locomotives developed by the United States Railroad Administration during World War I.	USRA 2-6-6-2	United States Railroad Administration
+designer	Abarth 1000 GT Coupé or Alfa Romeo 1000 Abarth GT Bertone Coupé is a car model made by the Italian car producer Abarth in collaboration with Alfa Romeo, and designed by Franco Scaglione for Bertone.	Abarth 1000 GT Coupé	Bertone
+designer	Grand Prix Simulator is a racing game developed by The Oliver Twins and published by Codemasters for the ZX Spectrum, Amstrad CPC, Commodore 64 and Atari 8-bit computer systems.	Grand Prix Simulator	Oliver Twins
+designer	OpenCog Prime's design is primarily the work of Ben Goertzel while the OpenCog framework is intended as a generic framework for broad-based AGI research.	OpenCog	Ben Goertzel
+designer	The XM806 was spun out from the cancelled XM307 and was developed by General Dynamics to augment the M2.	XM806	General Dynamics
+designer	The RG-33 is a mine-resistant light armored vehicle initially designed by BAE Systems Land Systems South Africa (formerly Land Systems OMC) a South African subsidiary of BAE Systems.	RG-33	Land Systems OMC
+designer	The Stoner 63, also known as the M63, XM22, XM23, XM207 or the Mk 23 Mod 0 machine gun, is an American modular weapons system designed by Eugene Stoner in the early 1960s.	Stoner 63	Eugene Stoner
+designer	The .25 ACP (Automatic Colt Pistol) (6.35×16mmSR) is a semi-rimmed, straight-walled centerfire pistol cartridge introduced by John Browning in 1905 alongside the Fabrique Nationale M1905 pistol.	.25 ACP	John Browning
+designer	LittleBigPlanet's origin lies in a conversation between Media Molecule co-founders Mark Healey and Dave Smith after a cinema visit to see Howl's Moving Castle.	LittleBigPlanet	Mark Healey
+designer	The Mark 29 torpedo was a submarine-launched, acoustic torpedo designed by Westinghouse Electric in 1945 for the United States Navy.	Mark 29 torpedo	Westinghouse Electric
+designer	The Short Mark 7 torpedo was a variant of the Bliss-Leavitt Mark 7 torpedo developed by the Washington Navy Yard in order to fit certain submarine torpedo tubes in 1917.	Short Mark 7 torpedo	Washington Navy Yard
+designer	Let's Catch is a video game developed by Yuji Naka's studio Prope and published by Sega for the Wii console.	Let's Catch	Yuji Naka
+designer	The .350 Remington Magnum was introduced in 1965 by Remington Arms Company for the Model 600 rifle.	.350 Remington Magnum	Remington Arms
+designer	The Remington Model 10 is a pump-action shotgun designed by John Pedersen with an internal hammer and a tube magazine which loaded and ejected from a port in the bottom of the receiver.	Remington Model 10	John Pedersen
+designer	Open Sans is a sans-serif typeface designed by Steve Matteson and commissioned by Google.	Open Sans	Steve Matteson
+designer	The BR Standard Class 7, otherwise known as the Britannia Class, is a class of 4-6-2 Pacific steam locomotive designed by Robert Riddles for use by British Railways for mixed traffic duties.	BR Standard Class 7	Robert Riddles
+designer	CornerShot is a weapon accessory invented by Lt. Col. Amos Golan of the Israeli Defense Forces in cooperation with American investors.	CornerShot	Amos Golan
+designer	8-Bit Rebellion! is a massively multiplayer online, and single player, video game released and based on the American rock band, Linkin Park for iOS.	8-Bit Rebellion!	Linkin Park
+designer	The Rescue of Princess Blobette was designed and programmed by David Crane, who also created the original NES game.	The Rescue of Princess Blobette	David Crane
+designer	Twelve were built by Sharp, Stewart and Company to the design of Thomas Whitelegg for the London, Tilbury and Southend Railway in 1900, with North British Locomotive Company supplying an additional six in 1903.	London, Tilbury and Southend Railway	Thomas Whitelegg
+designer	The RPK (Ruchnoy Pulemyot Kalashnikova, Russian: Ручной пулемёт Калашникова or ``Kalashnikov hand-held machine gun'') is a 7.62×39mm light machine gun of Soviet design, developed by Mikhail Kalashnikov in the late 1950s, parallel with the AKM assault rifle.	RPK	Mikhail Kalashnikov
+designer	The .256 Newton is a high-velocity rimless cartridge and was developed by Charles Newton in 1913 in conjunction with the Western Cartridge Company.	.256 Newton	Charles Newton
+designer	Aichi's entry, the Aichi AB-6 or Aichi Experimental 7-Shi Reconnaissance Seaplane, designed by Tetsuo Miki, was based on the Heinkel He 62, one example of which had been imported by Aichi the previous year for evaluation against a similar requirement.	Aichi AB-6	Tetsuo Miki
+designer	The 7mm Remington Ultra Magnum or 7mm RUM is a 7mm rifle cartridge introduced by Remington Arms in 2001.	7mm Remington Ultra Magnum	Remington Arms
+designer	Children of Mana was designed by series creator Koichi Ishii, directed by Yoshiki Ito, and produced by Takashi Orikata and Katsuji Aoyama.	Children of Mana	Koichi Ishii
+designer	The VSK-94 is a 9 mm suppressed sniper rifle developed by the Russia KBP Instrument Design Bureau as a low-cost alternative to the VSS rifle.	VSK-94	KBP Instrument Design Bureau
+designer	In cryptography, CS-Cipher (for Chiffrement Symétrique) is a block cipher invented by Jacques Stern and Serge Vaudenay in 1998.	CS-Cipher	Jacques Stern	Serge Vaudenay
+designer	Rag Doll Kung Fu is a fighting computer game, created predominantly by artist Mark Healey, while working for Lionhead Studios, along with other Lionhead employees, such as David Smith and Alex Evans.	Rag Doll Kung Fu	Mark Healey
+designer	The .458×2-inch American is a straight, belted, .458 caliber (11.6 mm) big bore cartridge designed by Frank Barnes.	.458×2-inch American	Frank Barnes
+designer	SimTunes is a children's software toy designed by Toshio Iwai and released by Maxis in 1996.	SimTunes	Toshio Iwai
+designer	Samorost was created by Jakub Dvorský while he was a student at the Academy of Arts, Architecture and Design in Prague, in the department of Graphic Design and Visual Communication in 2003.	Samorost	Jakub Dvorský
+editor	Twilight Zone: 19 Original Stories on the 50th Anniversary is a collection of short stories written by various authors and edited by Carol Serling, the widow of series creator Rod Serling.	Twilight Zone: 19 Original Stories on the 50th Anniversary	Carol Serling
+editor	The Philosophy of Mathematics Education Journal is a peer-reviewed open-access academic journal published and edited by Paul Ernest (University of Exeter).	Philosophy of Mathematics Education Journal	Paul Ernest
+editor	Svenskt biografiskt handlexikon (Swedish pronunciation: (ˈsvɛnːskt bɪɔˈɡrɑːfɪskt ˈhanːdˈlɛkːsɪkɔn)) is a compact Swedish dictionary of biography first published in 1873-1876 by the physician and antiquarian Herman Hofberg (1823-1883).	Svenskt biografiskt handlexikon	Herman Hofberg
+editor	The Review of Economics of the Household is a peer-reviewed academic journal established in 2001 by Shoshana Grossbard and first published in 2003.	Review of Economics of the Household	Shoshana Grossbard
+editor	``Ode to Joy'' (German: ``An die Freude'' (an diː ˈfʁɔʏdə), first line: ``Freude, schöner Götterfunken'') is an ode written in the summer of 1785 by German poet, playwright and historian Friedrich Schiller and published the following year in Thalia.	Ode to Joy	Friedrich Schiller
+end time	The 2,500 year celebration of the Persian Empire (Persian: جشن‌های ۲۵۰۰ سالهٔ شاهنشاهی ایران‎‎) consisted of an elaborate set of festivities that took place on 12--16 October 1971 on the occasion of the 2,500th anniversary of the founding of the Iranian monarchy (Persian Empire) by Cyrus the Great.	2,500 year celebration of the Persian Empire	16 October 1971
+end time	The Battle of Truillas was fought on 22 September 1793 during the French Revolutionary War between the French Army of the eastern Pyrenees led by Luc Siméon Auguste Dagobert and the Spanish Army of Catalonia under Antonio Ricardos.	Battle of Truillas	22 September 1793
+end time	The naval Battle of the Sound took place on 8 November 1658 (29 October O.S.) during the Second Northern War, near the Sound or Oresund, just north of the Danish capital, Copenhagen.	Battle of the Sound	8 November 1658
+end time	The First Presidency of Alan García Pérez (from 1985 to 1990) was one of the worst presidency's in Peru's history because of the worst economic crisis that the country saw during those years.	First Presidency of Alan García	1990
+end time	The 1995 Canoe Marathon European Championships were the first edition of the Canoe Marathon European Championships, which took place on 20--21 May 1995 in Murcia, Spain.	1995 Canoe Marathon European Championships	21 May 1995
+end time	The 2004 Wimbledon Championships were held between 21 June -- 4 July 2004.	2004 Wimbledon Championships	4 July 2004
+end time	The Battle of Entzheim was a battle fought on 4 October 1674 near Entzheim in present-day Alsace between the French Royal Army under the command of the Vicomte de Turenne on one side and Imperial Army of the Holy Roman Empire on the other side during the Franco-Dutch War.	Battle of Entzheim	4 October 1674
+end time	The Battle of Varese was fought on 26 May 1859 at Varese (Lombardy).	Battle of Varese	26 May 1859
+end time	The Battle of the Dalmatian Channels was a three-day confrontation between three tactical groups of Yugoslav Navy ships and coastal artillery, and a detachment of naval commandos of the Croatian Navy fought on 14--16 November 1991 during the Croatian War of Independence.	Battle of the Dalmatian Channels	16 November 1991
+end time	The Battle of Rocroi of 19 May 1643 resulted in the victory of a French army under the Duc d'Enghien against the Spanish Army under General Francisco de Melo only five days after the accession of Louis XIV of France to the throne of France, late in the Thirty Years' War.	Battle of Rocroi	19 May 1643
+end time	Operation Winter '94 (Croatian: Operacija Zima '94) was a joint military offensive of the Croatian Army (HV) and the Croatian Defence Council (HVO) fought in southwestern Bosnia and Herzegovina between 29 November and 24 December 1994.	Operation Winter '94	24 December 1994
+end time	The Battle of Halmyros, known by older scholars as the Battle of the Cephissus or Battle of Orchomenos, was fought on 15 March 1311 between the forces of the Frankish Duchy of Athens and its vassals under Walter of Brienne and the mercenaries of the Catalan Company, resulting in a devastating victory for the Catalans.	Battle of Halmyros	15 March 1311
+end time	The Battle of Preveza was a naval battle that took place on 28 September 1538 near Preveza in northwestern Greece between an Ottoman fleet and that of a Christian alliance assembled by Pope Paul III in which the Ottoman fleet defeated the allies.	Battle of Preveza	28 September 1538
+end time	The Battle of Walcourt was fought on 25 August 1689 during the Nine Years' War.	Battle of Walcourt	25 August 1689
+end time	The 2016 Dubai Tour was a road cycling stage race that took place in Dubai between 3 and 6 February 2016.	2016 Dubai Tour	6 February 2016
+end time	The Battle of Camaret was an amphibious landing at Camaret Bay on 18 June 1694 by the English and Dutch in an attempt to seize the French port of Brest and destroy part of the French fleet stationed there, as part of the Nine Years' War.	Battle of Camaret	18 June 1694
+end time	The Battle of Krithia Vineyard (6--13 August 1915) was fought during the Gallipoli Campaign during the First World War.	Battle of Krithia Vineyard	13 August 1915
+end time	The Battle of Besançon (21 June 1575) was a sectarian conflict between the Protestants and Catholics in the French city of Besançon in the region of Franche-Comté.	Battle of Besançon	21 June 1575
+end time	The Battle of the Bogside was a very large communal riot that took place during 12--14 August 1969 in Derry, Northern Ireland.	Battle of the Bogside	14 August 1969
+end time	The Battle of Blenheim (referred to in some countries as the Second Battle of Höchstädt), fought on 13 August 1704, was a major battle of the War of the Spanish Succession.	Battle of Blenheim	13 August 1704
+end time	The Battle of Diamond Hill (Donkerhoek) took place on 11 and 12 June 1900 during the Second Boer War.	Battle of Diamond Hill	12 June 1900
+end time	The Battle of Ostrach, also called the Battle by Ostrach, occurred on 20--21 March 1799.	Battle of Ostrach	21 March 1799
+end time	The Battle of St. Lucia or the Battle of the Cul de Sac was a naval battle fought off the island of St. Lucia in the West Indies during the Anglo-French War on 15 December 1778, between the British Royal Navy and the French Navy.	Battle of St. Lucia	15 December 1778
+end time	The 2006 Riga summit or the 19th NATO Summit was a NATO summit held in the Olympic Sports Centre, Riga, Latvia from 28 to 29 November 2006.	2006 Riga summit	29 November 2006
+end time	The Battle of Mortimer's Cross was fought on 2 February 1461 near Wigmore, Herefordshire (between Leominster and Leintwardine, by the River Lugg), not far from the Welsh border.	Battle of Mortimer's Cross	2 February 1461
+end time	The 2007 Tour Down Under was held from 16 to 21 January 2007 in Australia.	2007 Tour Down Under	21 January 2007
+end time	The First Battle of Donetsk Airport was a conflict between separatist insurgents associated with the Donetsk People's Republic and Ukrainian government forces that took place at Donetsk International Airport on 26--27 May 2014, as part of the War in Donbass that began after the 2014 Ukrainian revolution.	First Battle of Donetsk Airport	27 May 2014
+end time	Purism, referring to the arts, was a movement that took place between 1918--1925 that influenced French painting and architecture.	Purism	1925
+end time	The Raid on Pebble Island was a raid by British Special Forces on Pebble Island's airfield during the Falklands War, and took place on the night of 14--15 May 1982.	Raid on Pebble Island	15 May 1982
+end time	The 2014 International Championship was a professional ranking snooker tournament that took place between 26 October and 2 November 2014 at the Sichuan International Tennis Center in Chengdu, China.	2014 International Championship	2 November 2014
+end time	Cycling at the 2013 Games of the Small States of Europe was held from 28--31 May 2013 in Cessange, Luxembourg.	Cycling at the 2013 Games of the Small States of Europe	31 May 2013
+end time	The Saxon feud was a confrontation between the East Frisian Count Edzard I and George, Duke of Saxony in the years 1514-1517.	Saxon feud	1517
+end time	The Third Battle of Kharkov was a series of battles on the Eastern Front of World War II, undertaken by the German Army Group South against the Red Army, around the city of Kharkov (or Kharkiv) between 19 February and 15 March 1943.	Third Battle of Kharkov	15 March 1943
+end time	The Battle of Famars was fought on 23 May 1793 during the Flanders Campaign of the War of the First Coalition.	Battle of Famars	23 May 1793
+end time	Damascus, and Aleppo were captured during the subsequent pursuit, before the Ottoman Empire agreed to the Armistice of Mudros on 30 October 1918, ending the Sinai and Palestine Campaign.	Sinai and Palestine Campaign	30 October 1918
+end time	The Battle of Honnecourt was a battle of the Thirty Years' War fought on 26 May 1642.	Battle of Honnecourt	26 May 1642
+end time	The 2015 Abu Dhabi Tour was a men's cycling stage race, that took place between 8-11 October 2015.	2015 Abu Dhabi Tour	11 October 2015
+end time	The Battle of the Golden Spurs (Dutch: Guldensporenslag, French: Bataille des éperons d'or), known also as the Battle of Courtrai, was a battle between the forces of the Kingdom of France and the County of Flanders fought near Kortrijk (Courtrai) in western Royal Flanders on 11 July 1302.	Battle of the Golden Spurs	11 July 1302
+end time	The Rights of the Terminally Ill Act 1995 (NT) was a controversial law legalising euthanasia, passed by the Legislative Assembly of the Northern Territory of Australia in 1995, but effectively nullified in 1997 by the Federal Parliament.	Rights of the Terminally Ill Act 1995	1997
+end time	The 2011 World Single Distance Speed Skating Championships were held between 10 and 13 March 2011 in the Ludwig-Schwabl-Stadion, Inzell, Germany.	2011 World Single Distance Speed Skating Championships	13 March 2011
+end time	The 2014 Australian Open was a tennis tournament that took place at Melbourne Park between 13--26 January 2014.	2014 Australian Open	26 January 2014
+end time	Der Kreis (English: The Circle) was a Swiss gay magazine that was published from 1932 to 1967 and distributed internationally.	Der Kreis	1967
+end time	The Battle of Rennell Island (Japanese: レンネル島沖海戦) took place on 29--30 January 1943.	Battle of Rennell Island	30 January 1943
+end time	The Battle of Grandson, took place on 2 March 1476, was part of the Burgundian Wars, and resulted in a major defeat for Charles the Bold, Duke of Burgundy.	Battle of Grandson	2 March 1476
+end time	The hijacking of Lufthansa Flight 649 was an act of terrorism committed by a Palestinian group that took place between 22 and 23 February 1972.	Lufthansa Flight 649	23 February 1972
+end time	The French Revolution (French: Révolution française (ʁevɔlysjɔ̃ fʁɑ̃sɛːz)) was a period of far-reaching social and political upheaval in France that lasted from 1789 until 1799, and was partially carried forward by Napoleon during the later expansion of the French Empire.	French Revolution	1799
+end time	The Battle of Meung-sur-Loire took place on 15 June 1429.	Battle of Meung-sur-Loire	15 June 1429
+end time	The 2012 Australian Goldfields Open was a professional ranking snooker tournament that took place between 9--15 July 2012 at the Bendigo Stadium in Bendigo, Australia.	2012 Australian Goldfields Open	15 July 2012
+end time	The Doboj massacre refers to war crimes, including murder, wanton destruction and ethnic cleansing, committed against Bosniaks and Croats in the Doboj area by the Yugoslav People's Army and Serb paramilitary units from April until October 1992 during the Bosnian war.	Doboj massacre	October 1992
+end time	The Battle of Schellenberg, also known as the Battle of Donauwörth, was fought on 2 July 1704 during the War of the Spanish Succession.	Battle of Schellenberg	2 July 1704
+end time	The Battle of Francavilla was fought on 20 June 1719 near the city of Francavilla di Sicilia in Sicily, Italy between Spain and Austria as part of the War of the Quadruple Alliance.	Battle of Francavilla	20 June 1719
+end time	The Battle of Macta was fought on 28 June 1835 between French forces under General Camille Alphonse Trézel and a coalition of Algerian Berber tribal warriors under Emir Abd al-Qadir during the French conquest of Algeria.	Battle of Macta	28 June 1835
+end time	The naval Battle of Oliwa, also Battle of Oliva or Battle of Gdańsk Roadstead, took place on 28 November 1627 during the Polish-Swedish War slightly north of the port of Danzig (Gdańsk) near the village of Oliva (Oliwa).	Battle of Oliwa	28 November 1627
+end time	The Exposition des primitifs flamands à Bruges (Exhibition of Flemish Primitives at Bruges) was an art exhibition of paintings by the so-called Flemish Primitives (in English usually Early Netherlandish painters) held in the Provinciaal Hof in Bruges between 15 June and 5 October 1902.	Exposition des primitifs flamands à Bruges	5 October 1902
+end time	The Battle of Limanowa took place from 1 December to 13 December 1914, between the Austro-Hungarian Army and the Russian Army near the town of Limanowa (40 kilometres (25 mi) south-east of Kraków).	Battle of Limanowa	13 December 1914
+end time	The Battle of Mišar took place from 12 to 15 August 1806, with a Serbian victory over the Ottomans.	Battle of Mišar	15 August 1806
+end time	Operation Chastise was an attack on German dams carried out on 16--17 May 1943 by Royal Air Force No. 617 Squadron, subsequently publicised as the ``Dam Busters'', using a specially developed ``bouncing bomb'' invented and developed by Sir Barnes Wallis.	Operation Chastise	17 May 1943
+end time	The Battle of Peritheorion on 7 July 1345 between the forces of Momchil, the quasi-independent ruler of Rhodope, and an allied Byzantine-Turkish force headed by John VI Kantakouzenos and Umur Bey of Aydin.	Battle of Peritheorion	7 July 1345
+end time	The 2011 Wuxi Classic was a professional non-ranking snooker tournament held between 7--10 July 2011 at the Wuxi City Sports Park Stadium in Wuxi, China.	2011 Wuxi Classic	10 July 2011
+end time	The Fourteenth Ordinary General Assembly of the Synod of Bishops, popularly referred to as the Synod on the Family, took place from 4 to 25 October 2015 with the theme of ``the vocation and mission of the family in the Church and in the contemporary world.''	Fourteenth Ordinary General Assembly of the Synod of Bishops	25 October 2015
+end time	The Ghost Dance War ended when Sioux leader Kicking Bear surrendered on 15 January 1891.	Ghost Dance War	15 January 1891
+end time	In the Battle of Nooitgedacht on 13 December 1900, Boer commandos led by Generals Koos de la Rey and Christiaan Beyers combined to deal a defeat to a British brigade under the command of Major General R. A. P. Clements during the Second Boer War.	Battle of Nooitgedacht	13 December 1900
+end time	Expedition 29 officially ended with the undocking of Soyuz TMA-02M on 21 November 2011.	Expedition 29	21 November 2011
+from fictional universe	Giganta appears as a villain in a cinematic trailer for the video game DC Universe Online MMORPG, voiced by Lana Lesley.	Giganta	DC Universe
+from fictional universe	Moondark is a fictional character in the Marvel Universe.	Moondark	Marvel Universe
+from fictional universe	House Richese is a fictional noble family from the Dune universe created by Frank Herbert, though the family does not actually appear in Frank Herbert's work.	House Richese	Dune universe
+from fictional universe	Angar returned a few years later, as an energy being named Scream, and appeared in Thunderbolts #49-56 (April-November 2001), and 58-59 (January-February 2002) Angar the Screamer received an entry in the Official Handbook of the Marvel Universe Deluxe Edition #1.	Angar the Screamer	Marvel Universe
+from fictional universe	Middle-earth is the setting of much of J. R. R. Tolkien's legendarium.	Middle-earth	Tolkien's legendarium
+from fictional universe	Mathemanic (Thomas Sorenson) is a fictional character in the Marvel Universe.	Mathemanic	Marvel Universe
+from fictional universe	Norma Cenva is a fictional character from the Dune universe created by Frank Herbert.	Norma Cenva	Dune universe
+from fictional universe	The humans mistake Ikaris for a bird, and (per Marvel Universe history) he is memorialized as the dove that guided Noah to the Mountains of Ararat (Eternals vol. 1, #2).	Ikaris	Marvel Universe
+from fictional universe	Mirror Master is a supervillain in the DC Universe.	Mirror Master	DC Universe
+from fictional universe	Veterinary student Jeff Christiansen, who would later become the force behind the resurgence of the Official Handbooks of the Marvel Universe in the mid-2000s was made the official Captain Universe of the comic so that it could be considered an in-continuity comic.	Captain Universe	Marvel Universe
+from fictional universe	The First Evil has appeared in 16 canonical Buffyverse episodes:	First Evil	Buffyverse
+from fictional universe	Rincewind is a fictional character appearing in several of the Discworld novels by Terry Pratchett.	Rincewind	Discworld
+from fictional universe	The Ankh-Morpork Assassins' Guild is a professional organisation and school for assassins in Terry Pratchett's long-running Discworld series of fantasy novels.	Ankh-Morpork Assassins' Guild	Discworld
+from fictional universe	Madison Jeffries received an entry in the Official Handbook of the Marvel Universe Deluxe Edition #6, and the Official Handbook of the Marvel Universe Update '89 #1, and the All-New Official Handbook of the Marvel Universe A-Z #5 (2006).	Madison Jeffries	Marvel Universe
+from fictional universe	Kiber the Cruel received an entry in the Official Handbook of the Marvel Universe Deluxe Edition #18.	Kiber the Cruel	Marvel Universe
+from fictional universe	Beast Man is a fictional character in the popular toy line and cartoon series Masters of the Universe; the savage right-hand man of Skeletor, he has control over many wild creatures and has brute strength.	Beast Man	Masters of the Universe
+from fictional universe	Nekra received an entry in the original Official Handbook of the Marvel Universe #8, and in the Official Handbook of the Marvel Universe Deluxe Edition #9, and the All-New Official Handbook of the Marvel Universe A-Z #8 (2006).	Nekra	Marvel Universe
+from fictional universe	In 2012, GamesRadar ranked him as the sixth ``most memorable, influential, and badass'' protagonist in games, adding: ``It's how the characters of the Half-Life universe treat Gordon Freeman, not the way he treats them, that shape such a compelling character.''	Gordon Freeman	Half-Life universe
+from fictional universe	Llan the Sorcerer, a fictional character in the Marvel Universe, is an ancient evil who has been an enemy of Alpha Flight.	Llan the Sorcerer	Marvel Universe
+from fictional universe	Grand Jedi Master Yoda is among the oldest and most powerful known Jedi Masters in the Star Wars universe.	Yoda	Star Wars universe
+from fictional universe	Valinor (Land of the Valar) is a fictional location in J. R. R. Tolkien's legendarium, the realm of the Valar in Aman.	Valinor	Tolkien's legendarium
+from fictional universe	The Spirit King is a character in the fictional DC Universe; he was initially an adversary of the original Mister Terrific, but later expanded to be a threat to the entire Justice Society, particularly the Spectre and the Flash.	Spirit King	DC Universe
+from fictional universe	Sespech is a location on Faerûn, a fictional continent, the primary setting of the Forgotten Realms, for Dungeons & Dragons.	Sespech	Forgotten Realms
+from fictional universe	Dr. Valerie Cooper received an entry in the Official Handbook of the Marvel Universe Update '89 #2.	Valerie Cooper	Marvel Universe
+from fictional universe	Frodo Baggins is a fictional character in J. R. R. Tolkien's legendarium, and one of the protagonists of The Lord of the Rings.	Frodo Baggins	Tolkien's legendarium
+from fictional universe	Y'golonac (the Defiler) is a fictional deity in the Cthulhu Mythos.	Y'golonac	Cthulhu Mythos
+from fictional universe	The Fearsome Five appears in DC Universe Online.	Fearsome Five	DC Universe
+from fictional universe	Hell's Belles is a fictional supervillain team in the Marvel Universe, composed of female mutant terrorists.	Hell's Belles	Marvel Universe
+from fictional universe	Aihal is the true name of a fictional character in Ursula K. Le Guin's Earthsea realm.	Aihal	Earthsea
+from fictional universe	Gorilla-Man appeared as part of the ``Headmen'' entry in the original Official Handbook of the Marvel Universe #5, and in the Official Handbook of the Marvel Universe Update '89 #3.	Gorilla-Man	Marvel Universe
+from fictional universe	Clarabelle Cow is a Disney fictional character within the Mickey Mouse universe of characters.	Clarabelle Cow	Mickey Mouse universe
+from fictional universe	John D. Rockerduck is a fictional character from the Duck universe.	John D. Rockerduck	Duck universe
+from fictional universe	Count Hasimir Fenring is a fictional character in the Dune universe created by Frank Herbert.	Hasimir Fenring	Dune universe
+from fictional universe	Piecemeal (Gilbert Benson) is a fictional mutant character in the Marvel Universe.	Piecemeal (Gilbert Benson)	Marvel Universe
+from fictional universe	Pierson's Puppeteers, often known just as Puppeteers, are a fictional alien race from American author Larry Niven's Known Space books.	Pierson's Puppeteers	Known Space
+from fictional universe	Trapster has often sought independent recognition, battling virtually every ``street-level'' hero in the Marvel Universe either by design or by opposition to some criminal scheme.	Trapster	Marvel Universe
+from fictional universe	The Honored Matres are a fictional matriarchal organization in Frank Herbert's science fiction Dune universe.	Honored Matres	Dune universe
+from fictional universe	Bird-Brain received an entry in the Official Handbook of the Marvel Universe Update '89 #1.	Bird-Brain	Marvel Universe
+from fictional universe	Moist von Lipwig is a fictional character from Terry Pratchett's Discworld series.	Moist von Lipwig	Discworld
+language of work or name	Ny Teknik (meaning New Technology in English) is a weekly Swedish magazine with news, debates and ads in the field of technology and engineering.	Ny Teknik	Swedish
+language of work or name	Khao Sod (Thai: ข่าวสด; lit. meaning ``fresh news'' or ``current news'') is a Thai daily newspaper with national circulation.	Khao Sod	Thai
+language of work or name	Slitz was a Swedish men's magazine.	Slitz	Swedish
+language of work or name	The Grand dictionnaire universel du XIXe siècle (Great Universal Dictionary of the 19th Century), often called the Grand Larousse du dix-neuvième, is a French encyclopedic dictionary.	Grand dictionnaire universel du XIXe siècle	French
+language of work or name	Limburg mijn Vaderland (Limburg my native country) is the official anthem of the provinces of Belgian and Dutch Limburg.	Limburg mijn Vaderland	Dutch
+language of work or name	Treaty of Aynalıkavak was a treaty between Ottoman Empire and Russian Empire signed on March 10, 1779.	Treaty of Aynalıkavak	Russian
+language of work or name	Music for the Masses is the sixth studio album by English electronic music band Depeche Mode.	Music for the Masses	English
+language of work or name	Telva is a Spanish language monthly women's magazine published in Madrid, Spain.	Telva	Spanish
+language of work or name	Buddug (Welsh pronunciation: (ˈbɨ̞ðɨ̞ɡ)) is a feminine given name of Welsh origin.	Buddug	Welsh
+language of work or name	Slovenski glasnik (English: The Slovene Herald) was a Slovene-language magazine published monthly from 1858 till 1869.	Slovenski glasnik	Slovene
+language of work or name	Europa Magazine is the only monthly magazine in Bosnian language in the United States.	Europa Magazine	Bosnian
+language of work or name	11 Freunde (German for 11 friends) is a monthly German sports magazine.	11 Freunde	German
+language of work or name	Magyar Demokrata (Hungarian Democrat in English) is a weekly magazine published in Budapest, Hungary.	Magyar Demokrata	Hungarian
+language of work or name	The Pact of Steel (German: Stahlpakt, Italian: Patto d'Acciaio), known formally as the Pact of Friendship and Alliance between Germany and Italy, was a military and political alliance between the Kingdom of Italy and Germany.	Pact of Steel	German
+language of work or name	Repere Transilvane (``Transylvanian Highlights'') is a Romanian weekly literary and political magazine, issued by the Radio Transilvania.	Repere Transilvane	Romanian
+language of work or name	The Tutor (German: Der Hofmeister, oder Vorteile der Privaterziehung) is an 18th-century German play by Jakob Michael Reinhold Lenz.	The Tutor	German
+language of work or name	``Door de wind'' (``Through the Wind'') was the Belgian entry in the Eurovision Song Contest 1989, performed in Dutch by Ingeborg.	Door de wind	Dutch
+language of work or name	Wprost (Polish pronunciation: (ˈfprɔst), meaning ``Direct'') is a Polish-language weekly newsmagazine published in Poznań, Poland.	Wprost	Polish
+language of work or name	Przemysław (Polish pronunciation: (pʂɛˈmɨswaf)) is a Polish Slavic given name, meaning someone who is clever or ingenious.	Przemysław	Polish
+language of work or name	All About Accounting (Ukrainian: Все про бухгалтерський облік) is a semiweekly Ukrainian and Russian-language newspaper based in Kiev (Ukraine) with a run of 93,100.	All About Accounting	Ukrainian
+language of work or name	Two Sides of the Moon is the only solo album from the drummer for English rock band The Who, Keith Moon.	Two Sides of the Moon	English
+language of work or name	(What's the Story) Morning Glory? is the second studio album by the English rock band Oasis, released on 2 October 1995 by Creation Records.	(What's the Story) Morning Glory?	English
+language of work or name	Jadwiga (Polish pronunciation: (jadˈviɡa); diminutive Jadzia (ˈjadʑa)) is a Polish feminine given name.	Jadwiga	Polish
+language of work or name	Ming Pao (traditional Chinese: 明報; simplified Chinese: 明报; pinyin: Míng Bào) is a Chinese-language newspaper published by Ming Pao Group in Hong Kong.	Ming Pao	Chinese
+language of work or name	Aktuel Naturvidenskab (lit.: Current Science) is a Danish language popular science magazine published in Aarhus, Denmark.	Aktuel Naturvidenskab	Danish
+language of work or name	``Un banc, un arbre, une rue'' (``A Bench, a Tree, a Street'') was the winning song of the Eurovision Song Contest 1971 performed in French by French singer Séverine, representing Monaco.	Un banc, un arbre, une rue	French
+language of work or name	NLW MS 20143A is a Welsh-language manuscript of the laws of Hywel Dda dating from the middle of the 14th century.	NLW MS 20143A	Welsh
+language of work or name	The Pyongyang Times is a weekly state owned English and French-language newspaper published in the North Korean capital, Pyongyang.	The Pyongyang Times	English
+language of work or name	21os Akatallilos (Greek: 21ος Ακατάλληλος) (English: 21 X-Rated) is the eighth studio album by Greek pop sensation Sakis Rouvas and his second produced by Vangelis Yannopoulos, for Minos Emi.	21os Akatallilos	Greek
+language of work or name	Uralsky Sledopyt (Russian: Уральский Следопыт, Ural Pathfinder) is a Soviet and Russian magazine dedicated to tourism and local history.	Uralsky Sledopyt	Russian
+language of work or name	La Vie is a weekly French Christian magazine, edited by Malesherbes Publications, a member of the Groupe La Vie-Le Monde.	La Vie	French
+language of work or name	Uncle Vanya (Russian: Дядя Ваня -- Dyadya Vanya) is a play by the Russian playwright Anton Chekhov.	Uncle Vanya	Russian
+language of work or name	Balabhumi (Malayalam: ബാലഭൂമി) is a Malayalam comic magazine published by Mathrubhumi Publications.	Balabhumi	Malayalam
+language of work or name	On the Harmful Effects of Tobacco (Russian: О вреде табака; 1886) is a one-act play written by Russian author Anton Chekhov; it has one character, Ivan Ivanovich Nyukhin.	On the Harmful Effects of Tobacco	Russian
+language of work or name	The Budapest Business Journal or BBJ is an English-language biweekly magazine published in Hungary.	Budapest Business Journal	English
+language of work or name	Imagen is a Spanish language monthly fashion magazine published in Puerto Rico.	Imagen	Spanish
+language of work or name	Chamei (literally, ``tea name'') is a Japanese word that may refer to the name given to a particular blend of powdered green tea (matcha) or to the name bestowed on an advanced practitioner of Japanese tea ceremony.	Chamei	Japanese
+language of work or name	Fortean Times #69 claims that ``extracts from FT have featured in at least three publications used for teaching English as a foreign language,'' perhaps in part because (as the editors also quote) Lynn Barber of The Independent on Sunday newspaper calls FT ``a model of elegant English.''	Fortean Times	English
+language of work or name	Prantik (Assamese: প্ৰান্তিক) is a multi-topic Assamese magazine published fortnightly from Guwahati since 1981.	Prantik	Assamese
+language of work or name	Razvlecheniye (Russian: Развлечение, Amusement) was a Russian illustrated weekly magazine published in Moscow in 1859--1916.	Razvlecheniye	Russian
+language of work or name	Hörzu is a German weekly television listings magazine published in Germany.	Hörzu	German
+language of work or name	Paris-Presse is a former French newspaper published in Paris, which appeared from 1944 to 1970.	Paris-Presse	French
+language of work or name	Le Canard enchaîné (French pronunciation: ​(lə kanaʁ‿ɑ̃ʃɛne); English: The Chained Duck or The Chained Paper, as ``canard'' is French slang meaning ``newspaper'') is a satirical weekly newspaper in France.	Le Canard enchaîné	French
+language of work or name	The Ardeatine massacre, or Fosse Ardeatine massacre (Italian: Eccidio delle Fosse Ardeatine) was a mass killing carried out in Rome on 24 March 1944 by German occupation troops during the Second World War as a reprisal for a partisan attack conducted on the previous day in central Rome against the SS Police Regiment Bozen.	Ardeatine massacre	Italian
+language of work or name	Moj mikro is a monthly Slovene language computer magazine published in Slovenia.	Moj mikro	Slovene
+language of work or name	Desnivel was founded in 1981 by Spanish mountaineer and journalist Darío Rodríguez.	Desnivel	Spanish
+language of work or name	Familien (English: The Family) is a Norwegian biweekly family magazine published in Oslo, Norway.	Familien	Norwegian
+language of work or name	Uncle's Dream (Russian: Дядюшкин сон, Dyadushkin son) is an 1859 novella by Russian writer Fyodor Dostoyevsky.	Uncle's Dream	Russian
+language of work or name	Jours de France is a French news magazine which was created and belonged to French industrialist Marcel Dassault.	Jours de France	French
+language of work or name	IRIB TV2 (شبكه دو in Persian), is one of the 32 national television channels in Iran.	IRIB TV2	Persian
+language of work or name	The Łódź Ghetto (German: Ghetto Litzmannstadt) was a World War II ghetto established for Polish Jews including Roma following the 1939 invasion of Poland.	Łódź Ghetto	Polish
+language of work or name	Old Latin Codex Vercellensis Evangeliorum, preserved in the cathedral library is believed to be the earliest manuscript of the Old Latin Gospels.	Codex Vercellensis	Latin
+language of work or name	Investir was a French language monthly business magazine published in Paris, France, between 1974 and 2011.	Investir	French
+language of work or name	Colour of the Trap is the debut solo album by English musician Miles Kane, released on 6 May 2011.	Colour of the Trap	English
+language of work or name	The Bambara Wikipedia is the edition of Wikipedia in the Bambara language, spoken in Mali, Burkina Faso and Senegal.	Bambara Wikipedia	Bambara language
+language of work or name	Hvedekorn (meaning Grains of Wheat in English) is a Danish language literary magazine published in Copenhagen, Denmark.	Hvedekorn	Danish
+language of work or name	La Dépêche tunisienne was a French language daily newspaper published in Tunisia.	La Dépêche tunisienne	French
+language of work or name	Ici Paris is a French magazine, founded in 1941.	Ici Paris	French
+language of work or name	Do Rzeczy is a Polish language weekly news and political magazine published in Warsaw, Poland.	Do Rzeczy	Polish
+language of work or name	Mihangel is a Welsh male given name.	Mihangel	Welsh
+language of work or name	``The Lady with the Dog'' (Russian: Дама с собачкой, Dama s sobachkoy) is a short story by Anton Chekhov first published in 1899.	The Lady with the Dog	Russian
+language of work or name	Strana Igr (Russian: Страна игр, Gameland) was a Russian magazine focused on video games.	Strana Igr	Russian
+language of work or name	Illustreret Nyhedsblad was a Norwegian weekly magazine, issued from 1851 to 1866 in Christiania, Norway.	Illustreret Nyhedsblad	Norwegian
+lyrics by	Rolling Stone ranked ``Picasso Baby'' at number 19, on their list of the 100 Best Songs of 2013, calling it ``the standout track from Jay Z's lackluster Magna Carta...	Picasso Baby	Jay Z
+lyrics by	``Cockiness (Love It)'' is a song by Barbadian recording artist Rihanna, from her sixth studio album Talk That Talk (2011).	Cockiness (Love It)	Rihanna
+lyrics by	``Positively 4th Street'' is a song written and performed by Bob Dylan, first recorded by Dylan in New York City on July 29, 1965.	Positively 4th Street	Bob Dylan
+lyrics by	``Chanter pour ceux qui sont loin de chez eux'' (English: Sing for those who are far from home) is a 1985 song recorded by French singer-songwriter Michel Berger on his album Différences.	Chanter pour ceux qui sont loin de chez eux	Michel Berger
+lyrics by	``Insieme: 1992'' (English translation: ``Together: 1992'') was the winning song of the Eurovision Song Contest 1990, in Zagreb, Yugoslavia, performed in Italian by Toto Cutugno for Italy, that country's second victory in the Contest.	Insieme: 1992	Toto Cutugno
+lyrics by	``O Holy Night'' (French: Cantique de Noël) is a well-known Christmas carol composed by Adolphe Adam in 1847 to the French poem ``Minuit, chrétiens'' (Midnight, Christians) by a wine merchant and poet, Placide Cappeau (1808--1877).	O Holy Night	Placide Cappeau
+lyrics by	``Can't Help Lovin' Dat Man'' with music by Jerome Kern, and lyrics by Oscar Hammerstein II, is one of the most famous songs from their classic 1927 musical play Show Boat, adapted from Edna Ferber's novel.	Can't Help Lovin' Dat Man	Oscar Hammerstein II
+lyrics by	``Maggie's Farm'' is a song written by Bob Dylan, recorded on January 15, 1965, and released on the album Bringing It All Back Home on March 22 of that year.	Maggie's Farm	Bob Dylan
+lyrics by	Utada the Best is Japanese pop/R&B singer-songwriter Hikaru Utada's first English language compilation album, released on November 24, 2010, the same day as Utada Hikaru Single Collection Vol. 2.	Utada the Best	Hikaru Utada
+lyrics by	In an interview, lead singer and pianist Isaac Slade expressed his meaning behind the lyrics of the song: ``'You Found Me' is such a great song you should really listen to it.	You Found Me	Isaac Slade
+lyrics by	``Got 'til It's Gone'' is a song by Janet Jackson, featuring rapper Q-Tip and folk singer Joni Mitchell.	Got 'til It's Gone	Joni Mitchell
+lyrics by	It's Not a Dream is the first single by Irish singer--songwriter Sharon Corr, taken from her debut solo album Dream of You.	It's Not a Dream	Sharon Corr
+lyrics by	``Folsom Prison Blues'' is a song written and first recorded in 1955 by American singer-songwriter Johnny Cash.	Folsom Prison Blues	Johnny Cash
+lyrics by	``'97 Bonnie & Clyde'' is a song by American rapper Eminem.	'97 Bonnie & Clyde	Eminem
+lyrics by	``Send in the Clowns'' is a song written by Stephen Sondheim for the 1973 musical A Little Night Music, an adaptation of Ingmar Bergman's film Smiles of a Summer Night.	Send in the Clowns	Stephen Sondheim
+lyrics by	Martin Gore and Alan Wilder have often been quoted as saying ``It's Called a Heart'' is their least favourite single ever recorded by Depeche Mode, and is not particularly well-liked by many fans either.	It's Called a Heart	Martin Gore
+lyrics by	``Sunny Afternoon'' is a song by The Kinks, written by chief songwriter Ray Davies.	Sunny Afternoon	Ray Davies
+lyrics by	``It's Late'' is a song written by Queen guitarist Brian May and performed by the band for their 1977 album News of the World.	It's Late	Brian May
+lyrics by	``Several Species of Small Furry Animals Gathered Together in a Cave and Grooving with a Pict'' is a track written and performed by Roger Waters from the two-part 1969 Pink Floyd album, Ummagumma.	Several Species of Small Furry Animals Gathered Together in a Cave and Grooving with a Pict	Roger Waters
+lyrics by	Graceful World (Words - Kaori Mochida / music - Yasuo Ohtani) Graceful World (2 Fat GTR mix) Graceful World (Amazing mix) Graceful World (instrumental)	Graceful World	Kaori Mochida
+lyrics by	Memorial Address is the first EP (labeled a mini-album in Japan) and sixth studio album by Japanese singer Ayumi Hamasaki, released December 17, 2003 by Avex Trax.	Memorial Address	Ayumi Hamasaki
+lyrics by	``House'llelujah'' is a 2010 song by Belgian singer Stromae, released on 17 May 2010 as a promo-single for his album Cheese, on which it was included.	House'llelujah	Stromae
+lyrics by	Party Queen is the thirteenth full length studio album by Japanese singer-songwriter Ayumi Hamasaki.	Party Queen	Ayumi Hamasaki
+lyrics by	``Blurred Lines'' is a single written and performed by American recording artists Robin Thicke, T.I., and Pharrell Williams.	Blurred Lines	Pharrell Williams
+lyrics by	``Everything to Lose'' is a song released by British singer Dido, as the only single taken from the soundtrack of the motion picture Sex and the City 2 and premiered on Dido's official YouTube channel on 9 May 2010.	Everything to Lose	Dido
+lyrics by	``You Really Got Me'' is a song written by Ray Davies and performed by English rock band the Kinks.	You Really Got Me	Ray Davies
+lyrics by	``(I) Get Lost'' is a pop song written and recorded by the British rock musician Eric Clapton.	(I) Get Lost	Eric Clapton
+lyrics by	``Uptown Funk'' (stylised as ``UpTown Funk!'') is a song recorded by British producer Mark Ronson, with vocals from American singer Bruno Mars, for Ronson's fourth studio album, Uptown Special (2015).	Uptown Funk	Mark Ronson
+lyrics by	Composed and produced by Kinks frontman Ray Davies, ``Waterloo Sunset'' is one of the band's best known and most acclaimed songs in most territories.	Waterloo Sunset	Ray Davies
+lyrics by	``They Don't Care About Us'' is the fourth single from Michael Jackson's album HIStory:	They Don't Care About Us	Michael Jackson
+lyrics by	``Do You Love Me at All'' is a song by Dutch singer-songwriter Jett Rebel, for his debut album, Venus & Mars.	Do You Love Me at All	Jett Rebel
+lyrics by	``Gangnam Style'' (Korean: 강남스타일, IPA: (kaŋnam sʰɯtʰail)) is the 18th K-pop single by the South Korean musician Psy.	Gangnam Style	Psy
+lyrics by	``Ballad of Hollis Brown'' is a blues song written by Bob Dylan, released in 1964 on his third album The Times They Are A-Changin'.	Ballad of Hollis Brown	Bob Dylan
+lyrics by	``Jenny from the Block'' is a song recorded by American singer Jennifer Lopez, which features American rappers Jadakiss and Styles P; both members of The LOX.	Jenny from the Block	Jennifer Lopez
+lyrics by	``Underneath Your Clothes'' is a song by Colombian singer-songwriter Shakira for her third studio album and English-language debut, Laundry Service (2001).	Underneath Your Clothes	Shakira
+lyrics by	The UEFA Champions League Anthem, officially titled simply as ``Champions League'', is the official anthem of the UEFA Champions League, written by English composer Tony Britten in 1992.	UEFA Champions League Anthem	Tony Britten
+lyrics by	``Sweet Home Chicago'' is a blues standard first recorded by Robert Johnson in 1936.	Sweet Home Chicago	Robert Johnson
+lyrics by	``The Edge of Glory'' is a song by American singer Lady Gaga from her second studio album, Born This Way (2011).	The Edge of Glory	Lady Gaga
+lyrics by	``Tombe la neige'' (English: ``The snow falls'') is a French language song written and sung by Belgian-Italian singer Salvatore Adamo.	Tombe la neige	Salvatore Adamo
+lyrics by	``Make You Feel My Love'' is a song written by Bob Dylan that appeared on his 1997 album Time Out of Mind.	Make You Feel My Love	Bob Dylan
+lyrics by	Ayu-mi-x 4 + Selection Acoustic Orchestra Version is a remix album by Japanese singer Ayumi Hamasaki released in 2002, reaching number 9 in the Oricon Weekly music chart.	Ayu-mi-x 4 + Selection Acoustic Orchestra Version	Ayumi Hamasaki
+lyrics by	``Window Up Above'' is a 1960 single written and originally recorded by George Jones.	Window Up Above	George Jones
+lyrics by	``Feel It Boy'' is a song by Jamaican reggae artist Beenie Man featuring Janet Jackson from Man's sixteenth studio album Tropical Storm (2002).	Feel It Boy	Beenie Man
+lyrics by	``I See the Light'' is a song written by composer Alan Menken and lyricist Glenn Slater for Walt Disney Animation Studios' 50th animated feature film Tangled (2010).	I See the Light	Glenn Slater
+lyrics by	``Till There Was You'' is a song written by Meredith Willson for his 1957 musical play The Music Man, and which also appeared in the 1962 movie version.	Till There Was You	Meredith Willson
+lyrics by	``Banlieue Sale Music'' is a song by French rapper La Fouine featuring fellow French rapper Nessbeal.	Banlieue Sale Music	La Fouine	Nessbeal
+lyrics by	``Purple Haze'' is a song written by Jimi Hendrix and released as the second record single by the Jimi Hendrix Experience on March 17, 1967.	Purple Haze	Jimi Hendrix
+lyrics by	``Que Pasa Contigo'' is a song by the Italian DJ Alex Gaudino featuring vocals from Sam Obernik.	Que Pasa Contigo	Alex Gaudino
+lyrics by	``Antes de las Seis'' (English: ``Before Six O'Clock'') is a song recorded by Colombian singer-songwriter Shakira for her ninth studio album Sale el Sol (2010).	Antes de las Seis	Shakira
+lyrics by	Walls and Bridges is the fifth studio album by John Lennon, issued on 26 September 1974 in the United States and on 4 October in the United Kingdom.	Walls and Bridges	John Lennon
+lyrics by	``Don't Wanna Cry (Radio Edit)'' (Tetsuya Komuro, Takahiro Maeda) -- 4:40 ``Present'' (Takahiro Maeda) -- 4:39 ``Don't Wanna Cry (Original Karaoke)''(Tetsuya Komuro) -- 4:39 ``Present (Original Karaoke)'' (Takahiro Maeda) -- 4:38	Don't Wanna Cry	Tetsuya Komuro	Takahiro Maeda
+lyrics by	``We Are Never Ever Getting Back Together'' is a song recorded by American singer-songwriter Taylor Swift for her fourth studio album, Red (2012).	We Are Never Ever Getting Back Together	Taylor Swift
+lyrics by	``You Want This'' is a song by American singer Janet Jackson from her fifth studio album, janet.	You Want This	Janet Jackson
+lyrics by	``2 On'' is a song recorded by American singer-songwriter Tinashe for her debut studio album Aquarius (2014).	2 On	Tinashe
+lyrics by	``She Bop'' is a song by American singer-songwriter Cyndi Lauper, released as the third single from her debut studio album She's So Unusual.	She Bop	Cyndi Lauper
+lyrics by	``Boots of Spanish Leather'' is a ballad written and performed by Bob Dylan, and released in 1964 on his album The Times They Are a-Changin'.	Boots of Spanish Leather	Bob Dylan
+lyrics by	``For My Dear...'' is the fourth single released by Ayumi Hamasaki on October 7, 1998.	For My Dear...	Ayumi Hamasaki
+lyrics by	``You Make Me'' is a song written and recorded by Swedish DJ, remixer and record producer Avicii and Swedish musician and singer Salem Al Fakir in collaboration with Swedish songwriter Vincent Pontare and producer Arash Pournouri.	You Make Me	Avicii	Salem Al Fakir	Arash Pournouri
+lyrics by	``Tom Traubert's Blues (Four Sheets to the Wind in Copenhagen)'' (sometimes referred to incorrectly as ``Waltzing Matilda'', the song from which it borrows) is a song by American musician Tom Waits.	Tom Traubert's Blues	Tom Waits
+lyrics by	``Why Do You Let Me Stay Here?'' is a song by American duo She & Him, written by Zooey Deschanel for their first album, Volume One.	Why Do You Let Me Stay Here?	Zooey Deschanel
+lyrics by	``Welcome to St. Tropez'' is a song by Swiss DJ and producer DJ Antoine taken from his studio album 2011.	Welcome to St. Tropez	DJ Antoine
+lyrics by	``In the Air Tonight'' is the debut solo single by English drummer, singer and songwriter Phil Collins.	In the Air Tonight	Phil Collins
+lyrics by	This song is ``a moving nursery rhyme that appeals to the collective imagination and that reveals a new facet of the artist : ''A hidden melancholy...``'' According to Willem, ``Jacques a dit'' was the first song that Zazie has composed for him.	Jacques a dit	Zazie
+lyrics by	``So Happy I Could Die'' is a song from American singer Lady Gaga, taken from her second major released and her third extended play, The Fame Monster (2009).	So Happy I Could Die	Lady Gaga
+lyrics by	The song ``Korobeiniki'' is based on a poem with the same name by Nikolay Nekrasov, written and printed in the Sovremennik magazine in 1861.	Korobeiniki	Nikolay Nekrasov
+lyrics by	``The Power of Good-Bye'' is a song by American singer and songwriter Madonna, taken from her seventh studio album Ray of Light (1998).	The Power of Good-Bye	Madonna
+lyrics by	``Run This Town'' was released as the second single from Jay-Z's eleventh studio album The Blueprint 3, and is used as the theme song of Battlefield 4.	Run This Town	Jay-Z
+lyrics by	Le Chant des Girondins (English: The Song of the Girondists) was the national anthem of the French Second Republic, written for the drama Le Chevalier de Maison-Rouge by the writer Alexandre Dumas with Auguste Maquet.	Le Chant des Girondins	Alexandre Dumas
+manner of death	Facing a mounting series of debilitating illnesses, Don Carpenter committed suicide in 1995.	Don Carpenter	suicide
+manner of death	Ted Moult committed suicide by gunshot in 1986 after a period of depression.	Ted Moult	suicide
+manner of death	Richard Gerstl (14 September 1883 -- 4 November 1908) was an Austrian painter and draughtsman known for his expressive psychologically insightful portraits, his lack of critical acclaim during his lifetime, and his affair with the wife of Arnold Schoenberg which led to his suicide.	Richard Gerstl	suicide
+manner of death	Ernest Warner, who had been president of the Madison Park and Pleasure Drive Association since 1912, died after an automobile accident in July, 1930.	Ernest Warner	accident
+manner of death	In his young age, Guru Dutt was about to commit suicide, it was Dev Anand who succeeded in preventing him.	Guru Dutt	suicide
+manner of death	Jacques d'Adelswärd-Fersen spent the rest of his life based in Capri, and died there in 1923 --allegedly by suicide achieved through drinking a cocktail of champagne and cocaine.	Jacques d'Adelswärd-Fersen	suicide
+manner of death	Following Lombardi's suicide in 2000, the book Mark Lombardi:	Mark Lombardi	suicide
+manner of death	Malik Bendjelloul committed suicide on 13 May 2014 after struggling with depression, as reported by his brother Johar.	Malik Bendjelloul	suicide
+manner of death	Yves Chaland (April 3, 1957 in Lyon, France -- July 18, 1990, France (car accident)) was a French cartoonist.	Yves Chaland	accident
+manner of death	At Peikapw, a place of prayer, Isokelekel saw his reflection in a pool of water and, realizing his old age, decided to commit suicide.	Isokelekel	suicide
+manner of death	Enrico Tellini (August 25, 1871 -- August 27, 1923) was an Italian General whose assassination provoked the Corfu incident of 1923.	Enrico Tellini	assassination
+manner of death	Joybubbles said that he had an IQ of ``172 or something``. Joybubbles died at his Minneapolis home on August 8, 2007 (aged 58). According to his death certificate, he died of ''natural causes`` with ''congestive heart failure`` as a contributing condition.	Joybubbles	natural causes
+manner of death	Hatem Kamil was assassinated by gunmen in a drive-by shooting in Baghdad, in the southern district of Dura, while on his way to work.	Hatem Kamil	drive-by shooting
+manner of death	Walter R. Taliaferro (September 9, 1880 -- October 11, 1915) was a pioneer aviator in the U.S. Army who died in a flying accident.	Walter R. Taliaferro	accident
+manner of death	On 13 January 2006, 25-year-old Dave Lepard committed suicide by hanging himself in his apartment .	Dave Lepard	suicide
+manner of death	Later on July 1, the Cairo-based Voice of Palestine broadcast that ``After the assassination of martyr Mohammed Boudia at the hands of the Zionist intelligence elements in Paris, Colonel Yosef Alon...was executed...	Yosef Alon	assassination
+manner of death	Kurt Axelsson died 1984 in a car accident, aged only 43.	Kurt Axelsson	accident
+manner of death	Malik Sealy (February 1, 1970 -- May 20, 2000) was an American professional basketball player, active from 1992 until his death in an automobile accident at the age of 30.	Malik Sealy	accident
+manner of death	On November 25, 1991, Nimeño II committed suicide by hanging himself in his garage.	Nimeño II	suicide
+manner of death	After Felix Hausdorff, his wife and his wife's sister, Edith Pappenheim (who was living with them) were ordered in January 1942 to move to the Endenich camp, they committed suicide on 26 January 1942 by taking an overdose of veronal.	Felix Hausdorff	suicide
+medical condition	Peter Cheeseman died on 27 April 2010 of inanition and vascular dementia, after a long battle with Parkinson's disease.	Peter Cheeseman	Parkinson's disease
+medical condition	Phil Woosnam died on 19 July 2013 in Dunwoody, Georgia from complications related to prostate cancer and Alzheimer's disease, at the age of 80.	Phil Woosnam	Alzheimer's disease
+medical condition	Ishi died of tuberculosis on March 25, 1916.	Ishi	tuberculosis
+medical condition	Balamani Amma died on 29 September 2004 after having suffered from Alzheimer's disease for nearly five years.	Balamani Amma	Alzheimer's disease
+medical condition	Davis was diagnosed with Parkinson's disease at the age of 40, and established the Davis Phinney Foundation in 2004, a registered 501(c)(3) nonprofit organization.	Davis Phinney	Parkinson's disease
+medical condition	Floyd Patterson suffered from Alzheimer's disease and prostate cancer and had been hospitalized for a week prior to his death.	Floyd Patterson	Alzheimer's disease
+medical condition	A football fan since early childhood and a futsal player, Paulo Autuori had to give up his dream of becoming a professional footballer after contracting poliomyelitis in his teens.	Paulo Autuori	poliomyelitis
+medical condition	Leônidas died in 2004 in Cotia, São Paulo, because of complications due to Alzheimer's disease, from which he had been suffering since 1974.	Leônidas	Alzheimer's disease
+operating system	Shiira (シイラ, Japanese for the common dolphin-fish) is a discontinued open source web browser for the Mac OS X operating system.	Shiira	OS X
+operating system	MediaInfo supports Microsoft Windows XP or later, Mac OS X, Solaris and many Linux and BSD distributions.	MediaInfo	Linux
+operating system	A descendant of the delivermail program written by Eric Allman, Sendmail is a well-known project of the free and open source software and Unix communities.	Sendmail	Unix
+operating system	MinGW (Minimalist GNU for Windows), formerly mingw32, is a free and open source software development environment for creating Microsoft Windows applications.	MinGW	Microsoft Windows
+operating system	Kaffeine is a media player for Unix-like operating systems by KDE.	Kaffeine	Unix-like
+operating system	Adium is a free and open source instant messaging client for OS X that supports multiple IM networks, including Windows Live Messenger, Yahoo! Messenger, Google Talk, AIM, ICQ and XMPP.	Adium	OS X
+operating system	Google Latitude was compatible with most devices running iOS, Android, BlackBerry OS, Windows Mobile, and Symbian S60.	Google Latitude	iOS	Android	BlackBerry OS
+operating system	JetAudio (stylized as ``jetAudio'') is a shareware media player application for Microsoft Windows and Android which offers advanced playback options for a wide range of multimedia file formats.	JetAudio	Microsoft Windows	Android
+operating system	I.M. Meen is an educational video game that runs on MS-DOS, designed to teach grammar to children.	I.M. Meen	DOS
+operating system	LXC (Linux Containers) is an operating-system-level virtualization environment for running multiple isolated Linux systems (containers) on a single Linux control host.	LXC	Linux
+operating system	In October 2014, WordStar support was added to vDos, a derivative of DOSBox but optimized for business applications; vDos allows WordStar 4.0 and above to run under 32- and 64-bit versions of Microsoft Windows from XP through 8.1	WordStar	Microsoft Windows
+operating system	AUCTeX is distributed under the GNU General Public License.	AUCTeX	GNU
+operating system	The Nokia Lumia 630 is a smartphone developed by Nokia that runs Microsoft's Windows Phone 8.1 operating system.	Nokia Lumia 630	Windows Phone
+operating system	The Nexus 9 (codenamed Volantis or Flounder) is a tablet computer co-developed by Google and HTC that runs the Android operating system.	Nexus 9	Android
+place of burial	Cordelia Wilson died at age 79 and she is buried in the Wilson family plot at Lake View Cemetery in Seattle.	Cordelia Wilson	Lake View Cemetery
+place of burial	José do Canto is also credited with the construction of the Chapel of Nossa Senhora das Vitórias (English: Our Lady of Victories), on the margins of Furnas lake (Portuguese: Lagoa das Furnas).	José do Canto	Chapel of Nossa Senhora das Vitórias
+place of burial	An Episcopalian throughout his life, Philip Pendleton Barbour,was buried in the Congressional Cemetery, Washington, D.C..	Philip Pendleton Barbour	Congressional Cemetery
+place of burial	Samuel Escue Tillman died June 24, 1942 at the home of his daughter, Katherine Tillman Martin, in Southampton, New York and was buried at West Point Cemetery.	Samuel Escue Tillman	West Point Cemetery
+place of burial	Vinnie Ream Hoxie and her husband are buried in section three of Arlington National Cemetery, marked by her statue Sappho.	Vinnie Ream	Arlington National Cemetery
+place of burial	A. Gabriel Adams is buried in Section 25, Lot 117 of Allegheny Cemetery, alongside his wife, Mary.	Gabriel Adams	Allegheny Cemetery
+place of burial	John Hicklin Hall died in Portland, Oregon, on July 27, 1937, at the age of 83 and was interred at River View Cemetery in Portland.	John Hicklin Hall	River View Cemetery
+place of burial	Fyodor Sergeyev died in 1921 during the test of the Aerowagon and was buried in the Kremlin Wall Necropolis.	Fyodor Sergeyev	Kremlin Wall Necropolis
+place of burial	Rozz Williams' ashes are located in the Hollywood Forever Cemetery.	Rozz Williams	Hollywood Forever Cemetery
+place of burial	After his death at his Knightsbridge home at South Audley St, George Harwood was buried at West Norwood Cemetery.	George Harwood	West Norwood Cemetery
+place of burial	Hua Luogeng was born in Jintan, Jiangsu on 12 November, 1910.	Hua Luogeng	Jintan
+place of burial	Archibald Gardner died on February 8, 1902, and is buried in the Salt Lake City Cemetery.	Archibald Gardner	Salt Lake City Cemetery
+place of burial	Henry Sloane Coffin died in 1954 at age 77 and was interred at Sleepy Hollow Cemetery in Sleepy Hollow, NY.	Henry Sloane Coffin	Sleepy Hollow Cemetery
+place of burial	Dmitry Filosofov died in Otwock near Warsaw August 4, 1940 and is buried at the Orthodox Cemetery in Warsaw.	Dmitry Filosofov	Orthodox Cemetery in Warsaw
+place of burial	Lionel Nathan de Rothschild died in London, aged sixty, in 1942 and was buried in the Willesden Jewish Cemetery.	Lionel Nathan de Rothschild	Willesden Jewish Cemetery
+place of burial	Mariam Aslamazian died in Moscow, and was buried in Yerevan's Komitas Pantheon.	Mariam Aslamazian	Komitas Pantheon
+place of burial	Roman Klein died in 1924 and is interred at the Vvedenskoye Cemetery in Lefortovo District.	Roman Klein	Vvedenskoye Cemetery
+place of burial	Henry Adams died at age 80 in Washington, D.C. He is interred beside his wife in Rock Creek Cemetery, Washington.	Henry Adams	Rock Creek Cemetery
+place of burial	He was succeeded by his nephew and adopted son Alexander Liholiho, who was styled as King Kamehameha IV. In 1865 Kamehameha III was reburied in the Royal Mausoleum of Hawaii known as Mauna ʻAla.	Kamehameha III	Royal Mausoleum of Hawaii
+place of burial	Lennart Bernadotte concentrated his energy on his estate on the island of Mainau in Lake Constance, Germany, where he died, and on his charitable fund, the Lennart Bernadotte Stiftung.	Lennart Bernadotte	Mainau
+place of burial	John Boyd Thacher II died in 1957 in Albany, and is interred in Albany Rural Cemetery.	John Boyd Thacher II	Albany Rural Cemetery
+place of burial	Kavisekhara Dr Umar Alisha (28 February 1885, in Pithapuram -- 23 January 1945, in Narsapur) was the sixth Peethadhipathi of Sri Viswa Viznana Vidya Adhyatmika Peetham in Pithapuram, India.	Kavisekhara Dr Umar Alisha	Sri Viswa Viznana Vidya Adhyatmika Peetham
+place of burial	Boris Yefimov is buried in Novodevichy Cemetery.	Boris Yefimov	Novodevichy Cemetery
+place of burial	Richard Dix, Sr. was interred in Forest Lawn Memorial Park Cemetery in Glendale, California.	Richard Dix	Forest Lawn Memorial Park
+place of burial	Thomas Mellon and his wife Sarah are buried in Pittsburgh's Allegheny Cemetery.	Thomas Mellon	Allegheny Cemetery
+place of burial	Robert Mackay is interred with his wife Jane in the Mount Royal Cemetery in Montreal.	Robert Mackay	Mount Royal Cemetery
+place of burial	Marie-Pierre Kœnig died on 2 September 1970, in Neuilly-sur-Seine, and was buried at Montmartre Cemetery in Paris.	Marie-Pierre Kœnig	Montmartre Cemetery
+place of burial	Pyotr Sobolevsky died on 26 June 1977 in Moscow and was buried at Vvedenskoye Cemetery.	Pyotr Sobolevsky	Vvedenskoye Cemetery
+place of burial	Clovis II was buried in Saint Denis Basilica, Paris.	Clovis II	Saint Denis Basilica
+place of burial	Enrico Albanese (Palermo, 11 March 1834 -- Naples, 5 May, 1889) was an Italian surgeon and patriot, who lived during the Italian Risorgimento and distinguished himself in the field of Orthopaedics and Traumatology.	Enrico Albanese	Palermo
+place of burial	Elsie Jane Wilson died in Los Angeles, California, at the age of 79, and was buried in the Forest Lawn Memorial Park Cemetery in Glendale, California alongside her husband.	Elsie Jane Wilson	Forest Lawn Memorial Park
+place of burial	Manning Force is buried in Spring Grove Cemetery in Cincinnati.	Manning Force	Spring Grove Cemetery
+place of burial	J. Gordon Edwards died of pneumonia at age 58 in New York City and was interred at Kensico Cemetery in a grandiose private mausoleum with a minaret on each side similar to the Taj Mahal.	J. Gordon Edwards	Kensico Cemetery
+place of burial	His son William Alexander McArthur also became an MP He is buried with his family in a large mausoleum in West Norwood Cemetery.	Alexander McArthur	West Norwood Cemetery
+place of burial	Wilhelm Trute was born in 1836 in Sankt Andreasberg as the only child of Georg Conrad Trute and Johanna Henriette Trute (birth name Keitel).	Wilhelm Trute	Sankt Andreasberg
+place of burial	Georgia Caine died in Hollywood, California on 4 April 1964, at the age of 87, and is buried in Valhalla Memorial Park Cemetery in North Hollywood, California.	Georgia Caine	Valhalla Memorial Park Cemetery
+place of burial	Maurus Wolter (4 June 1825, Bonn -- 8 July 1890, Beuron) was the first abbot of the Benedictine Beuron Archabbey, which he founded with his brother Placidus in 1863.	Maurus Wolter	Beuron Archabbey
+place of burial	Kathryn Kuhlman is interred in the Forest Lawn Memorial Park Cemetery in Glendale, California.	Kathryn Kuhlman	Forest Lawn Memorial Park
+place of burial	Samad Vurgun died on May 27, 1956 and was buried in Baku, in the Alley of Honor.	Samad Vurgun	Alley of Honor
+place of burial	Setnakhte usurped the joint KV14 tomb of Seti II and Twosret but reburied Seti II in tomb KV15, while deliberately replastering and redrawing all images of Twosret in tomb KV14 with those of himself.	Twosret	KV14
+place of burial	On his death in 1945 of a heart attack, Bruno Frank was interred in the Forest Lawn Memorial Park Cemetery in Glendale, California.	Bruno Frank	Forest Lawn Memorial Park
+religious order	Varnhem Abbey (Swedish: Varnhems kloster) in Varnhem, Västergötland, Sweden was founded around 1150 by monks of the Cistercian Order from Alvastra Abbey in Östergötland.	Varnhem Abbey	Cistercian
+religious order	Flaxley Abbey is a former Cistercian monastery in England, now a private residence, near the village of Flaxley in the Forest of Dean, Gloucestershire.	Flaxley Abbey	Cistercian
+religious order	Manuel da Nóbrega (old spelling Manoel da Nóbrega) (18 October 1517 -- 18 October 1570) was a Portuguese Jesuit priest and first Provincial of the Society of Jesus in colonial Brazil.	Manuel da Nóbrega	Society of Jesus
+religious order	Alexis Falconieri (Italian: Alessio Falconieri) (Florence, 1200 -- Mount Senario, 17 February 1310) is one of the seven founders of the Servite Order, who are celebrated together on the anniversary of his death.	Alexis Falconieri	Servite Order
+religious order	Dionisio Laurerio (1497--1542) (also known as fra Dionisio di Benevento and as the Cardinal of San Marcello) was an Italian Roman Catholic cleric who was the superior general of the Servite Order from 1535 to 1542, a cardinal from 1539, and a bishop from 1540.	Dionisio Laurerio	Servite Order
+religious order	Marie-Joseph Lagrange (7 March 1855, Bourg-en-Bresse -- 10 March 1938, Marseille; earlier Albert Marie-Henri Lagrange) was a Catholic priest in the Dominican Order and founder of the École Biblique in Jerusalem.	Marie-Joseph Lagrange	Dominican Order
+religious order	Timothy Radcliffe entered the Dominican Order in 1965 and was ordained a priest in 1971.	Timothy Radcliffe	Dominican Order
+religious order	In February 2009 Professor Laura Luzzetti Amerini revealed, after doing some studies, at a conference regarding the writer at the Archivio di Stato in Grosseto, that Andrea da Grosseto wasn't actually the same Andrea Bento the shoe-maker, belonging to the Order of Friars Minor as Selmi and many other scholars had theorised.	Andrea da Grosseto	Order of Friars Minor
+religious order	John Dear (born 1959) is an American Catholic priest, Christian pacifist, author and lecturer, and a former member of the Society of Jesus.	John Dear	Society of Jesus
+religious order	Willem van Saeftinghe (``William of Saeftinghe''; d. 1309?) was a lay brother in the Cistercian abbey of Ter Doest in Lissewege, West Flanders, Belgium.	Willem van Saeftinghe	Cistercian
+religious order	Saint Lawrence of Brindisi, O.F.M. Cap., (July 22, 1559 -- July 22, 1619), born Giulio Cesare Russo, was a Catholic priest and theologian and a member of the Order of Friars Minor Capuchin.	Lawrence of Brindisi	Order of Friars Minor
+religious order	Coggeshall Abbey, situated south of the town of Coggeshall in Essex, was founded in 1140 by King Stephen of England and Matilda of Boulogne, as a Savigniac house but became Cistercian in 1147 upon the absorption of the order.	Coggeshall Abbey	Cistercian
+religious order	Bordesley Abbey was a 12th-century Cistercian abbey near the town of Redditch, in Worcestershire, England.	Bordesley Abbey	Cistercian
+religious order	Upon his discharge from the Navy in 1946, Avery Dulles entered the Society of Jesus, and was ordained to the priesthood in 1956.	Avery Dulles	Society of Jesus
+religious order	Saint Felix of Valois (April 16, 1127 -- November 4, 1212) was a hermit and a co-founder (with Saint John of Matha) of the Trinitarian Order.	Felix of Valois	Trinitarian Order
+religious order	Saint Juan García López-Rico (10 July 1561 -- 14 February 1613) was a Spanish Roman Catholic priest from the Trinitarian Order who would establish a branch of his order which he named the Order of Discalced Carmelites.	Juan García López-Rico	Trinitarian Order
+religious order	Władysław Gurgacz (1914 -- 14 September 1949) was a Polish Catholic priest, member of the Society of Jesus, and chaplain of the anti-communist underground.	Władysław Gurgacz	Society of Jesus
+religious order	Very Rev. Tadeusz Brzozowski, S.J. (October 21, 1749 -- February 5, 1820) was a Polish Jesuit, elected 19th Superior General of the Society of Jesus.	Tadeusz Brzozowski	Society of Jesus
+service entry	Production soon followed, entering the armed forces of both countries as the Solothurn S2-200 and Maschinengewehr Solothurn 1930, or MG 30, respectively.	MG 30	1930
+service entry	The Beechcraft Bonanza is an American general aviation aircraft introduced in 1947 by Beech Aircraft Corporation of Wichita, Kansas.	Beechcraft Bonanza	1947
+service entry	Starstreak has been in service with the British Army since 1997.	Starstreak	1997
+service entry	The RPG-40 was an anti-tank hand grenade developed by the Soviet Union in 1940.	RPG-40	1940
+service entry	The 8×56mmR or 8×56mmR M30S (C.I.P. civil designation) cartridge was adopted in the year 1930 by Austria and in 1931 by the Kingdom of Hungary as a replacement for the 8×50mmR Mannlicher cartridge.	8×56mmR	1930
+service entry	The C3 was adopted by the Canadians in 1972 and was based on the Parker Hale M82.	Parker Hale M82	1972
+service entry	The Sinclair President is a calculator released by Sinclair Radionics in early 1978.	Sinclair President	1978
+service entry	The AAI RQ-2 Pioneer is an unmanned aerial vehicle (UAV) that had been utilized by the United States Navy, Marine Corps, and Army, and deployed at sea and on land from 1986 until 2007.	AAI RQ-2 Pioneer	1986
+service entry	The RPG-16 was developed in 1968, and adopted by the Soviet Army in 1970 for special operation teams and the Soviet airborne troops (VDV).	RPG-16	1970
+service entry	The PTRD-41 (Shortened from Russian, ProtivoTankovoye Ruzhyo Degtyaryova;Противотанковое однозарядное ружьё системы Дегтярёва образца 1941 года;``Degtyaryov Anti-Tank Rifle'') was an anti-tank rifle produced and used from early 1941 by the Soviet Red Army during World War II. It was a single-shot weapon which fired a 14.5×114mm round.	PTRD	1941
+service entry	The Dragunov SVDK large caliber sniper rifle (any rifle caliber above 9 mm is considered a large caliber in Russia) is a somewhat controversial weapon, adopted by Russian army in 2006.	SVDK	2006
+service entry	The Pistolet modèle An XIII was a flintlock cavalry pistol, in service in French units from 1806.	Pistolet modèle An XIII	1806
+service entry	The M1 Abrams entered U.S. service in 1980, replacing the M60 tank.	M1 Abrams	1980
+service entry	Previously known as LAV-300 A1, it was named LAV-600 in 1986.	LAV-600	1986
+service entry	At FCM Jammy and Savatier finished the Char 2C prototype, the other nine tanks being built almost simultaneously; all ten were delivered in 1921 and modified by the factory until 1923.	Char 2C	1921
+service entry	Adopted in 1997, the QBU-88 is, by the modern sense, not a true sniper rifle -- it is more of designated marksman rifle, intended for aimed semi-automatic fire at ranges beyond the capabilities of standard infantry assault rifles.	QBU-88	1997
+time of discovery	The Draco Dwarf is a spheroidal galaxy which was discovered by Albert George Wilson of Lowell Observatory in 1954 on photographic plates of the National Geographic Society's Palomar Observatory Sky Survey (POSS).	Draco Dwarf	1954
+time of discovery	C/2011 J2 (LINEAR) is an Oort cloud comet discovered on 4 May 2011 by LINEAR at an apparent magnitude of 19.7 using a 1-meter (39 in) Reflecting telescope.	C/2011 J2	4 May 2011
+time of discovery	7604 Kridsadaporn is a Mars-crossing asteroid discovered by R. H. McNaught on 31 August 1995 at Siding Spring Observatory near the town of Coonabarabran, Australia.	7604 Kridsadaporn	31 August 1995
+time of discovery	2984 Chaucer, provisionally designated 1981 YD, is a main-belt asteroid, which was discovered by American astronomer Edward Bowell at Lowell's Anderson Mesa Station in Flagstaff, Arizona, on 30 December 1981.	2984 Chaucer	30 December 1981
+time of discovery	Wacław Sierpiński described the Sierpinski triangle in 1915.	Sierpinski triangle	1915
+time of discovery	The Sagittarius Star Cloud (also known as Delle Caustiche, Messier 24, IC 4715) is a star cloud in the constellation of Sagittarius, approximately 600 light years wide, which was discovered by Charles Messier in 1764.	Sagittarius Star Cloud	1764
+time of discovery	1135 Colchis, provisionally designated 1929 TA, is a main-belt asteroid discovered by Russian astronomer Grigory Neujmin at the Crimean Simeiz Observatory on 3 October 1929.	1135 Colchis	3 October 1929
+time of discovery	Andromeda I was discovered by Sidney van den Bergh in 1970 with the Mount Palomar Observatory 48-inch telescope.	Andromeda I	1970
+time of discovery	The Eagle Nebula (catalogued as Messier 16 or M16, and as NGC 6611, and also known as the Star Queen Nebula and The Spire) is a young open cluster of stars in the constellation Serpens, discovered by Jean-Philippe de Cheseaux in 1745-46.	Eagle Nebula	1745
+time of discovery	Curium was first intentionally produced and identified in July 1944 by the group of Glenn T. Seaborg at the University of California, Berkeley.	Curium	1944
+time of discovery	1836 Komarov, provisional designation 1971 OT, is a main-belt asteroid discovered on 26 July 1971 by Nikolai Chernykh at the Crimean Astrophysical Observatory in Nauchnyj.	1836 Komarov	26 July 1971
+time of discovery	1850 Kohoutek, provisional designation 1942 EN, is an asteroid from the inner regions of the asteroid belt, discovered by German astronomer Karl Reinmuth at Heidelberg Observatory on 23 March 1942.	1850 Kohoutek	23 March 1942
+time of discovery	Barium was identified as a new element in 1774, but not reduced to a metal until 1808 with the advent of electrolysis.	Barium	1808
+time of discovery	Elk's Head of Huittinen (Finnish: Huittisten hirvenpää, also known as Moose's Head) is a Mesolithic moose head figurine of soapstone found in 1903 from Huittinen in the province of Satakunta, Finland.	Elk's Head of Huittinen	1903
+time of discovery	2606 Odessa (1976 GX2) is a main-belt asteroid discovered on 1 April 1976 by Nikolai Stepanovich Chernykh at the Crimean Astrophysical Observatory.	2606 Odessa	1 April 1976
+time of discovery	The Sperlonga sculptures are a large and elaborate ensemble of ancient sculptures discovered in 1957 in the grounds of the former villa of the Emperor Tiberius at Sperlonga, on the coast between Rome and Naples.	Sperlonga sculptures	1957
+time of spacecraft launch	OPS 5113 was launched at 00:28 UTC on 7 October 1978, atop an Atlas E/F carrier rocket with an SGS-1 upper stage.	OPS 5113	7 October 1978
+time of spacecraft launch	STS-34 launched from Kennedy Space Center, Florida, on 18 October 1989, and landed at Edwards Air Force Base, California, on 23 October.	STS-34	18 October 1989
+time of spacecraft launch	The launch of FTV-1126 occurred at 19:36 UTC on 15 May 1962.	FTV-1126	15 May 1962
+time of spacecraft launch	Built by Boeing and launched by United Launch Alliance, USA-232 was launched at 06:41 UTC on 16 July 2011, atop a Delta IV carrier rocket, flight number D355, flying in the Medium+(4,2) configuration.	USA-232	16 July 2011
+time of spacecraft launch	Shenzhou 9 was a manned spacecraft flight of China's Shenzhou program, launched at 18:37:24 CST (10:37:24 UTC), 16 June 2012.	Shenzhou 9	16 June 2012
+time of spacecraft launch	Soyuz TMA-15 was launched successfully by a Soyuz-FG carrier rocket from Site 1/5 at the Baikonur Cosmodrome in Kazakhstan, at 10:34 UTC on 27 May 2009.	Soyuz TMA-15	27 May 2009
+time of spacecraft launch	Soyuz TMA-15M launched successfully aboard a Soyuz-FG rocket from the Baikonur Cosmodrome in Kazakhstan at 21:01 UTC on Sunday, 23 November 2014.	Soyuz TMA-15M	23 November 2014
+time of spacecraft launch	The H-IIB rocket with Kounotori 2 onboard was successfully launched from Tanegashima Space Center on 22 January 2011, 05:37:57 UTC.	Kounotori 2	22 January 2011
+time of spacecraft launch	ISRO successfully launched INSAT-4E on 27 August 2015, using a GSLV D6 Mk.II rocket flying from the Satish Dhawan Space Centre and inserted into a Geostationary Transfer Orbit (GTO) with injection parameters of 170 km x 35945 km, 19.96 degree inclination.	INSAT-4E	27 August 2015
+time of spacecraft launch	Chang'e 1 was launched on 24 October 2007 at 10:05:04 UTC from Xichang Satellite Launch Center.	Chang'e 1	24 October 2007
+time of spacecraft launch	It was the last KH-2 Corona' satellite, which was based on an Agena-B. The launch of Discoverer 28 occurred at 00:01 UTC on 4 August 1961.	Discoverer 28	4 August 1961
+time of spacecraft launch	Shenzhou 10 (Mandarin Chinese: 神舟十号 Shénzhōu shíhào) was a manned spaceflight of China's Shenzhou program that was launched on 11 June 2013.	Shenzhou 10	11 June 2013
+time of spacecraft launch	The launch occurred on 11 December 1969 at 12:58:59 UTC, and resulted in the successful deployment of Kosmos 314 into low Earth orbit.	Kosmos 314	11 December 1969
+time of spacecraft launch	STS-48 was a Space Shuttle mission that launched on 12 September 1991, from Kennedy Space Center, Florida.	STS-48	12 September 1991
+time of spacecraft launch	Progress M-9 was launched at 22:54:10 GMT on 20 August 1991, atop a Soyuz-U2 carrier rocket flying from Site 1/5 at the Baikonur Cosmodrome.	Progress M-9	20 August 1991

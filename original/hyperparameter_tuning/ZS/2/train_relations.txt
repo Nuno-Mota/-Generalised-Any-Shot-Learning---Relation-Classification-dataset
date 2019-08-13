@@ -1,0 +1,25 @@
+award received
+conflict
+country
+date of birth
+developer
+director
+dissolved or abolished
+educated at
+father
+headquarters location
+inception
+instrument
+licensed to broadcast to
+located in the administrative territorial entity
+member of sports team
+mother
+mouth of the watercourse
+narrative location
+native language
+occupation
+parent taxon
+present in work
+screenwriter
+sex or gender
+spouse

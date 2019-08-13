@@ -1,0 +1,25 @@
+author
+award received
+child
+continent
+country
+country of origin
+date of birth
+date of death
+director
+employer
+founder
+inception
+languages spoken or written
+mother
+mouth of the watercourse
+named after
+occupation
+participant of
+position held
+position played on team / speciality
+present in work
+record label
+screenwriter
+series
+taxon rank

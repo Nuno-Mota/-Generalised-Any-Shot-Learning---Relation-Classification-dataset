@@ -1,0 +1,1250 @@
+Human and murine SUBJECT_ENTITY , localized in the syntenic region of OBJECT_ENTITY ( q24 - 28 ) , are highly conserved , sharing 82 % identical and 92 % conserved amino acids .
+SUBJECT_ENTITY ( GCDH ) is an enzyme encoded by the GCDH gene on OBJECT_ENTITY .
+In humans , the gene for SUBJECT_ENTITY is located on OBJECT_ENTITY .
+The human SUBJECT_ENTITY gene is located on the long ( q ) arm of OBJECT_ENTITY at region 2 band 1 , from base pair 41,196,312 to base pair 41,277,500 ( Build GRCh37/hg19 ) ( map ) .
+SUBJECT_ENTITY ( OBJECT_ENTITY open reading frame 23 ) is a gene in the human genome that encodes the protein of unknown function , SUBJECT_ENTITY .
+The human SUBJECT_ENTITY gene is located on OBJECT_ENTITY at p21 - 23 , comprising eight exons encoding 176 amino acids .
+The human SUBJECT_ENTITY gene , located in OBJECT_ENTITY , is 681 base pairs in length .
+This gene is one of the SUBJECT_ENTITY gene family members which are found in clusters on OBJECT_ENTITY .
+Two genes located near each other on OBJECT_ENTITY ( SUBJECT_ENTITY and CKMT1B ( this gene ) ) have been identified which encode identical mitochondrial creatine kinase proteins .
+Human SUBJECT_ENTITY gene is located on OBJECT_ENTITY on the cytogenetic band 17 p11.2 .
+The SUBJECT_ENTITY gene , in humans , is located on the long ( q ) arm of OBJECT_ENTITY on position 21.1 , from base pair 46,200,461 to base pair 46,221,881 .
+Hexokinase 2 also known as SUBJECT_ENTITY is an enzyme which in humans is encoded by the SUBJECT_ENTITY gene on OBJECT_ENTITY .
+Transport and golgi organization 2 homolog ( SUBJECT_ENTITY ) also known as OBJECT_ENTITY open reading frame 25 ( C22orf25 ) is a protein that in humans is encoded by the SUBJECT_ENTITY gene .
+While the human gene SCNN1A is located in chromosome 12p , the human genes encoding SCNN1B and SUBJECT_ENTITY are located in juxtoposition in the short arm of OBJECT_ENTITY ( 16p12-p13 ) .
+SUBJECT_ENTITY ( for HOX transcript antisense RNA ) is a human gene located on OBJECT_ENTITY .
+UPF0317 protein SUBJECT_ENTITY , mitochondrial is a protein that in humans is encoded by the SUBJECT_ENTITY gene ( OBJECT_ENTITY open reading frame 159 ) .
+Pericentrin ( kendrin ) , also known as SUBJECT_ENTITY and pericentrin - B ( PCNTB ) , is a protein which in humans is encoded by the SUBJECT_ENTITY gene on OBJECT_ENTITY .
+SUBJECT_ENTITY is located on band 22.3 on the small arm of human OBJECT_ENTITY .
+In the human genome , hMSH6 is located on OBJECT_ENTITY .
+The gene for SUBJECT_ENTITY is located on human OBJECT_ENTITY in a cluster among several other CXC chemokines .
+Krüppel - like Factor 2 ( SUBJECT_ENTITY ) , also known as lung Krüppel - like Factor ( LKLF ) , is a protein that in humans is encoded by the SUBJECT_ENTITY gene on OBJECT_ENTITY .
+The SUBJECT_ENTITY gene is located on the long ( q ) arm of OBJECT_ENTITY at position 12.3 ( 13q12.3 ) .
+SUBJECT_ENTITY ( GPI ) , alternatively known as phosphoglucose isomerase ( PGI ) or phosphohexose isomerase ( PHI ) , is an enzyme that in humans is encoded by the GPI gene on OBJECT_ENTITY .
+The human SUBJECT_ENTITY gene is located on human OBJECT_ENTITY with specific location of 18q11.1 .
+SUBJECT_ENTITY is encoded by a single gene which has been mapped to OBJECT_ENTITY .
+In follicular lymphoma , a chromosomal translocation commonly occurs between the fourteenth and the eighteenth chromosomes -- t(14;18 ) -- which places the SUBJECT_ENTITY gene from OBJECT_ENTITY next to the immunoglobulin heavy chain locus on chromosome 14 .
+Fas - Associated protein with Death Domain ( SUBJECT_ENTITY ) , also called MORT1 , is encoded by the SUBJECT_ENTITY gene on the 11q13.3 region of OBJECT_ENTITY in humans .
+SUBJECT_ENTITY is associated with ATP7B gene , approximate 80 Kb , located on human OBJECT_ENTITY and consists of 21 exons . The mRNA transcribed by ATP7B gene has a size of 7.5 Kb , and which encodes a protein of 1465 amino acids .
+MHC class II regulatory factor SUBJECT_ENTITY is a protein that , in humans , is encoded by the SUBJECT_ENTITY gene located on the short arm of OBJECT_ENTITY .
+tRNA modification GTPase SUBJECT_ENTITY , mitochondrial is an enzyme that in human is encoded by the SUBJECT_ENTITY gene on OBJECT_ENTITY .
+NACHT , LRR and PYD domains - containing protein 3 ( SUBJECT_ENTITY ) also known by cryopyrin is a protein that in humans is encoded by the NLRP3 gene located on the long arm of OBJECT_ENTITY .
+SUBJECT_ENTITY is a protein that in humans is encoded by the SPG7 gene located on OBJECT_ENTITY .
+Chromosome 21 open reading frame 7 , also known as SUBJECT_ENTITY , is a human gene located on OBJECT_ENTITY .
+SUBJECT_ENTITY is located on the long arm of OBJECT_ENTITY ( 2q14 ) , starting at 61297486 and ending at 61349294 .
+SUBJECT_ENTITY is located on OBJECT_ENTITY at 11q21.5 .
+SUBJECT_ENTITY is encoded by the SUBJECT_ENTITY gene on human OBJECT_ENTITY .
+SUBJECT_ENTITY is located on the long arm of OBJECT_ENTITY ( 9.q32 ) in humans on the plus strand from 115249248 to 115427597 .
+SUBJECT_ENTITY ( 1665 - 1668 ) is an oil on canvas painting by the Dutch painter Pieter de Hooch , it is an example of Dutch Golden Age painting and is part of the collection of the OBJECT_ENTITY .
+SUBJECT_ENTITY is a kinetic artwork by American artist George Rickey and located at the OBJECT_ENTITY , near downtown Indianapolis , Indiana .
+SUBJECT_ENTITY is an installation by American artist Maya Lin , the designer of the Vietnam Veterans Memorial in Washington , D.C. It is on display at and owned by the OBJECT_ENTITY located in Indianapolis , Indiana , United States .
+SUBJECT_ENTITY is a painting by the early Italian Renaissance master Pisanello , now in the OBJECT_ENTITY in London .
+SUBJECT_ENTITY is an oil painting by Italian artist Giovanni Francesco Bezzi , also known as Nosadella , located in the OBJECT_ENTITY , which is in Indianapolis , Indiana .
+SUBJECT_ENTITY is a painting by Edgar Degas , the French Impressionist artist , now in the collection of the OBJECT_ENTITY in London , England .
+SUBJECT_ENTITY is a 1938 tempera painting by American artist Jacob Lawrence , located in the OBJECT_ENTITY , which is in Indianapolis , Indiana .
+SUBJECT_ENTITY is an 1860 oil painting on canvas by the French painter Édouard Manet , conserved since 1949 at the OBJECT_ENTITY of New York .
+SUBJECT_ENTITY is a 1617 painting by Peter Paul Rubens , now in the OBJECT_ENTITY in Vienna .
+SUBJECT_ENTITY is a painting by Lord Frederic Leighton , produced in c. 1864 and currently housed at the OBJECT_ENTITY , Boston .
+The SUBJECT_ENTITY is a portrait of Philip IV of Spain by Velázquez now in the OBJECT_ENTITY in Madrid .
+SUBJECT_ENTITY is an 1873 painting by Julian Scott in the collection of the OBJECT_ENTITY .
+SUBJECT_ENTITY is a 1483 triptych by the Flemish artist known only as the Master of the Legend of Saint Ursula , located in the OBJECT_ENTITY , which is in Indianapolis , Indiana .
+SUBJECT_ENTITY is a painting by the Italian Renaissance artist Titian , executed in 1510 or 1511 , and housed in the church of OBJECT_ENTITY in Venice , Italy .
+The Louvre SUBJECT_ENTITY , formerly in the OBJECT_ENTITY , entered the museum in 1871 .
+SUBJECT_ENTITY is an oil painting by Ramon Casas painted in 1907 in Barcelona and currently in the OBJECT_ENTITY in Barcelona .
+The SUBJECT_ENTITY , or Ellesmere Manuscript is an early 15th - century illuminated manuscript of Geoffrey Chaucer 's Canterbury Tales , held in the OBJECT_ENTITY , in San Marino , California ( MS EL 26 C 9 ) .
+The SUBJECT_ENTITY is an illuminated manuscript in the OBJECT_ENTITY ( NLW MS 17520A ) that dates from the close of the fourteenth century .
+Metzinger 's SUBJECT_ENTITY ( Two Women ) is in the permanent collection of the OBJECT_ENTITY ( Göteborgs konstmuseum ) , Sweden .
+SUBJECT_ENTITY is a 1632 oil painting on canvas by Rembrandt housed in the OBJECT_ENTITY museum in The Hague , the Netherlands .
+The SUBJECT_ENTITY is on display in the OBJECT_ENTITY .
+The SUBJECT_ENTITY is a picture from around 1504 - 1505 , attributed to the Italian Renaissance artist Raphael and housed by the OBJECT_ENTITY , United States
+La SUBJECT_ENTITY ( English : the Mouth of Truth ) is an image , carved from Pavonazzo marble , of a man - like face , located in the portico of the church of OBJECT_ENTITY in Rome , Italy .
+The SUBJECT_ENTITY is an Anglo - Saxon silver and niello brooch dated to the late 9th century , which is now in the OBJECT_ENTITY , where it is normally on display in Room 41 .
+It measures 132.1 centimetres ( 52.0 in ) by 233.7 centimetres ( 92.0 in ) SUBJECT_ENTITY was exhibited at the Royal Academy summer exhibition in 1879 , and acquired by Sir Henry OBJECT_ENTITY , who presented to the OBJECT_ENTITY Gallery in 1897 .
+SUBJECT_ENTITY ( or simply , Rienzi ) is a painting by William Holman Hunt , produced in 1849 and currently in a OBJECT_ENTITY .
+SUBJECT_ENTITY is an oil painting on canvas by the English Pre - Raphaelite painter Henry Wallis , now in OBJECT_ENTITY Britain , London .
+The SUBJECT_ENTITY , dating from the twelfth dynasty Egyptian Middle Kingdom , was obtained by the French orientalist Émile Prisse d'Avennes at Thebes in 1856 and is now in the OBJECT_ENTITY in Paris .
+The SUBJECT_ENTITY ( or Madonna of the Steps ) is a relief sculpture by Michelangelo in the OBJECT_ENTITY , Florence .
+SUBJECT_ENTITY ( Latin : `` Behold the handmaiden of the Lord '' ) , or The Annunciation , is an oil painting by the English artist Dante Gabriel Rossetti , first painted in 1850 and now in OBJECT_ENTITY in London .
+SUBJECT_ENTITY has been part of the Chester Dale Collection in the OBJECT_ENTITY , Washington D.C. since 1963 .
+SUBJECT_ENTITY is a large 1801 oil on canvas painting by the Spanish artist Francisco de Goya , now in the OBJECT_ENTITY .
+SUBJECT_ENTITY ( about 1555 ) is a painting by Titian , now in the OBJECT_ENTITY in Washington , DC , and it is considered to be one of the collection 's highlights .
+SUBJECT_ENTITY is currently owned by the OBJECT_ENTITY , located on the University of California , Los Angeles campus .
+SUBJECT_ENTITY is a small 1436 oil on wood painting by the Early Netherlandish master Jan van Eyck , now in the OBJECT_ENTITY , Vienna .
+SUBJECT_ENTITY is a public artwork by American artist David Louis Rodgers , located at the OBJECT_ENTITY ( IMA ) , which is near downtown Indianapolis , Indiana .
+SUBJECT_ENTITY refers to a 15th - century cope in the collection of the OBJECT_ENTITY .
+The SUBJECT_ENTITY is a painting by German Renaissance master Albrecht Dürer , signed and dated from 1526 , now housed in the OBJECT_ENTITY of Berlin , Germany .
+SUBJECT_ENTITY caused a minor stir when the Museum of Modern Art , OBJECT_ENTITY , which housed it , hung the print upside - down for 47 days in 1961 until Genevieve Habert , a stockbroker , noticed the mistake and notified a guard .
+SUBJECT_ENTITY is an oil painting by the impressionist painter Suze Robertson acquired by the OBJECT_ENTITY in 1959 .
+SUBJECT_ENTITY has been housed in the OBJECT_ENTITY , New York since its donation from a private collection in 1977 .
+SUBJECT_ENTITY is a 1617 oil painting by Flemish artist Anthony van Dyck , located in the OBJECT_ENTITY , which is in Indianapolis , Indiana .
+The SUBJECT_ENTITY is a painting by the Italian Renaissance master Paolo Veronese ( from circa 1565 - 1567 ) , belonging to the collection of the OBJECT_ENTITY Amsterdam .
+The SUBJECT_ENTITY ( Turkish : Topkapı Parşömeni ) is a Timurid dynasty pattern scroll in the collection of the OBJECT_ENTITY museum .
+SUBJECT_ENTITY , titled Man with Pipe and dated c. 1912 , forms part of the permanent collection of the OBJECT_ENTITY , Pittsburgh , Pennsylvania ( gift of G. David Thompson , 1953 ) .
+SUBJECT_ENTITY is a painting by the German artist and printmaker Hans Holbein the Younger created between 1535 - -36 , and today held in the OBJECT_ENTITY in New York .
+Albert Gleizes , exhibited l'Homme au Balcon ( SUBJECT_ENTITY ) , ( Portrait of Dr. Théo Morinaud ) 1912 ( OBJECT_ENTITY ) , also exhibited at the Armory show , New York , Chicago , Boston , 1913 .
+The SUBJECT_ENTITY , also known as the `` Trinity Sarcophagus '' is an early Christian sarcophagus of about 320 - -350 , now in the OBJECT_ENTITY ( Vatican 104 ) .
+SUBJECT_ENTITY ( also known as Landauer Altarpiece ; German : Allerheiligenbild or Landauer Altar ) is an oil - on - panel painting by German Renaissance artist Albrecht Dürer , executed in 1511 and currently housed in the OBJECT_ENTITY , Vienna , Austria .
+SUBJECT_ENTITY is an 1889 oil painting by French artist Paul Gauguin , located in the OBJECT_ENTITY , which is in Indianapolis , Indiana .
+SUBJECT_ENTITY is a 1967 oil on canvas painting by the Irish - born British figurative artist Francis Bacon , housed in the OBJECT_ENTITY , Berlin .
+The SUBJECT_ENTITY are a set of frescos conserved at the OBJECT_ENTITY , in Barcelona .
+SUBJECT_ENTITY is a public art work by artist Bernard Kirschenbaum at the OBJECT_ENTITY near Milwaukee , Wisconsin .
+SUBJECT_ENTITY is an altarpiece painting by Italian Renaissance artist Lorenzo Lotto , executed in 1527 - 1529 and located in the church of Santa Maria dei OBJECT_ENTITY , Venice .
+SUBJECT_ENTITY is a study by Peter Paul Rubens , now held in the OBJECT_ENTITY in Mexico City .
+The primary copy of SUBJECT_ENTITY is currently in the collection of the OBJECT_ENTITY , with further examples at the Royal Ontario Museum ( Canadiana art collection ) , as well as the William L. Clements Library at the University of Michigan .
+SUBJECT_ENTITY , a painting by Edouard Manet , became a part of the Thannhauser Collection of the OBJECT_ENTITY as a bequest of Hilde Thannhauser .
+The SUBJECT_ENTITY is a painting by the Italian Renaissance artist Perugino , dating to 1494 and housed in the OBJECT_ENTITY Gallery , Florence .
+SUBJECT_ENTITY was one of the paintings donated to the nation by Sir George Beaumont in 1823 to form the nucleus of the OBJECT_ENTITY 's nascent collection .
+SUBJECT_ENTITY opened on January 1 , OBJECT_ENTITY .
+SUBJECT_ENTITY was opened on OBJECT_ENTITY on the Frankfurt - Hanau line .
+The SUBJECT_ENTITY Society Ltd. was started in OBJECT_ENTITY with railway operations commencing in 1974 dedicated to preserving Light Railway history & Illawarra industrial history .
+SUBJECT_ENTITY ( Hebrew : אל גאוצ'ו‎ ) is an Israeli steak house chain with 7 branches around Israel , which opened its first branch in OBJECT_ENTITY .
+The SUBJECT_ENTITY was inaugurated on OBJECT_ENTITY .
+The first station building for SUBJECT_ENTITY was erected near the town and the station was opened on OBJECT_ENTITY as the Bavarian Eastern Railway Company 's eastern route between Straubing and Passau went into service .
+On November 15 , OBJECT_ENTITY , SUBJECT_ENTITY opened at the site of an old horse racing track .
+SUBJECT_ENTITY was officially opened on OBJECT_ENTITY .
+SUBJECT_ENTITY was established on OBJECT_ENTITY together with the opening of the Offenbach - Bieber--
+SUBJECT_ENTITY is an earthwork sculpture constructed in April OBJECT_ENTITY that is considered to be the central work of American sculptor Robert Smithson .
+The SUBJECT_ENTITY is a museum for modern art , opened in OBJECT_ENTITY in Bayreuth , Bavaria , Germany .
+The SUBJECT_ENTITY is a former institute for business education in New York City founded in OBJECT_ENTITY , and dissolved in the 1980s .
+SUBJECT_ENTITY is a railway station in Brussels , Belgium , which was opened in OBJECT_ENTITY .
+In OBJECT_ENTITY , the city of Lillehammer set aside an area already known as SUBJECT_ENTITY and bought Sandvig 's collection and established Sandvigske Samlinger ( Sandvig Collections ) , the formal name for SUBJECT_ENTITY .
+SUBJECT_ENTITY was opened on OBJECT_ENTITY along with the Hanau--
+SUBJECT_ENTITY was opened by the Kronberg Railway Company ( German : Cronberger Eisenbahn - Gesellschaft , using the old spelling of Kronberg ) along with the line to Kronberg on OBJECT_ENTITY .
+Gelnhausen railway ( Hungen -- Gießen ) was opened on OBJECT_ENTITY and SUBJECT_ENTITY went into operation .
+SUBJECT_ENTITY was opened on OBJECT_ENTITY along with the Starnberg--
+SUBJECT_ENTITY ( in German Bahnhof Berlin - Wannsee ) is a railway station opened in OBJECT_ENTITY which lies in the Wannsee district of Berlin , the capital city of Germany .
+The SUBJECT_ENTITY opened to the public on OBJECT_ENTITY .
+SUBJECT_ENTITY is a station opened in OBJECT_ENTITY on the Munich S - Bahn network below Hackerbrücke ( Hacker bridge ) that is close to Munich Central Station ( German : Hauptbahnhof ) .
+SUBJECT_ENTITY is a railway station in Høje - Taastrup municipality , Denmark , opened on 31 May OBJECT_ENTITY .
+SUBJECT_ENTITY ( full title : SUBJECT_ENTITY : The Coconut of Quendor ) is an interactive fiction computer game written by OBJECT_ENTITY and released by Infocom in 1987 .
+However , in November 2005 , it was confirmed in an interview with OBJECT_ENTITY that even though the Korean company JCE had announced their withdrawal from development , since SUBJECT_ENTITY is a Sega venture , they will fulfil their duty of completing it .
+The SUBJECT_ENTITY is a belted , bottlenecked rifle cartridge , developed by OBJECT_ENTITY in 1957 .
+SUBJECT_ENTITY ( Hebrew : כִּפַּת בַּרְזֶל , kippat barzel ) is a mobile all - weather air defense system developed by OBJECT_ENTITY and Israel Aircraft Industries .
+SUBJECT_ENTITY is a computer game released in 1993 by former Police Quest designer OBJECT_ENTITY .
+The SUBJECT_ENTITY , 0 - 4 - 2 suburban passenger locomotives , were designed by OBJECT_ENTITY of the London Brighton and South Coast Railway in 1876 .
+SUBJECT_ENTITY was developed by Rare and designed by OBJECT_ENTITY .
+SUBJECT_ENTITY is an action - adventure game originally developed and published by OBJECT_ENTITY in 1987 for the Commodore 64 .
+The SUBJECT_ENTITY ( SECR ) P Class is a class of 0 - 6 - 0 T steam locomotive designed by OBJECT_ENTITY .
+The first edition of SUBJECT_ENTITY was written by OBJECT_ENTITY .
+SUBJECT_ENTITY or Westmere - EP is the codename of an up to six - core hyperthreaded OBJECT_ENTITY processor able to run up to 12 threads in parallel .
+SUBJECT_ENTITY is the third game developed by Finnish game programmer OBJECT_ENTITY .
+The SUBJECT_ENTITY is a class of 4 - 4 - 0 tender locomotives designed by OBJECT_ENTITY for the South Eastern and Chatham Railway .
+The SUBJECT_ENTITY is a centerfire cartridge created by OBJECT_ENTITY Company in 1963 as a special round for use in their experimental single - shot bolt - action pistol , the XP-100 .
+The SUBJECT_ENTITY is a large and powerful smokeless powder center fire metallic firearm cartridge developed in 1988 by OBJECT_ENTITY , a well - known writer in the firearms field as well as managing editor of Gun World magazine .
+Existing FALs can be converted to the more modern SUBJECT_ENTITY specification by the Brazilian company OBJECT_ENTITY with a low - cost kit of parts .
+The SUBJECT_ENTITY was OBJECT_ENTITY 's first successful military pistol design .
+The SUBJECT_ENTITY ( Danish : Pantonstolen ) is an S - shaped plastic chair created by the Danish designer OBJECT_ENTITY in the 1960s .
+The SUBJECT_ENTITY was a class of twenty 0 - 6 - 0 steam tank locomotives designed by OBJECT_ENTITY for the Great Eastern Railway .
+The SUBJECT_ENTITY ( LMS ) Fowler 2 - 6 - 4 T was a class of steam locomotive passenger tanks designed by OBJECT_ENTITY .
+SUBJECT_ENTITY is a 1986 side - scrolling shoot 'em up by Thalamus Ltd. , developed by OBJECT_ENTITY , along with Delta , another shoot 'em up , and Quedex .
+SUBJECT_ENTITY is a family of two - stage - to - orbit launch vehicles , named for its use of nine engines , designed and manufactured by SpaceX.
+The SUBJECT_ENTITY or 12-pounder was a French cannon and part of the system developed by OBJECT_ENTITY .
+SUBJECT_ENTITY ( also distributed under the title Stunt Track Racer ) is a racing video game developed by OBJECT_ENTITY and was published by MicroStyle in 1989 .
+SUBJECT_ENTITY , stylized as WORDTЯIS , is a Tetris offshoot designed by OBJECT_ENTITY and published by Spectrum Holobyte in 1991 for the IBM PC platform .
+The SUBJECT_ENTITY is a modern main battle tank ( MBT ) developed and manufactured by OBJECT_ENTITY ( HIT ) of Pakistan for the Pakistan Army .
+The SUBJECT_ENTITY is a beam engine designed by OBJECT_ENTITY , built by Boulton and Watt in 1788 .
+SUBJECT_ENTITY is a shooting game written by OBJECT_ENTITY originally for Pocket PC but released commercially for Windows .
+The SUBJECT_ENTITY was an aircraft - launched anti - surface ship torpedo designed by the Division of War Research of OBJECT_ENTITY in 1943 as a replacement for the Mark 13 torpedo .
+The SUBJECT_ENTITY was a type of cannon designed by French officer OBJECT_ENTITY ( 1667 - -1759 ) , Director - General of the Battalions and Schools of the Artillery .
+The SUBJECT_ENTITY was a class of 4 - 4 - 2 steam tank locomotives designed by OBJECT_ENTITY for suburban passenger service on the London , Brighton and South Coast Railway .
+SUBJECT_ENTITY is an arcade video game designed by OBJECT_ENTITY and published by Atari Games in 1984 .
+The SUBJECT_ENTITY Infantry Carrier Vehicle ( ICV ) is an armoured fighting vehicle developed by OBJECT_ENTITY and Timoney Technology Ltd , and produced under license by Turkish automaker Otokar and ST Kinetics ( a subset of OBJECT_ENTITY ) as the Yavuz .
+SUBJECT_ENTITY was created by OBJECT_ENTITY ( 1949 - -2004 ) .
+SUBJECT_ENTITY is a piece of interactive fiction written by OBJECT_ENTITY .
+In 2002 , while OBJECT_ENTITY and Lockheed Martin were competing to develop the SUBJECT_ENTITY , Darleen A. Druyun -- at that time Principal Deputy Assistant Secretary of the Air Force for Acquisition and Management -- deleted the requirement for moving target engagement , which favored OBJECT_ENTITY .
+The SUBJECT_ENTITY or often just H was a small semi - automatic pistol made in Nazi Germany from 1938 until just after the end of World War II by J. P. OBJECT_ENTITY , then based in Suhl , Germany .
+The SUBJECT_ENTITY , also known by its original designation RG-32 M Light Tactical Vehicle ( LTV ) , is a 4x4 multi - purpose mine - protected armoured personnel carrier ( APC ) manufactured by OBJECT_ENTITY of South Africa .
+The SUBJECT_ENTITY was developed by the OBJECT_ENTITY design bureau of the Bolshevik Factory , which began work on a heavy tank in 1930 .
+OBJECT_ENTITY designed the SUBJECT_ENTITY prior to the launch of Google Maps in 2005 .
+The SUBJECT_ENTITY is a bolt - action rifle manufactured by OBJECT_ENTITY from 1968 to 1971 .
+The SUBJECT_ENTITY was a class of goods 0 - 6 - 0 steam locomotives designed for the London and South Western Railway by OBJECT_ENTITY as part of his modernisation programme .
+The SUBJECT_ENTITY ( also 7.62 RK 62 and M62 ; Rynnäkkökivääri 62 or `` assault rifle 62 '' ) is an assault rifle manufactured by OBJECT_ENTITY and Sako .
+The SUBJECT_ENTITY were 4 - 4 - 0 steam locomotives introduced in 1892 , to the design of OBJECT_ENTITY .
+The SUBJECT_ENTITY 4 - 4 - 0 was the last steam locomotive design by OBJECT_ENTITY for the London and South Western Railway in 1912 .
+SUBJECT_ENTITY / Take 5 ! is a counting card game designed by OBJECT_ENTITY in 1994 and published by Amigo Spiele .
+The SUBJECT_ENTITY is a light machine gun system developed by OBJECT_ENTITY and manufactured by Knight 's Armament Company ( KAC ) .
+The SUBJECT_ENTITY ( formerly Ted Smith Aerostar ) is an American twin - engined propeller - driven executive or light transport aircraft , designed by OBJECT_ENTITY .
+The SUBJECT_ENTITY rolling - block U.S. Army rifle was manufactured in 1871 - -72 by Springfield Armory , using the design originated by OBJECT_ENTITY Company , under a royalty agreement .
+SUBJECT_ENTITY 's final project leader was LucasArts ' OBJECT_ENTITY .
+The SUBJECT_ENTITY , were powerful 2 - 2 - 2 locomotives , designed by OBJECT_ENTITY of the London Brighton and South Coast Railway in 1874 .
+Mega Man series artist OBJECT_ENTITY , credited as `` Inafking '' , stated that the development team had very few problems while working on SUBJECT_ENTITY .
+A warhead version of the B41 thermonuclear bomb , development of the SUBJECT_ENTITY began in November 1956 at OBJECT_ENTITY .
+The SUBJECT_ENTITY was an all - metal V - tailed homebuilt aircraft , that was designed by OBJECT_ENTITY and first flown on 12 July 1952 .
+SUBJECT_ENTITY ( PCS ) is a video game by OBJECT_ENTITY published by Electronic Arts .
+SUBJECT_ENTITY is the third video game in the Geneforge series of role - playing video games created by OBJECT_ENTITY .
+The SUBJECT_ENTITY or .45 OBJECT_ENTITY is a revolver cartridge developed by OBJECT_ENTITY for their S&W Model 3 American top - break revolver .
+The SUBJECT_ENTITY is the first piece of furniture designed by industrial designer OBJECT_ENTITY .
+The SUBJECT_ENTITY is a British multi - purpose military helicopter designed and built by OBJECT_ENTITY at its factory in Yeovil .
+The SUBJECT_ENTITY was a class of 0 - 6 - 0 steam tender engines designed by OBJECT_ENTITY for the London and North Western Railway .
+The SUBJECT_ENTITY was developed in 1968 by OBJECT_ENTITY .
+The SUBJECT_ENTITY submachine gun was developed in the 1990s at the OBJECT_ENTITY in Tula as a non - folding version of earlier PP-90 clandestine submachine gun , for use by security and law enforcement units .
+SUBJECT_ENTITY is a computer game from Legend Entertainment , designed by interactive fiction designer OBJECT_ENTITY .
+The SUBJECT_ENTITY was a class of mixed traffic steam locomotive designed by OBJECT_ENTITY for British Railways .
+SUBJECT_ENTITY Long and Short is a Bolt - action rifle launched in the 1930s by OBJECT_ENTITY .
+SUBJECT_ENTITY is an adventure game designed by OBJECT_ENTITY and made by The Digital Village .
+In cryptography , SUBJECT_ENTITY II and SUBJECT_ENTITY III are block ciphers designed by OBJECT_ENTITY ( cryptographer ) for Cryptech Inc and are optimised for use in software .
+SUBJECT_ENTITY was originally designed and programmed by OBJECT_ENTITY ( known as Felorin in - game ) and ' Manda ( known as Talzhemir in - game ) .
+The SUBJECT_ENTITY is a rifle cartridge created by OBJECT_ENTITY in 1915 and is also known as the .250 Savage .
+The SUBJECT_ENTITY was a Formula One car designed by OBJECT_ENTITY for use in the 1991 Formula One season by the Larrousse team .
+The SUBJECT_ENTITY was a 19th - century semi - automatic pistol developed by German designer Louis Schmeisser and sold by OBJECT_ENTITY 's company .
+SUBJECT_ENTITY , also known as OBJECT_ENTITY 's SUBJECT_ENTITY , is a video game with a fantasy take on miniature golf , developed by Sandcastle Productions and published by Electronic Arts .
+The SUBJECT_ENTITY was a large class of double framed 0 - 6 - 0 freight steam locomotives designed by OBJECT_ENTITY for the Midland Railway .
+SUBJECT_ENTITY was a basic language , 16 K program written by OBJECT_ENTITY , and was the first computer game produced by a science - fiction / fantasy wargaming company .
+SUBJECT_ENTITY and the Skein hash function were designed by OBJECT_ENTITY , Niels Ferguson , Stefan Lucks , Doug Whiting , Mihir Bellare , Tadayoshi Kohno , Jon Callas , and Jesse Walker .
+SUBJECT_ENTITY is a board game - style computer game published by Infocom in 1985 and designed by a team including interactive fiction authors OBJECT_ENTITY and Michael Berlyn .
+One scheme to increase the key size of DES without substantially altering the algorithm was SUBJECT_ENTITY , proposed by OBJECT_ENTITY in May 1984 .
+The SUBJECT_ENTITY was designed by OBJECT_ENTITY in the 1960s with the name International Folkboat and production was started in 1967 by Swedish yard Marieholms bruk , however the Swedish Sailing Federation did n't like the name International Folkboat and it was changed to SUBJECT_ENTITY .
+SUBJECT_ENTITY is an interactive fiction computer game written by OBJECT_ENTITY and published by Infocom in 1986 .
+SUBJECT_ENTITY is developed and operated by the Pande Laboratory at Stanford University , under the direction of Prof . OBJECT_ENTITY , and is shared by various scientific institutions and research laboratories across the world .
+The SUBJECT_ENTITY , 0 - 4 - 2 express passenger locomotives , were designed by OBJECT_ENTITY of the London Brighton and South Coast Railway in 1877 .
+The SUBJECT_ENTITY bullpup assault rifle ( also known as SUBJECT_ENTITY M ) was developed during the 1990s by OBJECT_ENTITY ) in Tula , as an offspring of the SUBJECT_ENTITY family of compact assault rifles described in the 9A-91 article .
+SUBJECT_ENTITY is a group of 32-bit RISC ARM processor cores licensed by OBJECT_ENTITY .
+SUBJECT_ENTITY was developed by Sam Dicker , Jack Haeger , OBJECT_ENTITY , RJ Mical , Python Anghelo and Richard Witt .
+The SUBJECT_ENTITY was a class of 4 - 4 - 0 tender locomotives designed by OBJECT_ENTITY for express passenger trains on the South Eastern and Chatham Railway .
+SUBJECT_ENTITY was designed by OBJECT_ENTITY , assisted by Jennifer Seberry and Josef Pieprzyk .
+SUBJECT_ENTITY is an interactive fiction computer game written by OBJECT_ENTITY and Jerry Wolper and was published by Infocom in 1984 .
+SUBJECT_ENTITY was created by Vladimir Pokhilko , Ph.D. and OBJECT_ENTITY , who had backgrounds in mathematics , computer science , and psychology .
+In cryptography , SUBJECT_ENTITY are two block ciphers designed by OBJECT_ENTITY in 1989 while working at Xerox 's Palo Alto Research Center .
+The SUBJECT_ENTITY , classified B7 by the LNER , was a class of 4 - 6 - 0 mixed traffic locomotives designed by OBJECT_ENTITY for fast goods , relief passenger and excursion services on the Great Central Railway .
+OBJECT_ENTITY maintains a reference grammar known as STD.pm6 , written in SUBJECT_ENTITY and bootstrapped with Perl 5 .
+On 12 November 2015 , a `` spiritual successor '' to SUBJECT_ENTITY - Sociable Soccer - was announced by OBJECT_ENTITY , and ran an unsuccessful funding campaign on Kickstarter .
+The SUBJECT_ENTITY was based on the water - cooled Maxim machine gun , which had been developed by OBJECT_ENTITY in 1885 .
+The SUBJECT_ENTITY is a microprocessor developed by OBJECT_ENTITY which is now a part of Oracle Corporation and fabricated by Texas Instruments that implements the SPARC V9 instruction set architecture ( ISA ) .
+The SUBJECT_ENTITY was a class of 0 - 8 - 4 T steam tank locomotives designed by OBJECT_ENTITY .
+The SUBJECT_ENTITY Tavolga ( ' meadow grass ' ) was developed by the State Research and Production Enterprise , OBJECT_ENTITY , as a modern anti - tank grenade launcher designed to defeat modern and future tanks with advanced reactive and composite armor as well as fortified infantry .
+The SUBJECT_ENTITY is a chair designed by OBJECT_ENTITY , using a new technique in which plywood could be bent in three dimensions .
+The SUBJECT_ENTITY was an experimental 170 hp ( 127 kW ) seven - cylinder radial engine designed by the noted British engineer OBJECT_ENTITY , and primarily built by ABC Motors Limited .
+SUBJECT_ENTITY is an action puzzle video game designed by OBJECT_ENTITY .
+SUBJECT_ENTITY is a platform game for the Game Boy Advance that is modeled after OBJECT_ENTITY 's console game Super Monkey Ball .
+SUBJECT_ENTITY ( also known as Contra Control ) is a 1988 action film written and directed by Thomas Dewier which is now distributed by OBJECT_ENTITY .
+SUBJECT_ENTITY is a 1973 feature film , which was the fourth in the popular `` nurses '' cycle for OBJECT_ENTITY , starting with The Student Nurses ( 1970 ) .
+SUBJECT_ENTITY is a British comedy horror film distributed by OBJECT_ENTITY .
+SUBJECT_ENTITY is a 1949 61-minute short film released in the United States by OBJECT_ENTITY and starring Tom Brown , Audrey Long and DeForest Kelley .
+SUBJECT_ENTITY is a 1962 Technicolor film made by DFZ Productions and distributed by OBJECT_ENTITY Pictures .
+Released theatrically by OBJECT_ENTITY in June 1976 , SUBJECT_ENTITY received acclaim from critics and was a commercial success , grossing over $ 60 million at the box office and becoming one of the highest grossing films of 1976 .
+SUBJECT_ENTITY ( simply known as Wizards and Giants in English ) is a 2003 Mexican animated fantasy - comedy film produced by Ánima Estudios and OBJECT_ENTITY and released on November 19 , 2003 .
+SUBJECT_ENTITY is a 1936 British animated film , created by New Zealand - born animation pioneer Len Lye and released by the OBJECT_ENTITY .
+SUBJECT_ENTITY is a DVD album by teen heartthrob Sam Concepcion released under OBJECT_ENTITY .
+SUBJECT_ENTITY aired on OBJECT_ENTITY on May 13 , 1986 , and stars Vanessa Redgrave as Richards .
+The movie was produced by Action 3D Productions in association with Network Live and OBJECT_ENTITY Digital Cinema Corp. Containing songs exclusive to the film , SUBJECT_ENTITY features footage of the festival , viewed by over 40,000 fans , and of the band backstage and in rehearsals .
+SUBJECT_ENTITY is a 2012 Filipino horror film under OBJECT_ENTITY .
+SUBJECT_ENTITY ( English : Love Impossible ! ) is a 2010 Bollywood romantic comedy film directed by actor - turned - director Jugal Hansraj under the banner of OBJECT_ENTITY .
+SUBJECT_ENTITY is a comedy - drama made - for - TV movie that aired the United States cable television channel OBJECT_ENTITY on November 8 , 2006 at 10 PM EDT .
+SUBJECT_ENTITY is a 2005 American comedy film produced by OBJECT_ENTITY .
+SUBJECT_ENTITY is a first - person shooter video game developed by Crytek and published by OBJECT_ENTITY for Microsoft Windows and released in November 2007 .
+SUBJECT_ENTITY ( 1926 ) is a silent film comedy produced by Famous Players - Lasky and distributed by OBJECT_ENTITY .
+SUBJECT_ENTITY is a Hindi film , the directorial debut of Irfan Kamal , distributed by Sony Pictures Entertainment(SPE ) , India .
+SUBJECT_ENTITY , released in 1940 by OBJECT_ENTITY , was the fifth of eight films in RKO 's film series about Simon Templar , a.k.a . `` The Saint '' , the Robin Hood - inspired crimefighter created by Leslie Charteris .
+SUBJECT_ENTITY , subsequently retitled A Fair Exchange , is a 1914 American comedy silent film written and directed by Charles Chaplin , starring Chaplin and Mabel Normand , and produced by Mack Sennett for OBJECT_ENTITY .
+In March 2012 , OBJECT_ENTITY , who preside over Eidos Interactive , filed a trademark in Europe for SUBJECT_ENTITY :
+SUBJECT_ENTITY , or RBO , is a beat 'em up game for Microsoft Windows created by dōjin soft developer OBJECT_ENTITY .
+SUBJECT_ENTITY is a 1943 OBJECT_ENTITY Technicolor feature film starring Roddy McDowall and canine actor , Pal , in a story about the profound bond between Yorkshire boy Joe Carraclough and his rough collie , Lassie .
+SUBJECT_ENTITY is a 1998 OBJECT_ENTITY film , directed by Richard Benjamin , based on a book of the same name ( SUBJECT_ENTITY : Reformers Challenge the Old Guard ) by Colonel James G. Burton , USAF ( retired ) .
+SUBJECT_ENTITY ( Portuguese title : Um Divorcio Feliz ) was a 1926 American silent epic drama film produced and distributed by the OBJECT_ENTITY Pictures .
+SUBJECT_ENTITY was a 1927 American silent drama film produced by Cecil B. DeMille and distributed by OBJECT_ENTITY .
+SUBJECT_ENTITY premiered in January 2011 at the Sundance Film Festival , and OBJECT_ENTITY acquired rights to distribute the film in North America , Latin America , Australia , and New Zealand .
+SUBJECT_ENTITY is a documentary film from the OBJECT_ENTITY , in which Joey Smallwood , former Premier of the Canadian province of Newfoundland and Labrador ;
+SUBJECT_ENTITY is a 1 player arcade game by OBJECT_ENTITY Inc. , originally released in 1974 .
+SUBJECT_ENTITY ( 2003 ) is a 29-minute film produced by OBJECT_ENTITY .
+SUBJECT_ENTITY is an American television sitcom , created by David Crane and Marta Kauffman , which originally aired on OBJECT_ENTITY from September 22 , 1994 , to May 6 , 2004 , lasting ten seasons .
+SUBJECT_ENTITY was released on DVD by OBJECT_ENTITY in September 2011 .
+SUBJECT_ENTITY is a 1933 American Pre - Code film directed by Henry Hathaway , based upon a novel by Zane Grey , released by OBJECT_ENTITY , and starring Randolph Scott and Verna Hillie .
+SUBJECT_ENTITY was the last OBJECT_ENTITY contract film for Kay Francis .
+SUBJECT_ENTITY is a first - person shooter video game developed by Crytek , published by OBJECT_ENTITY and released in North America , Australia and Europe in March 2011 for Microsoft Windows , PlayStation 3 , and Xbox 360 .
+SUBJECT_ENTITY is a 1945 American comedy film directed by Lewis Seiler and released by OBJECT_ENTITY .
+After he finished the 3D film , Bwana Devil ( 1952 ) , SUBJECT_ENTITY was finally released by OBJECT_ENTITY .
+SUBJECT_ENTITY is a 1997 American animated musical comedy film , distributed by OBJECT_ENTITY Family Entertainment and notable as the only fully animated feature produced by Turner Feature Animation .
+SUBJECT_ENTITY is an award - winning , critically acclaimed feature thriller film written and directed by Rel Dowdell , which was released in 2000 by RuffNation Films via OBJECT_ENTITY Entertainment .
+SUBJECT_ENTITY is a 67-minute film produced by OBJECT_ENTITY ( LDS Church ) .
+SUBJECT_ENTITY is a 1976 drama film directed by Frank Vitale and distributed by OBJECT_ENTITY .
+Film distributor OBJECT_ENTITY retitled the film SUBJECT_ENTITY ( sometimes spelled Bloodsucking Freaks ) upon their acquisition of it .
+SUBJECT_ENTITY is an arcade machine which can consist of as many as 10 different games previously available only on the OBJECT_ENTITY Entertainment System ( NES ) home console .
+SUBJECT_ENTITY is a 1972 horror film co - produced by OBJECT_ENTITY that was shot in the Philippines .
+SUBJECT_ENTITY ( 1943 ) is a 12-chapter film serial created by OBJECT_ENTITY , who produced many of the best known of the serials .
+SUBJECT_ENTITY is a 1956 dramatic war romance made by William Perlberg - George Seaton Productions for OBJECT_ENTITY .
+SUBJECT_ENTITY is a real - time strategy game developed and published by BlueGiant Interactive for Microsoft Windows , released through OBJECT_ENTITY on January 20 , 2011 , takes place in a near - future , post - apocalyptic , Mad Max - esque setting .
+SUBJECT_ENTITY is a 1938 OBJECT_ENTITY film directed by Lewis Seiler and starring the Dead End Kids and Humphrey Bogart .
+SUBJECT_ENTITY is a 1954 American OBJECT_ENTITY western drama film starring Joan Crawford , Sterling Hayden , Mercedes McCambridge , and Scott Brady .
+OBJECT_ENTITY , Rockstar 's parent company , stated that by February 2014 , 70 percent of players with Internet access had played SUBJECT_ENTITY , and that the game 's microtransactions system was the largest contributor to the company 's digital revenue since the launch of SUBJECT_ENTITY .
+SUBJECT_ENTITY is a seven - hour American documentary , produced by OBJECT_ENTITY , that was originally broadcast on American television over three nights on the Public Broadcasting Service ( PBS ) in late March 2004 .
+SUBJECT_ENTITY ( 1927 ) is a silent comedy film made by OBJECT_ENTITY Pictures , directed by Marshall Neilan , and starring Colleen Moore .
+SUBJECT_ENTITY is a 1946 American film released by OBJECT_ENTITY , directed by Willis Goldbeck and starring Mickey Rooney and Lewis Stone .
+SUBJECT_ENTITY is a 2006 documentary directed by Andrea Stewart , distributed by OBJECT_ENTITY .
+SUBJECT_ENTITY ( previously known as OBJECT_ENTITY World ) was a virtual online world for children based on Ketnetkick , and created by the BBC in association with Ketnet , owned and operated by the Vlaamse Radio- en Televisieomroep ( VRT ) , Flanders ' public broadcaster .
+SUBJECT_ENTITY is a 1932 American Pre - Code comedy produced by First National Pictures and distributed by Warner Bros ..
+SUBJECT_ENTITY is an 8 player arcade game by OBJECT_ENTITY Inc. , originally released in 1975 .
+SUBJECT_ENTITY is a 1940 action - adventure film produced by OBJECT_ENTITY .
+SUBJECT_ENTITY is an action role - playing video game developed by Bethesda Game Studios and published by OBJECT_ENTITY .
+SUBJECT_ENTITY is a 1931 American Pre - Code comedy film produced by First National Pictures and released through their parent company Warner Bros ..
+Filmed on location in the Los Angeles area and at the OBJECT_ENTITY during March and April 1969 , SUBJECT_ENTITY was released in the United States on November 10 , 1969 .
+SUBJECT_ENTITY is a 1917 American silent drama film produced and distributed by the OBJECT_ENTITY .
+SUBJECT_ENTITY is an action RPG created by Electronic Arts in 1993 for the OBJECT_ENTITY Mega Drive / OBJECT_ENTITY Genesis .
+SUBJECT_ENTITY is the title of a DVD released in 2003 by the American rock band Daniel Amos on OBJECT_ENTITY .
+SUBJECT_ENTITY is a 1933 American Pre - Code Western released by OBJECT_ENTITY , written and directed by Robert N. Bradbury and starring Bob Steele .
+SUBJECT_ENTITY is a 1939 American film made for OBJECT_ENTITY by producer and director Ernst Lubitsch which stars Greta Garbo and Melvyn Douglas .
+SUBJECT_ENTITY ( code - named Durian ) is a short computer animated film by the Blender Institute , part of the OBJECT_ENTITY .
+Mad Monster Party ( on - screen title SUBJECT_ENTITY ) is a 1967 American stop motion animated comedy film produced by Rankin / Bass Productions for OBJECT_ENTITY .
+SUBJECT_ENTITY is a video game published by OBJECT_ENTITY for the Acorn Electron and BBC Micro home computers in 1987 .
+SUBJECT_ENTITY is a video game developed and published by OBJECT_ENTITY as a spinoff to Maxis ' The Sims franchise for the Nintendo DS and Wii in 2009 .
+SUBJECT_ENTITY is a 1916 silent romantic crime drama produced by Oliver Morosco , distributed through OBJECT_ENTITY and directed by Frank Lloyd .
+SUBJECT_ENTITY was produced by the OBJECT_ENTITY ( NFB ) for the Canadian Department of Veteran Affairs .
+OBJECT_ENTITY CEO at the time Barry Diller wanted Schneider to produce films for him and agreed to finance SUBJECT_ENTITY .
+SUBJECT_ENTITY is a historical multiplayer real - time strategy video game developed by 4HEAD Studios and published by OBJECT_ENTITY .
+SUBJECT_ENTITY , abbreviated DS Fusion or simply Fusion , is a music video game released by OBJECT_ENTITY to the European PlayStation and PlayStation 2 gaming audience on 5 November 2004 .
+SUBJECT_ENTITY was first presented December 17 , 1971 , on OBJECT_ENTITY .
+SUBJECT_ENTITY was one of many sexploitation films released by OBJECT_ENTITY ( AIP ) during the 1950s and 1960s .
+SUBJECT_ENTITY ( also known as Amateur Hour ) is a 1985 comedy film directed by Stanford Singer and distributed by OBJECT_ENTITY .
+SUBJECT_ENTITY was eventually acquired by OBJECT_ENTITY distribution and the film was released on DVD .
+SUBJECT_ENTITY was made in complete stealth and released by OBJECT_ENTITY only after protracted contractual wrangling , only for a brief period of time , and practically without any publicity .
+Starring primarily non - professionals , SUBJECT_ENTITY was produced by several independent companies in China and abroad , including OBJECT_ENTITY based in Beijing .
+SUBJECT_ENTITY is a 1942 American OBJECT_ENTITY film starring Joan Crawford , John Wayne , and Phillip Dorn in a story about a woman in occupied France who , learning her well - heeled lover has German connections , aids a downed American flyer .
+SUBJECT_ENTITY is a 2000 drama film distributed by OBJECT_ENTITY The movie marks the feature writing and directorial debut of Matthew Miele , along with his producing / writing partner , Chris Fetchko .
+SUBJECT_ENTITY ( also known as Sea Woman ) is a 1925 American silent drama film produced and directed by Edwin Carewe and distributed by OBJECT_ENTITY Pictures .
+SUBJECT_ENTITY was released on DVD with a new print by OBJECT_ENTITY in November 2005 .
+SUBJECT_ENTITY is the fourth of five short subjects starring Ted Healy and His Stooges released by OBJECT_ENTITY .
+SUBJECT_ENTITY , also known as Tillie the Scrub Lady , is a 1917 silent comedy short film produced by and starring Marie Dressler and distributed by OBJECT_ENTITY .
+SUBJECT_ENTITY is a 1915 short film produced by American Film Manufacturing Company , released by OBJECT_ENTITY and directed by B. Reeves Eason .
+SUBJECT_ENTITY was a 1992 OBJECT_ENTITY Emmy Award winning ten part documentary series narrated by Peter Coyote about the rise of the Pacific Rim economies .
+SUBJECT_ENTITY is a 1918 American silent crime drama film produced and distributed by OBJECT_ENTITY .
+SUBJECT_ENTITY ( 1929 ) is an American Pre - Code film , produced by Samuel Goldwyn , released through OBJECT_ENTITY , and directed by Alfred Santell .
+SUBJECT_ENTITY is the title of an early musical - comedy produced by OBJECT_ENTITY in 1930 .
+SUBJECT_ENTITY is OBJECT_ENTITY 's entry for the 2002 Metro Manila Film Festival .
+The SUBJECT_ENTITY ( OBJECT_ENTITY ) saw Royalist Vendeans under Pierre Duhoux and Dominique Piron de La Varenne fighting a Republican French column under Charles François Duhoux near Saint - Lambert - du - Lattay .
+The SUBJECT_ENTITY ( often styled the 2010 SangSom 6-red World Championship for sponsorship and marketing purposes ) was a six - red snooker tournament that took place between 19 and OBJECT_ENTITY at the Montien Riverside Hotel in Bangkok , Thailand .
+The SUBJECT_ENTITY was a meeting of the heads of state and heads of government of NATO held in Lisbon , Portugal , on 19 and OBJECT_ENTITY .
+SUBJECT_ENTITY was the codename of a U.S. Seventh Air Force and U.S. Navy Task Force 77 air interdiction campaign conducted against the Democratic Republic of Vietnam ( North Vietnam ) from 9 May to OBJECT_ENTITY , during the Vietnam War .
+The SUBJECT_ENTITY , the fourteenth Summer Paralympic Games , and also more generally known as the London 2012 Paralympic Games , were a major international multi - sport event for athletes with disabilities governed by the International Paralympic Committee ( IPC ) , that took place in London , England from 29 August to OBJECT_ENTITY .
+The SUBJECT_ENTITY ( Steenkerque also spelled Steenkerke or Steenkirk ) was fought on OBJECT_ENTITY , as a part of the Nine Years ' War .
+SUBJECT_ENTITY in Hamstead ( then Staffordshire , now West Midlands ) , England , produced coal between 1878 and OBJECT_ENTITY , by mining the South Staffordshire ' Thick ' coal seam .
+The SUBJECT_ENTITY took place on OBJECT_ENTITY in Rheinberg , Germany during the Seven Years ' War .
+The SUBJECT_ENTITY or Battle of Guinegate took place on OBJECT_ENTITY .
+SUBJECT_ENTITY was an operation carried out by British Commandos on 14 - -15 July 1940 within the context of the Second World War .
+The SUBJECT_ENTITY fought on OBJECT_ENTITY .
+The SUBJECT_ENTITY ( or Oudenaarde ) was a key battle in the War of the Spanish Succession fought on OBJECT_ENTITY between the forces of Great Britain , the Dutch Republic and the Holy Roman Empire on the one side and those of France on the other .
+The SUBJECT_ENTITY , also spelled Domstadt , Czech Domašov , was a battle between Habsburg Monarchy and Kingdom of Prussia at a Moravian village Domašov nad Bystřicí during the Seven Years ' War on OBJECT_ENTITY , preceded by a minor clash at Guntramovice ( Gundersdorf ) on 28 June .
+The SUBJECT_ENTITY was a major conflagration that swept through the central parts of the English city of London , from Sunday , 2 September to Wednesday , OBJECT_ENTITY .
+The SUBJECT_ENTITY involved the killing of between 48 and 78 civilians by Serb paramilitary groups in Bijeljina on 1 - -2 April 1992 during the Bosnian War .
+SUBJECT_ENTITY was superseded by Expedition 29 on OBJECT_ENTITY .
+The SUBJECT_ENTITY was a limited frigate action that took place on OBJECT_ENTITY off Les Sables - d'Olonne .
+The SUBJECT_ENTITY ( 3 - -6 September 1916 ) was an attack by the Fourth Army on the village of Guillemont .
+The SUBJECT_ENTITY ( 28 - -29 May 1982 ) was an engagement between British and Argentine forces during the Falklands War .
+The SUBJECT_ENTITY was fought on OBJECT_ENTITY between Italy and Ethiopia in Dogali near Massawa , in present - day Eritrea .
+The SUBJECT_ENTITY was a battle of the Expedition of the Thousand that took place on OBJECT_ENTITY , at Castelfidardo , a small town in the Marche region of Italy .
+The SUBJECT_ENTITY ( German : Schlacht bei Münchengrätz ) or Battle of Mnichovo Hradiště ( Czech : Bitva u Mnichova Hradiště ) was fought near Mnichovo Hradiště , modern day Czech Republic , on OBJECT_ENTITY during the Austro - Prussian War .
+The SUBJECT_ENTITY was a minor battle in the Neapolitan War that took place on OBJECT_ENTITY in the town of Cesenatico on Adriatic coast .
+The SUBJECT_ENTITY ( also known as the second Grote Mandrenke ) was a storm tide that struck the North Sea coast of North Frisia and Dithmarschen on the night between 11 and OBJECT_ENTITY .
+The SUBJECT_ENTITY saw the French Army of Italy under General Napoleon Bonaparte attack an army of Habsburg Austria led by Feldmarschall Dagobert Sigmund von Wurmser on OBJECT_ENTITY .
+SUBJECT_ENTITY was a Zoo in Como , Lombardy , northern Italy , created in 1937 and closed in OBJECT_ENTITY .
+The SUBJECT_ENTITY was fought from 10 to OBJECT_ENTITY between the Italian and Austro - Hungarian armies for possession of Mount Ortigara , in the Asiago Plateau .
+The SUBJECT_ENTITY , the 12th FIFA World Cup , was held in Spain from 13 June to OBJECT_ENTITY .
+SUBJECT_ENTITY , 400 U.S. 25 ( OBJECT_ENTITY ) , was a case in which the Supreme Court of the United States affirmed that there are no constitutional barriers in place to prevent a judge from accepting a guilty plea from a defendant who wants to plead guilty while still protesting his innocence .
+The SUBJECT_ENTITY was a battle in the Bohemian Revolt period of the Thirty Years ' War on OBJECT_ENTITY near Wimpfen .
+The SUBJECT_ENTITY , also known as the Battle of Lolland , took place 31 May--1 June 1677 , as part of the Scanian War .
+The SUBJECT_ENTITY ( near modern town of Ayn al Ghazālah ) was fought during the Western Desert Campaign of the Second World War , around the port of Tobruk in Libya from 26 May to OBJECT_ENTITY .
+The SUBJECT_ENTITY ( or Modena or Castelfranco ) was a victory for King Joachim Murat 's Neapolitan forces over a smaller Austrian force under Frederick Bianchi on OBJECT_ENTITY early in the Neapolitan War .
+SUBJECT_ENTITY , officially the SUBJECT_ENTITY Shanghai China , was held on both banks of the Huangpu River in Shanghai , China , from 1 May to OBJECT_ENTITY .
+The SUBJECT_ENTITY ( 14 - -21 July 1950 ) was an early battle of the Korean War , between American and North Korean forces .
+The SUBJECT_ENTITY took place on OBJECT_ENTITY in the War of the Spanish Succession , between the troops of Phillip V and the Archduke Charles .
+The SUBJECT_ENTITY ( also known as ISSCS ) , founded by the State of Illinois as Illinois Soldiers ' Orphans ' Home ( ISOH ) for orphans of the Civil War , was a children 's home located in Normal from 1865 until OBJECT_ENTITY .
+The SUBJECT_ENTITY was a racially motivated conflict on 14 and OBJECT_ENTITY , in which whites burned Charles Wright at the stake and attacked the black community of Perry , Florida after the murder of Ruby Hendry , a white schoolteacher .
+The SUBJECT_ENTITY was held during 17 - -25 April 1923 in Moscow .
+The SUBJECT_ENTITY , the Second Anglo - Chinese War , the Second China War , the Arrow War , or the Franco - British expedition to China , was a war pitting the British Empire and the Second French Empire against the Qing dynasty ( present day China ) , lasting from 1857 to OBJECT_ENTITY .
+In the SUBJECT_ENTITY , fought on OBJECT_ENTITY , Frederick the Great 's Prussian army used maneuver and terrain to decisively defeat a much larger Austrian army under Charles of Lorraine , thus ensuring Prussian ( later German ) control of Silesia during the Seven Years ' War and for nearly two centuries afterward .
+The SUBJECT_ENTITY were held in the indoor arena in Calgary ( Canada ) on 18 and OBJECT_ENTITY .
+The SUBJECT_ENTITY ( also known as the Battle of Kanlı Sırt ) was fought between Australian and Ottoman Empire forces during the Gallipoli Campaign of the First World War , between 6 and OBJECT_ENTITY .
+The SUBJECT_ENTITY was fought on OBJECT_ENTITY , during the French Wars of Religion .
+The SUBJECT_ENTITY or the Action of Mollet took place at Mollet del Vallès , Barcelona , on OBJECT_ENTITY , between a force of 2,160 French soldiers commanded by General Guillaume Philibert Duhesme and a Spanish force of 3,000 men under Luis González Torres de Navarra , Marquess of Campoverde .
+The SUBJECT_ENTITY ( Japanese : 黄海海戦 Kōkai kaisen ; Russian : Бой в Жёлтом море ) was a major naval engagement of the Russo - Japanese War , fought on OBJECT_ENTITY .
+The SUBJECT_ENTITY was the third staging of the World Cup , and was held in France from 4 to OBJECT_ENTITY .
+The SUBJECT_ENTITY was a unique coastline railway in Brighton , England that ran through the shallow coastal waters of the English Channel between 1896 and OBJECT_ENTITY .
+The SUBJECT_ENTITY ( often styled the 2009 SangSom 6-red World Grand Prix for sponsorship and marketing purposes ) was a six - red snooker tournament held between 7 and OBJECT_ENTITY at the Montien Riverside Hotel in Bangkok , Thailand .
+The SUBJECT_ENTITY , also known as the Battle of Héricourt was fought from 15 January to OBJECT_ENTITY between Prussian and French forces .
+In Germany , it premiered on November 6 , OBJECT_ENTITY on pay TV channel FOX under the title SUBJECT_ENTITY - Tod Ist Die Antwort ( SUBJECT_ENTITY - Death Is The Answer ) .
+The SUBJECT_ENTITY was held on 5 - -6 February 2000 in the Pettit National Ice Center in Milwaukee .
+The SUBJECT_ENTITY was fought from 27 to OBJECT_ENTITY during the First Transjordan attack on Amman of the Sinai and Palestine Campaign of the First World War .
+The SUBJECT_ENTITY took place on 5 and OBJECT_ENTITY at the ice rink Pohjoissatama in Helsinki , Finland .
+In the SUBJECT_ENTITY ( OBJECT_ENTITY ) an Anglo - Portuguese army under Sir Arthur Wellesley defeated an outnumbered French army under General Henri Delaborde , near the village of Roliça in Portugal .
+SUBJECT_ENTITY was a three day music festival which took place between 11 - -14 July 2013 in Balado , Kinross .
+The SUBJECT_ENTITY ( OBJECT_ENTITY ) saw Royalist and Republican French forces clash at Saint - Fulgent during the War in the Vendée .
+The SUBJECT_ENTITY ( Portuguese pronunciation : ( ˈɛɫvɐʃ ) ) , was fought on OBJECT_ENTITY , in Elvas , between Portugal and Spain .
+The SUBJECT_ENTITY , Louisiana , ( OBJECT_ENTITY ) formed part of the Red River Campaign during the American Civil War , when Union forces were aiming to occupy the state capital Shreveport .
+SUBJECT_ENTITY ( 25 April 1953 -- OBJECT_ENTITY ) , also known as Michiyo Cornell , was a feminist poet and activist whose work played an important part in the lesbian and Asian American communities .
+The SUBJECT_ENTITY occurred on OBJECT_ENTITY , when a 1,500-strong force from the Swiss Confederacy ambushed a group of Austrian soldiers of the Holy Roman Empire on the shores of Lake Ägeri near the Morgarten Pass in Switzerland .
+The kingdom of SUBJECT_ENTITY or SUBJECT_ENTITY guk ruled Jeju Island from ancient times until it was absorbed by the Korean Joseon Dynasty in OBJECT_ENTITY .
+The SUBJECT_ENTITY took place at the All England Lawn Tennis and Croquet Club in Wimbledon , London , England , from 20 June to OBJECT_ENTITY .
+The SUBJECT_ENTITY was a circle of influential modern artists and designers who began to coalesce in Glasgow , Scotland in the 1870s , and flourished from the 1890s to sometime around OBJECT_ENTITY .
+The SUBJECT_ENTITY was fought in Jüterbog on OBJECT_ENTITY between Sweden and the Holy Roman Empire , resulting in a Swedish victory .
+The SUBJECT_ENTITY was a naval battle in the American War of Independence which took place near the mouth of Chesapeake Bay on OBJECT_ENTITY between a British squadron led by Vice Admiral Mariot Arbuthnot and a French fleet under Admiral Charles René Dominique Sochet , Chevalier Destouches .
+SUBJECT_ENTITY is the art from the Kingdom of Benin or Edo Empire ( 1440 - -1897 ) , a pre - colonial African state located in what is now known as the South - South region of Nigeria .
+SUBJECT_ENTITY was a British offensive of the Second World War which took place from 7 - -14 June 1944 , during the early stages of the Battle of Normandy .
+The All Saints Day Flood of OBJECT_ENTITY probably wreaked so much damage and so many casualties in the village of SUBJECT_ENTITY that survivors left it and founded a new settlement about 2 kilometres further east .
+At the SUBJECT_ENTITY ( OBJECT_ENTITY ) a British , Portuguese and Spanish army under General the Marquess of Wellington broke the French army under Joseph Bonaparte and Marshal Jean - Baptiste Jourdan near Vitoria in Spain , eventually leading to victory in the Peninsular War .
+The SUBJECT_ENTITY ( Romanian : Bătălia de la Baia ) was fought on OBJECT_ENTITY between the Moldavian Prince , Stephen the Great and Hungarian King , Matthias Corvinus .
+The SUBJECT_ENTITY was fought on OBJECT_ENTITY in Brustem , near Sint - Truiden ( present - day Belgium ) between the Duchy of Burgundy and the Prince - Bishopric of Liège , as part of the Second Liège War .
+The SUBJECT_ENTITY , also known as the Black Hills War , was a series of battles and negotiations which occurred between 1876 and OBJECT_ENTITY involving the Lakota Sioux and Northern Cheyenne against the United States .
+The SUBJECT_ENTITY ( OBJECT_ENTITY ) was the opening engagement of the Six Days ' Campaign .
+The SUBJECT_ENTITY was a professional non - ranking snooker tournament that was played from 5 January to OBJECT_ENTITY at the Crondon Park Golf Club in Stock , England .
+The SUBJECT_ENTITY was a battle between Royalist and Republican French forces at Nantes on OBJECT_ENTITY during the War in the Vendée .
+The SUBJECT_ENTITY was formally abolished on OBJECT_ENTITY by the newly established Bolshevik government .
+The SUBJECT_ENTITY , fought on OBJECT_ENTITY , was one of the most decisive engagements of the War of the Spanish Succession .
+The final of SUBJECT_ENTITY was held on OBJECT_ENTITY at the Globe Arena in Stockholm .
+The SUBJECT_ENTITY ( 鹿ケ谷事件 , Shishigatani jiken ) of OBJECT_ENTITY was a failed uprising against the rule of Taira no Kiyomori in Japan .
+The SUBJECT_ENTITY ( also known as the Battle of the Mincio River , and Monzambano ) was fought on OBJECT_ENTITY and resulted the difficult victory of French under General Brune against Austrians under General Bellegarde .
+The SUBJECT_ENTITY , also called Battle of Ard al - Hâtim or Fons Muratus , was fought on OBJECT_ENTITY , during the Second Crusade .
+SUBJECT_ENTITY ceased publication on OBJECT_ENTITY .
+SUBJECT_ENTITY ( The Great Game of the Goose ) was a TV game show produced in Madrid , Spain from 1993 through 1995 and again in OBJECT_ENTITY as El nuevo juego de la oca ( The New Game of the Goose ) .
+The SUBJECT_ENTITY was a major combat action of World War II , fought by American and German forces in and around Aachen , Germany , between 2 - -21 October 1944 .
+The SUBJECT_ENTITY was a professional ranking snooker tournament that took place between 8 - -14 July 2013 at the Bendigo Stadium in Bendigo , Australia .
+The SUBJECT_ENTITY was an engagement of the Falklands War between British and Argentine forces , which took place on 11 - -12 June 1982 , resulting in the British victory and their occupation of a key position around the besieged Argentine garrison .
+The show finally ended in OBJECT_ENTITY ending the series with SUBJECT_ENTITY - In Vacanza .
+The SUBJECT_ENTITY was a naval battle that took place on OBJECT_ENTITY , in the North Sea off the coast of Yorkshire between an American Continental Navy squadron led by John Paul Jones and the two British escort vessels protecting a large merchant convoy .
+The SUBJECT_ENTITY , also known as the Battle of Montmorency , fought on OBJECT_ENTITY , was an important confrontation between the British and French Armed Forces during the Seven Years ' War ( also known as the French and Indian War and the War of Conquest ) of the French province of Canada .
+The SUBJECT_ENTITY was a naval battle that took place on OBJECT_ENTITY in the bay off Castlehaven on the south coast of Ireland during the Nine Years ' War between a Spanish naval convoy of six ships and an English fleet , commanded by Admiral Richard Leveson and consisting of four warships .
+The SUBJECT_ENTITY ( OBJECT_ENTITY ) was fought between a combined Catholic League army led by Johan Tzerclaes , Count of Tilly and Gonzalo Fernández de Córdoba and a Protestant army commanded by Christian the Younger , Duke of Brunswick - Lüneburg .
+The SUBJECT_ENTITY ( OBJECT_ENTITY ) took place near the town of Chemnitz , in what is now eastern Germany , during the Thirty Years ' War .
+The SUBJECT_ENTITY or Battle of la Gravelle ( French - la `` besoigne '' de la Brossinière ) was a battle of the Hundred Years ' War on OBJECT_ENTITY .
+The SUBJECT_ENTITY ( sometimes written as the Battle of Wilhelmstadt ) was fought on OBJECT_ENTITY during the Seven Years ' War between on one side the allied forces of British , Prussian , Hanover , Brunswick and Hessian troops under the command of the Duke of Brunswick against the French .
+In the SUBJECT_ENTITY ( also known as the Battle of Llerena ) on OBJECT_ENTITY , British cavalry commanded by Lieutenant - General Sir Stapleton Cotton routed a French cavalry force led by General de Brigade Charles Lallemand at the village of Villagarcia in the Peninsular War .
+The SUBJECT_ENTITY were held in Ruddalens idrottsplats in Gothenburg , Sweden , on 8 - -9 February 2003 .
+During their blossoming ( 1870 - -1890 ) , the SUBJECT_ENTITY society developed an increasingly wider scope , with more natural and free images .
+The SUBJECT_ENTITY , ( 3 to OBJECT_ENTITY ) was between British forces and Ottoman forces that had retreated from Basra , which they lost at the Battle of Basra ( 1914 ) during the Mesopotamian campaign of World War I.
+The SUBJECT_ENTITY was a battle between a Franco - Spanish , on OBJECT_ENTITY , army led by Louis Joseph , Duke of Vendôme and Philip V of Spain and a Habsburg - allied army commanded by Austrian Guido Starhemberg .
+The SUBJECT_ENTITY were held between 7 and OBJECT_ENTITY in the Tor Stegny , Warsaw , Poland .
+On OBJECT_ENTITY , SUBJECT_ENTITY and Schweizer Radio DRS began the process of merging the two entities into Schweizer Radio und Fernsehen ( SRF ) .
+The SUBJECT_ENTITY took place between 11 - OBJECT_ENTITY at the Interalpen - Hotel Tyrol in Telfs - Buchen , Austria .
+The SUBJECT_ENTITY ( Arabic : معركة ميسلون‎ ) , also called the SUBJECT_ENTITY Pass , was a battle fought between the forces of the Arab Kingdom of Syria and French Army of the Levant on OBJECT_ENTITY near the Maysalun Pass , about 12 miles west of Damascus , close to the Lebanese border .
+The SUBJECT_ENTITY ( German : Die Ausstellung `` Entartete Kunst '' ) was an art exhibition organized by Adolf Ziegler and the Nazi Party in Munich from 19 July to OBJECT_ENTITY .
+The SUBJECT_ENTITY , fought on OBJECT_ENTITY , was one of the main battles of the War of the Spanish Succession , which opposed the Bourbons of France and Spain against an alliance whose major members were the Habsburg Monarchy , Great Britain , the United Provinces and the Kingdom of Prussia .
+The SUBJECT_ENTITY was a battle in the Neapolitan War the took place on OBJECT_ENTITY in the village of Ronco , just south of Forlì .
+With the significant problems considered as solved , the SUBJECT_ENTITY was abolished by Act of Parliament in OBJECT_ENTITY and replaced by a Resident Committee for Scientific Advice for the Admiralty consisting of three scientific advisors :
+The SUBJECT_ENTITY was a professional ranking snooker tournament that took place between 29 January--2 February 2014 at the Tempodrom in Berlin , Germany .
+The SUBJECT_ENTITY took place on 5 , 6 and OBJECT_ENTITY at the ice rink Crystal Stadium in Montréal , Canada .
+The naval SUBJECT_ENTITY ( 12 and OBJECT_ENTITY ) was a Dutch victory during the Eighty Years ' War .
+The SUBJECT_ENTITY were held in Vikingskipet in Hamar , Norway , on 7 and OBJECT_ENTITY :
+The SUBJECT_ENTITY was a minor battle in the Neapolitan War that took place on OBJECT_ENTITY in the town of Pesaro .
+The SUBJECT_ENTITY were held at the indoor ice rink of the Thialf in Heerenveen , Netherlands on 19 , 20 and OBJECT_ENTITY .
+The SUBJECT_ENTITY were a series of maritime incidents which took place from 26 March to OBJECT_ENTITY between the British Royal Navy and French fishermen as a result of a fishing rights dispute in and around the Channel Islands waters .
+The SUBJECT_ENTITY ( 10 - -12 February 1942 ) , was part of the final stage of the Empire of Japan 's invasion of Singapore during World War II .
+The SUBJECT_ENTITY was a major battle fought at Laing 's Nek during the First Boer War on OBJECT_ENTITY .
+The SUBJECT_ENTITY or the Battle of Guetaria are the names given to a battle in the Franco - Spanish War ( 1635 - 1659 ) , which took place on OBJECT_ENTITY at Getaria , northern Spain , when a French fleet under de Sourdis attacked and destroyed a Spanish fleet under Lope de Hoces .
+The SUBJECT_ENTITY ( Portuguese pronunciation : ( aɫʒuβɐˈʁotɐ ) ) was a battle fought between the Kingdom of Portugal and the Crown of Castile on OBJECT_ENTITY .
+SUBJECT_ENTITY , 493 U.S. 182 ( OBJECT_ENTITY ) , is a United States Supreme Court decision in which the Court held that neither common law evidentiary privilege , nor First Amendment academic freedom protects peer review materials that are relevant to charges of racial or sexual discrimination in tenure decisions .
+In the SUBJECT_ENTITY , which took place on 17 - -18 August 1812 , Russian troops under the command of Peter Wittgenstein fought French and Bavarian troops led by Nicolas Oudinot near the city of Polotsk , halting Oudinot 's advance toward Saint Petersburg .
+The SUBJECT_ENTITY ( or Neerwinden ) , in the current Belgian province of Flemish Brabant , was a battle in the Nine Years ' War , fought in present - day Belgium on OBJECT_ENTITY between the French army of Marshal Luxembourg and the Allied army of King William III of England .
+The SUBJECT_ENTITY was the 15th FIFA World Cup , held in nine cities across the United States from 17 June to OBJECT_ENTITY .
+The SUBJECT_ENTITY lasted from 20 March to OBJECT_ENTITY and signaled the start of the Iraq War , which was dubbed Operation Iraqi Freedom by the United States ( prior to 19 March , the mission in Iraq was called Operation Enduring Freedom , a carryover from the War in Afghanistan ) .
+The SUBJECT_ENTITY ( 18 - -20 October 1812 ) took place during Napoleon 's invasion of Russia .
+The SUBJECT_ENTITY ( OBJECT_ENTITY ) was a battle during the Peninsular War .
+Though initially only a novice in the mystic arts of the OBJECT_ENTITY , SUBJECT_ENTITY held tremendous potential for wielding magic and has since honed it through many years of intensive training and tutelage .
+Considered to be the `` Black Captain America '' , SUBJECT_ENTITY is depicted as an underground legend among much of the African - American community in the OBJECT_ENTITY .
+In later mentions in the OBJECT_ENTITY , this SUBJECT_ENTITY was said to be an inhabitant of the Microverse .
+SUBJECT_ENTITY appears in the modern OBJECT_ENTITY during the Atlantis Attacks storyline , and features in an Avengers annual with fellow Namor foe Attuma in an attack on the surface world .
+The SUBJECT_ENTITY is a region in the fictional setting of the OBJECT_ENTITY , for the Dungeons & Dragons fantasy role - playing game .
+B - wings participate at the Battle of Endor in Return of the Jedi and in numerous other engagements throughout the OBJECT_ENTITY .
+SUBJECT_ENTITY ( 2103 - ? ) is a fictional character in Boris and Arkady Strugatsky 's series of science fiction novels set in the OBJECT_ENTITY .
+SUBJECT_ENTITY is the `` Collect & Connect '' build - a - figure in series 18 of Mattel 's OBJECT_ENTITY Classics .
+From `` The Power of Three '' ( 2012 ) , the first on screen appearance of SUBJECT_ENTITY in any OBJECT_ENTITY media since the two - part Doctor Who special The End of Time in 2009 - -2010 , SUBJECT_ENTITY has been shown to have been reorganised by Kate Stewart , the Brigadier 's daughter .
+SUBJECT_ENTITY ( 2138 - 2178 ) is a fictional character in Boris and Arkady Strugatsky 's series of science fiction novels set in the OBJECT_ENTITY .
+SUBJECT_ENTITY , also known as the Man of Iron , is a fictional character , a superhero in the OBJECT_ENTITY .
+SUBJECT_ENTITY is an ongoing American comic book series created by Erik Larsen , published by Image Comics and taking place in the OBJECT_ENTITY .
+SUBJECT_ENTITY ( the Sleeper of N'kai , also known as Zhothaqquah ) is a supernatural entity in the OBJECT_ENTITY shared fictional universe .
+SUBJECT_ENTITY , Washington is a fictional city in the OBJECT_ENTITY .
+Abnegazar , Rath and Ghast are three fictional characters in the OBJECT_ENTITY who are collectively known as the SUBJECT_ENTITY .
+SUBJECT_ENTITY ( /ˈleɪtoʊ əˈtreɪdiːz/ ) is a fictional character from the OBJECT_ENTITY created by Frank Herbert .
+IDW would take the opportunity to reboot the OBJECT_ENTITY , including a revised origin for SUBJECT_ENTITY detailing how he came to power .
+SUBJECT_ENTITY is a fictional character in J. R. R. Tolkien 's Middle - earth OBJECT_ENTITY .
+SUBJECT_ENTITY is the name used by four teams of fictional characters with superpowers in the OBJECT_ENTITY , one of the few Canadian teams published by an American comic book company .
+The character has appeared in various incarnations , with several different individuals in the OBJECT_ENTITY assuming the SUBJECT_ENTITY persona .
+SUBJECT_ENTITY appeared as part of the `` Imperial Guard '' entry in the Official Handbook of the OBJECT_ENTITY Deluxe Edition # 6 .
+SUBJECT_ENTITY , played by Naomie Harris , is a fictional character from the movie OBJECT_ENTITY :
+SUBJECT_ENTITY is a fictional city - state which features prominently in Terry Pratchett 's OBJECT_ENTITY fantasy novels .
+Although spun out of licensed properties , SUBJECT_ENTITY is a Marvel - owned character and has been firmly established as a part of the OBJECT_ENTITY with guest appearances in numerous other titles , such as Marvel Team - Up , Marvel Knights and X - Men .
+SUBJECT_ENTITY is a fictional character owned by DC Comics who exists in that company 's OBJECT_ENTITY .
+SUBJECT_ENTITY appears in the OBJECT_ENTITY Online video game voiced by Bruce Carey .
+SUBJECT_ENTITY is a fictional character in the OBJECT_ENTITY , portrayed by Gwendoline Christie .
+SUBJECT_ENTITY are elite guards of the kingdom of Gondor in J. R. R. OBJECT_ENTITY .
+The SUBJECT_ENTITY is a fictional organization in the OBJECT_ENTITY .
+SUBJECT_ENTITY is a fictional prison depicted in the OBJECT_ENTITY , traditionally located on a small island in the Gotham Bay .
+SUBJECT_ENTITY ( born Padmé Naberrie ) is a fictional character in the OBJECT_ENTITY , appearing in the prequel trilogy portrayed by actress Natalie Portman .
+While the Creature Commandos series was said to take place within main OBJECT_ENTITY continuity , SUBJECT_ENTITY appeared alive in later comics ; thus , the Creature Commandos version may be regarded as an alternate version .
+SUBJECT_ENTITY 's geography , like other fictional cities ' geographies in the OBJECT_ENTITY , has varied over the decades , because of changing writers , editors , and storylines .
+SUBJECT_ENTITY is a fictional character , a robot supervillain in the OBJECT_ENTITY .
+Also in the 2008 video game Mortal Kombat vs. OBJECT_ENTITY , the SUBJECT_ENTITY is one of the fighting arenas .
+Futars are a fictional race in the OBJECT_ENTITY , introduced briefly in Heretics of Dune and appearing in Chapterhouse :
+Dr. SUBJECT_ENTITY , later given the codename Excalibur , is a fictional comic book character within Marvel Comics ' shared universe the OBJECT_ENTITY .
+SUBJECT_ENTITY ( леонидяне ) are a fictional alien race from the OBJECT_ENTITY created by the Strugatsky brothers .
+SUBJECT_ENTITY is a fictional deity in the OBJECT_ENTITY and first appeared in Eddy C. Bertin 's short story `` Darkness , My name Is '' ( 1976 ) .
+The Asurans are a fictional race in the science fiction series OBJECT_ENTITY Atlantis that bear many similarities to the human - form Replicators of OBJECT_ENTITY SG-1 .
+SUBJECT_ENTITY first appeared in the mainstream OBJECT_ENTITY in Battle Scars # 6 ( April 2012 ) , in which the character codenamed `` Cheese '' is revealed to be Coulson .
+In the fictional world of OBJECT_ENTITY , SUBJECT_ENTITY ( sometimes referred to as Mithril Hall ) is the fabled dwarven home of Bruenor Battlehammer , an old dwarven city where tunnels were often lined with natural veins of mithral as thick as an arm .
+The SUBJECT_ENTITY is a fictional character that appears in the OBJECT_ENTITY .
+A 6 `` SUBJECT_ENTITY action figure was released in Mattel 's OBJECT_ENTITY Classics Wave 18 , which was primarily dedicated to Super Friends characters .
+The SUBJECT_ENTITY is a fictional organization , functioning as anti - heroes throughout much of the OBJECT_ENTITY , appearing in comics published by DC Comics .
+SUBJECT_ENTITY received an entry in the All - New Official Handbook of the OBJECT_ENTITY A--
+SUBJECT_ENTITY is a fictional character , in the OBJECT_ENTITY and a deadly enemy of mutants including the X - Men .
+SUBJECT_ENTITY also exists in the alternative `` all - ages '' version of the OBJECT_ENTITY .
+SUBJECT_ENTITY ( ˈmeli.an ) the Maia is a fictional character in J. R. R. OBJECT_ENTITY .
+The SUBJECT_ENTITY were introduced to the Ultimate OBJECT_ENTITY by the miniseries Ultimate Secret .
+Another SUBJECT_ENTITY exists on Counter - Earth , located on the far side of the sun . He is the counterpart of Nefarius , the Lloyd Blochs of the main OBJECT_ENTITY .
+SUBJECT_ENTITY is a fictional city - state that forms part of a Dungeons & Dragons fantasy role - playing game campaign setting called the OBJECT_ENTITY .
+SUBJECT_ENTITY is an island in the OBJECT_ENTITY campaign setting for the Dungeons & Dragons fantasy role - playing game , located far west of the continent of Faerûn in the Trackless Sea .
+In November 2013 Marvel premiered SUBJECT_ENTITY Saves the OBJECT_ENTITY , a four - issue miniseries written by Christopher Hastings and illustrated by Jacopo Camagni .
+SUBJECT_ENTITY is a vast labyrinth of caverns in the Underdark under the area of Waterdeep in the fictional world of the OBJECT_ENTITY campaign setting for the Dungeons & Dragons fantasy role - playing game .
+Charlie Campbell voices SUBJECT_ENTITY in OBJECT_ENTITY Online .
+SUBJECT_ENTITY , most commonly referred to as `` SUBJECT_ENTITY , the Living Planet '' is a fictional character and planet in the OBJECT_ENTITY , a member of the Green Lantern Corps .
+SUBJECT_ENTITY 's death has also been used to explain why the OBJECT_ENTITY has virtually no young sidekicks , as no responsible hero wants to endanger a minor in similar fashion .
+In J. R. R. OBJECT_ENTITY , the Rangers of the North , also known as the SUBJECT_ENTITY of the North , were the descendants of the SUBJECT_ENTITY from the lost kingdom of Arnor .
+SUBJECT_ENTITY disappeared from the OBJECT_ENTITY in the next - to - last issue of More Fun Comics ( # 126 ) in late 1947 .
+SUBJECT_ENTITY is a fictional supervillain in the fictional OBJECT_ENTITY .
+SUBJECT_ENTITY is a name used for two distinct fictional forests on the continent of Middle - earth in J. R. R. OBJECT_ENTITY .
+The SUBJECT_ENTITY are fictional characters in the OBJECT_ENTITY .
+SUBJECT_ENTITY is a fictional character of the OBJECT_ENTITY franchise .
+The SUBJECT_ENTITY ( Joe Coyne ) is a fictional criminal in the OBJECT_ENTITY , and an adversary of Batman .
+The Baron SUBJECT_ENTITY is a fictional character and antagonist from the OBJECT_ENTITY created by Frank Herbert .
+SUBJECT_ENTITY , the City of Spiders , is a fictional city - state in the world of the OBJECT_ENTITY , a Dungeons & Dragons campaign setting .
+SUBJECT_ENTITY are two fictional magical amphibians ( in the OBJECT_ENTITY ) who were once in the service of Solomon , King of Israel , and are now in the service of T'Challa , King of Wakanda .
+When Quality Comics was shut down in 1956 , DC Comics acquired many of its characters , integrating SUBJECT_ENTITY into the mainstream OBJECT_ENTITY .
+SUBJECT_ENTITY is the name of seven Kings of Dwarves in J. R. R. OBJECT_ENTITY .
+SUBJECT_ENTITY appeared as part of the `` Headmen '' entry in the original Official Handbook of the OBJECT_ENTITY # 5 , and in the Official Handbook of the OBJECT_ENTITY Update ' 89 # 3 , and she received an entry in the All - New Official Handbook of the OBJECT_ENTITY A to Z :
+He was the second SUBJECT_ENTITY to be created in the modern era and also the second to be created for the traditional OBJECT_ENTITY .
+SUBJECT_ENTITY ( also spelled Sto - Helit ) , once referred to as Susan Death , is a fictional character in Terry Pratchett 's OBJECT_ENTITY series of fantasy novels .
+SUBJECT_ENTITY is a fictional character , a superheroine in the OBJECT_ENTITY .
+The SUBJECT_ENTITY is a comic book series following the account of Jake Gallows ( the Punisher ) in the year 2099 in an alternate OBJECT_ENTITY .
+In 1987 , SUBJECT_ENTITY was officially relocated to the OBJECT_ENTITY campaign setting .
+Although a popular character in the OBJECT_ENTITY , SUBJECT_ENTITY seldom showed much function other than being a loyal Decepticon soldier , although he did seem to take a perverse joy in praising Megatron 's brilliance as a leader in front of Starscream .
+SUBJECT_ENTITY is a stage in OBJECT_ENTITY Online .
+SUBJECT_ENTITY became part of the OBJECT_ENTITY after DC Comics purchased the rights to Captain Atom and other characters .
+Dream Girl ( real name SUBJECT_ENTITY ) is a fictional character in the OBJECT_ENTITY , a member of the Legion of Super - Heroes in the 30th and 31st centuries .
+SUBJECT_ENTITY , also known as the Big Man and Patch , is a fictional character in the OBJECT_ENTITY .
+SUBJECT_ENTITY is a fictional character in J. R. R. OBJECT_ENTITY , described as an evil spirit in the form of a spider .
+The SUBJECT_ENTITY is a text in the fictional OBJECT_ENTITY created by Frank Herbert .
+Created by writer Jim Shooter and artist Mike Zeck , the SUBJECT_ENTITY first appeared in Secret Wars # 1 ( May 1984 ) as an unseen , omnipotent being who kidnapped the heroes and villains of the OBJECT_ENTITY and had them do battle on another planet called Battleworld .
+SUBJECT_ENTITY 's high status as a supervillain has also caused him to come into conflict with other superheroes in the OBJECT_ENTITY .
+Tribbles are fictional alien species in the OBJECT_ENTITY who first appeared in the episode titled `` The Trouble with Tribbles '' .
+SUBJECT_ENTITY appears in OBJECT_ENTITY Online voiced by Shannon McCormick .
+SUBJECT_ENTITY is a fictional character in the popular OBJECT_ENTITY toy line and the accompanying cartoon series He - Man and the OBJECT_ENTITY .
+SUBJECT_ENTITY 's Stagg Industries is referenced in OBJECT_ENTITY Online .
+SUBJECT_ENTITY ( pronounced ( ˈtuːrɪn tuˈrambar ) ) is a fictional character in J. R. R. OBJECT_ENTITY .
+The SUBJECT_ENTITY have also had notable entries in the Official Handbook of the OBJECT_ENTITY Vol.2 ( Deluxe Edition ) # 3 ( 1985 ) and Dark Reign Files # 1 ( 2009 ) .
+SUBJECT_ENTITY is a fictional character , owned by Marvel Comics , who exists in the OBJECT_ENTITY .
+SUBJECT_ENTITY is a fictional character from the OBJECT_ENTITY who first appeared in West Coast Avengers # 10 in July 1986 .
+Although SUBJECT_ENTITY did not appear in any of the stories published during Dreamwave Productions ' 21st Century re - imagining of the OBJECT_ENTITY , he did receive a biography during their `` More Than Meets the Eye '' profile series which added an extra layer of depth to the character and his partners .
+The SUBJECT_ENTITY or Kherans are an alien race in the fictional OBJECT_ENTITY .
+SUBJECT_ENTITY ( Earl Everett ) is an American comic book character owned by Marvel Comics who exists in that company 's OBJECT_ENTITY .
+The Eye is reassembled , and allows SUBJECT_ENTITY to merge his own universe with all the planets of the `` regular '' OBJECT_ENTITY without breaking his vow .
+In OBJECT_ENTITY , the SUBJECT_ENTITY ( pronounced ( ˈbɛɔr ) ) were the family of Men who ruled over the eldest of the Three Houses of the Edain that had allied with the Elves in the First Age .
+In 1946 SUBJECT_ENTITY 's mayor OBJECT_ENTITY ( SPD ) travelled to the U.S. to re - establish SUBJECT_ENTITY 's statehood , as SUBJECT_ENTITY had traditionally been a city - state , in order to prevent its incorporation into the state of Lower Saxony in the British zone of occupation .
+The SUBJECT_ENTITY ( Labor ) was the 65th ministry of the Government of Australia , and was led by Prime Minister OBJECT_ENTITY .
+SUBJECT_ENTITY is politically dominated by the conservatives , and the mayor is OBJECT_ENTITY who is a member of the Conservative Party of Norway ( Høyre ) .
+The SUBJECT_ENTITY is the cabinet expected to serve under the governance of OBJECT_ENTITY .
+The current mayor of SUBJECT_ENTITY is OBJECT_ENTITY , representing the Norwegian Conservative Party .
+Since 2008 , the mayor of SUBJECT_ENTITY has been socialist OBJECT_ENTITY .
+OBJECT_ENTITY ( 1978- ) , politician Maurice Grimaud ( 1913 - 2009 ) , chief of police of Paris in May 1968 and was the grandson of Antoine Grimaud ( 1852 - 1926 ) , Mayor of SUBJECT_ENTITY from 1904 to 1919 .
+Since 2014 , the lord mayor of SUBJECT_ENTITY is OBJECT_ENTITY ( SPD ) .
+The current Estonian Prime Minister is OBJECT_ENTITY , who is the former Minister of Social Affairs and the head of the Estonian Reform Party .
+In 2009 , SUBJECT_ENTITY became the first US city with a population over 1 million citizens to elect a gay mayor , by electing OBJECT_ENTITY .
+In the 2005 elections , OBJECT_ENTITY became the first female Chancellor of SUBJECT_ENTITY as the leader of a grand coalition .
+The head of government is OBJECT_ENTITY , who is currently the longest serving non - royal leader in South East Asia and has ruled SUBJECT_ENTITY for over 25 years .
+Following the SUBJECT_ENTITY State Assembly Election in 2014 , the OBJECT_ENTITY - led Biju Janata Dal stayed in power for the fourth consecutive term .
+The current prime minister is OBJECT_ENTITY of the Serbian Progressive Party .
+Following the May 22 , 2011 municipal elections the mayor of SUBJECT_ENTITY is OBJECT_ENTITY of the Socialist Party of Galicia ( PSdeG ) .
+SUBJECT_ENTITY play their home games at Estádio Leonardo Vinagre da Silveira , commonly known as OBJECT_ENTITY .
+The home stadium of SUBJECT_ENTITY its OBJECT_ENTITY , the stadium is a multi - purpose stadium in Coquimbo , Chile .
+SUBJECT_ENTITY plays at OBJECT_ENTITY , which is the name of Esbjerg Stadion at Gl .
+SUBJECT_ENTITY play their home games in OBJECT_ENTITY de la Vega which is in Cusco .
+SUBJECT_ENTITY play their games at OBJECT_ENTITY , which has a 10,300 spectator capacity .
+SUBJECT_ENTITY play their home games at OBJECT_ENTITY , commonly known as Ninho da Garça .
+SUBJECT_ENTITY moved to its final home of OBJECT_ENTITY on the campus of CSU East Bay in June 2010 after opening their 2010 home schedule at the Castro Valley High School Athletic Stadium .
+SUBJECT_ENTITY play their home games at OBJECT_ENTITY , on the southern part of the city .
+From 2012 SUBJECT_ENTITY played their home matches at OBJECT_ENTITY which holds 7,083 spectators .
+SUBJECT_ENTITY made their loftier ambitions clear in 2006 when the club 's management decided to build the new 30,150 seat OBJECT_ENTITY suitable for hosting Bundesliga matches .
+SUBJECT_ENTITY is a children 's science fiction fantasy novel by OBJECT_ENTITY published in 2010 .
+SUBJECT_ENTITY is a 2006 children 's mystery novel written by Blue Balliett and illustrated by OBJECT_ENTITY .
+SUBJECT_ENTITY is a children 's picture book written and illustrated by OBJECT_ENTITY .
+SUBJECT_ENTITY is a 1965 children 's picture book by American author and illustrator OBJECT_ENTITY In this book , It shows that John Henry , a hard working miner tries to beat the steam drill .
+SUBJECT_ENTITY ( Norwegian : Folk og røvere i Kardemomme by ) is a 1955 Norwegian children 's book written and illustrated by OBJECT_ENTITY , which tells the story of Kardemomme by ( Cardamom Town ) .
+SUBJECT_ENTITY is a book by Florence Parry Heide , illustrated by OBJECT_ENTITY and first published in 1971 .
+SUBJECT_ENTITY was the second of OBJECT_ENTITY 's Doctor Dolittle books to be published , coming out in 1922 .
+SUBJECT_ENTITY was illustrated by the subsequently award - winning artist OBJECT_ENTITY , also his first work for children .
+SUBJECT_ENTITY is a 1964 children 's picture book by American author and illustrator OBJECT_ENTITY .
+SUBJECT_ENTITY is an English - language textbook of human anatomy originally written by Henry Gray and illustrated by OBJECT_ENTITY .
+SUBJECT_ENTITY is a 2005 book by Sherwood Smith and is a continuation of the Oz series that was started by L. Frank Baum in 1900 and continued by his many successors . The book is illustrated by OBJECT_ENTITY and published by Harper Collins .
+SUBJECT_ENTITY is a novel for children by Cecil Day - Lewis first published in the UK in 1948 with illustrations by OBJECT_ENTITY , and in the USA in 1949 .
+SUBJECT_ENTITY is the sixth book by American author Mitch Cullin with illustrations by OBJECT_ENTITY .
+SUBJECT_ENTITY is a wordless picture book illustrated by OBJECT_ENTITY , published in July 2010 by Simply Read Books in Vancouver Canada .
+SUBJECT_ENTITY is a 2010 book of short stories for children written by Andy Griffiths and illustrated by OBJECT_ENTITY .
+The SUBJECT_ENTITY was written by Erick Wujcik , with art by OBJECT_ENTITY and Peter Laird , and was published by Palladium Books in 1987 as a 48-page book .
+SUBJECT_ENTITY ( 1928 ) was intended to be the last of OBJECT_ENTITY 's Doctor Dolittle books , and differs considerably in tone from its predecessors ; the stripped down narrative does not have room for any of the sub - plots and tales previously present .
+SUBJECT_ENTITY ( subtitled `` A True Story '' ) is a graphic novel by English author and illustrator OBJECT_ENTITY .
+SUBJECT_ENTITY is a book written and illustrated by OBJECT_ENTITY chronicling the odd and very often dangerous times when he met and worked with his friend Hunter S. Thompson .
+SUBJECT_ENTITY is a children 's novel written by Elizabeth Enright , illustrated by OBJECT_ENTITY , and published by Harcourt in 1957 .
+SUBJECT_ENTITY is a children 's picture book written by Eugene Trivizas ( Evgenios Trivizas ) , illustrated by OBJECT_ENTITY , and first published by Heinemann in 1993 .
+SUBJECT_ENTITY is an encyclopaedia of the Discworld fictional universe created by Terry Pratchett and OBJECT_ENTITY .
+SUBJECT_ENTITY is a children 's fantasy novel by Paul Stewart and OBJECT_ENTITY , first published in 1998 .
+SUBJECT_ENTITY is the title of a 1999 book by OBJECT_ENTITY that won the 2000 Caldecott Medal .
+SUBJECT_ENTITY is a children 's novel written by Ralph Fletcher and illustrated by OBJECT_ENTITY .
+SUBJECT_ENTITY is the first children 's book in a series by photographer and author OBJECT_ENTITY .
+SUBJECT_ENTITY is a novel written by the Scottish author OBJECT_ENTITY , first published in 2006 .
+SUBJECT_ENTITY is a picture book written and illustrated in 1990 , by OBJECT_ENTITY about a repugnant and monstrous ogre who leaves home to see the world and ends up saving a princess .
+SUBJECT_ENTITY ( 1928 ) is the second volume of stories about Winnie - the - Pooh , written by A. A. Milne and illustrated by OBJECT_ENTITY .
+SUBJECT_ENTITY is a children 's novel by William Mayne , first published by Oxford in 1957 with illustrations by OBJECT_ENTITY .
+SUBJECT_ENTITY is a picture book written and illustrated by OBJECT_ENTITY , published on August 28 , 2007 , by Simply Read Books in Vancouver , Canada .
+SUBJECT_ENTITY is a book illustrated by OBJECT_ENTITY .
+SUBJECT_ENTITY is a children 's book written by Laura Numeroff and illustrated by OBJECT_ENTITY .
+SUBJECT_ENTITY ( French : Le Petit Prince ; French pronunciation : ​(lə.pə.tiˈpʁɛ̃s ) ) , first published in 1943 , is a novella , the most famous work of the French aristocrat , writer , poet , and pioneering aviator OBJECT_ENTITY ( 1900 - -1944 ) .
+SUBJECT_ENTITY is a young adult fantasy novel by OBJECT_ENTITY , released in 2007 .
+SUBJECT_ENTITY is a novel for children or young adults by K. M. Peyton , first published by Oxford in 1969 with illustrations by OBJECT_ENTITY .
+SUBJECT_ENTITY is an American children 's novel written by Andrew Clements , illustrated by OBJECT_ENTITY , and published by Aladdin in 1996 .
+SUBJECT_ENTITY ( ISBN 978 - 0 - 7636 - 1961 - 9 ) is a picture book written and illustrated by OBJECT_ENTITY about a girl named Vashti who thinks she ca n't draw .
+SUBJECT_ENTITY is a 2004 book by Andy Griffiths , who wrote the novel The Day My Bum Went Psycho , with OBJECT_ENTITY , who also did the illustrations .
+SUBJECT_ENTITY is a children 's picture book written by Ruth Robbins , illustrated by OBJECT_ENTITY , and published by Parnassus Press in 1960 .
+SUBJECT_ENTITY is a children 's book written and illustrated by OBJECT_ENTITY and first published by Frederick Warne & Co. in December 1918 .
+SUBJECT_ENTITY is a British children 's book written by Sam McBratney and illustrated by OBJECT_ENTITY , published in 1994 , in the UK by Walker Books and in 1995 , in the US by its subsidiary Candlewick Press .
+SUBJECT_ENTITY , published in 1933 , is the ninth book in OBJECT_ENTITY 's Doctor Dolittle series .
+SUBJECT_ENTITY is a 1986 children 's picture book by OBJECT_ENTITY .
+SUBJECT_ENTITY ( formerly Corus Steel F.C. ) is a football club from Port Talbot that play in the OBJECT_ENTITY as of the 2015 - 16 season .
+The SUBJECT_ENTITY are a baseball team that plays in the West Division of the OBJECT_ENTITY located in Glendale , Arizona .
+SHB Vientiane F.C.(Laos ສະໂມສອນເອັສເຮັສບີ ວຽງຈັນ ) is a professional football club , based in Laos , that plays in the OBJECT_ENTITY , the highest division in Laotian football .
+The SUBJECT_ENTITY are an American professional soccer team based in San Jose , California , United States , that competes in the Western Conference of OBJECT_ENTITY ( MLS ) .
+SUBJECT_ENTITY is a Jamaican football team playing at the top level , the OBJECT_ENTITY .
+The SUBJECT_ENTITY ( Dutch pronunciation : ( ˈɡoː əˈɦɛt ˈiɡəls ) ) are a Dutch football club from Deventer , as of 2015 playing in the OBJECT_ENTITY .
+SUBJECT_ENTITY were a Canadian professional soccer team founded in 2010 that played in the OBJECT_ENTITY for two seasons .
+SUBJECT_ENTITY now playing in Divisi Utama OBJECT_ENTITY Indonesian League ) or 1 grade lower than Liga Super Indonesia ( Indonesian Super League ) .
+SUBJECT_ENTITY was an American women 's soccer team , founded in 2008 , which is a member of the United Soccer Leagues OBJECT_ENTITY .
+The SUBJECT_ENTITY is an American professional soccer team based in Chester , Pennsylvania which competes in OBJECT_ENTITY ( MLS ) in the Eastern Conference of the league .
+SUBJECT_ENTITY were the reserve team for the Philadelphia Union of Major League Soccer and competed in the East Division of the OBJECT_ENTITY .
+The SUBJECT_ENTITY were a soccer team based in Rochester , New York that played in the American Soccer League from 1967 until 1969 and the OBJECT_ENTITY from 1970 to 1980 at Aquinas Stadium ( renamed Holleder Memorial Stadium in 1974 ) .
+SUBJECT_ENTITY is a Palestinian football team based in Jerusalem , that plays in the OBJECT_ENTITY .
+The SUBJECT_ENTITY were a professional American football team in the OBJECT_ENTITY .
+Association Sportive Aïn M'lila ( Arabic : جمعية عين مليلة‎ ) ( French pronunciation : ​(a.sɔ.sja.sjɔ̃ spɔrtɪv ) ) commonly known as SUBJECT_ENTITY or simply l'ASAM is an Algerian OBJECT_ENTITY football club based in Aïn M'lila .
+SUBJECT_ENTITY is an American women 's soccer club , which competes at the highest level of women 's soccer in the USA , the OBJECT_ENTITY .
+The Trinidad and Tobago Electricity Commission Sports Club , often referred to as SUBJECT_ENTITY is a state - owned football team from Trinidad and Tobago based in Gooding Village and is currently a member of the OBJECT_ENTITY , the highest level of football in Trinidad .
+SUBJECT_ENTITY is an Austrian football team from Linz , currently competing in the OBJECT_ENTITY .
+In 2001 , the footballing department of the sports club broke away to become SUBJECT_ENTITY and they currently play in the sixth tier Verbandsliga Sachsen - Anhalt ( VI ) , having been relegated from the 2013 - -14 OBJECT_ENTITY Süd after three seasons at this level .
+SUBJECT_ENTITY , nicknamed the Bulldogs , are an Australian rules football team in the OBJECT_ENTITY .
+SUBJECT_ENTITY , known as B 1909 , is a Danish association football club currently playing in the OBJECT_ENTITY Pool 2 .
+SUBJECT_ENTITY is a Maldivian football club based in Malé , Maldives that plays in the Dhiraagu OBJECT_ENTITY .
+Among SUBJECT_ENTITY 's more notable players was Ivica Olić who led the club to its first championship of the OBJECT_ENTITY in 2002 with 21 goals scored in 29 appearances for SUBJECT_ENTITY .
+SUBJECT_ENTITY was an Azerbaijan football club from Buzovna that participated in the OBJECT_ENTITY between 1994 - 1998 .
+SUBJECT_ENTITY ( Chinese : 北京国安 ; pinyin : Běijīng Guó'ān ) is a professional Chinese football club that currently participates in the OBJECT_ENTITY under licence from the Chinese Football Association ( CFA ) .
+The SUBJECT_ENTITY were a professional soccer team in the former OBJECT_ENTITY .
+SUBJECT_ENTITY was a Latvian football club based in Riga that played in the Latvian OBJECT_ENTITY from 1992 to 1995 .
+SUBJECT_ENTITY is a German football club based in Berlin - Neukölln , Germany , currently playing in the OBJECT_ENTITY ( VI ) .
+SUBJECT_ENTITY ( RSL ) is an American professional soccer club that competes in the Western Conference of OBJECT_ENTITY ( MLS ) .
+Sport Voetbal SUBJECT_ENTITY is a Curaçao football team located in WestPunt municipality Barber , and playing in the First Division OBJECT_ENTITY .
+Formed in 1967 through a merger of several local clubs , SUBJECT_ENTITY have won six OBJECT_ENTITY championship titles .
+The team recently rebranded themselves as SUBJECT_ENTITY A.Ş. prior to the start of the 2014 - -15 OBJECT_ENTITY .
+The SUBJECT_ENTITY are an American professional baseball team based in the Bronx , New York City , New York , that competes in OBJECT_ENTITY ( MLB ) .
+SUBJECT_ENTITY also known as Clifton Hill FC or Clifton Hill United are an association football club which currently plays in the OBJECT_ENTITY , the 3rd tier of Association football in Victoria and the 4th tier in Australia .
+SUBJECT_ENTITY is a football team who is currently playing in the OBJECT_ENTITY Division Two .
+The club was established in 1887 , and is currently playing in the Sunday OBJECT_ENTITY C. SUBJECT_ENTITY won the 1919 - 20 Dutch national football title .
+SUBJECT_ENTITY are an American soccer team , founded in 2006 , who played in the OBJECT_ENTITY ( NPSL ) , the fourth tier of the American Soccer Pyramid , for just one season .
+The SUBJECT_ENTITY was the name of separate minor league baseball teams , which represented Portland , Oregon , in the OBJECT_ENTITY ( PCL ) .
+SUBJECT_ENTITY is a Dutch football club based in Emmen , Drenthe , and currently playing in the OBJECT_ENTITY , the second tier of football in the Netherlands .
+SUBJECT_ENTITY ( Persian : دسته فوتبال خجند‎‎ , Dastai Futboli Xujand ) is a Tajik football club based in Khujand , currently playing the OBJECT_ENTITY , the top division in the country .
+SUBJECT_ENTITY was founded in 2006 and they currently play in the third division of Finnish football , OBJECT_ENTITY .
+SUBJECT_ENTITY is a football club based in George Town , Cayman Islands , which currently plays in the OBJECT_ENTITY First Division after being relegated from the Premier League in 2014 .
+In 2011 - 12 season the club changes name to Persipro Bondowoso United or simple Persipro Bond - U. Club played in OBJECT_ENTITY .
+SUBJECT_ENTITY ( Greek : Γ.Σ. Καλλιθέα ) is a Greek professional football club based in Kallithea , currently competing in the OBJECT_ENTITY ( see Greek football league system ) .
+From 2012 - 13 the Oberliga Südwest was renamed OBJECT_ENTITY , with SUBJECT_ENTITY taking out the league title in its inaugural season and earning promotion to the Regionalliga Südwest .
+The SUBJECT_ENTITY was an American professional soccer club that was based in the Los Angeles suburb of Carson , California that participated in OBJECT_ENTITY .
+SUBJECT_ENTITY ( Polish pronunciation : ( ˈɕlɔ̃sk ˈvrɔt͡swaf ) ) is a Polish football club based in Wrocław that plays in OBJECT_ENTITY , the highest level of the Polish football league system .
+Club de Fútbol Tigres de la Universidad Autónoma de Nuevo León , commonly referred to as SUBJECT_ENTITY , or simply Tigres , is a OBJECT_ENTITY football club based in San Nicolás de los Garza , a city located in the Monterrey metropolitan area , Mexico .
+SUBJECT_ENTITY ( DCFC ) is a semi - professional American soccer club based in Detroit , Michigan that plays in the OBJECT_ENTITY ( NPSL ) , the fourth tier of the American soccer pyramid .
+SUBJECT_ENTITY is a football club based in Spixworth , near Norwich , Norfolk , England , currently members of the OBJECT_ENTITY Premier Division .
+SUBJECT_ENTITY , originally Mutual FC , is a Hong Kong association football team who currently compete in the OBJECT_ENTITY .
+Club SUBJECT_ENTITY is a Mexican football club that plays in the Segunda División de México after their objective to promote from the OBJECT_ENTITY was a success in the 2014 - -15 season finished as runner - up .
+SUBJECT_ENTITY , is a Mozambican football ( soccer ) club based in Maputo that plays in the top division of Mozambican football , OBJECT_ENTITY .
+The SUBJECT_ENTITY were a OBJECT_ENTITY team that played from 1902 to 1911 .
+The SUBJECT_ENTITY was a soccer club based in Cincinnati , Ohio that played in the OBJECT_ENTITY .
+In 2012 , SUBJECT_ENTITY was relegated to the OBJECT_ENTITY , the newly formed second - tier professional league in South Korea .
+SUBJECT_ENTITY is a football team in the OBJECT_ENTITY - Serie D. In 2011 - 12 , in finished in 6th in promotion playoff , failing promotion to Portuguese Second Division .
+Since the 2002/03 season , SUBJECT_ENTITY has participated in the OBJECT_ENTITY .
+SUBJECT_ENTITY ( Hebrew : הפועל ראשון לציון‎ ) is an Israeli football club which currently plays in OBJECT_ENTITY , Israel 's second football division .
+SUBJECT_ENTITY are a Botswana football club from Palapye who will be playing in the OBJECT_ENTITY in the 2012 - -13 season following their promotion at the end of the 2011 - -12 season .
+Mladinsko Nogometno Društvo Tabor Sežana , commonly referred to as SUBJECT_ENTITY or simply Tabor Sežana , is a Slovenian football club from Sežana , which plays in the OBJECT_ENTITY .
+Mouloudia Club d'Alger ( Arabic : Pنادي مولودية الجزائر‎ ) , referred to as SUBJECT_ENTITY or MCA for short , is an Algerian football club based in Algiers , that plays in the OBJECT_ENTITY .
+The SUBJECT_ENTITY are an American professional ice hockey team based in Columbus , Ohio , that competes in the OBJECT_ENTITY ( NHL ) .
+SUBJECT_ENTITY is a German football club based in Gransee , currently playing in the OBJECT_ENTITY Nord ( V ) after 11 seasons in the Brandenburg - Liga ( VI ) .
+SUBJECT_ENTITY was a Palauan association football club which competed in the OBJECT_ENTITY , the top level league in Palau , for the first time in the inaugural season in 2004 , when they were runners up , losing 2 - 0 to Daewoo Ngatpang in the final .
+SUBJECT_ENTITY is an American soccer based in Northern New Jersey , USA that plays in the OBJECT_ENTITY .
+SUBJECT_ENTITY ( Azerbaijani : İnter Bakı Peşəkar İdman Klubu ) is an Azerbaijani football club based in Baku , that currently plays in OBJECT_ENTITY .
+The team replaced the earlier SUBJECT_ENTITY , who folded along with the original OBJECT_ENTITY .
+SUBJECT_ENTITY is a Ugandan association football team based in Kampala , which plays in the OBJECT_ENTITY .
+SUBJECT_ENTITY is a Netherlands Antilles football team Located in Willemstad , the club playing in the actually , in the first division of OBJECT_ENTITY .
+SUBJECT_ENTITY won promotion to the tier six OBJECT_ENTITY in 2010 and has been playing at this level since , achieving a third place finish as its best result in 2013 - -14 .
+The SUBJECT_ENTITY are a minor league baseball team that plays in the OBJECT_ENTITY .
+SUBJECT_ENTITY was an American women 's soccer team that joined the United Soccer Leagues OBJECT_ENTITY in 2006 as growth from the larger Michigan Wolves / Hawks organization .
+SUBJECT_ENTITY ( União Desportiva Rei Amador ) is a football club that plays in the OBJECT_ENTITY .
+SUBJECT_ENTITY ( Polish pronunciation : ( lɛx ˈpɔznaɲ ) ) is a Polish professional football club based in Poznań and currently competing in the OBJECT_ENTITY , the nation 's highest division .
+SUBJECT_ENTITY is a football club based in Corsham , Wiltshire , England , that competes in the OBJECT_ENTITY .
+The SUBJECT_ENTITY ( Hebrew : תל אביב לייטנינג‎ ) was an Israeli baseball team from Tel Aviv in the OBJECT_ENTITY .
+The SUBJECT_ENTITY ( 時報鷹 ) is a defunct professional baseball team belonging to the OBJECT_ENTITY ( CPBL ) that existed between 1993 and 1997 .
+SUBJECT_ENTITY is a Welsh football club based in Corwen , Denbighshire , playing in the OBJECT_ENTITY ( Wrexham Area ) Premier Division in 2008 - 09 season .
+The SUBJECT_ENTITY ( officially the Toronto Maple Leaf Hockey Club ) are a Canadian professional ice hockey team based in Toronto , Ontario , that competes in the OBJECT_ENTITY ( NHL ) .
+The SUBJECT_ENTITY were a soccer team in the OBJECT_ENTITY ( NASL ) which played the 1978 season in the NASL .
+SUBJECT_ENTITY was an American soccer club based in Washington , D.C. that competed in the OBJECT_ENTITY , the second tier of women 's soccer in the United States .
+SUBJECT_ENTITY , in full SUBJECT_ENTITY Béarn Pyrénées , is a French rugby union club from Pau in Pyrénées - Atlantiques competing in OBJECT_ENTITY , the highest level of the French league system .
+SUBJECT_ENTITY is a Congolese football ( soccer ) club based in Ouenzé , Brazzaville , that plays in the OBJECT_ENTITY .
+SUBJECT_ENTITY is licensed under the OBJECT_ENTITY .
+SUBJECT_ENTITY is a OBJECT_ENTITY map dataset available at 1:10 million ( 1 cm = 100 km ) , 1:50 million , and 1:110 million map scales .
+SUBJECT_ENTITY is a free and open - source two - dimensional platform game published under the OBJECT_ENTITY .
+SUBJECT_ENTITY is released under the terms of the OBJECT_ENTITY ( AGPL ) .
+SUBJECT_ENTITY was free software even before the Free Software Foundation and OBJECT_ENTITY existed .
+Windowing system Synchronization framework Integrated development environment Internationalization and localization support Games and multimedia Personal information manager applications Full screen handwriting Input methods Personalization options Productivity applications Internet applications Java integration Wireless support SUBJECT_ENTITY is dual licensed under the OBJECT_ENTITY ( GPL ) and proprietary licenses .
+SUBJECT_ENTITY ( BlueSpice for short ) is free wiki software based on MediaWiki and licensed by OBJECT_ENTITY .
+The first version of SUBJECT_ENTITY was released on 24 February 2005 as free and open source software under the terms of the OBJECT_ENTITY , with the initial goals of creating an `` open source alternative to Magma , Maple , Mathematica , and MATLAB '' .
+SUBJECT_ENTITY was originally implemented as open - source software , licensed under the OBJECT_ENTITY ( CDDL ) .
+SUBJECT_ENTITY is a modular , high performance free RADIUS suite developed and distributed under the OBJECT_ENTITY , version 2 , and is free for download and use .
+SUBJECT_ENTITY is a adventure role - playing video game for the mobile phone and OBJECT_ENTITY DS . It was developed by John D. Carmack and Fountainhead Entertainment , produced by i d Software , published by EA Mobile and licensed by OBJECT_ENTITY for the DS version .
+The SUBJECT_ENTITY system is OBJECT_ENTITY software , available through the Freedom Of Information Act directly from the VA website or through a growing network of distributors , such as the OSEHRA SUBJECT_ENTITY - M.git tree .
+SUBJECT_ENTITY is a cross - platform HL7 interface engine that enables bi - directional sending of HL7 messages between systems and applications over multiple transports available under the OBJECT_ENTITY ( MPL ) 1.1 license .
+SUBJECT_ENTITY is free and open source software released under the terms of the OBJECT_ENTITY .
+A promotional version of SUBJECT_ENTITY was released as OBJECT_ENTITY , which permitted it to be copied widely .
+Features include a module based extension system and skins using the Smarty templating engine . SUBJECT_ENTITY is distributed under the open source OBJECT_ENTITY ( MPL )
+SUBJECT_ENTITY is distributed as an open source application under the OBJECT_ENTITY distribution license , SUBJECT_ENTITY can be reprogrammed to perform different or more specialized tasks .
+SUBJECT_ENTITY is free software , distributed under the terms of the OBJECT_ENTITY .
+SUBJECT_ENTITY is OBJECT_ENTITY statistical software for epidemiology developed by Centers for Disease Control and Prevention ( CDC ) in Atlanta , Georgia ( USA ) .
+SUBJECT_ENTITY , formerly called Sketch , is a free software vector graphics editor , released under the OBJECT_ENTITY .
+SUBJECT_ENTITY is based on the Internet Junkbuster and is released under the OBJECT_ENTITY .
+The SUBJECT_ENTITY Encoder ( and decoder ) were released as open source software under the OBJECT_ENTITY version 2.0 on October 27 , 2011 , however an independent reverse - engineered open - source encoder and decoder were already available before the release .
+In contrast with the DivX codec , which is proprietary software developed by DivX , Inc. , SUBJECT_ENTITY is free software distributed under the terms of the OBJECT_ENTITY .
+SUBJECT_ENTITY is licensed under the OBJECT_ENTITY ( GPL ) .
+SUBJECT_ENTITY is an UML diagramming application written in Java and released under the open source OBJECT_ENTITY .
+Knowledge of SUBJECT_ENTITY ' specifications is in the OBJECT_ENTITY .
+SUBJECT_ENTITY is distributed under the OBJECT_ENTITY license .
+SUBJECT_ENTITY is a Windows Shell replacement for Windows 9x and up , licensed under the terms of the OBJECT_ENTITY ( GPL ) .
+SUBJECT_ENTITY is free and open - source software subject to the requirements of the OBJECT_ENTITY version 2 and has been part of the GNU project .
+The SUBJECT_ENTITY ( ELO ) are a British rock group from OBJECT_ENTITY , England .
+SUBJECT_ENTITY is a small indie video game developer founded in 1994 by Jeff Vogel in OBJECT_ENTITY , Washington .
+SUBJECT_ENTITY are a roots reggae musical band , from the Handsworth area of OBJECT_ENTITY , England , which has a large number of Afro - Caribbean , Indian and other Asian migrants .
+SUBJECT_ENTITY are a British rock band formed in OBJECT_ENTITY , Hertfordshire , England in 1999 under the name Hybryd by Chris Batten , Rou Reynolds , and Rob Rolfe .
+Kevin O'Toole and Dale Longworth formed SUBJECT_ENTITY , in 1990 , after meeting at The OBJECT_ENTITY College , where they were both studying sound engineering .
+Their song `` Calm After the Storm '' , which is on their debut album SUBJECT_ENTITY , reached second place in the final of the Eurovision Song Contest 2014 and gave the OBJECT_ENTITY their best result since their last winning entry in 1975 .
+SUBJECT_ENTITY is a Dutch rock band , founded in 1961 in OBJECT_ENTITY as the Golden Earrings ( the `` s '' was dropped in 1969 ) .
+SUBJECT_ENTITY were an English ska punk band from OBJECT_ENTITY .
+SUBJECT_ENTITY ( born February 8 , 1966 ) is the drummer and one of the founding members of the OBJECT_ENTITY , Texas band Spoon .
+The SUBJECT_ENTITY are a South African rock group first formed in 1977 in OBJECT_ENTITY , Gauteng , by Jonathan Handley ( lead guitar and background vocals ) , Dave Davies on lead vocals and Herbie Parkin on bass , with various drummers .
+SUBJECT_ENTITY is a four - piece Dutch rock band from Vlissingen , in OBJECT_ENTITY , which has become popular regionally and internationally for its music , its frequent collaborations with bands from other parts of the world , willingness to incorporate other genres into their `` sound '' , and focus on bettering the world around them .
+SUBJECT_ENTITY were an alternative rock band from OBJECT_ENTITY formed in 1992 .
+SUBJECT_ENTITY are an English pop girl group formed in OBJECT_ENTITY in 1998 whose current members are Liz McClarnon , Natasha Hamilton , and Kerry Katona .
+SUBJECT_ENTITY was once one of the largest printing companies of the world and one of the main employers in OBJECT_ENTITY ( Belgium ) .
+SUBJECT_ENTITY were a post - punk band from Burnage in OBJECT_ENTITY who recorded for Factory Records between 1981 and 1987 .
+The SUBJECT_ENTITY ( WPF ) was founded in 1987 in the OBJECT_ENTITY by Diana and Roy W. Brown .
+Originally called Breaker Morant , SUBJECT_ENTITY was formed in OBJECT_ENTITY , Texas in 1999 .
+SUBJECT_ENTITY are a cinematic rock ensemble from OBJECT_ENTITY , Canada .
+SUBJECT_ENTITY is an indie folk - pop duo from OBJECT_ENTITY , Norway .
+The SUBJECT_ENTITY was founded in 1945 , in OBJECT_ENTITY with the aim of studying and of continuing the work of August Vermeylen .
+SUBJECT_ENTITY ( alternate spellings : OBJECT_ENTITY , Pangratiou , Pagratiao ) is a Greek professional basketball club .
+SUBJECT_ENTITY is a Norwegian rock band from OBJECT_ENTITY formed in 1988 by members of Angor Wat , a punk band that had just broke up .
+SUBJECT_ENTITY were an influential early 1980s punk band from OBJECT_ENTITY , MD .
+SUBJECT_ENTITY ( an acronym of This Is Serious Mum ) were a seven - piece anonymous alternative rock band from OBJECT_ENTITY , Australia .
+SUBJECT_ENTITY is an English alternative rock and indie band , based in OBJECT_ENTITY , currently having four members ;
+SUBJECT_ENTITY ( also known as Cook the Books , and Da Books ) were a British new wave band from OBJECT_ENTITY , England popular in the 1980s .
+SUBJECT_ENTITY is a dream pop band from OBJECT_ENTITY , Sweden signed to Labrador Records .
+SUBJECT_ENTITY are a OBJECT_ENTITY band founded by Zach Dawes , Tyler Parkford , and Queens of the Stone Age bassist Michael Shuman .
+SUBJECT_ENTITY is an American psychedelic rock band formed in OBJECT_ENTITY in 1988 and led by frontman Anton Newcombe .
+SUBJECT_ENTITY are an English new wave / synthpop band formed in OBJECT_ENTITY in 1978 .
+It was founded in 1901 by the geographer Giovanni SUBJECT_ENTITY in OBJECT_ENTITY , Italy , and later moved to Novara , Italy .
+SUBJECT_ENTITY are an English beat ( or pop ) band , formed in OBJECT_ENTITY in 1962 .
+SUBJECT_ENTITY were an early 1970s OBJECT_ENTITY , England hard rock act that , alongside Judas Priest , ranked as the Midlands ' favourites to succeed .
+SUBJECT_ENTITY was an English punk band from OBJECT_ENTITY .
+SUBJECT_ENTITY is an electropop duo consisting of Jack Snape and Sam White , who originate from Chesterfield and OBJECT_ENTITY respectively .
+Frozen , See Me In Shadow and The Gathering , and the response to the album allowed SUBJECT_ENTITY to tour in support in the OBJECT_ENTITY and neighbouring countries .
+SUBJECT_ENTITY are an English post - punk band , formed in OBJECT_ENTITY in late 1977 by Alan Hempsall ( vocals ) , Keith Darbyshire ( bass ) , Gary Madeley ( drums ) and Robert Davenport ( guitar ) .
+SUBJECT_ENTITY is a German musical band formed in 1979 in OBJECT_ENTITY ( Belzig ) near Potsdam , GDR ( German Democratic Republic ) .
+SUBJECT_ENTITY ( known as Orquesta OBJECT_ENTITY Riverside between 1938 and 1941 ) was a highly successful Cuban big band that was amongst the most popular ensembles of the 1940s and 1950s .
+SUBJECT_ENTITY ( French pronunciation : ​(nwaʁ deziʁ ) ) was a French rock band from OBJECT_ENTITY .
+SUBJECT_ENTITY were the first OBJECT_ENTITY punk band to release a single ( `` British Refugee '' c / w `` Mein Kampf '' ) .
+SUBJECT_ENTITY are an indie rock band formed in OBJECT_ENTITY , England in 2004 , by multi - instrumentalists Lawrence Becko and Tom Rogers .
+SUBJECT_ENTITY ( Italian : ( ˈɛːljo e lle ˈstɔːrje ˈteːze ; ˈteːse ) ; literally `` Elio and the Tense Stories '' ) , often abbreviated EelST , is an Italian band from OBJECT_ENTITY , formed in 1980 .
+SUBJECT_ENTITY was an American rock band from OBJECT_ENTITY , Georgia , formed in 1980 by lead singer Michael Stipe , lead guitarist Peter Buck , bassist Mike Mills , and drummer Bill Berry .
+SUBJECT_ENTITY are a British punk rock / new wave band from OBJECT_ENTITY , England .
+SUBJECT_ENTITY are a five - piece indie rock band from OBJECT_ENTITY , England founded in 2010 by lead singer Martin Finnigan and guitarist Phil Rainey -- who made his name with Peter Hook 's cult combo Monaco ( band ) .
+SUBJECT_ENTITY is a German alternative rock band from OBJECT_ENTITY .
+SUBJECT_ENTITY ( also known as Fantasia - fest , FanTasia , Fant - Asia ) is a genre film festival that has been based mainly in OBJECT_ENTITY since its founding in 1996 .
+SUBJECT_ENTITY are an English rock band , formed in OBJECT_ENTITY in 1997 by frontmen Carl Barât ( vocals / guitar ) and Pete Doherty ( vocals / guitar ) .
+SUBJECT_ENTITY are an instrumental Nu jazz / hip - hop band from OBJECT_ENTITY , UK , comprising classically trained double bass player Sneaky , DJ / turntablist Peter Parker and Visual Artist Chris Cavetroll Drury .
+SUBJECT_ENTITY was an indie rock band based in OBJECT_ENTITY , Ohio .
+SUBJECT_ENTITY are a fast paced punk band with hardcore influences based in OBJECT_ENTITY , United Kingdom and formed in 2004 .
+SUBJECT_ENTITY is an international underwear manufacturer founded in 1886 in OBJECT_ENTITY , Germany .
+In 1968 The SUBJECT_ENTITY began to move its operations from Tower Hill in the City of OBJECT_ENTITY to Llantrisant , Mid Glamorgan , Wales , and has operated on a single site in Llantrisant since 1980 .
+The SUBJECT_ENTITY are a spoof band comprising two BBC Radio DJs from OBJECT_ENTITY , Mark Radcliffe and Marc Riley , known collectively as Mark and Lard .
+SUBJECT_ENTITY ( FGTH ) , formed in 1980 , were a OBJECT_ENTITY based band popular in the mid-1980s .
+SUBJECT_ENTITY is a South African Afro - fusion band that formed in OBJECT_ENTITY in 2002 .
+SUBJECT_ENTITY ( English : The Hills Fantastic ) is an Afrikaans electronic band from OBJECT_ENTITY , South Africa .
+SUBJECT_ENTITY was formed in 1984 in OBJECT_ENTITY by Goran Tomanović and have changed several line - ups before they won the Best demo Band Award at the MESAM festival in 1986 .
+SUBJECT_ENTITY ( also written as `` the Quarry Men '' ) are a British skiffle / rock and roll group , formed by John Lennon in OBJECT_ENTITY in 1956 , which eventually evolved into the Beatles in 1960 .
+SUBJECT_ENTITY was a OBJECT_ENTITY based outfit , that featured two black lead singers doing Sam & Dave styled duets , one of them being former professional boxer Clem Curtis , and the other being Raymond Morrison aka Ramong Morrison .
+SUBJECT_ENTITY were a folk rock quartet formed in OBJECT_ENTITY , England in 1986 , by vocalist Siobhan Maher , guitarist Tim Speed , his drummer brother Paul Speed , and bassist Dave Snell .
+SUBJECT_ENTITY were an indie band , from OBJECT_ENTITY , England .
+SUBJECT_ENTITY is an American hardcore punk band based in OBJECT_ENTITY , Rhode Island .
+SUBJECT_ENTITY was formed in 2007 in OBJECT_ENTITY , Sweden .
+After the OBJECT_ENTITY of judge Vittorio Occorsio , responsible for investigations into the radical right in Italy , Attorney general Giovanni de Matteo appointed SUBJECT_ENTITY to resume Occorsio 's investigations .
+It was said that the Emperor had been so shocked by the OBJECT_ENTITY of SUBJECT_ENTITY , that from then on he responded to all new art phenomena with the standard phrase , `` It was very beautiful , I liked it a lot '' .
+SUBJECT_ENTITY ( May 27 , 1997 -- April 15 , 2012 ) was a teenager who is known for his OBJECT_ENTITY as a result of bullying for being a gay youth .
+SUBJECT_ENTITY ( March 31 , 1968 -- July 13 , 2005 ) was an American real estate agent and former gay pornographic film actor who committed OBJECT_ENTITY while in police custody as a suspected serial rapist .
+While SUBJECT_ENTITY 's death was officially ruled a OBJECT_ENTITY , with both OBJECT_ENTITY notes ( supposedly burned by his family ) and a video of his wife apologizing for her husband 's crime backing up this theory , opponents of president Chen disagree with this conclusion .
+SUBJECT_ENTITY died unexpectedly at the age of 44 in Nashville of complications following a serious boating OBJECT_ENTITY in Florida .
+SUBJECT_ENTITY died in North Wilkesboro , North Carolina on October 25 , 1946 in an automobile OBJECT_ENTITY .
+By 1971 , Cortez was wrestling in America and held the AWA World Tag Team Championship with Red Bastien On July 24 , 1971 , SUBJECT_ENTITY died of injuries suffered in a one - car OBJECT_ENTITY near St. Cloud , Minnesota early in the morning .
+Unable to recover from his illness , SUBJECT_ENTITY committed ritual OBJECT_ENTITY ( paramayoga ) by drowning himself in the Tungabhadra river at Kuruvatti ( modern Bellary district ) on March 29 , 1068 .
+It was believed that SUBJECT_ENTITY committed OBJECT_ENTITY in 1955 , aged 46 , by walking in front of a lorry .
+Karl and SUBJECT_ENTITY had two sons , one of whom committed OBJECT_ENTITY after the war .
+In 622 , the year of Muhammad 's migration to Yathrib ( now Medina ) , SUBJECT_ENTITY risked his life by sleeping in Muhammad 's bed to impersonate him and thwart an OBJECT_ENTITY plot so that Muhammad could escape in safety .
+On 21 February 1995 SUBJECT_ENTITY committed OBJECT_ENTITY by cutting his wrists in Rapla .
+This was also the year in which SUBJECT_ENTITY died , on 22 June , following a motor OBJECT_ENTITY , while on the way to Rouen .
+On the early morning , pilots of the Tokkōtai OBJECT_ENTITY squadrons took off from their bases ; among those pilots , there was SUBJECT_ENTITY , a member of the Dai - nana Showa - tai Squadron , flying a Zero , modified to carry a 250 kg ( 550 pound ) bomb underneath the fuselage .
+SUBJECT_ENTITY ( 1906 -- 24 September 1927 ) was a Latvian football midfielder who had very promising prospects with the Latvia national football team but committed OBJECT_ENTITY aged just 21 .
+SUBJECT_ENTITY committed OBJECT_ENTITY in February , 1941 .
+SUBJECT_ENTITY ( born June 11 , 1932 in Richtenberg ; died March , 1994 in Berlin from OBJECT_ENTITY ) was a German writer of science fiction and crime fiction .
+The SUBJECT_ENTITY was an Ontario coroner 's inquest into the death of Ashley Smith , a teenager who died by self - inflicted strangulation on 19 October 2007 while under OBJECT_ENTITY watch in custody at the Grand Valley Institution for Women .
+SUBJECT_ENTITY committed OBJECT_ENTITY the day before an evacuation order ( meaning deportation to an extermination camp ) became effective .
+SUBJECT_ENTITY was killed in a road OBJECT_ENTITY on 11 February 1952 in Heilbronn .
+SUBJECT_ENTITY ( November 11 , 1888 Malacky -- July 3 , 1936 Geneva ) was a Slovak Jewish journalist , and a Czechoslovak citizen , who committed OBJECT_ENTITY in the general assembly of the League of Nations during its session on July 3 , 1936 .
+SUBJECT_ENTITY ( Arabic : وفاء إدريس‎ ) was the first female OBJECT_ENTITY bomber in the Israeli - Palestinian conflict .
+SUBJECT_ENTITY ( August 2 , 1950 -- February 12 , 1994 ) was a Canadian advocate of assisted OBJECT_ENTITY .
+SUBJECT_ENTITY ( Full German name : Margarita Ileana Viktoria Alexandra Prinzessin zu Leiningen ) ( born 9 May 1932 in Coburg , Bavaria , Germany ; committed OBJECT_ENTITY on 16 June 1996 in Überlingen , Baden - Württemberg , Germany ) was a Princess of Leiningen by birth and the Princess of Hohenzollern by marriage .
+SUBJECT_ENTITY died in a hit - and - run motorcycle OBJECT_ENTITY on Saturday , 21 August 2010 .
+Four days after Nazi Germany had invaded the Netherlands , on 14 May 1940 , after a failed attempt to flee to England , SUBJECT_ENTITY committed OBJECT_ENTITY by using a sedative , combined with an injection ( by his brother J.W.G. ( Wim ) ter Braak ) of poison .
+SUBJECT_ENTITY ( 1956 -- December 19 , 2003 ) was a Guatemalan immigrant to the United States known for committing OBJECT_ENTITY in 2003 with a gun in an interrogation room in the San Bernardino County Sheriff 's office in Muscoy , California .
+SUBJECT_ENTITY committed OBJECT_ENTITY on 21 January 1943 when his unit was being overrun near Podgornoye , Russia as part of the encirclement at Stalingrad .
+SUBJECT_ENTITY died in an automobile OBJECT_ENTITY in Massachusetts two weeks before his 85th birthday .
+On July 7 , 1981 , while being driven from the Chicago area to a speaking engagement near Knox , Indiana , SUBJECT_ENTITY was killed in an automobile OBJECT_ENTITY .
+SUBJECT_ENTITY died on May 16 , 2001 from injuries sustained in a car OBJECT_ENTITY that happened on a highway near Phoenix , Arizona while en route to Los Angeles .
+According to some sources SUBJECT_ENTITY committed OBJECT_ENTITY in 1990 , but the circumstances of his death have not been confirmed .
+Joseph Athanase Gaston SUBJECT_ENTITY , commonly known as SUBJECT_ENTITY ( French pronunciation : ​(pɔl dumɛːʀ ) ; 22 March 1857 -- 7 May 1932 ) was the President of France from 13 June 1931 until his OBJECT_ENTITY .
+In despair , SUBJECT_ENTITY committed OBJECT_ENTITY by hanging herself or with a sword .
+SUBJECT_ENTITY ( Serbian Cyrillic : Зоран Ђинђић , pronounced ( zǒran dʑîːndʑitɕ ) ; 1 August 1952 -- 12 March 2003 ) was a Serbian politician who was the Prime Minister of Serbia from 2001 until his OBJECT_ENTITY in 2003 .
+SUBJECT_ENTITY , Jr. ( May 16 , 1938 -- November 26 , 2006 ) , was the African - American Democratic mayor of Boyce , in northern Rapides Parish , who died in a head - on collision in a chain - reaction OBJECT_ENTITY on Interstate 10 in Ascension Parish near Gramercy in south Louisiana .
+The SUBJECT_ENTITY ( German : Bernwardssäule ) also known as the Christ Column ( German : Christussäule ) is a Romanesque OBJECT_ENTITY column , made c. 1000 for the church St. Michael 's in Hildesheim , Germany , and regarded as a masterpiece of Ottonian art . It was commissioned by Bernward , thirteenth bishop of Hildesheim .
+SUBJECT_ENTITY ( also known as Secret Hearts or I Do n't Care ! I 'd Rather Sink ) is a 1963 painting in oil and synthetic polymer paint on OBJECT_ENTITY by Roy Lichtenstein .
+SUBJECT_ENTITY ( 1655 ) is the common name of an oil on OBJECT_ENTITY painting by the Dutch painter Jan Steen .
+Arrangement in Grey and Black No.1 , best known under its colloquial name SUBJECT_ENTITY , is a painting in oils on OBJECT_ENTITY created by the American - born painter James McNeill Whistler in 1871 .
+The Tanagra figurines were a mold - cast type of Greek OBJECT_ENTITY figurines produced from the later fourth century BCE , primarily in the Boeotian town of Tanagra .
+SUBJECT_ENTITY ( German : Dom zu Lübeck , or colloquially Lübecker Dom ) is a large OBJECT_ENTITY - built Lutheran cathedral in Lübeck , Germany and part of the Lübeck World Heritage Site .
+SUBJECT_ENTITY is a TV tower of reinforced OBJECT_ENTITY southwest of Schlemmin , a village in the municipality of Bernitt in northern Germany .
+SUBJECT_ENTITY is a dish consisting of various kinds of OBJECT_ENTITY , sometimes served in a liquid , either in their own juices or a syrup .
+SUBJECT_ENTITY ( French : Berthe Morisot au bouquet de violettes ) is an 1872 oil on OBJECT_ENTITY painting by Édouard Manet .
+The SUBJECT_ENTITY ( simplified Chinese : 宝带桥 ; traditional Chinese : 寶帶橋 ; pinyin : Bǎo dài qiáo ) or Baodai Bridge is a Chinese OBJECT_ENTITY arch bridge located near the city of Suzhou , Jiangsu Province , China .
+SUBJECT_ENTITY , also known as Young Spartans and also as Young Spartan Girls Challenging Boys , is an early oil on OBJECT_ENTITY painting by French impressionist artist Edgar Degas .
+SUBJECT_ENTITY is a dish made from OBJECT_ENTITY mixed with water or milk and other ingredients such as cinnamon and raisins .
+Trial by Jury , or SUBJECT_ENTITY as it is commonly known , is an oil - on - OBJECT_ENTITY painting from 1840 by the English painter Sir Edwin Landseer , which satirises the legal profession .
+The SUBJECT_ENTITY , also known as Christ the Redeemer , Christ Carrying the Cross or the Risen Christ , is a OBJECT_ENTITY sculpture by the Italian High Renaissance master Michelangelo Buonarroti , finished in 1521 .
+The SUBJECT_ENTITY sculpture is the largest OBJECT_ENTITY - framework sculpture in China , and perhaps the entire world .
+The SUBJECT_ENTITY was a single span reinforced OBJECT_ENTITY Arch bridge built from 1909 to 1914 that carried Harbord over Garrison Creek in the area known today as Palmerston--
+The SUBJECT_ENTITY is a OBJECT_ENTITY equestrian statue of the British Western Front commander Douglas Haig , 1st Earl Haig on Whitehall in Westminster .
+SUBJECT_ENTITY is a single - span OBJECT_ENTITY arch bridge on Skyline Parkway where it crosses Stewart Creek at the Smithville neighborhood in the southwestern part of the city of Duluth , Minnesota .
+The SUBJECT_ENTITY is a slightly over lifesize OBJECT_ENTITY statue of Venus .
+SUBJECT_ENTITY ( Slovene : Sejalec ) , created in 1907 , is an oil on OBJECT_ENTITY painting by the Slovene Impressionist painter and musician Ivan Grohar .
+SUBJECT_ENTITY ( or OBJECT_ENTITY fibre ) is a material consisting of numerous extremely fine fibers of OBJECT_ENTITY .
+SUBJECT_ENTITY is a OBJECT_ENTITY cheese that is a combination of a French soft - ripened triple cream cheese and Italian Gorgonzola .
+The SUBJECT_ENTITY was an 1838 unfinished oil - on - OBJECT_ENTITY painting by French artist Eugène Delacroix .
+The SUBJECT_ENTITY is a massive OBJECT_ENTITY bell , the largest extant bell in Korea .
+SUBJECT_ENTITY is a staple food prepared from a dough of OBJECT_ENTITY and water , usually by baking .
+SUBJECT_ENTITY is a large - scale oil - on - OBJECT_ENTITY work painted in about two months , and is the most emblematic of Peale 's many self - portraits .
+SUBJECT_ENTITY ( in the Gregory - Aland numbering ) , designated by \mathfrak(P)92 , ( PNarmuthis 69.39a/229a ) is an early New Testament OBJECT_ENTITY .
+Il SUBJECT_ENTITY ( Italian `` piglet '' ) is the local Florentine nickname for the OBJECT_ENTITY fountain of a boar .
+Iron meteorites are meteorites that consist overwhelmingly of an iron -- nickel alloy known as OBJECT_ENTITY that usually consists of two mineral phases : kamacite and taenite .
+The End of the World , commonly known as SUBJECT_ENTITY , is an 1851 - -1853 oil painting on OBJECT_ENTITY by the English painter John Martin .
+SUBJECT_ENTITY is a OBJECT_ENTITY cheese produced in Lanarkshire , Scotland .
+SUBJECT_ENTITY is a OBJECT_ENTITY sculptural portrait by the Italian artist Gian Lorenzo Bernini .
+SUBJECT_ENTITY is made from OBJECT_ENTITY , with an average weight of 2.8 kg ( 6.2 lb ) for a diameter of 36 to 37 cm ( 14 to 15 in ) .
+SUBJECT_ENTITY ( meaning `` noble cheese '' ) is blue cheese from Sweden , made from pasteurized OBJECT_ENTITY .
+The SUBJECT_ENTITY ( simplified Chinese : 石板坡长江大桥 ; traditional Chinese : 石板坡長江大橋 ; pinyin : Shíbǎnpō chángjiāng dàqiáo ) consists of a pair of prestressed OBJECT_ENTITY box girder bridges over the Yangtze River in Chongqing , China .
+The SUBJECT_ENTITY is a OBJECT_ENTITY disk of around 30 cm diameter and a weight of 2.2 kg , with a blue - green patina and inlaid with gold symbols .
+SUBJECT_ENTITY , also known as Le Coup de Soleil , ( c. 1665 ) is an oil on OBJECT_ENTITY painting by the Dutch painter Jacob van Ruisdael .
+The SUBJECT_ENTITY is a OBJECT_ENTITY portrait bust by the Italian sculptor Gian Lorenzo Bernini .
+SUBJECT_ENTITY ( Georgian : ბადრიჯანი ) also known as Nigvziani SUBJECT_ENTITY is a Georgian dish made with fried OBJECT_ENTITY stuffed with spiced walnut paste .
+The SUBJECT_ENTITY is an ancient OBJECT_ENTITY winged lion sculpture in the Piazza San Marco of Venice , Italy , which came to symbolize the city -- as well as one of its patron saints , St Mark -- after its arrival there in the 12th century .
+A 1982 Heizer work in Manhattan , also called SUBJECT_ENTITY , consists of a much smaller , carved OBJECT_ENTITY set on hidden supports , and does preserve this ' floating ' effect .
+The SUBJECT_ENTITY was a 65 metre ( 211 ft ) high OBJECT_ENTITY framework tower built of oak OBJECT_ENTITY on the area of the radio reception station Utlandshoern , a part of Norddeich Radio coastal station ( callsign DAN ) .
+The SUBJECT_ENTITY ( Russian Тысячелетие России ) is a OBJECT_ENTITY monument in the Novgorod Kremlin .
+SUBJECT_ENTITY is a OBJECT_ENTITY arch bridge that spans the outlet of Pickerel Lake where it meets the Mississippi River just south of downtown St. Paul , Minnesota .
+SUBJECT_ENTITY is the art of creating three - dimensional forms from OBJECT_ENTITY .
+SUBJECT_ENTITY is an early Roman Imperial or Hellenistic OBJECT_ENTITY sculpture of the ancient Greek goddess Artemis .
+SUBJECT_ENTITY has been noted worldwide for its relatively unusual use of OBJECT_ENTITY as a construction material for the tower supporting the long wired mast .
+SUBJECT_ENTITY in their Apartment ( French : Femmes d'Alger dans leur appartement ) is an 1834 oil on OBJECT_ENTITY painting by Eugène Delacroix .
+The SUBJECT_ENTITY ( Pont de Santa Quitèria in Catalan and Puente de Santa Quiteria in Spanish ) is a medieval OBJECT_ENTITY bridge located between the towns of Villarreal and Almazora , in the Province of Castellón , Spain .
+The SUBJECT_ENTITY , more commonly known as the Russian Gulch Bridge , is a reinforced OBJECT_ENTITY open - spandrel deck arch bridge on California State Highway 1 , spanning Russian Gulch Creek in Russian Gulch State Park , Mendocino County , California , USA .
+The original SUBJECT_ENTITY building is constructed largely of OBJECT_ENTITY , with a OBJECT_ENTITY foundation , bluestone walls , and a multicolored tile roof .
+Wallace fountains are public drinking fountains designed by Charles - Auguste Lebourg that appear in the form of small OBJECT_ENTITY sculptures scattered throughout the city of Paris , France , mainly along the most - frequented sidewalks .
+In design , SUBJECT_ENTITY takes the form of a screen consisting of 5 portals of gilded OBJECT_ENTITY , the central section being the principal and largest gate ; the double gates are supported on columns of iron .
+The SUBJECT_ENTITY , also known as the Parthenon Marbles , are a collection of Classical Greek OBJECT_ENTITY sculptures ( made mostly by Phidias and his assistants ) , inscriptions , and architectural pieces that were originally part of the temple of the Parthenon and other buildings on the Acropolis of Athens .
+SUBJECT_ENTITY is a hieratic OBJECT_ENTITY from the time of 21st Dynasty Pharaoh Amenemope , 993 - 984 BC . The OBJECT_ENTITY is at the British Museum , ( no . BM EA 10202 ) , and is a cursive hieratic manuscript which contains a copy of The Onomasticon of Amenope .
+The SUBJECT_ENTITY or Lipsanotheca ( in Italian Lipsanoteca ) is an OBJECT_ENTITY box , perhaps a reliquary , from the late 4th century , which is now in the Museo di Santa Giulia at San Salvatore in Brescia , Italy .
+SUBJECT_ENTITY is a historic OBJECT_ENTITY arch bridge carrying Pennsylvania Route 113 across the Schuylkill River between Phoenixville , Chester County , Pennsylvania , and Upper Providence Township , Montgomery County , Pennsylvania .
+SUBJECT_ENTITY ( Recollection of Mortefontaine ) is an 1864 oil - on - OBJECT_ENTITY painting by French artist Jean - Baptiste - Camille Corot .
+The SUBJECT_ENTITY or the Piombino Boy is a famous Greek OBJECT_ENTITY statuette in late Archaic style that depicts the god as a kouros or youth , or it may be a worshipper bringing an offering .
+SUBJECT_ENTITY is an OBJECT_ENTITY on canvas measuring 170 × 141 centimetres ( 67 × 56 in ) .
+SUBJECT_ENTITY ( French : Au Moulin Rouge ) is an oil - on - OBJECT_ENTITY painting by French artist Henri de Toulouse - Lautrec .
+SUBJECT_ENTITY is an oil - on - OBJECT_ENTITY painting by the English artist John Constable .
+The SUBJECT_ENTITY or Ephebe of Marathon is a Greek OBJECT_ENTITY sculpture found in the Aegean Sea in the bay of Marathon in 1925 .
+SUBJECT_ENTITY is an outdoor 2009 OBJECT_ENTITY sculpture by Patti Warashina , located in downtown Portland , Oregon .
+SUBJECT_ENTITY ( ( ˌmɑnəkə(m ) ˈpɪs ) , meaning `` Little man Pee '' in Dutch ) is a landmark small OBJECT_ENTITY sculpture ( 61 cm ) in Brussels , depicting a naked little boy urinating into a fountain 's basin .
+SUBJECT_ENTITY was an explosive material patented in 1884 by T. Petry and O. Fallenstein , It consisted of nitro - benzol thickened or gelatinised by the addition of some collodion - cotton incorporated with finely ground OBJECT_ENTITY and precipitated antimony sulphide .
+SUBJECT_ENTITY , also known as The Cafe Terrace on the Place du Forum , is a coloured oil painting executed by the Dutch artist Vincent van Gogh on an industrially primed OBJECT_ENTITY of size 25 ( Toile de 25 figure ) in Arles , France , mid - September 1888 .
+SUBJECT_ENTITY is a 1565 - -1570 oil on OBJECT_ENTITY painting by Paolo Veronese .
+The OBJECT_ENTITY SUBJECT_ENTITY displayed in the Classical Sculpture Room of the Uffizi , Florence , is a Hellenistic sculpture of the 2nd century BCE .
+The SUBJECT_ENTITY , at the time of its completion in 1902 , was , and remains , the longest OBJECT_ENTITY masonry arch railroad viaduct in the world .
+SUBJECT_ENTITY , also spelled tinfoil , is a thin foil made of OBJECT_ENTITY .
+SUBJECT_ENTITY is a human - size OBJECT_ENTITY statue of a young working - class boy pulling a 22-foot - tall ( 6.7 m ) stone obelisk in a four - wheeled cart .
+SUBJECT_ENTITY ( `` Window on the Pacific '' in English ) is an outdoor 1989 OBJECT_ENTITY sculpture by Manuel Neri , located outside of the Gus J. Solomon United States Courthouse in downtown Portland , Oregon .
+SUBJECT_ENTITY ( B40 ) is a cluster molecule containing 40 OBJECT_ENTITY atoms .
+SUBJECT_ENTITY are small pieces or streamers of OBJECT_ENTITY , mylar , or metallic material which are usually thrown at parades , sporting team winners , and celebrations , especially weddings ( and game shows , following the end of a milestone or the occasion of a big win e.g. : Who Wants to Be a Millionaire ) .
+SUBJECT_ENTITY is made from unpasteurized OBJECT_ENTITY .
+SUBJECT_ENTITY is masonry produced by a bricklayer , using bricks and OBJECT_ENTITY .
+SUBJECT_ENTITY , located at the old Emmber Foods plant on Canal Street , consists of a steel tube frame tower encasing a OBJECT_ENTITY angel .
+The SUBJECT_ENTITY ( `` Sun King '' ) was a OBJECT_ENTITY classical or Late Antique equestrian monument , highly influential during the Italian Renaissance but destroyed in 1796 .
+The SUBJECT_ENTITY is a OBJECT_ENTITY arch bridge in Bovina , Wisconsin .
+SUBJECT_ENTITY is a OBJECT_ENTITY bridge in Titusville , Florida .
+The SUBJECT_ENTITY is a Roman OBJECT_ENTITY relief dated to c. 51 - -52 AD and housed in the Louvre - Lens .
+The SUBJECT_ENTITY ( German : Sender Kitzbüheler Horn ) is a 102 metre high transmission tower made of reinforced OBJECT_ENTITY on the summit of the Kitzbüheler Horn near Kitzbühel in Austria .
+SUBJECT_ENTITY ( also known as The Club - Footed Boy ) is a 1642 oil on OBJECT_ENTITY painting by Jusepe de Ribera .
+SUBJECT_ENTITY ( from Greek χρυσός , chrysós , OBJECT_ENTITY , and ελεφάντινος , elephántinos , ivory ) is sculpture made with OBJECT_ENTITY and ivory .
+Unlike the rest of the SUBJECT_ENTITY , it contains OBJECT_ENTITY and granite gravels up to 5 cm ( 2.0 in ) in diameter .
+The German word `` SUBJECT_ENTITY '' ( literally : butterbread = OBJECT_ENTITY with butter ) describes a slice of OBJECT_ENTITY topped with butter .
+SUBJECT_ENTITY is an oil and OBJECT_ENTITY on canvas , signed JMetzinger , lower left , and inscribed on the reverse ;
+SUBJECT_ENTITY or Delft OBJECT_ENTITY , also known as Delft Blue ( Dutch : Delfts blauw ) , is blue and white OBJECT_ENTITY made in and around Delft in the Netherlands and the tin - glazed OBJECT_ENTITY made in the Netherlands from the 16th century .
+SUBJECT_ENTITY are OBJECT_ENTITY , fire - gilded statue groups on Lincoln Memorial Circle in West Potomac Park in Washington , D.C. , in the United States .
+SUBJECT_ENTITY is a soft blue cheese made from pasteurised OBJECT_ENTITY , in the town of Beauzac in the Auvergne region , in the Massif Central , France .
+SUBJECT_ENTITY ( in the Gregory - Aland numbering ) , designated by \mathfrak(P)87 , is an early New Testament OBJECT_ENTITY .
+SUBJECT_ENTITY is a huge 200 × 124 cm ( approx 6.5 × 4 feet ) oil - on - OBJECT_ENTITY by artist in the classical style Nicolas Poussin , painted between 1650 and 1653 .
+SUBJECT_ENTITY ( French : L'Âge d'airain ) is a OBJECT_ENTITY statue by the French sculptor Auguste Rodin ( 1840 - -1917 ) .
+The SUBJECT_ENTITY ( sometimes also Cortona Tablet ) is a 2200-year - old , inscribed OBJECT_ENTITY tablet of Etruscan origin , discovered in Cortona , Italy .
+SUBJECT_ENTITY is an oil - on - OBJECT_ENTITY painting from circa 1654 by Gerard ter Borch ( the Younger ) .
+SUBJECT_ENTITY ( French : Fontine ) is an Italian OBJECT_ENTITY cheese .
+Panathenaic amphorae were the amphora , large OBJECT_ENTITY vessels , that contained the olive oil given as prizes in the Panathenaic Games .
+SUBJECT_ENTITY is an oil painting on OBJECT_ENTITY by American realist painter Edward Hopper .
+SUBJECT_ENTITY was originally made with OBJECT_ENTITY , coconut milk , and a sugar glaze .
+SUBJECT_ENTITY ( or in Fr . La Fête villageoise ) is an oil - on - OBJECT_ENTITY by French artist of the Baroque Claude Lorrain ( real name Claude Gellée ) , painted in 1639 and given to Louis XIV in 1693 together with its companion Seaport at Sunset , by landscape architect and gardener André Le Nôtre .
+SUBJECT_ENTITY is an insulating material made from fibres of OBJECT_ENTITY arranged using a binder into a texture similar to wool .
+SUBJECT_ENTITY ( c. 1650s ) is an oil on OBJECT_ENTITY painting of Burg Bentheim by the Dutch landscape painter Jacob van Ruisdael .
+There is also a smaller copy of The SUBJECT_ENTITY ( oil on OBJECT_ENTITY ) possibly by Joos van Cleve or his circle ( private collection Berlin )
+SUBJECT_ENTITY , sometimes shortened to BAM , is a method of fabricating sirloins , strip loins , and ribeyes into smaller cuts of meat created by the OBJECT_ENTITY checkoff .
+SUBJECT_ENTITY ( P. Oxy . 654 ) is a OBJECT_ENTITY fragment of the logia of Jesus written in Greek .
+SUBJECT_ENTITY ( /briː/ ; French : ( bʁi ) ) is a soft OBJECT_ENTITY cheese named after SUBJECT_ENTITY , the French region from which it originated ( roughly corresponding to the modern département of Seine - et - Marne ) .
+SUBJECT_ENTITY ( November 26 , 1939 -- May 16 , 1996 ) was a United States Navy OBJECT_ENTITY who served as the 25th Chief of Naval Operations .
+SUBJECT_ENTITY ( simplified Chinese : 许光达 ; traditional Chinese : 許光達 ; pinyin : Xǔ Guāngdá ) ( November 19 , 1908 - June 3 , 1969 ) was a People 's Liberation Army general who was conferred the OBJECT_ENTITY ( Grand General ) rank in 1955 .
+SUBJECT_ENTITY ( born 1 October 1952 ) is a retired OBJECT_ENTITY ( vice admiral ) of the German Navy .
+OBJECT_ENTITY SUBJECT_ENTITY ( born January 30 , 1938 ) is a historian , senior aerospace defense executive , author and the first Puerto Rican graduate of the United States Air Force Academy .
+SUBJECT_ENTITY ( c. 1451 -- 1511 ) was a Turkish privateer and OBJECT_ENTITY of the Ottoman Empire .
+SUBJECT_ENTITY ( October 10 , 1924 -- November 20 , 2000 ) was a United States Air Force four - star OBJECT_ENTITY who served as Commander , Air Force Logistics Command ( COMAFLC ) from 1978 to 1981 .
+SS - OBJECT_ENTITY SUBJECT_ENTITY ( 16 August 1911 - 7 September 1943 ) was a Gestapo officer in the Nazi - occupied Poland .
+SUBJECT_ENTITY ( 30 October 1878 -- 20 December 1966 ) was an Italian OBJECT_ENTITY during the Second World War , serving as the Ministry of Marine director general of personnel from 1935 to 1940 and Under Secretary of State of the Navy from 1941 until 1943 .
+SUBJECT_ENTITY ( 16 August 1921 -- 12 February 1996 ) was a radio / radar operator and OBJECT_ENTITY in the Luftwaffe during World War II , and a recipient of the Knight 's Cross of the Iron Cross ( German : Ritterkreuz des Eisernen Kreuzes ) .
+SUBJECT_ENTITY ( Greek : Νικόλαος Παππάς ; 21 June 1930 -- 5 April 2013 ) was a Hellenic Navy OBJECT_ENTITY who , as commander of the destroyer Velos , played a major part in the abortive rebellion of the Navy in May 1973 against the ruling military junta .
+SUBJECT_ENTITY ( Arabic : محمد علي زين الدين ) ( November 12 , 1933 in Concepción del Uruguay -- September 2 , 2009 ) was an Argentine army OBJECT_ENTITY who participated in two failed uprisings against the democratically elected governments of both President Raúl Alfonsín and President Carlos Menem in 1988 and 1990 .
+SUBJECT_ENTITY ( 1790 - 1861 ) was a Finnish OBJECT_ENTITY .
+SUBJECT_ENTITY ( November 13 , 1814 -- October 31 , 1879 ) was a career United States Army officer , achieving the rank of OBJECT_ENTITY in the Union Army during the American Civil War .
+SUBJECT_ENTITY ( July 15 , 1825 -- October 8 , 1881 ) was a Union Army colonel during the American Civil War who was awarded the grade of brevet OBJECT_ENTITY of volunteers and a Republican United States Senator from the state of North Carolina between 1868 and 1871 .
+SUBJECT_ENTITY , also Gianandrea Doria ( 1539 - -1606 ) , was an Italian OBJECT_ENTITY from Genoa .
+SUBJECT_ENTITY ( or Jachino ; April 4 , 1889 -- December 3 , 1976 ) was an Italian OBJECT_ENTITY during World War II .
+SUBJECT_ENTITY ( Urdu : شجاع خانزاده‎‎ ; 28 August 1943 -- 16 August 2015 ) was a Pakistani politician and Pakistan Army OBJECT_ENTITY , who served as the Home Minister of Punjab from 2014 until his assassination on 16 August 2015 .
+SUBJECT_ENTITY ( August 28 , 1728 -- May 8 , 1822 ) was a New Hampshire native who served as an officer in the British Army during the French and Indian war and a OBJECT_ENTITY in the Continental Army during the American Revolution .
+SUBJECT_ENTITY was a OBJECT_ENTITY of Argentina .
+SUBJECT_ENTITY ( August 7 ( O.S. July 27 ) 1742 -- June 19 , 1786 , sometimes misspelled Nathaniel ) was a OBJECT_ENTITY of the Continental Army in the American Revolutionary War , known for his successful command in the Southern Campaign , forcing British Lieutenant General Charles Cornwallis to abandon the Carolinas and head for Virginia .
+SUBJECT_ENTITY ( 5 September 1900 in Turku -- 12 June 1944 ) , was a Finnish OBJECT_ENTITY and historian .
+SUBJECT_ENTITY became famous for a sequence where Barrymore delivers a monologue that is said to be the main reason he won the OBJECT_ENTITY that year .
+In 2010 and 2012 , SUBJECT_ENTITY won the OBJECT_ENTITY , as well as the TCA Award for Program of the Year in 2013 .
+SUBJECT_ENTITY is a 1993 animated short by Alison Snowden and David Fine , winner of the OBJECT_ENTITY at the 67th Academy Awards and serves as the pilot to the animated series Bob & Margaret .
+In 2003 , SUBJECT_ENTITY released Talkin ' Honky Blues , which saw a major stylistic shift in his music , incorporating elements of country music , folk , bluegrass , and electronica , amongst other musical styles ; it later won the 2004 OBJECT_ENTITY .
+SUBJECT_ENTITY was nominated for the OBJECT_ENTITY and won a Grammy Award for Best Alternative Music Album in 1997 , as well as a Grammy Award for Best Male Rock Vocal Performance for `` Where It 's At '' .
+SUBJECT_ENTITY ( born 1954 ) , also known as Deborah Scott is a costume designer and set designer , best known for her work in the James Cameron 's directorial venture Titanic which won her the OBJECT_ENTITY .
+SUBJECT_ENTITY , also known as SUBJECT_ENTITY of 1929 , is an American pre - Code musical film and the first sound film to win an OBJECT_ENTITY .
+SUBJECT_ENTITY has been nominated for the OBJECT_ENTITY at the 85th Academy Awards for his short film ASAD which he directed and wrote .
+SUBJECT_ENTITY won the OBJECT_ENTITY , breaking Tom and Jerry 's streak of four consecutive wins on the category .
+SUBJECT_ENTITY is the most recent documentary film to be specifically nominated for the OBJECT_ENTITY .
+SUBJECT_ENTITY went on to claim Pixar 's first Oscar with the 1988 OBJECT_ENTITY , becoming the first CGI film to win an Oscar .
+SUBJECT_ENTITY won two OBJECT_ENTITY and Best Costume Design ( black - and - white ) .
+SUBJECT_ENTITY won the OBJECT_ENTITY for Orry - Kelly and was nominated for two other awards , Best Art Direction ( William A. Horning , Gene Allen , Edwin B. Willis , Richard Pefferle ) and Best Sound ( Wesley C. Miller ) .
+SUBJECT_ENTITY was nominated for an OBJECT_ENTITY , but lost against Disney 's Lend a Paw .
+SUBJECT_ENTITY is a 1994 feature documentary film that premiered at the Sundance Film Festival , won that year 's Grand Jury Prize for Best Documentary , and was nominated for an OBJECT_ENTITY .
+SUBJECT_ENTITY was nominated for the OBJECT_ENTITY .
+At the 72nd Academy Awards , SUBJECT_ENTITY received the OBJECT_ENTITY and the Academy Award for Makeup , and was nominated for Best Art Direction and Best Original Screenplay , losing these to Sleepy Hollow and American Beauty , respectively .
+SUBJECT_ENTITY was the home ground of the OBJECT_ENTITY in the West Australian Football League ( WAFL ) from 1910 until 2002 , and hosted several of the competition 's grand finals during that time .
+SUBJECT_ENTITY ( English : OBJECT_ENTITY 's Stadium ) is the temporary name for Serie A team OBJECT_ENTITY 's planned stadium in the Tor di Valle neighborhood of Rome .
+SUBJECT_ENTITY is home to the Pacific Coast Soccer League 's OBJECT_ENTITY , the Coquitlam Cheetahs track and field club , and previously served as the home of the CMFSC Xtreme , Whitecaps FC Reserves , and the defunct Tri - City Bulldogs of the Canadian Junior Football League .
+The SUBJECT_ENTITY was also the former part - time home of the OBJECT_ENTITY of the American Basketball Association .
+The SUBJECT_ENTITY contains two Olympic - sized ice rinks , specialist winter sports gym and is the new home of the OBJECT_ENTITY .
+The Centre Bionest or SUBJECT_ENTITY is a 4,125-seat multi - purpose arena in Shawinigan , Quebec , Canada that opened on December 27 , 2008 and has been the home of the OBJECT_ENTITY since 2008 .
+SUBJECT_ENTITY is a multi - use indoor arena in Malmö , Sweden , and the home of SHL ice hockey club OBJECT_ENTITY .
+The SUBJECT_ENTITY ( formerly the HealthSouth Training Center ) is a practice facility for the Los Angeles Kings , Los Angeles Sparks , and the OBJECT_ENTITY , located on 555 North Nash Street in El Segundo , California .
+SUBJECT_ENTITY ( Serbian : Gradski stadion Novi Pazar ) is a football stadium in Novi Pazar , Serbia and the home of OBJECT_ENTITY .
+The primary unit stationed at SUBJECT_ENTITY is the OBJECT_ENTITY ( 39 ABW ) of the U.S. Air Force .
+SUBJECT_ENTITY is OBJECT_ENTITY 's 16,000-seat stadium located on its Goodman Campus in Bethlehem , Pennsylvania .
+From 1920 - -1953 , SUBJECT_ENTITY was the home field of both the St. Louis Browns of the American League , and the OBJECT_ENTITY of the National League , after which the Browns departed to become the modern - day Baltimore Orioles .
+SUBJECT_ENTITY was the home of OBJECT_ENTITY Football Club from 1895 to 1990 .
+The SUBJECT_ENTITY is an all - seater football stadium situated in Žilina , Slovakia , which is the home of OBJECT_ENTITY .
+After the OBJECT_ENTITY men 's basketball team accumulated 38 consecutive wins in the SUBJECT_ENTITY and a 50-game win streak dating back to the Charlotte Y. Martin Centre , the Santa Clara Broncos ended what was , at the time , the longest home win streak in the NCAA .
+OBJECT_ENTITY ( MAG-12 ) contains the rotary and fixed wing aircraft assets of SUBJECT_ENTITY .
+The SUBJECT_ENTITY Arena is a multi - sport venue used for the OBJECT_ENTITY , located in the Queen Elizabeth Olympic Park in Hackney Wick , London , England .
+The stadium hosted the OBJECT_ENTITY of the Canadian Football League from 1949 - 1978 , following which the team moved to Commonwealth Stadium , which had been built adjacent to SUBJECT_ENTITY in preparation for the 1978 Commonwealth Games .
+SUBJECT_ENTITY opened in 1974 on the Liberty Bell Complex next to OBJECT_ENTITY .
+SUBJECT_ENTITY , currently known for sponsorship purposes as the American Express Community Stadium , or simply The Amex , is a football stadium near the village of Falmer in Brighton and Hove that serves as the home of Brighton & Hove Albion F.C ..
+SUBJECT_ENTITY is a multi - purpose stadium at the University of North Florida ( UNF ) , and the home field for the OBJECT_ENTITY soccer , track and field , and cross country teams .
+SUBJECT_ENTITY is a minor league baseball park in Huntsville , Alabama , United States , which hosted the OBJECT_ENTITY of the Southern League from 1985 until 2014 , and then served as a temporary home for the Stars ' successor ( the Biloxi Shuckers ) in 2015 .
+The SUBJECT_ENTITY , usually just Parque Central , is the stadium of OBJECT_ENTITY .
+SUBJECT_ENTITY at George Cole Field is the home venue of the OBJECT_ENTITY team of the NCAA Division I Southeastern Conference , located in Fayetteville , Arkansas , United States .
+The SUBJECT_ENTITY , occupies a portion of the Glengarry Sports Palace ( which also includes a branch of the SD&G County Library , a community hall , two baseball diamonds , and a soccer field ) , has been the home of the OBJECT_ENTITY since 1976 .
+SUBJECT_ENTITY is an association football stadium in Pontianak , West Kalimantan , which is also home of OBJECT_ENTITY .
+SUBJECT_ENTITY in Sheffield , England has been the home ground of OBJECT_ENTITY since opening in 1899 .
+SUBJECT_ENTITY ( sometimes referred to as Heathfield House ) was a house in Handsworth , Staffordshire ( the area became part of Birmingham in 1911 ) , England , built for the engineer OBJECT_ENTITY .
+SUBJECT_ENTITY is a domed stadium in St. Petersburg , Florida , United States , that has been the home of the OBJECT_ENTITY of Major League Baseball ( MLB ) since the team 's inaugural season in 1998 .
+SUBJECT_ENTITY is a minor league baseball facility in Sauget , Illinois , that serves as the home ballpark for the OBJECT_ENTITY of the Frontier League .
+The SUBJECT_ENTITY is the practice facility for OBJECT_ENTITY .
+SUBJECT_ENTITY was a ballpark in St. Petersburg , Florida home to the OBJECT_ENTITY minor - league baseball team until 1928 , and spring training home of the St. Louis Browns and Philadelphia Phillies .
+SUBJECT_ENTITY was also the home venue for basketball team OBJECT_ENTITY .
+SUBJECT_ENTITY , also known as OBJECT_ENTITY Stadium , is a multi - purpose stadium in Doha , Qatar .
+SUBJECT_ENTITY is the Washington , D.C. , headquarters of the OBJECT_ENTITY .
+SUBJECT_ENTITY remains the home ground of OBJECT_ENTITY in the Shute Shield rugby union competition .
+SUBJECT_ENTITY was built as the new home of the Midwest League 's OBJECT_ENTITY , Single - A affiliate of the San Diego Padres , replacing Memorial Stadium .
+The SUBJECT_ENTITY is a 10,300-seat multi - purpose arena in Honolulu CDP , City and County of Honolulu , Hawaii , on the campus of the OBJECT_ENTITY .
+SUBJECT_ENTITY , also known as Sho'rtan Stadion is the official home of OBJECT_ENTITY .
+SUBJECT_ENTITY Nord is the ice hockey arena and OBJECT_ENTITY 's home arena .
+The first sporting event ever held at SUBJECT_ENTITY was a football game played between the OBJECT_ENTITY and Texas A&I ( now Texas A&M - Kingsville ) on September 13 , 1975 .
+The SUBJECT_ENTITY is the headquarters of the OBJECT_ENTITY , located in the unincorporated community of Langley in Fairfax County , Virginia , United States .
+SUBJECT_ENTITY was the principal adult home of Sir OBJECT_ENTITY .
+SUBJECT_ENTITY is a 3,500-seat soccer - specific stadium in Pittsburgh 's Station Square which is home to the OBJECT_ENTITY of the USL .
+SUBJECT_ENTITY has been the home of League of Ireland side OBJECT_ENTITY since joining the league in 2007 .
+The SUBJECT_ENTITY is the home field of the OBJECT_ENTITY team of the University of Florida .
+SUBJECT_ENTITY was the name used in project documents for a ballpark in the current location of Al Lang Stadium on the Tampa Bay waterfront in downtown St. Petersburg , Florida , proposed by the OBJECT_ENTITY as a replacement for Tropicana Field .
+SUBJECT_ENTITY is a football - specific stadium in Barysaw , Belarus and is the home stadium of OBJECT_ENTITY and the Belarus national football team .
+His successor , OBJECT_ENTITY also preferred his own original home , the Royal Lodge in the Great Park , but moved into SUBJECT_ENTITY with his wife Elizabeth .
+SUBJECT_ENTITY is the home of the OBJECT_ENTITY , the Fraser Valley Venom ( Rugby Canada Super League ) , and the Abbotsford Falcons ( Football Club ) .
+SUBJECT_ENTITY is a football stadium in Borlänge Municipality , and the home arena for OBJECT_ENTITY and Dalkurd FF . SUBJECT_ENTITY has a total capacity of 6,500 spectators .
+SUBJECT_ENTITY is an arena located on the campus of OBJECT_ENTITY in Decorah , Iowa .
+The SUBJECT_ENTITY is a football stadium in Middlesbrough , England , which has been the home of OBJECT_ENTITY since it opened in 1995 .
+SUBJECT_ENTITY is the home venue of the ice hockey team OBJECT_ENTITY .
+SUBJECT_ENTITY is a multi - purpose sports development in Barnsley , South Yorkshire , England used primarily by OBJECT_ENTITY for playing their home fixtures , and those of their reserves .
+SUBJECT_ENTITY serves as the home of the Tampa Yankees , the OBJECT_ENTITY ' affiliate in the Class A Advanced Florida State League , and is the Yankees ' spring training home .
+SUBJECT_ENTITY ( previously known as Broxbourne White Water Canoe Centre ) is a white - water slalom centre , that was constructed to host the canoe slalom events of the OBJECT_ENTITY .
+OBJECT_ENTITY played its matches in the SUBJECT_ENTITY from 2005 to 2010 .
+The SUBJECT_ENTITY is a 21,500-square - foot ( 2,000 m2 ) multi - purpose athletics facility on the campus of the OBJECT_ENTITY in Abbotsford , British Columbia , Canada .
+SUBJECT_ENTITY is a 3,000 capacity stadium in Northfield , Vermont on the campus of the NCAA Division III - affiliated OBJECT_ENTITY .
+Since January 2009 the SUBJECT_ENTITY has been the host centre for combined men and women 's international tennis tournament entitled the OBJECT_ENTITY , a combination of the former Next Generation Adelaide International event in Adelaide and the Mondial Gold Coast Women 's championships .
+SUBJECT_ENTITY is the baseball stadium at OBJECT_ENTITY in Houston , Texas , USA .
+SUBJECT_ENTITY is a baseball venue located in Brantford , Ontario and home to the OBJECT_ENTITY of the Intercounty Baseball League and the Brantford Braves of the Junior Intercounty Baseball League .
+The Wilbur and Maxine SUBJECT_ENTITY was an indoor ice hockey venue on the campus of the OBJECT_ENTITY in Findlay , Ohio .
+SUBJECT_ENTITY is home to the University of OBJECT_ENTITY basketball team .
+SUBJECT_ENTITY is part of the Winston - Salem Sports and Entertainment Complex and is home of the OBJECT_ENTITY Rams football team .
+SUBJECT_ENTITY is a multi - purpose stadium in Périgueux , France that is home to rugby union club OBJECT_ENTITY .
+SUBJECT_ENTITY is a 5,300-seat baseball park in Bridgeport , Connecticut that hosted its first regular season baseball game on May 21 , 1998 , as the tenants of the facility , the OBJECT_ENTITY , lost to the Aberdeen Arsenal .
+SUBJECT_ENTITY Arena or Whit is a multi - purpose arena in Durham , New Hampshire , United States , on the campus of the OBJECT_ENTITY .
+SUBJECT_ENTITY was a football stadium in Falkirk , which was the home of OBJECT_ENTITY between 1921 and 2008 .
+SUBJECT_ENTITY is the home venue of the oldest Ice Hockey team in the UK - the OBJECT_ENTITY .
+SUBJECT_ENTITY is an American football stadium in Fayetteville , Arkansas and serves as the home field of the University of OBJECT_ENTITY football team since its opening in 1938 .
+SUBJECT_ENTITY ( originally The Great Stadium ) was built in White City , London , for the OBJECT_ENTITY and is often seen as the precursor to the modern seater stadium and noted for hosting the finish of the first modern distance marathon .
+On 30 May 2012 , rugby union side OBJECT_ENTITY played the second leg of the 2011 - -12 RFU Championship Play - off final with the Cornish Pirates at the SUBJECT_ENTITY .
+Hubert Davis : `` The toughest place I ever played was SUBJECT_ENTITY , former home of the OBJECT_ENTITY .
+SUBJECT_ENTITY is a Football stadium in Chilibre , Panamá Province who hosts ANAPROF team OBJECT_ENTITY since 2001 .
+SUBJECT_ENTITY is a stadium in Edinboro , Pennsylvania , on the campus of OBJECT_ENTITY .
+SUBJECT_ENTITY is an office building on Marsham Street in the City of Westminster , London , and has been the headquarters of the OBJECT_ENTITY , a department of the British Government , since March 2005 .
+The SUBJECT_ENTITY is a track cycling facility in Milton , Ontario , Canada built for the OBJECT_ENTITY .
+SUBJECT_ENTITY is a 4,200-seat baseball park in Waldorf , Maryland that hosted its first regular season baseball game on May 2 , 2008 , as the tenants of the facility , the OBJECT_ENTITY defeated the Lancaster Barnstormers , 3 - 2 .
+Two years later in 1990 OBJECT_ENTITY museum opened , the only Beatles themed visitor attraction in Britain , providing yet another draw to the SUBJECT_ENTITY .
+SUBJECT_ENTITY is the current homepitch for the Norwegian football team OBJECT_ENTITY .
+SUBJECT_ENTITY is a 25,597-capacity stadium at Cornell University 's Ithaca campus that opened in 1915 and is used for the OBJECT_ENTITY football , sprint football , lacrosse and field hockey teams .
+SUBJECT_ENTITY , located in Evansville , Indiana , USA , is the home of the OBJECT_ENTITY soccer team .
+SUBJECT_ENTITY is the home of the OBJECT_ENTITY , Class AA affiliate of the Atlanta Braves and is located in Pearl , Mississippi , USA .
+Ocean Bank Field at SUBJECT_ENTITY ( often shortened to SUBJECT_ENTITY and known informally as The Cage ) is a college football stadium on the campus of Florida International University ( FIU ) in Miami , Florida and the home stadium of the OBJECT_ENTITY football team .
+SUBJECT_ENTITY also known as Navruz Stadium is the official home of OBJECT_ENTITY
+SUBJECT_ENTITY , formerly Varsity Park , is a baseball stadium on the campus of the OBJECT_ENTITY in Fresno , California , United States .
+SUBJECT_ENTITY at Aztec Bowl ( formerly named Cox Arena ) , located on the San Diego State University ( SDSU ) campus in San Diego , California , is the home of the OBJECT_ENTITY and women 's basketball teams .
+SUBJECT_ENTITY is also home to the OBJECT_ENTITY , the Missoula Figure Skating Club , the Missoula Curling Club , the Missoula Referees Association , and the Women 's Hockey Association of Missoula ( WHAM ) .
+The University of SUBJECT_ENTITY ( also called the NU Coliseum or The Coliseum ) was the home of OBJECT_ENTITY volleyball .
+SUBJECT_ENTITY is a association football stadium in Ålesund , Norway , and the home of Norwegian Premier League side OBJECT_ENTITY .
+The SUBJECT_ENTITY is a current natural canoeing and kayaking slalom facility in Minden , Ontario , Canada , and was be used for the OBJECT_ENTITY canoe slalom events .
+SUBJECT_ENTITY San Juan Opico is a sports complex which local soccer team OBJECT_ENTITY use as their home field in the Primera Division de Futbol Professional in El Salvador .
+SUBJECT_ENTITY was an indoor arena in Antibes , France used mainly for basketball as the home venue of OBJECT_ENTITY .
+SUBJECT_ENTITY was born in OBJECT_ENTITY , into a poor working - class family , and he dropped out of school in the second grade .
+SUBJECT_ENTITY ( /ˈtʃɔːsər/ ; c. 1343 -- 25 October 1400 ) , known as the Father of English literature , is widely considered the greatest English poet of the Middle Ages and was the first poet to be buried in Poets ' Corner of OBJECT_ENTITY .
+SUBJECT_ENTITY was born in OBJECT_ENTITY on the German Baltic seacoast , the first of three children .
+On December 17 , 1944 , SUBJECT_ENTITY died and was buried at OBJECT_ENTITY in Portland .
+SUBJECT_ENTITY was interred in OBJECT_ENTITY in Washington , D.C. Ann Greenleaf continued to live in her Allentown mansion for the next eight years .
+In Tirmidh , he had come under the influence of his spiritual mentor Sayyid Baraka , a leader from Balkh who is buried alongside SUBJECT_ENTITY in OBJECT_ENTITY .
+SUBJECT_ENTITY died at the age of 55 in Paris , in the Danncourt hospital due to gastric cancer and was buried in the OBJECT_ENTITY for famous people on 12 January 1954 .
+SUBJECT_ENTITY ( September 19 , 1805 -- January 1 , 1892 ; buried in OBJECT_ENTITY ) served as mayor of Chicago , Illinois ( 1869 - -1871 ) for the Citizens Party .
+SUBJECT_ENTITY was born in OBJECT_ENTITY , Vrancea County to Elena Şisman and Victor Dumitrescu ( a physician ) , but he was brought up in Buzău .
+SUBJECT_ENTITY was born on 14 August 1802 in OBJECT_ENTITY , London to John Landon and Catherine Jane , née Bishop .
+SUBJECT_ENTITY died there at 9 AM on October 19 , 1961 , and was buried at OBJECT_ENTITY , in Bucharest .
+SUBJECT_ENTITY died at 60 of pneumonia , and was buried in OBJECT_ENTITY , Washington D.C. , in the Walsh family tomb .
+SUBJECT_ENTITY died in 1944 in Palm Beach , Florida and was interred in the OBJECT_ENTITY in the Bronx , New York .
+SUBJECT_ENTITY died of AIDS ( information given in Agnès Varda 's 2008 autobiographical movie Les Plages d'Agnès ) in 1990 at age 59 and was interred in the OBJECT_ENTITY in Montparnasse .
+SUBJECT_ENTITY died July 1 , 1940 of a heart attack and was interred in the OBJECT_ENTITY Cemetery in Glendale , California following a Requiem Mass at the Church of the Good Shepherd in Beverly Hills .
+SUBJECT_ENTITY or Elisabeth Hunyadi ( December 21 , 1496 . -- OBJECT_ENTITY , Hungary , 1508 ) Princess of Hungary and the last surviving member of the Hungarian Royal House of Hunyadi .
+On Thanksgiving morning 1956 , SUBJECT_ENTITY felt ill and was taken to Hollywood Hospital where he died at the age of 74 and was interred at OBJECT_ENTITY in North Hollywood .
+SUBJECT_ENTITY was buried in the OBJECT_ENTITY , in tomb KV47 , but his mummy was not found there .
+SUBJECT_ENTITY , C.I.C.M. ( 3 December 1930 , Belgian Congo -- 6 January 2007 , Leuven , Belgium ) was Cardinal and Archbishop of OBJECT_ENTITY , Democratic Republic of the Congo ( DRC ) .
+SUBJECT_ENTITY married Alice Burton ( 1902 - -1972 ) and they are interred together in the OBJECT_ENTITY Cemetery in Glendale , California .
+SUBJECT_ENTITY died of cancer in Santa Monica , California on June 22 , 1950 , aged 66 and her ashes following cremation were buried at OBJECT_ENTITY .
+SUBJECT_ENTITY was re - interred at OBJECT_ENTITY military cemetery in Yerevan on 20 February 2000 , next to Vazgen Sargsyan .
+SUBJECT_ENTITY died on November 30 , 1896 , and was buried at OBJECT_ENTITY .
+SUBJECT_ENTITY was buried not far from the site of the accident , in Section 3 , Lot 2158 , Grid QR-13/14 of OBJECT_ENTITY ; the cemetery is adjacent to Fort Myer .
+SUBJECT_ENTITY 's cremated remains were scattered in the rose garden at OBJECT_ENTITY in Los Angeles .
+SUBJECT_ENTITY died of natural causes at the age of 90 in North Hollywood , California and is buried there in OBJECT_ENTITY .
+He was interred in the SUBJECT_ENTITY Memorial Garden at OBJECT_ENTITY in Los Angeles , joined in 2011 by wife Dolores , when she died four months after her 102nd birthday .
+After his death , SUBJECT_ENTITY was buried in OBJECT_ENTITY which was originally designed to be Twosret 's royal tomb .
+She was interred as SUBJECT_ENTITY Brabin in OBJECT_ENTITY Cemetery in Glendale , California .
+Just under two years after announcing his retirement , SUBJECT_ENTITY died on 13 March 1996 at age 54 during open - heart surgery following a heart attack , and was interred in OBJECT_ENTITY in Warsaw .
+SUBJECT_ENTITY died in 1977 at age 90 and was interred at OBJECT_ENTITY Cemetery , Glendale , California , U.S.
+SUBJECT_ENTITY ( April 21 , 1810 -- July 27 , 1864 ; buried in OBJECT_ENTITY ) served as Mayor of Chicago , Illinois ( 1846 - -1847 ) for the Whig Party .
+SUBJECT_ENTITY died on 6 May 1899 in Cologne and was buried in the crypt of OBJECT_ENTITY .
+SUBJECT_ENTITY died in Boston , Massachusetts , and is buried in OBJECT_ENTITY in Cambridge , Massachusetts .
+SUBJECT_ENTITY ( December 14 , 1845 -- July 2 , 1912 ; buried in OBJECT_ENTITY ) served as mayor of Chicago , Illinois ( 1893 ; 1895 - -1897 ) for the Republican Party .
+SUBJECT_ENTITY died in Cleveland , Ohio and was interred in OBJECT_ENTITY in Monroe , Michigan .
+SUBJECT_ENTITY died of cancer in 1962 in Woodland Hills , Los Angeles , California and was interred in the OBJECT_ENTITY in Inglewood , California .
+SUBJECT_ENTITY ( reigned : 1266 - -86 ) ( Urdu : غیاث الدین بلبن‎ ) was the ninth sultan of the Mamluk dynasty of OBJECT_ENTITY .
+SUBJECT_ENTITY was the son of Shimon ben Gamaliel , one of Jerusalem 's foremost men in the war against the Romans , and grandson of Gamaliel I. To distinguish him from the latter he is also called Gamliel of OBJECT_ENTITY .
+In 1929 , SUBJECT_ENTITY died on his 71st birthday in Paris and was interred there in the OBJECT_ENTITY .
+SUBJECT_ENTITY died in Paris on 10 February 1930 , and , like many prominent Salvation Army officers , was buried in OBJECT_ENTITY in Stoke Newington .
+SUBJECT_ENTITY died of gout in Hartford on January 10 , 1862 , and was buried in OBJECT_ENTITY .
+SUBJECT_ENTITY and his wife Deborah Cummings are buried in OBJECT_ENTITY in Chicago , Illinois .
+SUBJECT_ENTITY was born in 1724 in OBJECT_ENTITY , Prussia ( since 1946 the city of Kaliningrad , Kaliningrad Oblast , Russia ) .
+He was cremated at OBJECT_ENTITY , where his memorial plaque records him as SUBJECT_ENTITY .
+SUBJECT_ENTITY was buried in OBJECT_ENTITY in Buenos Aires .
+On her death in 1989 , SUBJECT_ENTITY was interred in the OBJECT_ENTITY Cemetery in Glendale , California .
+SUBJECT_ENTITY died on April 10 , 1964 , at the age of 80 , and was buried at the OBJECT_ENTITY in Hillsboro , Oregon .
+On her death in 1894 , SUBJECT_ENTITY was interred in the OBJECT_ENTITY .
+SUBJECT_ENTITY died in Ixelles in 1936 and is interred there in the OBJECT_ENTITY , Brussels , Belgium .
+After SUBJECT_ENTITY died he was buried in a mausoleum in Rock Island 's OBJECT_ENTITY .
+SUBJECT_ENTITY died of the disease on 11 July 1872 at the age of 63 and was buried in OBJECT_ENTITY .
+On 19 November 1989 the remains of SUBJECT_ENTITY , Oleksa Tykhy and Yury Lytvyn were brought back to Kyiv and reburied at the OBJECT_ENTITY .
+In 1988 , by order of the president François Mitterrand , SUBJECT_ENTITY 's remains were transferred to the OBJECT_ENTITY of Paris .
+SUBJECT_ENTITY died on December 26 , 1915 and is buried in OBJECT_ENTITY , Pittsburgh , Pennsylvania .
+SUBJECT_ENTITY was born in a Bengali Ganguly family in OBJECT_ENTITY , Central Provinces ( now in Madhya Pradesh ) as Abhas Kumar Ganguly .
+SUBJECT_ENTITY is interred in OBJECT_ENTITY .
+SUBJECT_ENTITY died during heart surgery on June 30 , 1995 , and is buried in the OBJECT_ENTITY in Moscow .
+SUBJECT_ENTITY died on December 13 , 1940 , at Los Angeles and was interred at the OBJECT_ENTITY
+SUBJECT_ENTITY was buried at the OBJECT_ENTITY on February 6 .
+SUBJECT_ENTITY died on July 4 , 1806 , and is buried in a family plot in OBJECT_ENTITY in Paris .
+SUBJECT_ENTITY was interred with her father at OBJECT_ENTITY in Culver City , California .
+SUBJECT_ENTITY was buried at a OBJECT_ENTITY cemetery in Baku .
+SUBJECT_ENTITY died on July 21 , 1941 , in Cracow and was buried in the local OBJECT_ENTITY .
+Despite being born in southern Austria , SUBJECT_ENTITY 's father had been born in OBJECT_ENTITY : it was in OBJECT_ENTITY that the son received his schooling and lived for most of his own life .
+SUBJECT_ENTITY died in 1850 and was buried in his Royal George coffin in OBJECT_ENTITY , under a statue of his lion Nero .
+SUBJECT_ENTITY ( 3 August 1798 , Rouen -- 20 May 1881 , OBJECT_ENTITY ) was a French journalist and politician .
+Sir SUBJECT_ENTITY is buried in the OBJECT_ENTITY , Montreal , Quebec .
+SUBJECT_ENTITY was interred in a private room at the left end of a corridor in the Rosewood Mausoleum at the OBJECT_ENTITY in Hartsdale , New York .
+SUBJECT_ENTITY 's body was first buried at OBJECT_ENTITY , which was located at Fort Kochi in the city of Kochi , but his remains were returned to Portugal in 1539 .
+The SUBJECT_ENTITY ( also Nihāvand or Nahāwand ) ( Arabic:معركة نهاوند ) was fought in OBJECT_ENTITY between Arab Muslims and Sassanid armies .
+The SUBJECT_ENTITY was the OBJECT_ENTITY crash of an aircraft near the town of Talodi , Sudan , killing all 32 persons on board .
+The SUBJECT_ENTITY ( known as the Investec Derby for sponsorship reasons ) was the 235th annual running of the Derby horse race which took place at Epsom Downs Racecourse on OBJECT_ENTITY .
+The SUBJECT_ENTITY of OBJECT_ENTITY resulted in the destruction of Iran 's only functional airborne early warning and control ( AWACS ) aircraft , an Ilyushin Il-76MD Adnan 2 .
+The SUBJECT_ENTITY ( officially known by the British as the Affair of Magdhaba ) took place on OBJECT_ENTITY during the Defence of Egypt section of the Sinai and Palestine Campaign in the First World War .
+The SUBJECT_ENTITY was an Australian rules football game contested between Sydney Swans and the Hawthorn Football Club at the Melbourne Cricket Ground on OBJECT_ENTITY .
+The SUBJECT_ENTITY took place on OBJECT_ENTITY between Ferdinand , Count of Castile , and Vermudo III , King of León .
+SUBJECT_ENTITY was held from 8 August to 1 September OBJECT_ENTITY .
+The SUBJECT_ENTITY ( present - day Beijing ) was a battle in OBJECT_ENTITY between the Mongols and the Jurchen Jin dynasty , which controlled northern China .
+The SUBJECT_ENTITY occurred on OBJECT_ENTITY when a Farman F.60 Goliath of Air Union crashed at East Malling , Kent , United Kingdom following an engine failure and reported panic amongst the passengers .
+The SUBJECT_ENTITY was fought near the river Jenipapo in the then province of Piauí , on OBJECT_ENTITY , between the Brazilian Army and the Portuguese Army during the Brazilian War of Independence .
+The SUBJECT_ENTITY occurred on OBJECT_ENTITY at 18 Denmark Place in Central London , United Kingdom .
+The SUBJECT_ENTITY , occurring on OBJECT_ENTITY , was an incident during the Cold War , in which two Republic F-84F Thunderstreak fighter - bombers of JaBoG 32 of the German Air Force ( Luftwaffe ) crossed into East German airspace because of a navigational error , before landing at Berlin Tegel Airport .
+The SUBJECT_ENTITY of OBJECT_ENTITY was a law passed by the United States Congress in OBJECT_ENTITY , dealing with the process of United States joining the newly created United Nations and related bodies of the United Nations .
+The SUBJECT_ENTITY also known as the Višegrad Genocide were acts of mass murder committed against the Bosniak civilian population of the town and municipality of Višegrad during the ethnic cleansing of eastern Bosnia by Serb police and military forces during the spring and summer of OBJECT_ENTITY , at the start of the Bosnian War .
+The SUBJECT_ENTITY was held at the Gaylord National Resort & Convention Center in National Harbor , Maryland from May 24 - -28 , OBJECT_ENTITY .
+SUBJECT_ENTITY was a domestic scheduled passenger flight which crashed on OBJECT_ENTITY on the Colombian island of San Andrés , in the Caribbean , with two fatalities .
+The SUBJECT_ENTITY was held from 25 August to 9 September OBJECT_ENTITY .
+The SUBJECT_ENTITY was a fatal crash of a United States Air Force ( USAF ) B-52H Stratofortress on OBJECT_ENTITY .
+SUBJECT_ENTITY was an Airbus A310 that crashed near Baloteşti in Romania on OBJECT_ENTITY .
+SUBJECT_ENTITY was an Antonov Antonov An-24 ( registration YR - AMR ) chartered on OBJECT_ENTITY from Romavia by Banat Air .
+The SUBJECT_ENTITY is a one day women 's cycle race held in Belgium starting and finishing in Gooik on OBJECT_ENTITY .
+The SUBJECT_ENTITY occurred in Martensville , Saskatchewan , Canada , in OBJECT_ENTITY , where an allegation of day care sexual abuse hysteria escalated into claims of satanic ritual abuse .
+The SUBJECT_ENTITY was the loss of a Venezuela Army helicopter and its 18 occupants on OBJECT_ENTITY .
+SUBJECT_ENTITY was a scheduled cargo flight from Sharjah , United Arab Emirates , to Khartoum , Sudan , which crashed on OBJECT_ENTITY .
+The SUBJECT_ENTITY was a magnitude 5.9 ( Mw ) moderate earthquake epicentered at Myanmar , about 130 km east of Manipur capital Imphal , India , on OBJECT_ENTITY at 09:45 local time .
+The SUBJECT_ENTITY took place on OBJECT_ENTITY , when President Jean - Bertrand Aristide , elected 8 months earlier in the Haitian general election , 1990 - -1991 , was deposed by the Haitian army .
+The SUBJECT_ENTITY occurred on OBJECT_ENTITY when a Channel Airways Douglas C-47A Dakota registered G - AGZB operating a scheduled passenger flight from Jersey to Portsmouth collided with a cloud - covered hill at St Boniface Down near Ventnor on the Isle of Wight .
+SUBJECT_ENTITY was a scheduled flight on OBJECT_ENTITY by Air France from Bogotá , Colombia , to Quito , Ecuador , covering the final leg of a flight from Paris to Bogotá , operated by TAME on behalf of Air France .
+SUBJECT_ENTITY was a scheduled international flight from Fukuoka , Japan , to Jakarta , Indonesia that crashed at takeoff on OBJECT_ENTITY .
+The SUBJECT_ENTITY was fought in OBJECT_ENTITY CE in northern Mesopotamia between the East Roman ( Byzantine ) forces , led by Philippicus , and the Sassanid Persians under Kardarigan .
+The SUBJECT_ENTITY ( German : Bundesvertrag , French : Pacte fédéral ) was the legal foundation for the new Swiss Confederacy of OBJECT_ENTITY .
+The SUBJECT_ENTITY was held from October 4 to October 13 , OBJECT_ENTITY at the Busan Cinema Center and was hosted by Ahn Sung - ki and Chinese actress Tang Wei , who is the first foreign celebrity to host the event .
+The SUBJECT_ENTITY ( Georgian : სასირეთის ბრძოლა ) took place in OBJECT_ENTITY at the village of Sasireti in the present day Shida Kartli region , not far from the town of Kaspi , during the civil war in the Kingdom of Georgia .
+On OBJECT_ENTITY , SUBJECT_ENTITY crashed into a mountain near Ibiza Town , Spain .
+The SUBJECT_ENTITY ( Japanese : ビラ・スタンモーア夜戦 Battle of Vila - Stanmore ) was a naval battle of the Pacific campaign of World War II , fought on OBJECT_ENTITY in the Blackett Strait , between Kolombangara islands and Arundel Island in the Solomon Islands .
+SUBJECT_ENTITY was an Ilyushin Il-62 that crashed near Okęcie Airport in Warsaw , Poland , on OBJECT_ENTITY , as the crew aborted a landing and attempted to go - around .
+SUBJECT_ENTITY ( RU778 or SBI778 ) was an Airbus A310 - 300 passenger flight en route from Moscow to Irkutsk when it crashed upon landing at Irkutsk International Airport at 07:44 local time on OBJECT_ENTITY ( 8 July , 22:44 UTC ) .
+The First SUBJECT_ENTITY ( Turkish : Felahiye Muharebesi ) was a World War I battle fought on the Mesopotamian front on OBJECT_ENTITY between Ottoman Army and Anglo - Indian forces .
+The SUBJECT_ENTITY was held from March 18 to March 27 , OBJECT_ENTITY and took place at the Okinawa Convention Center in Ginowan City and Sakurazaka Theater in Naha , owned and run by Japanese director Yuji Nakae .
+The SUBJECT_ENTITY , which occurred in OBJECT_ENTITY , is one of the best documented cases of the exhumation of a corpse in order to perform rituals to banish an undead manifestation .
+The SUBJECT_ENTITY was fought in OBJECT_ENTITY between the Kingdom of Hungary and the Ottoman Empire as part of the Long War .
+SUBJECT_ENTITY was a scheduled passenger flight of Saudia that caught fire after takeoff from Riyadh International Airport ( now the Riyadh Air Base ) on a flight to Jeddah , Saudi Arabia on Tuesday , OBJECT_ENTITY .
+The SUBJECT_ENTITY was created after the OBJECT_ENTITY Ukrainian presidential election and forced the previous Cabinet of Valeriy Pustovoitenko to resign on November 30 , OBJECT_ENTITY .
+The SUBJECT_ENTITY is a holiday in Belgium celebrated on OBJECT_ENTITY each year .
+The SUBJECT_ENTITY occurred OBJECT_ENTITY , during the Falklands War .
+SUBJECT_ENTITY was an international passenger flight operated by a Boeing 767 - 300ER that crashed on OBJECT_ENTITY due to an uncommanded thrust reverser deployment of the No.1 engine in mid - flight , killing all 213 passengers and the 10 crew members on board .
+SUBJECT_ENTITY , operated by Aeroflot - Nord in a service agreement with Aeroflot and as its subsidiary , crashed on approach to Perm Airport on OBJECT_ENTITY at 5:10 local time ( UTC+06 ) .
+The SUBJECT_ENTITY was a superbolide caused by a near - Earth asteroid that entered Earth 's atmosphere over Russia on OBJECT_ENTITY at about 09:20 YEKT ( 03:20 UTC ) , with a speed of 19.16 ± 0.15 kilometres per second ( 60,000 - -69,000 km / h or 40,000 - -42,900 mph ) .
+The SUBJECT_ENTITY was held in Hyde Park , London on OBJECT_ENTITY to commemorate Nelson Mandela 's ninetieth birthday ( 18 July ) .
+The SUBJECT_ENTITY ( Spanish : Gran Incendio de Valparaíso ) started on OBJECT_ENTITY at 16:40 local time ( 19:40 UTC ) , in the hills of the city of Valparaíso , Chile .
+The SUBJECT_ENTITY was a one day women 's cycle race held in Belgium on OBJECT_ENTITY .
+The SUBJECT_ENTITY was a shooting rampage in Strathfield , Sydney , Australia , on OBJECT_ENTITY .
+The SUBJECT_ENTITY was a snap election held on OBJECT_ENTITY , to elect members to the Landtag of the German state of North Rhine - Westphalia , after the former Landtag was dissolved on 14 March 2012 .
+The SUBJECT_ENTITY or Marash was led by Muslim forces of the Rashidun Caliphate during their campaigns in Anatolia in OBJECT_ENTITY .
+The SUBJECT_ENTITY was a chess game played by Adolf Anderssen and Lionel Kieseritzky on OBJECT_ENTITY in London , during a break of the first international tournament .
+The SUBJECT_ENTITY took place during the Second World War on OBJECT_ENTITY , one week after the Normandy Landings by the Western Allies to begin the conquest of German - occupied France .
+The SUBJECT_ENTITY involved the bloodless ousting of the ageing Tunisian President Habib Bourguiba on OBJECT_ENTITY , and his replacement as president by his recently appointed prime minister , Zine El Abidine Ben Ali .
+The SUBJECT_ENTITY pageant was held in Caracas , Venezuela on OBJECT_ENTITY .
+The SUBJECT_ENTITY was an accident involving a Kenya Police helicopter on OBJECT_ENTITY .
+The SUBJECT_ENTITY , held in Venice , Italy , opened on August 29 , OBJECT_ENTITY , with Joe Wright 's Atonement and closed September 8 , OBJECT_ENTITY .
+The SUBJECT_ENTITY was a Richter magnitude 5.0 earthquake that occurred near the city of Kalgoorlie - Boulder , Western Australia on OBJECT_ENTITY , at approximately 8:17 am WST .
+The SUBJECT_ENTITY occurred in Silvertown in West Ham , Essex ( now part of the London Borough of Newham , in Greater London ) on Friday , OBJECT_ENTITY at 6.52 pm .
+The SUBJECT_ENTITY occurred in Turkey on OBJECT_ENTITY at 07:12 local time ( 04:12 UTC ) .
+The SUBJECT_ENTITY was an air accident that happened on OBJECT_ENTITY when a Scottish Airlines Avro York crashed after take off from RAF Luqa in Malta on a trooping flight from the Suez Canal Zone to London Stansted Airport .
+The SUBJECT_ENTITY was a OBJECT_ENTITY airplane incident involving an Antonov An-26 airliner , which crashed while attempting to land at the Joint Base Balad in Balad , Iraq , which was at that time operated by the United States Air Force .
+The SUBJECT_ENTITY occurred on OBJECT_ENTITY when a Farman F.63 Goliath of Air Union crashed whilst attempting an emergency landing at Marden Airfield , Kent following the failure of the starboard tailplane .
+SUBJECT_ENTITY was a domestic flight operating from Krasnoyarsk to Igarka in Russia that crashed in the early hours of OBJECT_ENTITY , killing twelve out of the fifteen people on board the aircraft .
+On OBJECT_ENTITY , an American Airlines Boeing 737 - 800 , operating SUBJECT_ENTITY ( Washington , D.C .-- Miami -- Kingston , Jamaica ) and carrying 148 passengers and six crew , overran the runway on landing at Kingston in poor weather .
+The SUBJECT_ENTITY on OBJECT_ENTITY , was an incident in which six Republika Srpska Air Force J-21 Jastreb single - seat light attack jets were engaged , and four of them shot down , by United States Air Force F-16 fighters southwest of Banja Luka , Bosnia and Herzegovina .
+SUBJECT_ENTITY was a Tupolev Tu-154B-1 which crashed on OBJECT_ENTITY on approach to Sharjah Airport in the United Arab Emirates .
+SUBJECT_ENTITY was a Tupolev Tu-154 M which crashed on OBJECT_ENTITY .
+The SUBJECT_ENTITY ( Spanish : Terremoto de Pichilemu de 2010 ) , also known as the Libertador O'Higgins earthquake , was a 6.9 MW intraplate earthquake that struck Chile 's O'Higgins Region on OBJECT_ENTITY .
+SUBJECT_ENTITY was a scheduled Air Ontario passenger flight which crashed near Dryden , Ontario , on OBJECT_ENTITY shortly after takeoff from Dryden Regional Airport .
+The SUBJECT_ENTITY occurred in the decade after Norman Conquest of England in 1066 , probably in OBJECT_ENTITY , and involved a dispute between Odo Bishop of Bayeux , half - brother of William the Conqueror and Lanfranc , Archbishop of Canterbury and others .
+The SUBJECT_ENTITY was an aircraft accident in Indonesia on OBJECT_ENTITY .
+The SUBJECT_ENTITY was a combat engagement , fought between the Union of South Africa and German Southwest Africa on OBJECT_ENTITY .
+SUBJECT_ENTITY was a OBJECT_ENTITY concept car built by Italian manufacturer Fiat .
+On OBJECT_ENTITY , SUBJECT_ENTITY , a Boeing 737 - 200 crashed at Cranbrook / Canadian Rockies International Airport , near Cranbook , British Columbia , Canada , killing 42 of the 49 people on board .
+The SUBJECT_ENTITY involved a Douglas R6D-1 Liftmaster ( BuNo 131588 ) of the United States Navy which disappeared over the Atlantic Ocean on OBJECT_ENTITY with the loss of all 59 people on board .
+The SUBJECT_ENTITY ( Indonesian : Proklamasi Kemerdekaan Indonesia , or simply Proklamasi ) was read at 10.00 a.m. on Friday , OBJECT_ENTITY .
+The SUBJECT_ENTITY was fought in the Theben pass near Wieselburg , where the March meets the Danube , in OBJECT_ENTITY .
+The SUBJECT_ENTITY was an accident involving a Douglas R6D-1 Liftmaster of the United States Navy which crashed into a mountain peak in Hawaii on OBJECT_ENTITY , killing all 66 people on board .
+The SUBJECT_ENTITY occurred on OBJECT_ENTITY , when an unarmed United States Air Force T-39 Sabreliner on a training mission was shot down over Erfurt , East Germany by a Soviet Mikoyan - Gurevich MiG-19 fighter aircraft .
+The SUBJECT_ENTITY in Stockholm , Sweden , was carried out by the Red Army Faction ( RAF ) on OBJECT_ENTITY .
+The SUBJECT_ENTITY occurred OBJECT_ENTITY near the village of Turnham Green , at the end of the first campaigning season of the First English Civil War .
+SUBJECT_ENTITY was an Airbus Industrie A330 - 321 test flight that ended in a crash on OBJECT_ENTITY at Toulouse - Blagnac Airport , killing all seven people aboard .
+The SUBJECT_ENTITY , widely known as the Selby rail crash , was a high - speed train accident that occurred at Great Heck near Selby , North Yorkshire , England on the morning of OBJECT_ENTITY .
+SUBJECT_ENTITY was the codename for an operation by airborne forces of the British Army that took place on OBJECT_ENTITY as part of the Normandy landings .
+The SUBJECT_ENTITY refers to the riot , which broke out in the ancient city of Kano , located in Northern Nigeria , on OBJECT_ENTITY .
+SUBJECT_ENTITY was a passenger flight which ditched into the Ob River , Russia , on OBJECT_ENTITY .
+The SUBJECT_ENTITY took place in the Si Zerrouk neighborhood in the south of Larbaa in Algeria on OBJECT_ENTITY .
+The SUBJECT_ENTITY was a bombing that took place on the morning of OBJECT_ENTITY , in Brescia , Italy during an anti - fascist protest .
+The SUBJECT_ENTITY of 1988 ( Chinese : 赤瓜礁海战 ; pinyin : Chìguā jiāo hǎizhàn ; Vietnamese : Hải chiến Trường Sa ? ) was a naval battle that took place between Chinese and Vietnamese forces over Johnson South Reef in the Spratly Islands on OBJECT_ENTITY .
+The SUBJECT_ENTITY or Battle of Wroughton was fought between Egbert of Wessex and Beornwulf of Mercia in September OBJECT_ENTITY .
+Sword , commonly known as SUBJECT_ENTITY , was the code name given to one of the five main landing areas along the Normandy coast during the initial assault phase , Operation Neptune , of Operation Overlord , the Allied invasion of German - occupied France that commenced on OBJECT_ENTITY .
+The SUBJECT_ENTITY , formally titled the 2015 Formula 1 Rolex Australian Grand Prix , was a Formula One motor race that was held on OBJECT_ENTITY in Melbourne .
+The SUBJECT_ENTITY occurred OBJECT_ENTITY at 4:45 a.m. at Alcalá 20 , a nightclub at number 20 of Calle de Alcalá in the centre of Madrid .
+The SUBJECT_ENTITY , signed in Washington , D.C. on OBJECT_ENTITY , is the treaty establishing the SUBJECT_ENTITY Organization ( NATO ) .
+The SUBJECT_ENTITY happened on the OBJECT_ENTITY when a twin - engined Vickers Valetta C.1 transport aircraft , serial number VW832 , of 84 Squadron , Royal Air Force crashed and was destroyed after departing from Aqaba Airport in Jordan following wing failure due to turbulence .
+SUBJECT_ENTITY ( MH2133/MAS2133 ) was a scheduled domestic passenger flight that crashed due to pilot error on OBJECT_ENTITY , taking the lives of 32 of the 49 passengers and 2 of the 4 crew , 34 in all .
+The SUBJECT_ENTITY occurred on OBJECT_ENTITY when an Imperial Airways Avro Ten collided with a radio mast at Ruysselede , West Flanders , Belgium and crashed killing all ten people on board .
+The SUBJECT_ENTITY was fought on OBJECT_ENTITY , between British and Ottoman forces at Kut , Mesopotamia ( present - day Iraq ) .
+The SUBJECT_ENTITY was a football match between West Bromwich Albion and Birmingham , played on OBJECT_ENTITY at the original Wembley Stadium in London .
+The SUBJECT_ENTITY was fought on OBJECT_ENTITY , at Pyhäjoki in Northern Ostrobothnia during the Russian--
+The SUBJECT_ENTITY ( modern Biskra in Algeria ) was fought in OBJECT_ENTITY or 683 between the Berbers of king Caecilius and their Byzantine allies from the Exarchate of Carthage against an Umayyad Arab army under Uqba ibn Nafi ( the founder of Kairouan ) .
+The SUBJECT_ENTITY ( Swedish : Helén - mordet ) is a sadistic murder of 10-year - old Helén Nilsson in Hörby , Sweden , in OBJECT_ENTITY .
+The SUBJECT_ENTITY occurred in the morning of OBJECT_ENTITY , when two Chinese cargo ships were attacked on a stretch of the Mekong River in the Golden Triangle region on the borders of Burma and Thailand .
+The SUBJECT_ENTITY was an Australian rules football game contested between the Collingwood Football Club and the Geelong Football Club , held at the Melbourne Cricket Ground on OBJECT_ENTITY .
+SUBJECT_ENTITY ( QF1 , QFA1 ) was a Qantas passenger flight which was involved in a runway overrun accident at Don Mueang International Airport as it was arriving for a stopover in Bangkok on OBJECT_ENTITY .
+The SUBJECT_ENTITY occurred on OBJECT_ENTITY , when a Jahangir Siddiqui Air Beechcraft 1900C-1 crashed near Karachi , Pakistan , killing all 21 aboard .
+The SUBJECT_ENTITY ( OBJECT_ENTITY ) was fought during the Second War of Scottish Independence .
+The SUBJECT_ENTITY was a parliamentary by - election held on OBJECT_ENTITY for the United Kingdom House of Commons constituency of Eastleigh in Hampshire .
+The SUBJECT_ENTITY was a fire at the Comandante Ferraz Antarctic Station in Antarctica , on OBJECT_ENTITY that killed 2 people and injured another .
+SUBJECT_ENTITY was a scheduled domestic passenger flight operated by a Fokker F28 - 1000 Fellowship from Izmir Cumaovası Airport to Istanbul Yeşilköy Airport that crashed into the Sea of Marmara on OBJECT_ENTITY during the approach to its destination .
+SUBJECT_ENTITY crashed on OBJECT_ENTITY in Jersey in the Channel Islands .
+The SUBJECT_ENTITY ( Italian : Disfida di Barletta ) was a tournament fought in the countryside of Trani , near Barletta , southern Italy , on OBJECT_ENTITY , on the plains between Corato and Andria .
+The SUBJECT_ENTITY ( Swedish : Stilleståndet i Stuhmsdorf ) or Sztumska Wieś ( Polish : Rozejm w Sztumskiej Wsi ) was a treaty signed on OBJECT_ENTITY between the Polish--
+The SUBJECT_ENTITY were a series of coordinated bomb attacks on three hotel lobbies in Amman , Jordan , on OBJECT_ENTITY .
+The SUBJECT_ENTITY was a football match that took place at Estádio do Maracanã , Rio de Janeiro on OBJECT_ENTITY .
+The SUBJECT_ENTITY ( H-3 ) circa OBJECT_ENTITY is considered the most severe eruption of Hekla during the Holocene .

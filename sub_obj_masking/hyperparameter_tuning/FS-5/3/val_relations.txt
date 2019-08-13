@@ -1,0 +1,10 @@
+author
+conflict
+inception
+original network
+parent taxon
+performer
+place of birth
+present in work
+spouse
+voice type

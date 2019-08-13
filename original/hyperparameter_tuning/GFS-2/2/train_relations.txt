@@ -1,0 +1,25 @@
+author
+cast member
+conflict
+country
+country of citizenship
+country of origin
+date of birth
+date of death
+director
+father
+headquarters location
+languages spoken or written
+licensed to broadcast to
+manufacturer
+member of sports team
+named after
+narrative location
+occupation
+performer
+place of birth
+position held
+publication date
+publisher
+series
+sport

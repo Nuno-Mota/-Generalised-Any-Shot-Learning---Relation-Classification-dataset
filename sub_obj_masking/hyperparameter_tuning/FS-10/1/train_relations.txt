@@ -1,0 +1,25 @@
+child
+conflict
+constellation
+country of citizenship
+creator
+date of death
+developer
+dissolved or abolished
+founder
+languages spoken or written
+located in the administrative territorial entity
+member of political party
+member of sports team
+military branch
+narrative location
+native language
+occupation
+parent taxon
+position played on team / speciality
+present in work
+record label
+screenwriter
+sex or gender
+spouse
+taxon rank

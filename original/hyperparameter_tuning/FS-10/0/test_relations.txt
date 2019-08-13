@@ -1,0 +1,10 @@
+country of citizenship
+country of origin
+date of death
+founder
+member of sports team
+occupation
+parent taxon
+position held
+screenwriter
+spouse

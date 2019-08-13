@@ -1,0 +1,25 @@
+child
+continent
+country of citizenship
+creator
+date of birth
+developer
+director
+educated at
+founder
+headquarters location
+inception
+instrument
+languages spoken or written
+located in the administrative territorial entity
+manufacturer
+member of political party
+military branch
+native language
+performer
+place of birth
+record label
+sport
+spouse
+taxon rank
+voice type

@@ -1,0 +1,10 @@
+country
+date of death
+employer
+inception
+native language
+performer
+place of birth
+place of death
+present in work
+sex or gender

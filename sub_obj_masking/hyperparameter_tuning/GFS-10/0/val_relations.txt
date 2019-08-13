@@ -1,0 +1,10 @@
+child
+date of death
+inception
+member of sports team
+mother
+parent taxon
+performer
+position played on team / speciality
+present in work
+record label

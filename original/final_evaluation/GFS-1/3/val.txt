@@ -1,0 +1,625 @@
+IUCN conservation status	Typhlichthys subterraneus is listed as near threatened on the IUCN Red List.	Typhlichthys subterraneus	near threatened
+IUCN conservation status	The Tennessee dace is listed as G3 (globally vulnerable to extirpation) and S3 (state vulnerable to extirpation and extinction).	Tennessee dace	vulnerable
+IUCN conservation status	Indian peacock softshell turtle (Nilssonia hurum) is a species of turtle found in South Asia, and is listed on the IUCN Red List as a vulnerable species.	Indian peacock softshell turtle	vulnerable
+IUCN conservation status	Franklin's bumblebee (Bombus franklini) is known to be one of the most narrowly distributed bumblebee species, making it a critically endangered bee of the western United States.	Franklin's bumblebee	critically endangered
+IUCN conservation status	The Thyolo alethe (Pseudalethe choloensis) is an endangered species of bird in the family Turdidae.	Thyolo alethe	endangered species
+IUCN conservation status	Because of range expansion, the American mink is classed as a least-concern species by the IUCN.	American mink	least-concern
+IUCN conservation status	The IUCN, however, ranks the Canada warbler as a species of least concern.	Canada warbler	least concern
+IUCN conservation status	Kemp's ridley sea turtle (Lepidochelys kempii ), or the Atlantic ridley sea turtle, is the rarest species of sea turtle and is critically endangered.	Kemp's ridley sea turtle	critically endangered
+IUCN conservation status	Torreya taxifolia became one of the first federally listed endangered plant species in the United States in 1984; the IUCN lists the species as critically endangered.	Torreya taxifolia	critically endangered
+IUCN conservation status	Streptocephalus woottoni is a federally listed endangered species of the United States.	Streptocephalus woottoni	endangered species
+IUCN conservation status	Schistura papulifera is a critically endangered species of ray-finned fish in the genus Schistura endemic to the state of Meghalaya in India.	Schistura papulifera	critically endangered
+IUCN conservation status	Barau's petrel is considered to be an endangered species.	Barau's petrel	endangered species
+IUCN conservation status	Red List of Threatened Species ver. 3.1, the Alaska marmot is considered to be a ``least concern'' status signifying a relatively low concern in terms of the dangers they face.	Alaska marmot	least concern
+IUCN conservation status	The Hawaiian monk seal, Neomonachus schauinslandi (formerly Monachus schauinslandi), is a highly endangered species of earless seal in the family Phocidae that is endemic to the Hawaiian Islands.	Hawaiian monk seal	endangered species
+IUCN conservation status	Acanthagrion taxaense is a critically endangered species of damselfly, endemic to Brazil.	Acanthagrion taxaense	critically endangered
+IUCN conservation status	Due to ongoing habitat loss and degradation, limited range and illegal hunting, the Chinese monal is evaluated as vulnerable on IUCN Red List of Threatened Species.	Chinese monal	vulnerable
+IUCN conservation status	Eastern freshwater cod were recognised as a potentially separate and endangered species of cod in 1984, and were declared a protected species in that year.	Eastern freshwater cod	endangered species
+IUCN conservation status	Aloe suzannae is a critically endangered species of plant in the genus Aloe, indigenous to the south of Madagascar.	Aloe suzannae	critically endangered
+IUCN conservation status	Abronia taeniata is a vulnerable species of arboreal alligator lizard described in 1828 by Arend Friedrich August Wiegmann.	Abronia taeniata	vulnerable
+architect	Trajan's Market was probably built in 100-110 AD by Apollodorus of Damascus, an architect who always followed Trajan in his adventures and to whom Trajan entrusted the planning of his Forum, and inaugurated in 113 AD.	Trajan's Market	Apollodorus of Damascus
+architect	125 Greenwich Street (also known under the name of 22 Thames Street) is a residential supertall skyscraper being built in the Financial District, Manhattan, New York City, designed by architect Rafael Viñoly.	125 Greenwich Street	Rafael Viñoly
+architect	The ornate roof structure, painted green, maroon and cream, and cobbled floors of the current structure, designed in 1881 by Sir Horace Jones (who was also the architect of Billingsgate and Smithfield Markets), make Leadenhall Market a tourist attraction.	Leadenhall Market	Horace Jones
+architect	Arvest Ballpark was designed by the Kansas City architecture firm Populous.	Arvest Ballpark	Populous
+architect	Villa Stein, designed by Le Corbusier, was built in 1927 at Garches, France.	Villa Stein	Le Corbusier
+architect	Pabellón Pedro Ferrándiz is an arena, designed by Enric Miralles, in Alicante, Spain.	Pabellón Pedro Ferrándiz	Enric Miralles
+architect	The Beaumont Tower is a structure on the campus of Michigan State University, designed by the architectural firm of Donaldson and Meier and completed in 1928.	Beaumont Tower	Donaldson and Meier
+architect	Salginatobel Bridge is a reinforced concrete arch bridge designed by Swiss civil engineer Robert Maillart.	Salginatobel Bridge	Robert Maillart
+architect	The A. D. German Warehouse is a Frank Lloyd Wright designed Mayan Revival warehouse that was constructed in Richland Center, Wisconsin in 1921.	A. D. German Warehouse	Frank Lloyd Wright
+architect	The panorama was converted to the Théâtre Marigny in 1894 by the architect Édouard Niermans and became a home to operetta and other musical theatre.	Théâtre Marigny	Édouard Niermans
+architect	The Zuellig Building was designed by international architectural firm Skidmore, Owings and Merrill, in cooperation with local architectural firm W.V. Coscolluela & Associates.	Zuellig Building	Skidmore, Owings and Merrill
+architect	The Østervold Observatory is a south-facing, three-winged building, designed by Christian Hansen.	Østervold Observatory	Christian Hansen
+architect	The Union soon outgrew the building, and in 1910, the Michigan Union hired the architect brothers Irving Kane Pond and Allen Bartlit Pond to design a new building.	Michigan Union	Irving Kane Pond
+architect	The Quin opened on November 11, 2013 with an architectural redesign by New York, New York based firm Perkins Eastman.	The Quin	Perkins Eastman
+architect	It was originally called the Salle des Capucines, because of its location on the Boulevard des Capucines in the 9th arrondissement of Paris, but soon became known as the Palais Garnier, in recognition of its opulence and its architect, Charles Garnier.	Palais Garnier	Charles Garnier
+architect	The Chrysler Building was designed by architect William Van Alen for a project of Walter P. Chrysler.	Chrysler Building	William Van Alen
+architect	The Rietveld Schröder House (Dutch: Rietveld Schröderhuis) (also known as the Schröder House) in Utrecht was built in 1924 by Dutch architect Gerrit Rietveld for Mrs. Truus Schröder-Schräder and her three children.	Rietveld Schröder House	Gerrit Rietveld
+architect	Within the Deveron Valley lies Duff House, designed by William Adam, built between 1735 and 1740, and widely thought to be one of the world's finest Georgian houses.	Duff House	William Adam
+architect	Built in 1891 by Levi Z. Leiter, (1834-1904), the Second Leiter Building was designed by architect William Le Baron Jenney, who implemented the skeletal frame made of steel to make the design fireproof.	Second Leiter Building	William Le Baron Jenney
+architect	The Museo Soumaya, designed by the Mexican architect Fernando Romero, is a private museum in Mexico City.	Museo Soumaya	Fernando Romero
+architect	The Queen Victoria Building (or QVB), is a late nineteenth-century building designed by the architect George McRae in the central business district of Sydney, Australia.	Queen Victoria Building	George McRae
+architect	Designed in the New Brutalist style by the renowned architect James Stirling, Andrew Melville Hall was built during a major expansion of the University in the 1960s using prefabricated concrete modules.	Andrew Melville Hall	James Stirling
+architect	Villa Fallet is a house located in La Chaux-de-Fonds, Switzerland designed by noted architect Le Corbusier.	Villa Fallet	Le Corbusier
+architect	Lasipalatsi, designed by three young architects Viljo Revell, Heimo Riihimäki and Niilo Kokko, was built on the same site in 1936.	Lasipalatsi	Viljo Revell
+architect	The Casa Martí (Catalan pronunciation: (ˈkazə mərˈti)) is a modernista building designed by Josep Puig i Cadafalch in 1896, having been commissioned by relatives of Francesc Vilumara, a textile magnate.	Casa Martí	Josep Puig i Cadafalch
+architectural style	Jugendstilsenteret is an Art Nouveau Center located in central Ålesund, in Møre og Romsdal, Norway.	Jugendstilsenteret	Art Nouveau
+architectural style	Casa Campanini (``House Campanini'') is a prominent Art Nouveau building in Milan, Italy, located at 11, Via Bellini.	Casa Campanini	Art Nouveau
+architectural style	The interior of the Cashier's House is a rare example of Egyptian Revival architecture in Pennsylvania.	Cashier's House	Egyptian Revival architecture
+architectural style	Susana Machado Bernard House and Barn is an elaborate 10,000-square-foot (930 m2) Art Nouveau Gothic Revival style mansion and carriage house located in the Pico Union section of Los Angeles, California.	Susana Machado Bernard House and Barn	Art Nouveau
+architectural style	The Neo-Mudéjar is a type of Moorish Revival architecture.	Neo-Mudéjar	Moorish Revival architecture
+architectural style	The Hôtel Solvay is a large Art Nouveau town house designed by Victor Horta on the Avenue Louise in Brussels.	Hôtel Solvay	Art Nouveau
+author	Holidays on Ice is a 1997 collection of essays about Christmas, some new and some previously published, by David Sedaris.	Holidays on Ice	David Sedaris
+author	The Cambridge Quintet is a book written by John L. Casti and published by Helix Books/Addison Wesley in 1998.	The Cambridge Quintet	John L. Casti
+author	A Hidden Ulster: people, songs & traditions of Oriel is a non-fiction book that is a referencing of Irish traditional music in the Oriel area by Irish singer Pádraigín Ní Uallacháin.	A Hidden Ulster	Pádraigín Ní Uallacháin
+author	Revelation Space is a 2000 science fiction space opera novel by Welsh author Alastair Reynolds.	Revelation Space	Alastair Reynolds
+author	The series also contained the Alan Moore Superman/Swamp Thing story ``The Jungle Line'' in DC Comics Presents #85 (Sept. 1985), pencilled by Rick Veitch and inked by Al Williamson.	DC Comics Presents	Alan Moore
+based on	Election Markup Language (EML) is an XML-based standard to support end to end management of election processes.	Election Markup Language	XML
+based on	PyGTK is a set of Python wrappers for the GTK+ graphical user interface library.	PyGTK	GTK+
+based on	Two Minutes Silence is a 1933 Australian melodrama set during World War I based on Les Haylen's anti-war play.	Two Minutes Silence	Les Haylen
+based on	SpatiaLite is a spatial extension to SQLite, providing vector geodatabase functionality.	SpatiaLite	SQLite
+based on	Several researchers claim the character Christine Daaé was based upon the real-life Swedish-born opera star Christina Nilsson, also known as Kristina Nilsson or Christine Nilsson.	Christine Daaé	Christina Nilsson
+based on	Celebrity Farm was a 2003 Raidió Teilifís Éireann (RTÉ) reality television show, based on the international TV format The Farm, produced by Strix.	Celebrity Farm	The Farm
+based on	Dance of the Vampires (or Tanz der Vampire as the original German language version is named) is a musical remake of a 1967 Roman Polanski film of the same name (called The Fearless Vampire Killers in the USA).	Dance of the Vampires	The Fearless Vampire Killers
+based on	XRDS (eXtensible Resource Descriptor Sequence) is an XML format for discovery of metadata about a web resource -- in particular discovery of services associated with the resource, a process known as service discovery.	XRDS	XML
+based on	Killing Them Softly is a 2012 American neo-noir crime film directed by Andrew Dominik and starring Brad Pitt, based on the 1974 novel Cogan's Trade by George V. Higgins.	Killing Them Softly	Cogan's Trade
+based on	Alif Laila (Hindi: अलिफ़ लैला) is a TV series based on the stories from One Thousand and One Nights.	Alif Laila	One Thousand and One Nights
+based on	WebScaleSQL is an open-source relational database management system (RDBMS) created as a software branch of the production-ready community releases of MySQL.	WebScaleSQL	MySQL
+based on	Doomed Love (Portuguese: Um Amor de Perdição) is a 2008 Portuguese film directed by Mario Barroso.	Doomed Love	Amor de Perdição
+based on	SteamOS is a Debian-based Linux operating system in development by Valve Corporation designed to be the primary operating system for the Steam Machine video game consoles.	SteamOS	Debian
+based on	Poola Rangadu is a 24 November 1967 Tollywood film that is loosely based on A. J. Cronin's novel, Beyond This Place.	Poola Rangadu	Beyond This Place
+based on	His Lordship's Last Will (Swedish: Hans nåds testamente and also known as His Grace's Last Testament) is a 1919 Swedish silent drama film directed by Victor Sjöström.	His Lordship's Last Will	Hans nåds testamente
+based on	Hopelessly Lost (Russian: Совсем пропащий, translit. Sovsem propashchiy) is a 1973 Soviet adventure comedy directed by Georgiy Daneliya based on Mark Twain's Adventures of Huckleberry Finn.	Hopelessly Lost	Adventures of Huckleberry Finn
+based on	XBEL, or the XML Bookmark Exchange Language, is an open XML standard for sharing Internet URIs, also known as bookmarks (or favorites in Internet Explorer).	XBEL	XML
+based on	Chasing Christmas is a 2005 contemporary re-telling of the Charles Dickens classic A Christmas Carol.	Chasing Christmas	A Christmas Carol
+based on	All the Little Animals is a 1998 feature film, directed and produced by Jeremy Thomas, based on the novel of the same name by Walker Hamilton.	All the Little Animals	Walker Hamilton
+based on	The Oregon Duck (also known as the Fighting Duck, or simply The Duck) is the mascot of the University of Oregon Ducks athletic program, based on Disney's Donald Duck character through a special license agreement.	The Oregon Duck	Donald Duck
+based on	The series has been compared to Fifty Shades of Grey because both originated as Twilight fan fiction, with the International Business Times reporting that Gabriel's Inferno differs in that it bears ``few similarities to the story that inspired it''.	Gabriel's Inferno	Twilight
+based on	The Legend of Neil is a comedy web series distributed by Comedy Central's partner Atom.com and is a parody of the Nintendo game The Legend of Zelda.	The Legend of Neil	The Legend of Zelda
+based on	Kaavalan (English: Bodyguard) is a 2011 Tamil romantic movie and directed by Siddique, starring Vijay and Asin in the lead roles.	Kaavalan	Bodyguard
+based on	The Angriest Man in Brooklyn is a 2014 American comedy-drama film directed by Phil Alden Robinson, It is a remake of the 1997 Israeli film The 92 Minutes of Mr. Baum, written and directed by Assi Dayan.	The Angriest Man in Brooklyn	The 92 Minutes of Mr. Baum
+based on	King Solomon's Treasure is a 1979 British-Canadian low-budget film based on the novels King Solomon's Mines and Allan Quatermain by H. Rider Haggard.	King Solomon's Treasure	King Solomon's Mines
+based on	Susan Lenox (Her Fall and Rise) is a 1931 American Pre-Code film starring Greta Garbo and Clark Gable, based on the novel by David Graham Phillips.	Susan Lenox (Her Fall and Rise)	David Graham Phillips
+based on	Based on the novel Hot Saturday by Harvey Fergusson, the film is about a pretty, virtuous small-town bank clerk who becomes the victim of a vicious rumor.	Hot Saturday	Harvey Fergusson
+based on	L'Ile Mysterieuse / La Isla misteriosa y el capitán Nemo / Die Geheimnisvolle Insel (The Mysterious Island) is a 1973 European TV miniseries production (300 minutes) adapted from Jules Verne's novel L'Île mystérieuse.	La Isla misteriosa y el capitán Nemo	The Mysterious Island
+based on	As with its predecessors, Power Rangers Turbo is a based on one of the entries of the Super Sentai Series; in Turbo's case, the source of the series is Gekisou Sentai Carranger.	Power Rangers Turbo	Gekisou Sentai Carranger
+cast member	The Roaring Twenties is a 1939 crime thriller starring James Cagney, Priscilla Lane, Humphrey Bogart, and Gladys George.	The Roaring Twenties	James Cagney	Priscilla Lane	Humphrey Bogart	Gladys George
+cast member	Pongi Varum Kaveri is a 1989 Tamil-language Indian feature film directed by T.K.Bose, starring Ramarajan in lead role.	Pongi Varum Kaveri	Ramarajan
+cast member	A Song Is Born (also known as That's Life) is a 1948 Technicolor musical film remake of the 1941 movie Ball of Fire with Gary Cooper and Barbara Stanwyck, starring Danny Kaye and Virginia Mayo.	A Song Is Born	Danny Kaye	Virginia Mayo
+cast member	Bornholms stemme (English: Bornholms voice) is a 1999 Danish comedy film directed by Lotte Svendsen, starring Sofie Stougaard and Henrik Lykkegaard.	Bornholms stemme	Sofie Stougaard
+cast member	Father's Little Dividend is a 1951 comedy film directed by Vincente Minnelli and starring Spencer Tracy, Joan Bennett, and Elizabeth Taylor.	Father's Little Dividend	Spencer Tracy	Joan Bennett	Elizabeth Taylor
+child	Jean Delay was the father of Florence Delay, of the Académie française, and of Claude Delay, novelist and psychoanalyist.	Jean Delay	Florence Delay	Claude Delay
+child	His son, Richard Armitage set up the Noel Gay Artists agency and became an influential talent agent.	Noel Gay	Richard Armitage
+child	According to the ancient historian Manetho Khafra was followed by king Bikheris, but according to archaeological evidences he was rather followed by king Menkaure.	Khafra	Menkaure
+child	On the ninth month 637 BC, the fourteenth year of his reign, Duke Hui of Jin died and Crown Prince Yu ascended the throne and became Duke Huai of Jin.	Duke Hui of Jin	Duke Huai of Jin
+child	After Mubarak's death his son Jaber II Al-Sabah ascended to the throne without any problems and when Jaber died his brother Salim Al-Mubarak Al-Sabah took over.	Mubarak Al-Sabah	Jaber II Al-Sabah
+chromosome	CTU2 (formerly known as C16orf84) is a human gene located on chromosome 16.	C16orf84	chromosome 16
+chromosome	C6orf58 is a humangene located at locus 6q22.33 of chromosome 6 and encodes for UPF0762, a protein which is subsequently secreted after cleavage of a signal peptide.	C6orf58	chromosome 6
+chromosome	The CDKL5 gene is located on the short (p) arm of the X chromosome at position 22.	CDKL5	X chromosome
+chromosome	The MECP2 gene is located on the long (q) arm of the X chromosome in band 28 (``Xq28''), from base pair 152,808,110 to base pair 152,878,611.	MECP2	X chromosome
+chromosome	The SOGA2 gene is located from 8717369 - 8832775 on the short arm of chromosome 18 (18p11.22).	SOGA2	chromosome 18
+chromosome	UL16 binding protein 1 (ULBP1) is a cell surface glycoprotein encoded by ULBP1 gene located on the chromosome 6.	ULBP1	chromosome 6
+chromosome	EVI5L is located on the short arm (p) of chromosome 19 in region 1, band 3, and sub-band 2 (19p13.2) starting at 7,830,275 base pairs and ending at 7,864,976 base pairs.	EVI5L	chromosome 19
+chromosome	Gamma-glutamyl carboxylase is an enzyme that in humans is encoded by the GGCX gene, located on chromosome 2 at 2p12.	Gamma-glutamyl carboxylase	chromosome 2
+chromosome	Peptidylprolyl isomerase A (PPIA), also known as cyclophilin A (CypA) or rotamase A is an enzyme that in humans is encoded by the PPIA gene on chromosome 7.	Peptidylprolyl isomerase A	chromosome 7
+chromosome	The QDPR gene is located on the short (p) arm of chromosome 4 at position 15.31, from base pair 17,164,291 to base pair 17,189,981.	QDPR	chromosome 4
+conflict	Jean Bureau (c. 1390 -- 1463) was a French artillery commander active primarily during the later years of the Hundred Years' War.	Jean Bureau	Hundred Years' War
+conflict	Hans-Rudolf Rösing (28 September 1905 -- 16 December 2004) was a German U-boat commander in World War II and later served in the Bundesmarine of the Federal Republic of Germany.	Hans-Rudolf Rösing	World War II
+conflict	Lieutenant Remington D. B. Vernam (March 24, 1896 - December 1, 1918) was an American pilot who had enlisted in the French air service during World War I, and was transferred to the United States Army Air Service after American entry into the war.	Remington D. B. Vernam	World War I
+conflict	Samuel McClellan (4 January 1730 -- 17 October 1807) was a Brigadier General in the American Revolutionary War.	Samuel McClellan	American Revolutionary War
+conflict	Robert Smalls (April 5, 1839 -- February 23, 1915) was an enslaved African American who, during and after the American Civil War, became a ship's pilot, sea captain, and politician.	Robert Smalls	American Civil War
+constellation	3 Cancri (3 Cnc) is a star in the constellation Cancer.	3 Cancri	Cancer
+constellation	NGC 6539 (also GCL 85) is a globular cluster in the constellation Serpens.	NGC 6539	Serpens
+constellation	NGC 4216 is a metal-rich intermediate spiral galaxy located not far from the center of the Virgo Cluster of galaxies, roughly 55 million light-years away.	NGC 4216	Virgo
+constellation	HD 153950 b is an extrasolar planet located approximately 162 light-years away in the constellation of Scorpius, orbiting the 7th magnitude F-type main sequence star HD 153950.	HD 153950 b	Scorpius
+constellation	15 Sagittarii (15 Sgr) is a multiple star in Sagittarius.	15 Sagittarii	Sagittarius
+convicted of	Melady was the last person to be publicly executed in Canada when he was hanged on December 7, 1869, on the outside wall of a jail located in Goderich, Ontario, for the murder of his father, Nicholas Melady Senior and his stepmother Ellen.	Nicholas Melady	murder
+convicted of	Franz Müller (31 October 1840 -- 14 November 1864), was a German tailor who was hanged for the murder of Thomas Briggs, the first killing on a British train.	Franz Müller	murder
+convicted of	Sofia Maria Ekwall, (1826--1897), was a Swedish woman judged for two murders and for the murder of her father.	Sofia Maria Ekwall	murder
+convicted of	Michael Wayne Richard (August 24, 1959 -- September 25, 2007) was convicted of rape and murder whose execution gained notoriety due to controversies regarding procedural problems related to the timing of the execution.	Michael Wayne Richard	murder
+convicted of	Erika and Benjamin Sifrit were arrested on May 31, 2002, but not for murder: the couple were caught robbing a Hooters store.	Erika and Benjamin Sifrit	murder
+convicted of	Billy Ray Hamilton (a.k.a. ``Country'') (1950--October 22, 2007) was an American convicted murderer who conspired with Clarence Ray Allen to murder eight witnesses to a crime committed by Allen in 1974.	Billy Ray Hamilton	murder
+convicted of	Kent Bowers (died 19 June 1985) was a Belizean man convicted of murder and executed by Belize.	Kent Bowers	murder
+convicted of	Guy Paul Morin is a Canadian who was wrongly convicted of the October 1984 rape and murder of his nine-year-old next-door neighbour, Christine Jessop of Queensville, north of Toronto, Ontario.	Guy Paul Morin	murder
+convicted of	Gerardo Flores (born 1986) of Lufkin, Texas, was convicted in 2005 of two counts of capital murder for giving his girlfriend, who was carrying twins, an at-home abortion the previous year.	Gerardo Flores	murder
+convicted of	Despite being charged with only one murder, the citywide panic only abated after Laskey's arrest and conviction, when the killings suddenly stopped, thus supporting investigators' claim that they successfully found and jailed the Cincinnati Strangler.	Cincinnati Strangler	murder
+country	Šluknov (Czech pronunciation: (ˈʃluknof); German: Schluckenau) is the northernmost town of the Czech Republic in its Ústí nad Labem Region.	Šluknov	Czech Republic
+country	Rennweg am Katschberg is a market town in the district of Spittal an der Drau in Carinthia, Austria.	Rennweg am Katschberg	Austria
+country	Te Urewera National Park was established as a national park in New Zealand's Te Urewera area in 1954 and disestablished as such in 2014, when it was replaced by a legal entity named Te Urewera.	Te Urewera National Park	New Zealand
+country	The Tararua Range, often referred to as the Tararua Ranges or the Tararuas, is one of several mountain ranges in the North Island of New Zealand.	Tararua Range	New Zealand
+country	El Potrero River (Rio El Potrero) is a medium streams in El Salvador.	El Potrero River	El Salvador
+country	Coevorden (Dutch pronunciation: (ˈkuvɔrdən); Dutch Low Saxon: Koevern) is a municipality and a city in the northeastern Netherlands.	Coevorden	Netherlands
+country	Ordu (Turkish pronunciation: (ˈoɾdu)) is a port city on the Black Sea coast of Turkey, historically also known as Cotyora, and the capital of Ordu Province with a population of 195,817 in the city center.	Ordu	Turkey
+country	Los Cayuelos is a location near the eastern city of Niquero in Cuba.	Los Cayuelos	Cuba
+country	The Gorzente is an Apennine torrent of the Po basin in north-west Italy.	Gorzente	Italy
+country	Hamamak (Persian: حمامك‎, also Romanized as Ḩamāmak) is a village in Hesar-e Amir Rural District, in the Central District of Pakdasht County, Tehran Province, Iran.	Hamamak	Iran
+country	Flores is one of the Lesser Sunda Islands, an island arc with an estimated area of 14,300 km² extending east from the Java island of Indonesia.	Flores	Indonesia
+country	Gałkowice (ɡau̯kɔˈvit͡sɛ) is a village in the administrative district of Gmina Dwikozy, within Sandomierz County, Świętokrzyskie Voivodeship, in south-central Poland.	Gałkowice	Poland
+country	The Citadel of Aleppo (Arabic: قلعة حلب‎) is a large medieval fortified palace in the centre of the old city of Aleppo, northern Syria.	Citadel of Aleppo	Syria
+country	The Canadian Transportation Agency is an independent administrative tribunal of the Government of Canada that makes decisions relating to federally regulated modes of transportation (air, rail and marine).	Canadian Transportation Agency	Canada
+country	Lake Yonozero (Russian: Ёнозеро) is a large freshwater lake on the Kola Peninsula, Murmansk Oblast, Russia.	Lake Yonozero	Russia
+country	Morsberg is a hill in the Odenwald range in Hesse, Germany.	Morsberg	Germany
+country	The Quantum Leap is a sculpture situated next to the River Severn in Shrewsbury, Shropshire, England, United Kingdom.	The Quantum Leap	United Kingdom
+country	Zeiselmauer-Wolfpassing is a community located in the district of Tulln in the Austrian federal state of Lower Austria.	Zeiselmauer-Wolfpassing	Austria
+country	The Big Breaker is the most northerly geographic feature in the Houtman Abrolhos islands in the Indian Ocean off the west coast of Australia.	The Big Breaker	Australia
+country	Olloki is a village in Navarre (Spain).	Olloki	Spain
+country	After the unification of Italy, the citizens of Faieto, along with several neighboring villages, petitioned a modification of their borders.	Faieto	Italy
+country	Confederation College is a provincially funded college of applied arts and technology located in Thunder Bay, Ontario, Canada.	Confederation College	Canada
+country	Reipas Lahti is a sports club in Lahti, Finland.	Reipas Lahti	Finland
+country	The Molino Dam or Prinza Water Dam is a gravity dam on the Zapote River located on the border between Barangay San Nicolas, Bacoor, Cavite and Barangay Talon Dos, Las Piñas, Metro Manila, Philippines.	Molino Dam	Philippines
+country	Chain Valley Colliery is a coal mine located at Mannering Park, New South Wales, Australia.	Chain Valley Colliery	Australia
+country of citizenship	Aliona Doletskaya is the former editor in chief of Vogue Russia (1998--2010), and the editor in chief of the Russian Interview (magazine).	Aliona Doletskaya	Russia
+country of citizenship	Damir Salimov (Russian: Дамир Салимов; 19 July 1937, Samarkand) is an Uzbek director who is credited with introducing animation to Uzbekistan in 1965, when he directed and produced the animated puppet film В квадрате 6х6.	Damir Salimov	Uzbekistan
+country of citizenship	María del Cisne Rivera Alvarez (born April 27, 1996 in Cuenca) is an Ecuadorian model, Miss Teen Earth Ecuador and Miss Teen Earth International 2012.	Cisne Rivera	Ecuador
+country of citizenship	Fermín Balbuena (born 7 July 1962 in Asunción, Paraguay) is a Paraguayan football manager and former Paraguayan international footballer who played in clubs of Paraguay and Chile.	Fermín Balbuena	Paraguay
+country of citizenship	Graziella Curreli (born 1960), is a French sculptor working in Haarlem, the Netherlands.	Graziella Curreli	Netherlands
+country of origin	The DVD is now available uncut in the United Kingdom as ``Cruel Passion'' and in the United States as ``Marquis de Sade's Justine''	Cruel Passion	United Kingdom
+country of origin	Ajankohtainen kakkonen was a Finnish current affairs television series broadcast in Finland on Yle TV2 from 1969 to 2015.	Ajankohtainen kakkonen	Finland
+country of origin	The Toronto Santa Claus Parade is a Santa Claus parade held annually on the third Sunday of November in Toronto, Ontario, Canada.	Toronto Santa Claus Parade	Canada
+country of origin	Naked Killer (Chinese: 赤裸羔羊) is a 1992 Hong Kong film written and produced by Wong Jing, and directed by Clarence Fok Yiu-leung.	Naked Killer	Hong Kong
+country of origin	Shades of Life (Traditional Chinese: 我們的天空; literally ``Our Sky'') (Chinese: 我們的天空; Jyutping: ngo5 mun4 di1 tin1 hung1) is a 2014 Hong Kong modern drama produced by TVB, starring Jack Wu and Elaine Yiu.	Shades of Life	Hong Kong
+creator	Inspired by a 2003 episode of Arthur entitled ``Postcards from Buster'', the television series was produced by Cinar (now known as DHX Media) and Marc Brown Studios.	Postcards from Buster	Marc Brown
+creator	The Goldweigher's Field is a 1651 etching by Rembrandt now held by many museums, including the British Museum, the Rijksmuseum, and the Metropolitan Museum of Art. It is based on a landscape drawing in the collection of the Museum Boijmans van Beuningen.	Goldweigher's Field	Rembrandt
+creator	Woman with a Pearl Necklace by Johannes Vermeer is a seventeenth-century Northern European painting.	Woman with a Pearl Necklace	Johannes Vermeer
+creator	Golden Summer, Eaglemont is an 1889 painting by the Australian artist Arthur Streeton.	Golden Summer, Eaglemont	Arthur Streeton
+creator	The Grabow Altarpiece (also known as the Petri Altar) was painted by Master Bertram around 1383.	Grabow Altarpiece	Master Bertram
+crosses	The Sault Ste. Marie International Bridge spans the St. Marys River between the United States and Canada connecting the twin cities of Sault Ste. Marie, Michigan and Sault Ste. Marie, Ontario.	Sault Ste. Marie International Bridge	St. Marys River
+crosses	Al Garhoud Bridge (In Arabic: جسر القرهود) is one of four road bridges over Dubai Creek, and one of five crossings, in Dubai, United Arab Emirates.	Al Garhoud Bridge	Dubai Creek
+crosses	The Grand Tower Pipeline Bridge is a suspension bridge carrying a natural gas pipeline across the Mississippi River between Wittenberg, Missouri and Grand Tower, Illinois.	Grand Tower Pipeline Bridge	Mississippi River
+crosses	DeSoto Bridge was a trussed deck-arch bridge that spanned the Mississippi River in St. Cloud, Minnesota.	DeSoto Bridge	Mississippi River
+crosses	Porthill Bridge, also often referred to as Port Hill Footbridge, is a suspension bridge for pedestrians crossing the River Severn in Shrewsbury, Shropshire, England.	Porthill Bridge	Severn
+crosses	The Nijmegen railway bridge is a truss bridge spanning the River Waal, connecting the city of Nijmegen to the town of Lent in the Netherlands.	Nijmegen railway bridge	Waal
+crosses	The Malleco Viaduct (Spanish: Viaducto del Malleco) is a railway bridge located in central Chile, passing over the Malleco River valley, south of Collipulli in the Araucania Region.	Malleco Viaduct	Malleco River
+crosses	The Fuller Warren Bridge is a prestressed concrete girder bridge that carries I-95 across the St. Johns River in Jacksonville, Florida.	Fuller Warren Bridge	St. Johns River
+crosses	The Smithfield Street Bridge is a lenticular truss bridge crossing the Monongahela River in Pittsburgh, Pennsylvania, USA.	Smithfield Street Bridge	Monongahela River
+crosses	The Royal Albert Bridge is a railway bridge which spans the River Tamar in England between Plymouth, Devon and Saltash, Cornwall bank.	Royal Albert Bridge	Tamar
+crosses	The Alassalmi Ferry is a cable ferry linking Manamansalo island and mainland, across the Alassalmi strait on lake Oulujärvi, in Finland.	Alassalmi Ferry	Oulujärvi
+crosses	Cavendish Bridge is the name of a bridge over the River Trent, connecting the counties of Leicestershire and Derbyshire; it is also the name of a hamlet on the Leicestershire side of the river within the Castle Donington parish.	Cavendish Bridge	River Trent
+crosses	The Helena Bridge is a cantilever bridge carrying U.S. Route 49 across the Mississippi River between Helena, Arkansas and Lula, Mississippi.	Helena Bridge	Mississippi River
+crosses	The Bridge of Regeringsgatan (Swedish: Regeringsgatans bro) or more correctly Bridge of Regeringsgatan over Kungsgatan (Regeringsgatans viadukt över Kungsgatan) is a bridge in central Stockholm, Sweden, taking the street Regeringsgatan (``The Government Street'') over Kungsgatan (``The King's Street'').	Bridge of Regeringsgatan	Kungsgatan
+crosses	Norrbro (Swedish: ``North Bridge'') is an arch bridge over Norrström in central Stockholm.	Norrbro	Norrström
+crosses	The Pont del Diable (Spanish: Puente del Diablo, English: Devil's bridge), also known as Sant Bartomeu Bridge, is a medieval bridge crossing the river Llobregat and straddling the municipalities of Martorell and Castellbisbal in Catalonia, Spain.	Pont del Diable	Llobregat
+crosses	The Reichsbrücke (German for Empire Bridge) is Vienna's most famous bridge, linking Mexicoplatz in Leopoldstadt with the Donauinsel in Donaustadt on the other side of the Danube.	Reichsbrücke	Danube
+crosses	Prístavný most (literally Harbour Bridge, until 1993 known as Most hrdinov Dukly or Dukla Heroes' Bridge) is a double-floor motorway-railroad truss bridge over the Danube in Bratislava, Slovakia, near the Port of Bratislava.	Prístavný most	Danube
+crosses	The Sherman Minton Bridge is a double-deck through arch bridge spanning the Ohio River, carrying I-64 and US 150 over the river between Kentucky and Indiana.	Sherman Minton Bridge	Ohio River
+crosses	The Puente de Occidente (Bridge of the West), so named because it is located in western Antioquia, Colombia, is a suspension bridge that connects the municipalities of Olaya and Santa Fe de Antioquia, east and west of the Cauca River, respectively.	Puente de Occidente	Cauca River
+crosses	The Vanport Bridge is a four-lane continuous truss bridge that carries Interstate 376 (former Pennsylvania Route 60) across the Ohio River in Vanport Township, Pennsylvania.	Vanport Bridge	Ohio River
+crosses	The Pont du Carrousel is a bridge in Paris, which spans the River Seine between the Quai des Tuileries and the Quai Voltaire.	Pont du Carrousel	Seine
+crosses	The Healdsburg Memorial Bridge is a steel truss bridge across the Russian River in Healdsburg, California, listed in the National Register of Historic Places.	Healdsburg Memorial Bridge	Russian River
+crosses	Braunston Tunnel is on the Grand Union Canal about 830 yds (760 m) east of Braunston, Northamptonshire, England top lock.	Braunston Tunnel	Grand Union Canal
+crosses	The Charlestown Bridge (also called the North Washington Street Bridge) is located in Boston and spans the Charles River.	Charlestown Bridge	Charles River
+date of birth	Wester Paul Gerrard (Wes Paul) (born 28 March 1943) is an English guitarist and singer.	Wes Paul	28 March 1943
+date of birth	Sten-Ove Ramberg (born 20 November 1955), also known as Putte Ramberg, is a Swedish retired footballer.	Sten-Ove Ramberg	20 November 1955
+date of birth	Ramkrishna Dalmia (7 April 1893 -- 26 September 1978) was a pioneer industrialist and founder of the Dalmia-Jain group or Dalmia Group and The Times Group.	Ramkrishna Dalmia	7 April 1893
+date of birth	Dimitris Dragatakis (Greek: Δημήτρης Δραγατάκης; 22 January 1914 -- 18 December 2001) was a Greek composer of classical music.	Dimitris Dragatakis	22 January 1914
+date of birth	Zhai Jun (Chinese: 翟隽; born December 1954) is a Chinese diplomat.	Zhai Jun	December 1954
+date of birth	Ella Hill Hutch (c. 1924 -- February 25, 1981) was elected to the San Francisco Board of Supervisors in San Francisco, California, in 1977 (along with Harvey Milk and Dan White) and reelected in 1980.	Ella Hill Hutch	1924
+date of birth	Olivier Lombard (born 25 April 1991 in Poissy) is a French racing driver, racing in the FIA World Endurance Championship for Signatech-Nissan.	Olivier Lombard	25 April 1991
+date of birth	Gary Twigg (born 19 March 1984) is a Scottish footballer who plays for Portadown in the NIFL Premiership.	Gary Twigg	19 March 1984
+date of birth	Dan Weiner (1919--1959) was an American photojournalist, working largely for Fortune magazine.	Dan Weiner	1919
+date of birth	Agnes Jebet Tirop (born 23 October 1995) is a Kenyan long-distance runner who mainly competes in the 5000 metres and cross country running.	Agnes Jebet Tirop	23 October 1995
+date of birth	Sanela Knezović (born 22 December 1979 in Mostar) is a Bosnian-born Croatian handballer.	Sanela Knezović	22 December 1979
+date of birth	Željko Fajfrić (Serbian Cyrillic: Жељко Фајфрић; born February 24, 1957) is a Serbian professor in law and author on history.	Željko Fajfrić	1957
+date of death	Nihal Silva (Sinhala:නිහාල් සිල්වා) (10 January 1954 -- 3 December 1989) was a Sri Lankan comedian and actor.	Nihal Silva	3 December 1989
+date of death	Michael Kühnen (21 June 1955 -- 25 April 1991) was a leader in the German neo-Nazi movement.	Michael Kühnen	1991
+date of death	Albert Kónya (14 June 1917 -- 16 March 1988) was a Hungarian physicist and politician, who served as Minister of Education between 1956 and 1957.	Albert Kónya	16 March 1988
+date of death	Major William Mordaunt Marsh Edwards, VC, DL (7 May 1855 -- 17 September 1912) was an English recipient of the Victoria Cross, the highest and most prestigious award for gallantry in the face of the enemy that can be awarded to British and Commonwealth forces.	William Mordaunt Marsh Edwards	17 September 1912
+date of death	Frederick Christian II, Duke of Schleswig-Holstein-Sonderburg-Augustenburg (Augustenburg, 28 September 1765 -- Augustenburg, 14 June 1814) was a Danish prince and feudal magnate.	Frederick Christian II, Duke of Schleswig-Holstein-Sonderburg-Augustenburg	14 June 1814
+date of death	Hans von Aachen (1552 -- 4 March 1615) was a German artist, one of the leading painters of Northern Mannerism.	Hans von Aachen	4 March 1615
+date of death	Rose King (1884--1967) was an American film actor and a Broadway lead.	Rose King	1967
+date of death	Augustin Heckel (1690--1770) was a painter, watch case engraver and draughtsman and also a flower painter in watercolours and gouache.	Augustin Heckel	1770
+date of death	William Byngham (also William Bingham) (c. 1390 -- 17 November 1451) was the founder of the first secondary school training college in Britain.	William Byngham	17 November 1451
+date of death	John William Brodie-Innes ( 10 March 1848 -- 8 December 1923 ) was a leading member of the Hermetic Order of the Golden Dawn's Amen-Ra Temple in Edinburgh.	John William Brodie-Innes	8 December 1923
+date of death	William C. Faure (17 July 1949 -- 18 October 1994) was a South African film director and writer, best known for writing and directing Shaka Zulu, a 1986 television mini series.	William C. Faure	18 October 1994
+developer	Juniper's Knot is a short kinetic visual novel developed by Dischan Media.	Juniper's Knot	Dischan Media
+developer	The TOPS-20 operating system by Digital Equipment Corporation (DEC) was a proprietary OS for the PDP-10 mainframe computer.	TOPS-20	Digital Equipment Corporation
+developer	A Boy and His Blob is a platform-puzzle video game developed by WayForward Technologies and published by Majesco Entertainment.	A Boy and His Blob	WayForward Technologies
+developer	Dungeons of Dredmor is a roguelike indie game released on July 13, 2011 by Gaslamp Games.	Dungeons of Dredmor	Gaslamp Games
+developer	Mortal Kombat II (commonly abbreviated as MKII) is a competitive fighting game originally produced by Midway Games for the arcades in 1993.	Mortal Kombat II	Midway Games
+director	Mystery Liner is a 1934 American Pre-Code film directed by William Nigh, based on an Edgar Wallace story originally published in the Saturday Evening Post in 1924.	Mystery Liner	William Nigh
+director	La Muchacha del arrabal is a 1922 Argentine silent film directed and written by José A. Ferreyra with Leopoldo Torres Ríos.	La Muchacha del arrabal	José A. Ferreyra
+director	King Richard and the Crusaders is a 1954 historical drama film made by Warner Bros. It was directed by David Butler and produced by Henry Blanke from a screenplay by John Twist based on Sir Walter Scott's novel The Talisman.	King Richard and the Crusaders	David Butler
+director	The Cat Piano is an award winning animated short film directed by Eddie White and Ari Gibson and narrated by Nick Cave.	The Cat Piano	Eddie White
+director	Write and Fight (Polish: Pismak) is a 1985 Polish film directed by Wojciech Jerzy Has, starring Wojciech Wysocki, Zdzislaw Wardejnc and Jan Peszek.	Write and Fight	Wojciech Jerzy Has
+dissolved or abolished	The Shafik Cabinet was led by prime minister of Egypt Ahmed Shafik from 31 January 2011 to 3 March 2011.	Shafik Cabinet	2011
+dissolved or abolished	The so-called Republic of Crema was a revolutionary municipality in Lombardy, which was created when French army entered in Crema on 28 March 1797.	Republic of Crema	1797
+dissolved or abolished	Savolax and Kymmenegård County (Swedish: Savolax och Kymmenegårds län, Finnish: Savonlinnan ja Kymenkartanon lääni) was a county of Sweden from 1747 to 1775.	Savolax and Kymmenegård County	1775
+dissolved or abolished	A nameless professional American football team, based in Syracuse, New York and generically known as the Syracuse Pros or Syracuse Eleven, was once thought to have joined the American Professional Football Association (now the National Football League) for the 1921 season.	Syracuse Pros	1921
+dissolved or abolished	Ostrołęka Voivodeship (Polish: województwo ostrołęckie) was a unit of administrative division and local government in Poland in years 1975--1998, superseded by Masovian Voivodeship.	Ostrołęka Voivodeship	1998
+drafted by	Joseph Luc Bourdon (February 16, 1987 -- May 29, 2008) was a Canadian professional ice hockey defenceman who played for the Vancouver Canucks of the National Hockey League (NHL) and their American Hockey League (AHL) affiliate, the Manitoba Moose, from 2006 until 2008.	Luc Bourdon	Vancouver Canucks
+drafted by	Anthony Bonner (born June 8, 1968) is an American former professional basketball player who was selected by the Sacramento Kings in the 1st round (23rd overall pick) of the 1990 NBA Draft.	Anthony Bonner	Sacramento Kings
+drafted by	Alec Burks (born July 20, 1991) is an American professional basketball player for the Utah Jazz of the National Basketball Association (NBA).	Alec Burks	Utah Jazz
+drafted by	Joseph Jacques Yanick Dupré (November 20, 1972 -- August 16, 1997) was a Canadian professional ice hockey left winger who played 35 games over parts of three seasons in the National Hockey League (NHL) for the Philadelphia Flyers.	Yanick Dupré	Philadelphia Flyers
+drafted by	Bryant Reeves (born June 8, 1973) is an American retired professional basketball player for the NBA's Vancouver Grizzlies.	Bryant Reeves	Vancouver Grizzlies
+drafted by	Tony Windis (born January 27, 1933) is a former NBA basketball player for the Detroit Pistons.	Tony Windis	Detroit Pistons
+drafted by	Chris Neil (born June 18, 1979) is a Canadian professional ice hockey right winger and alternate captain for the Ottawa Senators of the National Hockey League (NHL).	Chris Neil	Ottawa Senators
+drafted by	Michael Dal Colle (born June 20, 1996) is a Canadian ice hockey player and a prospect of the New York Islanders in the National Hockey League.	Michael Dal Colle	New York Islanders
+drafted by	Remi Elie (born April 16, 1995) is a Canadian professional ice hockey player and a prospect of the Dallas Stars in the National Hockey League.	Remi Elie	Dallas Stars
+drafted by	Essence Carson (born July 28, 1986) is an American basketball player for the WNBA's New York Liberty.	Essence Carson	New York Liberty
+drafted by	Robby Fabbri (born January 22, 1996) is a Canadian professional ice hockey player who is currently playing for the St. Louis Blues of the National Hockey League (NHL).	Robby Fabbri	St. Louis Blues
+drafted by	Róbert Döme (born January 29, 1979) is a Slovak retired professional ice hockey right winger who played in the National Hockey League (NHL) with the Pittsburgh Penguins and the Calgary Flames.	Róbert Döme	Pittsburgh Penguins
+drafted by	Joni Ortio (born April 16, 1991) is a Finnish professional ice hockey goaltender who plays for the Calgary Flames of the National Hockey League (NHL).	Joni Ortio	Calgary Flames
+drafted by	Emil Molin (born February 3, 1993) is a Swedish professional ice hockey player who is currently playing for the Idaho Steelheads in the ECHL as a prospect for the Dallas Stars of the National Hockey League (NHL).	Emil Molin	Dallas Stars
+drafted by	Andrew Copp (born July 8, 1994) is an American professional ice hockey player who currently plays for the Winnipeg Jets of the National Hockey League (NHL).	Andrew Copp	Winnipeg Jets
+drafted by	Toni Young (born January 11, 1991) is an American professional basketball player who last played for the New York Liberty of the WNBA.	Toni Young	New York Liberty
+drafted by	Jonathan Huberdeau (born June 4, 1993) is a Canadian ice hockey forward currently playing for the Florida Panthers of the National Hockey League (NHL).	Jonathan Huberdeau	Florida Panthers
+drafted by	Alfredrick Hughes (born July 19, 1962) is a retired American professional basketball player who was selected by the San Antonio Spurs in the first round (14th overall) in the 1985 NBA Draft.	Alfredrick Hughes	San Antonio Spurs
+drafted by	Emma Meesseman (born May 13, 1993) is a Belgian professional basketball player who currently plays for the Washington Mystics of the WNBA.	Emma Meesseman	Washington Mystics
+drafted by	Libor Polášek (born April 22, 1974) is a retired Czech professional ice hockey centre regarded by many Vancouver Canucks fans and journalists as one of the worst first-round draft picks ever made by that NHL team.	Libor Polášek	Vancouver Canucks
+editor	Twilight Zone: 19 Original Stories on the 50th Anniversary is a collection of short stories written by various authors and edited by Carol Serling, the widow of series creator Rod Serling.	Twilight Zone: 19 Original Stories on the 50th Anniversary	Carol Serling
+editor	The Philosophy of Mathematics Education Journal is a peer-reviewed open-access academic journal published and edited by Paul Ernest (University of Exeter).	Philosophy of Mathematics Education Journal	Paul Ernest
+editor	Svenskt biografiskt handlexikon (Swedish pronunciation: (ˈsvɛnːskt bɪɔˈɡrɑːfɪskt ˈhanːdˈlɛkːsɪkɔn)) is a compact Swedish dictionary of biography first published in 1873-1876 by the physician and antiquarian Herman Hofberg (1823-1883).	Svenskt biografiskt handlexikon	Herman Hofberg
+editor	The Review of Economics of the Household is a peer-reviewed academic journal established in 2001 by Shoshana Grossbard and first published in 2003.	Review of Economics of the Household	Shoshana Grossbard
+editor	``Ode to Joy'' (German: ``An die Freude'' (an diː ˈfʁɔʏdə), first line: ``Freude, schöner Götterfunken'') is an ode written in the summer of 1785 by German poet, playwright and historian Friedrich Schiller and published the following year in Thalia.	Ode to Joy	Friedrich Schiller
+educated at	Gail M. Kelly (February 9, 1933 -- August 17, 2005) was an American anthropologist known for training generations of anthropologists at Reed College in Portland, Oregon.	Gail M. Kelly	Reed College
+educated at	Tan Tarn How graduated from Peterhouse, Cambridge in 1982 with Bachelor of Arts Honours, Natural Sciences Tripos.	Tan Tarn How	Peterhouse
+educated at	Sir Bill Callaghan was educated at St John's College, Oxford where he read Philosophy, Politics and Economics and the University of Kent at Canterbury where he gained an MA in Economics.	Bill Callaghan	St John's College	University of Kent
+educated at	Hanan Yoran studied for his BA degree in Mathematics and Computer Science at the Hebrew University of Jerusalem and graduated in 1987.	Hanan Yoran	Hebrew University of Jerusalem
+educated at	He combines his commitments as a professional rugby player with a full-time degree at University of Birmingham A graduate of the academy system at Aviva Premiership club Worcester Warriors, Graham Kitchener left the Warriors to join Leicester Tigers for the 2011-12 season.	Graham Kitchener	University of Birmingham
+employer	Orazio Attanasio (born 31 October 1959, in Naples) is an Italian economist and the Jeremy Bentham Chair of Economics at University College London.	Orazio Attanasio	University College London
+employer	Ronald Baecker (born October 7, 1942) is a tenured professor of Computer Science (cross-appointed to the Department of Electrical and Computer Engineering and to the Faculty of Management) at the University of Toronto, and has held these positions since 1989.	Ronald Baecker	University of Toronto
+employer	Phil Trow (born 9 September 1966 in Manchester) is a broadcaster at BBC Radio Manchester and has worked in radio for over 20 years.	Phil Trow	BBC
+employer	Kenneth Wolstenholme DFC & Bar (17 July 1920 -- 25 March 2002) was the football commentator for BBC television in the 1950s and 1960s, most notable for his commentary during the 1966 FIFA World Cup which included the famous phrase ``some people are on the pitch...they think it's all over....	Kenneth Wolstenholme	BBC
+employer	John Lennard (born 1964) is Professor of British and American Literature at the University of the West Indies (UWI), Mona, Jamaica, and a freelance academic and writer.	John Lennard	University of the West Indies
+end time	600 Seconds (Russian: 600 секунд; 1987 to 1993) was an immensely popular TV news program that aired in the Soviet Union and briefly in post-Soviet Russia.	600 Seconds	1993
+end time	The 2015 Asian Women's Volleyball Championship was held in Tianjin, China from 20 to 28 May 2015.	2015 Asian Women's Volleyball Championship	28 May 2015
+end time	The Cos Cob art colony was a group of artists, many of them American Impressionists, who gathered during the summer months in and around Cos Cob, a section of Greenwich, Connecticut, from about 1890 to about 1920.	Cos Cob art colony	1920
+end time	The Battle of Chumonchin Chan or the Action of 2 July 1950 was the only major battle fought between surface combatants during the main phase of the Korean War.	Battle of Chumonchin Chan	2 July 1950
+end time	The Battle of Callinicum took place on Easter Saturday, 19 April 531 AD, between the armies of the Byzantine Empire under Belisarius and the Sassanid Persians under Āzārethes.	Battle of Callinicum	19 April 531
+end time	The Dodecanese Campaign, lasting from 8 September to 22 November 1943, resulted in one of the last major German victories in the war.	Dodecanese Campaign	22 November 1943
+end time	The Battle of Stadtlohn was fought on 6 August 1623 between the armies of Christian of Brunswick and of the Catholic League during the Thirty Years' War.	Battle of Stadtlohn	6 August 1623
+end time	The Battle of Othée was fought between the citizens of the Liège and a professional army under command of John the Fearless on 23 September 1408.	Battle of Othée	23 September 1408
+end time	The Fall of Constantinople (Greek: Άλωση της Κωνσταντινούπολης, Alōsē tēs Kōnstantinoupolēs; Turkish: İstanbul'un Fethi Conquest of Istanbul) was the capture of the capital of the Eastern Roman (Byzantine) Empire by an invading army of the Ottoman Empire on 29 May 1453.	Fall of Constantinople	29 May 1453
+end time	English Renaissance theatre, also known as early modern English theatre, or (commonly) as Elizabethan theatre, refers to the theatre of England between 1562 and 1642.	English Renaissance theatre	1642
+end time	The Battle of Mont Sorrel (Battle of Mount Sorrel, Battle of Hill 62) was a local operation in World War I by three divisions of the British Second Army and three divisions of the German Fourth Army in the Ypres Salient, near Ypres, Belgium, from 2 to 14 June 1916.	Battle of Mont Sorrel	14 June 1916
+end time	Opzoek naar Yolanda was a Dutch dramady television show by Wim T. Schippers, consisting of six episodes aired by the VPRO from October to December 1984.	Opzoek naar Yolanda	December 1984
+end time	The 1913 World Allround Speed Skating Championships took place at 1 and 2 March 1913 at the ice rink Pohjoissatama in Helsinki, Finland.	1913 World Allround Speed Skating Championships	2 March 1913
+end time	The 2002 World Allround Speed Skating Championships were held in Thialf in Heerenveen, Netherlands, on 15, 16 and 17 March 2002.	2002 World Allround Speed Skating Championships	17 March 2002
+end time	The 2,500 year celebration of the Persian Empire (Persian: جشن‌های ۲۵۰۰ سالهٔ شاهنشاهی ایران‎‎) consisted of an elaborate set of festivities that took place on 12--16 October 1971 on the occasion of the 2,500th anniversary of the founding of the Iranian monarchy (Persian Empire) by Cyrus the Great.	2,500 year celebration of the Persian Empire	16 October 1971
+end time	The Battle of Truillas was fought on 22 September 1793 during the French Revolutionary War between the French Army of the eastern Pyrenees led by Luc Siméon Auguste Dagobert and the Spanish Army of Catalonia under Antonio Ricardos.	Battle of Truillas	22 September 1793
+end time	The naval Battle of the Sound took place on 8 November 1658 (29 October O.S.) during the Second Northern War, near the Sound or Oresund, just north of the Danish capital, Copenhagen.	Battle of the Sound	8 November 1658
+end time	The First Presidency of Alan García Pérez (from 1985 to 1990) was one of the worst presidency's in Peru's history because of the worst economic crisis that the country saw during those years.	First Presidency of Alan García	1990
+end time	The 1995 Canoe Marathon European Championships were the first edition of the Canoe Marathon European Championships, which took place on 20--21 May 1995 in Murcia, Spain.	1995 Canoe Marathon European Championships	21 May 1995
+end time	The 2004 Wimbledon Championships were held between 21 June -- 4 July 2004.	2004 Wimbledon Championships	4 July 2004
+end time	The Battle of Entzheim was a battle fought on 4 October 1674 near Entzheim in present-day Alsace between the French Royal Army under the command of the Vicomte de Turenne on one side and Imperial Army of the Holy Roman Empire on the other side during the Franco-Dutch War.	Battle of Entzheim	4 October 1674
+end time	The Battle of Varese was fought on 26 May 1859 at Varese (Lombardy).	Battle of Varese	26 May 1859
+end time	The Battle of the Dalmatian Channels was a three-day confrontation between three tactical groups of Yugoslav Navy ships and coastal artillery, and a detachment of naval commandos of the Croatian Navy fought on 14--16 November 1991 during the Croatian War of Independence.	Battle of the Dalmatian Channels	16 November 1991
+end time	The Battle of Rocroi of 19 May 1643 resulted in the victory of a French army under the Duc d'Enghien against the Spanish Army under General Francisco de Melo only five days after the accession of Louis XIV of France to the throne of France, late in the Thirty Years' War.	Battle of Rocroi	19 May 1643
+end time	Operation Winter '94 (Croatian: Operacija Zima '94) was a joint military offensive of the Croatian Army (HV) and the Croatian Defence Council (HVO) fought in southwestern Bosnia and Herzegovina between 29 November and 24 December 1994.	Operation Winter '94	24 December 1994
+end time	The Battle of Halmyros, known by older scholars as the Battle of the Cephissus or Battle of Orchomenos, was fought on 15 March 1311 between the forces of the Frankish Duchy of Athens and its vassals under Walter of Brienne and the mercenaries of the Catalan Company, resulting in a devastating victory for the Catalans.	Battle of Halmyros	15 March 1311
+end time	The Battle of Preveza was a naval battle that took place on 28 September 1538 near Preveza in northwestern Greece between an Ottoman fleet and that of a Christian alliance assembled by Pope Paul III in which the Ottoman fleet defeated the allies.	Battle of Preveza	28 September 1538
+end time	The Battle of Walcourt was fought on 25 August 1689 during the Nine Years' War.	Battle of Walcourt	25 August 1689
+end time	The 2016 Dubai Tour was a road cycling stage race that took place in Dubai between 3 and 6 February 2016.	2016 Dubai Tour	6 February 2016
+end time	The Battle of Camaret was an amphibious landing at Camaret Bay on 18 June 1694 by the English and Dutch in an attempt to seize the French port of Brest and destroy part of the French fleet stationed there, as part of the Nine Years' War.	Battle of Camaret	18 June 1694
+end time	The Battle of Krithia Vineyard (6--13 August 1915) was fought during the Gallipoli Campaign during the First World War.	Battle of Krithia Vineyard	13 August 1915
+end time	The Battle of Besançon (21 June 1575) was a sectarian conflict between the Protestants and Catholics in the French city of Besançon in the region of Franche-Comté.	Battle of Besançon	21 June 1575
+end time	The Battle of the Bogside was a very large communal riot that took place during 12--14 August 1969 in Derry, Northern Ireland.	Battle of the Bogside	14 August 1969
+end time	The Battle of Blenheim (referred to in some countries as the Second Battle of Höchstädt), fought on 13 August 1704, was a major battle of the War of the Spanish Succession.	Battle of Blenheim	13 August 1704
+end time	The Battle of Diamond Hill (Donkerhoek) took place on 11 and 12 June 1900 during the Second Boer War.	Battle of Diamond Hill	12 June 1900
+end time	The Battle of Ostrach, also called the Battle by Ostrach, occurred on 20--21 March 1799.	Battle of Ostrach	21 March 1799
+end time	The Battle of St. Lucia or the Battle of the Cul de Sac was a naval battle fought off the island of St. Lucia in the West Indies during the Anglo-French War on 15 December 1778, between the British Royal Navy and the French Navy.	Battle of St. Lucia	15 December 1778
+end time	The 2006 Riga summit or the 19th NATO Summit was a NATO summit held in the Olympic Sports Centre, Riga, Latvia from 28 to 29 November 2006.	2006 Riga summit	29 November 2006
+end time	The Battle of Mortimer's Cross was fought on 2 February 1461 near Wigmore, Herefordshire (between Leominster and Leintwardine, by the River Lugg), not far from the Welsh border.	Battle of Mortimer's Cross	2 February 1461
+end time	The 2007 Tour Down Under was held from 16 to 21 January 2007 in Australia.	2007 Tour Down Under	21 January 2007
+founder	The Treadwell gold mine was on the south side of Douglas Island, .5-mile (0.80 km) east of downtown Douglas and southeast of downtown Juneau, owned and operated by John Treadwell.	Treadwell gold mine	John Treadwell
+founder	UNESCO-CEPES, the European Centre for Higher Education: established in 1972 in Bucharest, Romania, as a de-centralized office to promote international co-operation in higher education in Europe as well as Canada, USA and Israel.	UNESCO	Canada
+founder	Sigil Games Online, Inc. was a computer game developer based in Carlsbad, California founded in January 2002 by Brad McQuaid and Jeff Butler, key development team members who created EverQuest, the most popular massively multiplayer online role-playing game before World of Warcraft.	Sigil Games Online	Brad McQuaid
+founder	J. P. Morgan and the attorney Elbert H. Gary founded U.S. Steel on March 2, 1901 (incorporated on February 25) by combining Andrew Carnegie's Carnegie Steel Company with Gary's Federal Steel Company and William Henry ``Judge'' Moore's National Steel Company for $492 million ($13.99 billion today).	U.S. Steel	Andrew Carnegie
+founder	The Painted Turtle was founded in 1999 by Paul Newman and Page and Lou Adler.	The Painted Turtle	Paul Newman
+head of government	The mayor of Buzău is Constantin Boșcodeală (since 1996).	Buzău	Constantin Boșcodeală
+head of government	Boppard's current mayor, elected on 1 August 1997 and again on 10 April 2005, is Dr. Walter Bersch, and his deputies are Dr. Heinz Bengart, Ruth Schneider and Horst-Peter Hassbach.	Boppard	Walter Bersch
+head of government	In 2014, former Member of the National Assembly of France, Guy Lefrand (UMP, right), was elected Mayor of Évreux for a six years mandate.	Évreux	Guy Lefrand
+head of government	For over 30 years, the mayor of Marinaleda has been Juan Manuel Sánchez Gordillo of the United Left Party.	Marinaleda	Juan Manuel Sánchez Gordillo
+head of government	Sven Gerich The information up to 2007 was retrieved from Die Wiesbadener Oberbürgermeister seit dem Bau des neuen Rathauses (1886) (The Wiesbaden Mayors since the construction of the new town mayor hall (1886) )	Wiesbaden	Sven Gerich
+head of government	South Tyrol is characterized by long sitting presidents, having only had two presidents between 1960 and 2014 (Silvius Magnago 1960-1989, Luis Durnwalder 1989-2014).	South Tyrol	Luis Durnwalder
+headquarters location	RELX Group (known as Reed Elsevier between 1992 and February 2015) is a multinational information and analytics company based in London, in the United Kingdom.	RELX Group	London
+headquarters location	The Matheson Trust is an educational charity based in London dedicated to further and disseminate the study of comparative religion, especially from the point of view of the underlying harmony of the major religious and philosophical traditions of the world.	The Matheson Trust	London
+headquarters location	Geer-Melkus Construction Co., Inc. was a commercial construction company located in Grand Island, Nebraska.	Geer-Melkus Construction	Grand Island
+headquarters location	The Group of Fifty (Grupo de los Cincuenta, or G-50) is a non-profit, non-partisan initiative based in Washington, D.C., USA, whose primary goal is to foster open dialogue among members of the business community in Latin America to promote economic development and social progress in the region.	Group of Fifty	Washington, D.C.
+headquarters location	DHL Supply Chain has around 130,000 employees and is headquartered in Bonn, Germany.	DHL Supply Chain	Bonn
+inception	A privately owned company founded in 2005, Phone Power provides telecommunications service in 48 states in the U.S. Phone Power's customer service is based in the USA.	Phone Power	2005
+inception	Kind Campaign, founded in 2009, is a non-profit organization, documentary film, and school program that brings awareness and healing to the negative and lasting effects of girl-against-girl ``crime''.	Kind Campaign	2009
+inception	826michigan opened its doors on June 1, 2005.	826michigan	2005
+inception	The Asian American Writers' Workshop is a nonprofit literary arts organization founded in 1991 to support of writers, literature and community.	Asian American Writers' Workshop	1991
+inception	Lieutenant-general Matvei Platov, the Ataman of the Don Cossacks, founded Novocherkassk in 1805 as the administrative center of the Don Host Oblast, after the inhabitants of the stanitsa of Cherkassk had to leave their abodes on the banks of the Don on account of the frequent floods.	Novocherkassk	1805
+instrument	The Worthing Herald said of Morris's performance at The Pavilion Theatre 'Elliott Morris absorbingly entertains and amuses with genuine guitar wizardry, tenor voice, sometimes both together, observant and wry lyrics, and some fun anecdotes and audience teasing.	Elliott Morris	guitar
+instrument	Miguel Martínez Domínguez (September 29, 1921 in Celaya, Guanajuato -- December 6, 2014 in Mexico City) was a Mexican musician, composer and arranger of mariachi, pioneer in the use of trumpet in this genre.	Miguel Martínez Domínguez	trumpet
+instrument	Ashu is an American saxophone soloist.	Ashu	saxophone
+instrument	Dorothy Donegan (April 6, 1922 -- May 19, 1998) was an American classically trained jazz pianist primarily known for performing in the stride piano and boogie-woogie style.	Dorothy Donegan	piano
+instrument	Jerome Harris is an American jazz musician specializing in electric and acoustic bass guitar, electric guitar, voice, and occasionally lap steel and small percussion.	Jerome Harris	bass guitar
+languages spoken or written	Henry Thomas Colebrooke FRS FRSE (June 15, 1765 -- March 10, 1837) was an English orientalist and mathematician.	Henry Thomas Colebrooke	English
+languages spoken or written	Gernot Rumpf (born 1941) is a German sculptor known for his fountain and other bronze sculptures, with the Palatinate and biblical motifs.	Gernot Rumpf	German
+languages spoken or written	Jürgen Jost (born June 9, 1956 in Münster) is a German mathematician.	Jürgen Jost	German
+languages spoken or written	Jutta Koether (born 1958) is a German artist, musician and critic based in New York and Berlin since the early 1990s.	Jutta Koether	German
+languages spoken or written	Wolfgang Hoffmann-Riem (born March 4, 1940 in Hannover) is a German legal scholar and a former judge of the Federal Constitutional Court of Germany.	Wolfgang Hoffmann-Riem	German
+league	Union Sportive de la Médina d'El Harrach (Arabic: الاتحاد الرياضي لمدينة الحراش‎), known more commonly as USM El Harrach, is an Algerian football club based in El Harrach, Algiers, that plays in the Algerian Ligue Professionnelle 1.	USM El Harrach	Algerian Ligue Professionnelle 1
+league	Erie Commodores FC is an American professional soccer team based in Erie, Pennsylvania which competes in the National Premier Soccer League (NPSL), a nationwide amateur league at the fourth tier of the American Soccer Pyramid.	Erie Commodores FC	National Premier Soccer League
+league	The Denver Avalanche was an American soccer team based out of Denver, Colorado that played in the Major Indoor Soccer League from 1980 to 1982.	Denver Avalanche	Major Indoor Soccer League
+league	The Corpus Christi Hooks are a minor league baseball team of the Texas League, and are the Double-A affiliate of the Houston Astros.	Corpus Christi Hooks	Texas League
+league	Today, after a stint in the tier seven Landesliga FC Stahl Brandenburg play in the Brandenburg-Liga (VI) as a lower table side.	FC Stahl Brandenburg	Brandenburg-Liga
+league	San Jose CyberRays was a professional soccer team that played in the Women's United Soccer Association.	San Jose CyberRays	Women's United Soccer Association
+league	The Metropolitanos of Havana was a baseball team in the Cuban National Series.	Metropolitanos	Cuban National Series
+league	Universal Peace Foundation was a Palauan association football club which competed in the Palau Soccer League, the top level league in Palau, in 2006-07, when they finished bottom of the league, losing all their games and ending with a -29 goal difference.	Universal Peace Foundation	Palau Soccer League
+league	KF Poliçani is currently in the Albanian Second Division.	KF Poliçani	Albanian Second Division
+league	The Western New York Flash (WNYF) is an American professional soccer club based in Elma, New York, that competes in the National Women's Soccer League.	Western New York Flash	National Women's Soccer League
+league	FC Alga Bishkek is a Kyrgyz football club based in Bishkek, Kyrgyzstan that plays in the top division in Kyrgyzstan, the Kyrgyzstan League.	FC Alga Bishkek	Kyrgyzstan League
+league	Indianapolis Braves were an American soccer team, the men's professional team of the Indianapolis-based soccer organization, FC Pride, which competed in the National Premier Soccer League (NPSL), the fourth tier of the American Soccer Pyramid, for just one season, in 2007.	Indianapolis Braves	National Premier Soccer League
+league	The club is most noted for competing in the early Italian Football Championship competitions during the 1920s, after that period they began to decline spending the 1940s in Serie C. The last season of Ilva Bagnolese was played out in Serie D where they were relegated to Prima Categoria.	Ilva Bagnolese	Serie D
+league	After renaming itself as Montedio Yamagata in 1996, it has been playing in J. League Division 2 since its inaugural 1999 season.	Montedio Yamagata	J. League Division 2
+league	Columbus Crew SC is a professional soccer club based in Columbus, Ohio, United States, which competes in Major League Soccer (MLS) in the Eastern Conference of the league.	Columbus Crew SC	Major League Soccer
+league	The Staten Island Vipers were a soccer club that competed in the USL A-League in 1998 and 1999.	Staten Island Vipers	A-League
+league	The Worcester Worcesters were a 19th-century Major League Baseball team from 1880 to 1882 in the National League.	Worcester Worcesters	Major League Baseball
+league	In July 2008, Polonia Warsaw merged with Dyskobolia Grodzisk Wielkopolski (3rd in the Ekstraklasa in 2007/08) and took over its place in the Polish top division.	Polonia Warsaw	Ekstraklasa
+league	The North Melbourne Football Club, nicknamed the Kangaroos or less formally the Roos, the Kangas or North, is the fourth oldest Australian rules football club in the Australian Football League (AFL) and is one of the oldest sporting clubs in Australia and the world.	North Melbourne Football Club	Australian Football League
+league	The Cleveland Indians are an American professional baseball team based in Cleveland, Ohio, that competes in Major League Baseball.	Cleveland Indians	Major League Baseball
+league	FC Aldiyer Kurshab is a football club that plays in the Kyrgyzstan League, the top division in Kyrgyzstan.	FC Aldiyer Kurshab	Kyrgyzstan League
+league	Vilankulo F.C., short name VFC, is a Mozambican football (soccer) club based in Vilankulo that plays in the top division of Mozambican football, Moçambola.	Vilankulo F.C.	Moçambola
+league	HC Motor Zaporozhye is a Ukrainian men's handball club bazed in Zaporozhye played in the Ukrainian Men's Handball Super League.	HC Motor Zaporozhye	Ukrainian Men's Handball Super League
+licensed to broadcast to	CFRM-FM is a Canadian radio station that broadcasts at 100.7 FM in Little Current, Ontario, serving Northeastern Manitoulin and the Islands.	CFRM-FM	Northeastern Manitoulin and the Islands
+licensed to broadcast to	WPTW ``The Voice of the Upper Miami Valley, Ohio'' (for Piqua, Troy and West Milton) is a commercial AM radio stations in Piqua, Ohio, U.S.A. on 1570 kHz with a power output of 250 watts.	WPTW	Piqua
+licensed to broadcast to	KPLX (99.5 FM, ``99.5 The Wolf'') is an American commercial radio station broadcasting a country music format on 99.5 FM, serving the Dallas/Fort Worth metroplex in Texas and is under ownership of Cumulus Media.	KPLX	Fort Worth
+licensed to broadcast to	KWTX-FM (97.5 FM) is a commercial Top 40 (CHR) radio station in Waco, Texas.	KWTX-FM	Waco
+licensed to broadcast to	CIDO-FM, branded as Creston Community Radio, is a community radio station broadcasting with an effective radiated power of 20 watts in the Southern Interior town of Creston, British Columbia, Canada.	CIDO-FM	Creston
+located in the administrative territorial entity	Lyme Handley, sometimes known as Lyme, is a small civil parish in between Disley and Stockport, in the unitary authority of Cheshire East and the ceremonial county of Cheshire, England.	Lyme Handley	Cheshire
+located in the administrative territorial entity	Qelichi (Persian: قليچي‎, also Romanized as Qelīchī; also known as Qal``ehcheh) is a village in Balghelu Rural District, in the Central District of Ardabil County, Ardabil Province, Iran. At the 2006 census, its population was 118, in 38 families.	Qelichi	Balghelu Rural District
+located in the administrative territorial entity	The Graduate Group in the Art and Archaeology of the Mediterranean World (AAMW) is an interdisciplinary program for research and teaching of archaeology, particularly archaeology and art of the ancient Mediterranean (Greece and Rome), Egypt, Anatolia, and the Near East, based in the Penn Museum of the University of Pennsylvania.	Graduate Group in the Art and Archaeology of the Mediterranean World	Pennsylvania
+located in the administrative territorial entity	Fort McClellan Army Airfield is closed military airfield located 6 mi (9.7 km) north-northeast of Anniston, Alabama.	Fort McClellan Army Airfield	Alabama
+located in the administrative territorial entity	Spring Creek Elementary School is a public elementary school located in Garland, Texas (USA).	Spring Creek Elementary School	Texas
+located in the administrative territorial entity	Waldfriedhof Zehlendorf (Zehlendorf forest cemetery) is a cemetery located in Berlin's Nikolassee district.	Waldfriedhof Zehlendorf	Nikolassee
+located in the administrative territorial entity	Kakching Khunou is an agricultural town in Thoubal district in the Indian state of Manipur.	Kakching Khunou	Thoubal district
+located in the administrative territorial entity	The Snake River Range is located in the U.S. states of Wyoming and Idaho and includes 10 mountains over 9,000 feet (2,700 m).	Snake River Range	Idaho
+located in the administrative territorial entity	Roedgen (Luxembourgish: Riedgen) is a small town in the commune of Reckange-sur-Mess, in south-western Luxembourg.	Roedgen	Reckange-sur-Mess
+located in the administrative territorial entity	Nangla-Maheshwari is a village and a gram panchayat in Mohammedpur Deomal block in Bijnor district of Uttar Pradesh.	Nangla-Maheshwari	Uttar Pradesh
+located in the administrative territorial entity	Aquarium of the Bay is a public aquarium located at Embarcadero and Beach Street, at the edge of Pier 39 in San Francisco, California.	Aquarium of the Bay	California
+located in the administrative territorial entity	Shurab-e Sofla (Persian: شوراب سفلي‎, also Romanized as Shūrāb-e Soflá; also known as Shūrāb-e Pā’īn) is a village in Sang Bast Rural District, in the Central District of Fariman County, Razavi Khorasan Province, Iran.	Shurab-e Sofla	Sang Bast Rural District
+located in the administrative territorial entity	Gol Qandasht (Persian: گلقندشت‎) is a village in Ghazali Rural District, Miyan Jolgeh District, Nishapur County, Razavi Khorasan Province, Iran.	Gol Qandasht	Ghazali Rural District
+located in the administrative territorial entity	Deh Mianeh (Persian: ده ميانه‎, also Romanized as Deh Mīāneh and Deh Meyāneh) is a village in Kamazan-e Olya Rural District, Zand District, Malayer County, Hamadan Province, Iran.	Deh Mianeh	Kamazan-e Olya Rural District
+located in the administrative territorial entity	Gonabad County (Persian: شهرستان گناباد‎) is a county in Razavi Khorasan Province in Iran.	Gonabad County	Razavi Khorasan Province
+located in the administrative territorial entity	Sulnikowo (sulniˈkɔvɔ) is a village in the administrative district of Gmina Gzy, within Pułtusk County, Masovian Voivodeship, in east-central Poland.	Sulnikowo	Gmina Gzy
+located in the administrative territorial entity	Wilson Area High School is a four-year public high school located in Easton, Pennsylvania, in the Lehigh Valley region of Pennsylvania, in the United States.	Wilson Area High School	Pennsylvania
+located in the administrative territorial entity	Khesht District (Persian: بخش خشت‎) is a district (bakhsh) in Kazerun County, Fars Province, Iran.	Khesht District	Kazerun County
+located in the administrative territorial entity	Salvador-Deputado Luís Eduardo Magalhães International Airport (IATA: SSA, ICAO: SBSV), formerly called Dois de Julho International Airport is the airport serving Salvador da Bahia, Brazil.	Deputado Luís Eduardo Magalhães International Airport	Salvador
+located in the administrative territorial entity	The Somerset Dam is a mass concrete gravity dam with a gated spillway across the Stanley River that is located in the South East region of Queensland, Australia.	Somerset Dam	Queensland
+located in the administrative territorial entity	Snopki (ˈsnɔpki) is a village in the administrative district of Gmina Pisz, within Pisz County, Warmian-Masurian Voivodeship, in northern Poland.	Snopki	Gmina Pisz
+located in the administrative territorial entity	Rue Pierre Schoonejans is street in Brussels in the municipality of Auderghem that goes from the Chaussée de Wavre to Avenue Joseph Cauldron.	Rue Pierre Schoonejans	Auderghem
+located in the administrative territorial entity	Ożary Wielkie (ɔˈʐarɨ ˈvjɛlkʲɛ) is a village in the administrative district of Gmina Rutki, within Zambrów County, Podlaskie Voivodeship, in north-eastern Poland.	Ożary Wielkie	Gmina Rutki
+located in the administrative territorial entity	The County of Fraser is a county (a cadastral division) of Queensland, Australia, which contains Fraser Island.	County of Fraser	Queensland
+located in the administrative territorial entity	Bankstown is a suburb of south-western Sydney, in the state of New South Wales, Australia.	Bankstown	New South Wales
+manufacturer	The 5.56×30mm MINSAS is an ammunition manufactured by the Ordnance Factories Board for close quarter battle use.	MINSAS	Ordnance Factories Board
+manufacturer	The Bristol 403 is a luxury car which was produced between 1953 and 1955 by British manufacturer Bristol Aeroplane Co. (whose car division later became Bristol Cars).	Bristol 403	Bristol Cars
+manufacturer	The GM New Look bus, also commonly known by the nickname ``Fishbowl'' (for its six-piece rounded windshield), is a transit bus introduced in 1959 by Truck and Coach Division of General Motors and produced until 1986.	GM New Look bus	General Motors
+manufacturer	The BRM P153 was a Formula One racing car designed by Tony Southgate for the British Racing Motors team, which raced in the 1970, 1971 and 1972 Formula One seasons.	BRM P153	British Racing Motors
+manufacturer	German submarine U-843 was a Type IXC/40 U-boat of Nazi Germany's Kriegsmarine during World War II. The submarine was laid down on 21 April 1942 at the DeSchiMAG AG Weser yard in Bremen, launched on 15 December 1942, and commissioned on 24 March 1943 under the command of Kapitänleutnant Oskar Herwartz.	German submarine U-843	AG Weser
+member of political party	Anton Christian Bang (September 18, 1840 in Dønna, Helgeland - December 29, 1913) was a Norwegian theologian, historian and politician for the Conservative Party of Norway.	Anton Christian Bang	Conservative Party
+member of political party	Kyriakos Mitsotakis (Greek: Κυριάκος Μητσοτάκης; born 4 March 1968) is a Greek politician and the president of New Democracy.	Kyriakos Mitsotakis	New Democracy
+member of political party	Bridie O'Flaherty (27 October 1917 -- 15 January 2006) was an Irish Fianna Fáil politician who left that party in 1986 to become a founder-member of the Progressive Democrats.	Bridie O'Flaherty	Fianna Fáil
+member of political party	Lawrence Palk, 1st Baron Haldon (5 January 1818 -- 22 March 1883), known as Sir Lawrence Palk, 4th Baronet from 1860 to 1880, was a British Conservative Party politician.	Lawrence Palk, 1st Baron Haldon	Conservative Party
+member of political party	Mildred Barry Hughes (February 11, 1902 -- January 11, 1995) was an American Democratic Party politician who served in the New Jersey General Assembly and became the first woman elected to the New Jersey Senate, in 1965.	Mildred Barry Hughes	Democratic Party
+member of sports team	Bohdan Kondratyuk (Ukrainian: Богдан Олександрович Кондратюк; born 19 June 1987 in Ukrainian SSR) is a professional Ukrainian footballer defender playing in the professional Ukrainian First League club FC Poltava.	Bohdan Kondratyuk	FC Poltava
+member of sports team	Ante Blažević (born 5 May 1996) is a Croatian footballer who currently plays for Belgian side K.V. Oostende.	Ante Blažević	K.V. Oostende
+member of sports team	Miguel Filipe Nunes Cardoso (born 19 June 1994) is a Portuguese footballer who plays for C.F. União on loan from Spanish club Deportivo de La Coruña as a winger.	Miguel Filipe Nunes Cardoso	C.F. União
+member of sports team	Vilmos Vanczák (Hungarian pronunciation: (ˈvilmoʃ ˈvɒnt͡saːk); born 20 June 1983) is a Hungarian footballer who currently plays as a centre back or full back for FC Sion.	Vilmos Vanczák	FC Sion
+member of sports team	Raoul Kouakou (born 3 January 1980 in Abidjan) is a Côte d'Ivoire football defender who last played for Sandefjord Fotball.	Raoul Kouakou	Sandefjord Fotball
+military branch	Admiral Sir Albert Hastings Markham, KCB (11 November 1841 -- 28 October 1918) was a British explorer, author, and officer in the Royal Navy.	Albert Hastings Markham	Royal Navy
+military branch	The Indian Naval Air Arm is a branch of Indian Navy which is tasked to provide an aircraft carrier based strike capability, fleet air defence, maritime reconnaissance, and anti-submarine warfare.	Indian Naval Air Arm	Indian Navy
+military branch	James Hingston Tuckey (August 1776 -- 4 October 1816) was an Irish-born British explorer and a captain in the Royal Navy.	James Hingston Tuckey	Royal Navy
+military branch	Joseph Cushing Edmands (March 26, 1842 -- December 28, 1878) was a volunteer soldier in the Union Army during the American Civil War who attained the grade of colonel and in 1866 was awarded the honorary grade of brevet brigadier general.	Joseph Cushing Edmands	Union Army
+military branch	Vice Admiral Russell Willson (December 27, 1883, Fredonia, New York -- June 6, 1948, Chevy Chase, Maryland) was a flag officer of the United States Navy and inventor of the Navy Cipher Box (also called 'Naval Cipher Box' or 'Navy Code Box') issued in 1917.	Russell Willson	United States Navy
+military rank	Ahmed Muhiddin Piri (1465/70--1553), better known as Piri Reis (Turkish: Pîrî Reis or Hacı Ahmed Muhiddin Pîrî Bey), was an Ottoman admiral, geographer, and cartographer.	Piri Reis	admiral
+military rank	Admiral of the Fleet John Jervis, 1st Earl of St Vincent GCB, PC (9 January 1735 -- 14 March 1823) was an admiral in the Royal Navy and Member of Parliament in the United Kingdom.	John Jervis, 1st Earl of St Vincent	admiral
+military rank	Aluf Dan Biton (Hebrew: דן ביטון‎, born 1961) is a general in the Israel Defense Forces and the Head of the Technological and Logistics Directorate.	Dan Biton	Aluf
+military rank	Alpo K. Marttinen (4 November 1908 -- 20 December 1975) was a Finnish colonel.	Alpo K. Marttinen	colonel
+military rank	Isaac Hull (March 9, 1773 -- February 13, 1843) was a Commodore in the United States Navy.	Isaac Hull	Commodore
+mother	Christopher, Duke of Lolland (Danish: Christopher Valdemarsen; c. 1341/1344 -- 11 June 1363) was the son of King Valdemar IV of Denmark and his wife Helvig of Schleswig.	Christopher, Duke of Lolland	Helvig of Schleswig
+mother	Princess Leopoldina of Brazil (later Princess Ludwig August of Saxe-Coburg and Gotha; 13 July 1847 -- 7 February 1871) was a member of the Brazilian Imperial Family, the third child and second daughter of Emperor Pedro II of Brazil and his consort Teresa Cristina of the Two Sicilies.	Princess Leopoldina of Brazil	Teresa Cristina of the Two Sicilies
+mother	Johanna of Nassau-Dillenburg (c. 1444 -- c. 1468) was a daughter of Count John IV of Nassau and his wife Maria of Loon-Heinsberg.	Johanna of Nassau-Dillenburg	Maria of Loon-Heinsberg
+mother	Anne Devereux (c. 1430 in Bodenham -- after 25 June 1486), was the daughter of Sir Walter Devereux, the Lord Chancellor of Ireland, and his wife Elizabeth Merbury.	Anne Devereux	Elizabeth Merbury
+mother	Zenyatta is out of Vertigineux, and thus is a half-sister to multiple Grade I winner Balance.	Zenyatta	Vertigineux
+mouth of the watercourse	The River Camcor is a tributary of the Little Brosna River in central Ireland.	River Camcor	Little Brosna River
+mouth of the watercourse	The Tha River (Nam Tha) is a river in northwest Laos, and one of the 12 tributaries on the Mekong River.	Tha River	Mekong River
+mouth of the watercourse	The Leckner Ach, also called the Lecknerbach, is a right-hand tributary of the Bolgenach in Austria and Germany and about 9 kilometres long.	Leckner Ach	Bolgenach
+mouth of the watercourse	The Wakenitz is about 14.5 kilometers long and drains into the Trave in Lübeck.	Wakenitz	Trave
+mouth of the watercourse	Emerging from the wilderness region, the lower part of the Colo River flows through a scenic, narrow agricultural valley and reaches the Hawkesbury River at Lower Portland north of Windsor.	Colo River	Hawkesbury River
+named after	The Venturi effect is named after Giovanni Battista Venturi (1746--1822), an Italian physicist.	Venturi effect	Giovanni Battista Venturi
+named after	Murska Sobota Cathedral (Slovene: Stolna cerkev sv. Nikolaja) is a Roman Catholic cathedral dedicated to Saint Nicholas in the town of Murska Sobota, Slovenia.	Murska Sobota Cathedral	Saint Nicholas
+named after	In mathematics, the Hilbert cube, named after David Hilbert, is a topological space that provides an instructive example of some ideas in topology.	Hilbert cube	David Hilbert
+named after	In mathematics, Clarkson's inequalities, named after James A. Clarkson, are results in the theory of Lp spaces.	Clarkson's inequalities	James A. Clarkson
+named after	Following 20 years of American representation in the competition, in 2008 Paul Bocuse asked Daniel Boulud to establish a structure for the selection of Team USA, who along with Thomas Keller and Jérôme Bocuse form the Board of Directors of the Bocuse d'Or USA Foundation.	Bocuse d'Or USA	Paul Bocuse
+narrative location	H-2 Worker is a 1990 documentary film about the exploitation of Jamaican guest workers in Florida's sugar cane industry.	H-2 Worker	Florida
+narrative location	Saving Mr. Banks premiered at the London Film Festival on October 20, 2013, and was released theatrically that same year in the United Kingdom on November 29 and in the United States on December 13.	Saving Mr. Banks	London
+narrative location	Dark Reflections tells the story of Arnold Hawley, a gay, African-American poet who lives most of his life in New York City.	Dark Reflections	New York City
+narrative location	Tommy's Tale is a novel written by the actor Alan Cumming, centering on the life of a bisexual London resident named Tommy.	Tommy's Tale	London
+narrative location	The series chronicles the lives of the managers and employees of a tanning salon in Los Angeles called Sunset Tan.	Sunset Tan	Los Angeles
+native language	Johan Rudolph Thorbecke (14 January 1798 -- 4 June 1872) was a Dutch politician and statesman of Liberal signature, one of the most important Dutch politicians of the 19th century.	Johan Rudolph Thorbecke	Dutch
+native language	Jacques Ellul (French: (ɛlyl); January 6, 1912 -- May 19, 1994) was a French philosopher, law professor, sociologist, lay theologian, and Christian anarchist.	Jacques Ellul	French
+native language	Patrick Bruel (French: (patʁik bʁyɛl); born Patrick Benguigui (bɛnɡiɡi) on 14 May 1959) is a French singer, actor, and professional poker player of Jewish descent.	Patrick Bruel	French
+native language	Guy Marchand (born 22 May 1937) is a French actor, musician and singer.	Guy Marchand	French
+native language	Emilie Marie Nereng, also known as ``Voe'' (born 3 November 1995) is a Norwegian blogger and musician from Hønefoss.	Emilie Marie Nereng	Norwegian
+occupant	Aspire Dome was one of the venues of the 2006 Asian Games and the 2010 IAAF World Indoor Championships.	Aspire Dome	Asian Games
+occupant	Estádio do Club Athletico Paulistano, commonly known as Estádio Jardim América, was a football stadium located in São Paulo, Brazil.	Estádio Jardim América	Club Athletico Paulistano
+occupant	The Vicente Calderón Stadium (Spanish: Estadio Vicente Calderón (esˈtaðjo βiˈθente kaldeˈɾon)) is the home stadium of La Liga football club Atlético Madrid and is located in the Arganzuela district of Spanish capital Madrid.	Vicente Calderón Stadium	Atlético Madrid
+occupant	The Afghanistan Football Federation stadium is a football stadium in Kabul, Afghanistan and competition venue of all Clubs of the new Afghan Premier League.	Afghanistan Football Federation	Afghan Premier League
+occupant	Romema Arena brought new life to the city and the team, also hosting the Israeli Basketball Cup Final this past summer in which Maccabi Haifa B.C. beat Israeli and European powerhouse Maccabi Tel Aviv to win their first Championship in club history.	Romema Arena	Maccabi Haifa B.C.
+occupant	Gressbanen is the home venue of IF Ready, whose bandy team plays in the Norwegian Bandy Premier League and who fields 35 recreational football teams.	Gressbanen	IF Ready
+occupant	West Campus Field is a soccer-specific stadium located in Birmingham, Alabama, United States on the campus of the University of Alabama at Birmingham (UAB) that serves as the home field for both the UAB Blazers men's and women's soccer teams.	West Campus Field	UAB Blazers
+occupant	Ombilin Stadium is a football stadium in Sawahlunto, West Sumatra, It is currently used mostly for Football matches and is the home stadium of PS GAS Sawahlunto.	Ombilin Stadium	PS GAS Sawahlunto
+occupant	Belson Stadium is a soccer-specific stadium located along Utopia Parkway in Jamaica, Queens, New York on the Queens campus of St. John's University.	Belson Stadium	St. John's University
+occupant	The Avenue was a rugby union stadium and training pitches in Sunbury-on-Thames that belonged to the English club London Irish since 1931 when the team purchased 11 acres (4.5 ha) to establish a club there.	The Avenue	London Irish
+occupant	Merchiston Park (/ˈmɛrkɪstən/) was a football ground in Bainsford, near Falkirk, which was the home of East Stirlingshire F.C. between c.1882 and 1920.	Merchiston Park	East Stirlingshire F.C.
+occupant	Peoples Natural Gas Field is a 7,210-seat baseball-only stadium in Altoona, Pennsylvania that hosted its first regular season baseball game on April 15, 1999, as the tenants of the facility, the Altoona Curve defeated the Bowie Baysox, 6--1.	Peoples Natural Gas Field	Altoona Curve
+occupant	Maverick Stadium is a 12,500-seat multi-purpose stadium on the western edge of University of Texas at Arlington campus.	Maverick Stadium	University of Texas at Arlington
+occupant	Hampton Coliseum was one of several former homes of the American Basketball Association Virginia Squires professional basketball franchise .	Hampton Coliseum	Virginia Squires
+occupant	Glenn Field is the former home field for the Georgia Tech Yellow Jackets fast pitch softball team located in Midtown Atlanta, Georgia.	Glenn Field	Georgia Tech Yellow Jackets
+occupant	The James Brown Arena is the former home of the ECHL's Augusta Lynx from 1998--2008, the af2's Augusta Stallions from 2000--2002, the American Indoor Football Association's Augusta Colts from 2006-2008, and the Southern Professional Hockey League's Augusta RiverHawks from 2010--2013.	James Brown Arena	Augusta Lynx
+occupant	The Vienna International Centre (VIC) is the campus and building complex hosting the United Nations Office at Vienna (UNOV; in German: Büro der Vereinten Nationen in Wien).	Vienna International Centre	United Nations Office at Vienna
+occupant	The Stadio delle Alpi was a football and athletics stadium in Turin, Italy and was the home of both Juventus Football Club and Torino Football Club between 1990 and 2006.	Stadio delle Alpi	Torino Football Club
+occupant	Westfalenhallen (English: Halls of Westphalia) are three multi-purpose venues located in Dortmund, Germany.	Westfalenhallen	Dortmund
+occupant	La Caja Mágica (``The Magic Box'''), also known as the Manzanares Park Tennis Center, is a sports structure located at the Park Manzanares, used for the Madrid Masters tournament in Madrid, Spain.	Caja Mágica	Madrid Masters
+occupant	Gulfview Park was a ballpark located in Galveston, Texas, USA, and existed for five years use by the Texas League Galveston baseball clubs.	Gulfview Park	Texas League
+occupant	McLane Stadium replaced Floyd Casey Stadium as the home field for the Baylor Bears football program.	McLane Stadium	Baylor Bears football
+occupant	Coundon Road Stadium in Coventry was the home ground for Coventry R.F.C. from 1921 to 2004.	Coundon Road Stadium	Coventry R.F.C.
+occupant	Nou Mestalla (Valencian pronunciation: (ˈnɔw mesˈtaʎa)) is a partially built 61,500-seat football stadium in Valencia, Spain, intended as a replacement for Valencia CF's current stadium, Estadio Mestalla.	Nou Mestalla	Valencia CF
+occupant	The Pawtucket Slaters, a Class B affiliate of the Boston Braves, was the first team to call McCoy Stadium home.	McCoy Stadium	Pawtucket Slaters
+occupant	Fossetts Farm Stadium is the provisional name for a stadium proposed to be built in Southend-on-Sea as a new home for Southend United F.C. to replace Roots Hall Stadium.	Fossetts Farm Stadium	Southend United F.C.
+occupant	The two largest producers of Knights Valley AVA designated wines are Beringer Vineyards and Kendall Jackson Winery (under its Highland Estates label).	Knights Valley AVA	Beringer Vineyards	Kendall Jackson
+occupant	TD Bank Ballpark is a 6,100-seat baseball park in Bridgewater Township, New Jersey that is the home of the Somerset Patriots, who play in the Atlantic League of Professional baseball.	TD Bank Ballpark	Somerset Patriots
+occupant	Estádio Municipal de Portimão is the current stadium of Portimonense S.C..	Estádio Municipal de Portimão	Portimonense S.C.
+occupant	Williams-Brice Stadium is the home football stadium for the South Carolina Gamecocks, the college football team representing the University of South Carolina in Columbia, South Carolina.	Williams-Brice Stadium	South Carolina Gamecocks
+occupant	The only current permanent tenant is the Tulsa Oilers of the ECHL.The BOK Center was the former home of the Tulsa Shock of the Women's National Basketball Association and the Tulsa Talons of the Arena Football League.	BOK Center	Tulsa Shock
+occupant	25 North Colonnade is a commercial building in Canary Wharf, London occupied by the Financial Conduct Authority, after having been solely occupied by its predecessor, the Financial Services Authority (FSA) until early 2013.	25 North Colonnade	Financial Conduct Authority
+occupation	Wilbert David Dimock (November 27, 1846 -- August 23, 1930) was a Canadian teacher, principal, journalist and politician.	Wilbert David Dimock	politician
+occupation	Rabi Kinagi (alternative spellings: Ravi Kinagi, Rabi Kinnagi) is a Bengali and Oriya film director, editor and a script-writer.	Rabi Kinagi	film director
+occupation	Mallemala Shyam Prasad Reddy is a film producer in the Telugu film industry.	Shyam Prasad Reddy	film producer
+occupation	Joel Roberts Poinsett (March 2, 1779 -- December 12, 1851) was an American physician and diplomat.	Joel Roberts Poinsett	physician	diplomat
+occupation	Maxence Cyrin is a French pianist and composer living in Paris.	Maxence Cyrin	composer
+occupation	Sundar Narayana Rao (born: 30 January) is an Indian singer.	Sundar Narayana Rao	singer
+occupation	Richard Bassford (born 1936) is an American illustrator who has worked in both advertising and comic books.	Richard Bassford	illustrator
+occupation	Josepha Sherman (December 12, 1946 -- August 23, 2012) was an American author, folklorist, and anthologist.	Josepha Sherman	author
+occupation	Houston Fancher (born February 17, 1966) is an American basketball coach and the current associate head coach of the Charlotte 49ers men's basketball team under head coach Mark Price.	Houston Fancher	basketball coach
+occupation	Salvatore Interbartolo, better known as Sal Bartolo (November 5, 1917 -- February 19, 2002) was an American boxer and former WBA featherweight champion from March 1944 through May 1946.	Sal Bartolo	boxer
+occupation	Ernest Volkman (born December 31, 1940 in Huntington, New York) is an American author, investigative reporter, and journalist who writes about war, espionage, and the criminal underworld.	Ernest Volkman	journalist
+operating system	Nokia Fastlane is a user interface from Nokia, used on the Nokia Asha platform and Nokia X platform.	Nokia Fastlane	Nokia Asha platform
+operating system	Mixxx supports ASIO, WASAPI and DirectSound on Windows, OSS, ALSA, and JACK on Linux, and CoreAudio on Mac OS X, all via PortAudio.	Mixxx	Linux	OS X
+operating system	Free Download Manager is a free and open-source download manager for Microsoft Windows.	Free Download Manager	Microsoft Windows
+operating system	The software utility Cron is a time-based job scheduler in Unix-like computer operating systems.	Cron	Unix
+operating system	The Bat! is a shareware email client for the Microsoft Windows operating system, developed by Ritlabs, SRL, a company based in Chişinău, Moldova.	The Bat!	Microsoft Windows
+operating system	Shiira (シイラ, Japanese for the common dolphin-fish) is a discontinued open source web browser for the Mac OS X operating system.	Shiira	OS X
+operating system	MediaInfo supports Microsoft Windows XP or later, Mac OS X, Solaris and many Linux and BSD distributions.	MediaInfo	Linux
+original network	Jornal Nacional (Brazilian Portuguese: (ʒox'naw nasjo'naw); Portuguese for National News) is a Brazilian Emmy-winning primetime news program aired by Rede Globo since September 1, 1969.	Jornal Nacional	Rede Globo
+original network	Finding Giants is a documentary series aired on NFL Network that documents the lives of New York Giants scouts, in the quest to find the next NFL star.	Finding Giants	NFL Network
+original network	Don Francisco Presenta is a Spanish-language talk/reality show produced by Univision, and was hosted by Don Francisco.	Don Francisco Presenta	Univision
+original network	Season 2 of Keys to the VIP Premiered November 1, 2007 on The Comedy Network.	Keys to the VIP	The Comedy Network
+original network	Sanjay Gupta MD (previously House Call With Dr. Sanjay Gupta) was a medical-centric news program hosted by CNN's in-house physician, Sanjay Gupta.	Sanjay Gupta MD	CNN
+parent company	The Core Research Center is a facility run by the United States Geological Survey, located in ``F'' bay in building 810 on the Denver Federal Center campus.	Core Research Center	United States Geological Survey
+parent company	Dominion Enterprises was established in September 2006 by Landmark Media Enterprises (formerly Landmark Communications), following a division of assets of its predecessor company, Trader Publishing, between shared owners Landmark and Cox Enterprises.	Dominion Enterprises	Landmark Media Enterprises
+parent company	Continental Lite was a short lived ``airline within an airline'' brand of Continental Airlines established in 1993.	Continental Lite	Continental Airlines
+parent company	The Filmation studio was purchased by the TelePrompTer Corporation in 1969.	Filmation	TelePrompTer Corporation
+parent company	The Brazilian Agricultural Research Corporation (EMBRAPA - Portuguese: Empresa Brasileira de Pesquisa Agropecuária) is a state-owned research corporation affiliated with the Brazilian Ministry of Agriculture.	Brazilian Agricultural Research Corporation	Ministry of Agriculture
+parent company	Foodtown was a New Zealand supermarket chain owned by Progressive Enterprises.	Foodtown	Progressive Enterprises
+parent company	Mandarin Oriental Hotel Group (MOHG) (Traditional Chinese: 文華東方酒店), a member of the Jardine Matheson Group, is an international hotel investment and management group with luxury hotels, resorts and residences in Asia, Europe and the Americas.	Mandarin Oriental Hotel Group	Jardine Matheson
+parent company	In 2011, Sowind Group, the holding incorporating Girard-Perregaux, became a subsidiary of Kering.	Girard-Perregaux	Sowind Group
+parent company	KLM Cityhopper is the regional subsidiary of KLM Royal Dutch Airlines (part of the Air France-KLM group).	KLM Cityhopper	Air France-KLM
+parent company	E-Plus has been owned by Dutch telecommunications operator KPN since 2002.	E-Plus	KPN
+parent company	The Ypsilanti Courier is part of Heritage Newspapers, a conglomerate of weekly newspapers in Washtenaw County owned by 21st Century Media, part of Digital First Media.	Ypsilanti Courier	21st Century Media
+parent company	Paramount Pictures Corporation (commonly known as Paramount Studios or simply Paramount, and formerly known as Famous Players-Lasky Corporation) is a film studio, television production company and motion picture distributor, consistently ranked as one of the ``Big Six'' film studios of Hollywood.	Paramount Pictures	Famous Players-Lasky
+parent company	Interbrasil STAR S/A was a Brazilian airline founded in 1994 as a feeder airline to Transbrasil.	Interbrasil STAR	Transbrasil
+parent company	Essent is part of RWE AG. Essent has 2.3 million customers for electricity and about 2.0 million for gas.	Essent	RWE
+parent company	The Le Méridien brand was established in 1972 by Air France ``to provide on a home away from home for its customers.''	Le Méridien	Air France
+parent company	Telecinco Cinema, S.A.U. is a Spanish film production company owned by Mediaset España Comunicación.	Telecinco Cinema	Mediaset España
+parent company	Valdosta State University, also referred to as VSU, or Valdosta State, is an American public university and is one of the three regional universities in the University System of Georgia.	Valdosta State University	University System of Georgia
+parent company	Target Australia Pty Ltd (formerly Empororama and Lindsay's) is a mid-price department store chain and Australia's largest (by store number), owned by Wesfarmers.	Target Australia	Wesfarmers
+parent taxon	Pseudosenefeldera is a plant genus of the family Euphorbiaceae first described as a genus in 2001.	Pseudosenefeldera	Euphorbiaceae
+parent taxon	Pickersgill's reed frog (Hyperolius pickersgilli) is a species of frogs in the Hyperoliidae family endemic to South Africa.	Pickersgill's reed frog	Hyperolius
+parent taxon	Probole is a genus of moths in the family Geometridae, the geometer moths.	Probole	Geometridae
+parent taxon	The Naretha bluebonnet (Northiella narethae) is an Australian parrot, one of two species in the genus Northiella.	Naretha bluebonnet	Northiella
+parent taxon	Monstera is a genus of about 50 species of flowering plants in the arum family, Araceae, native to tropical regions of the Americas.	Monstera	Araceae
+participant of	Manus Boonjumnong (Thai: มนัส บุญจำนงค์; rtgs: Manat Bunchamnong, born June 23, 1980) is a Thai boxer who won the Olympics at Light Welterweight (60--64 kg) at the 2004 Summer Olympics .	Manus Boonjumnong	2004 Summer Olympics
+participant of	Bjørnar Andersen (born 1978), commonly Bjornar in English is a Norwegian refrigerator mechanic and dog musher who has won all the long-distance dog sled races in Norway, and placed fourth in the 2005 Iditarod across the U.S. state of Alaska, in his rookie outing.	Bjørnar Andersen	2005 Iditarod
+participant of	Mike Rawson (Michael Arthur Rawson; 26 May 1934 - 26 October 2000) was a track and field athlete, who represented Great Britain in the men's 800 metres at the 1956 Summer Olympics in Melbourne, Australia.	Mike Rawson	1956 Summer Olympics
+participant of	Rico Pontvianne (born 20 October 1943 in Tampico, Tamaulipas) is a Mexican former basketball player who competed in the 1964 Summer Olympics and in the 1968 Summer Olympics.	Rico Pontvianne	1964 Summer Olympics	1968 Summer Olympics
+participant of	Enrico Castelli (February 22, 1909 -- 1983) was an Italian basketball player who competed in the 1936 Summer Olympics.	Enrico Castelli	1936 Summer Olympics
+place of birth	Steven Burrows (born 2 March 1964 in Bromsgrove) is an English bassist and musician.	Steven Burrows	Bromsgrove
+place of birth	Count Johan Christopher Toll (1 February 1743 -- 21 May 1817), Swedish statesman and soldier, was born at Mölleröd in Scania (now part of Hässleholm Municipality, Skåne County).	Johan Christopher Toll	Scania
+place of birth	José Vital Branco Malhoa, known simply as José Malhoa (Caldas da Rainha, 28 April 1855 - Figueiró dos Vinhos, 26 October 1933) was a Portuguese painter.	José Malhoa	Caldas da Rainha
+place of birth	Cataldo Salerno (born 1951) is an Italian politician, and the President of the Province of Enna, in the centre of Sicily.	Cataldo Salerno	Enna
+place of birth	Barbara Romagnan was born 25 April 1974 in the city of Annecy.	Barbara Romagnan	Annecy
+place of birth	Anthony Suau (born 1956 Peoria, Illinois), is an American award-winning photojournalist.	Anthony Suau	Peoria
+place of death	Andrew Leamy (1810 Drom, County Tipperary, Ireland - April 21, 1868 in Hull, Quebec) was a pioneer industrialist and community leader in Wrightstown, Lower Canada, which became Hull, Quebec and is now incorporated into the City of Gatineau in the National Capital Region of Canada.	Andrew Leamy	Hull
+place of death	Joachim Piccolomini (1258 -- 10 April 1305), also known as Joachim of Siena, or, in Italian, Giovacchino Piccolomini, was an Italian Servite tertiary from Siena.	Joachim Piccolomini	Siena
+place of death	Franz Kossmat ( 22 August 1871 in Vienna -- 1 December 1938 in Leipzig) was an Austrian-German geologist, for twenty years the director of the Geological Survey of Saxony under both the kingdom and the subsequent German Republic.	Franz Kossmat	Leipzig
+place of death	Paul Due was born in Christiania as the son of Oluf Christian Due and Anna Catharine Vibe, and through his father a nephew of Prime Minister Frederik Due.	Paul Due	Christiania
+place of death	Enric Prat de la Riba i Sarrà was born on 29 November 1870 in Castellterçol rural town, Barcelona, Spain, to an affluent Roman Catholic conservative family.	Enric Prat de la Riba	Castellterçol
+position played on team / speciality	Shimon Gershon (Hebrew: שמעון גרשון‎; born October 6, 1977) is a retired Israeli national footballer and central defender.	Shimon Gershon	defender
+position played on team / speciality	Benjamin Lecomte (born 26 April 1991 in Paris) is a French football player who plays as a goalkeeper for French Ligue 1 club FC Lorient.	Benjamin Lecomte	goalkeeper
+position played on team / speciality	Kalin Bankov (born 12 May 1965) is a Bulgarian former international footballer who played professionally in Bulgaria and the United States as a defender.	Kalin Bankov	defender
+position played on team / speciality	Leon Powe, Jr. (/ˈpoʊ/; born January 22, 1984) is an American former professional basketball power forward.	Leon Powe	power forward
+position played on team / speciality	Marlon Maro played as a defender for the Philippine national team.	Marlon Maro	defender
+present in work	Martha Logan is a fictional character played by Jean Smart in the television series 24.	Martha Logan	24
+present in work	Christine Appleby (née Hardman) is a fictional character from the UK television ITV soap opera Coronation Street.	Christine Appleby	Coronation Street
+present in work	All-World is a fictional location in Stephen King's The Dark Tower series of novels.	All-World	The Dark Tower
+present in work	Butchie is a fictional blind man on HBO drama season The Wire, portrayed by S. Robert Morgan.	Butchie	The Wire
+present in work	Nastasya Filipovna Barashkova is the principal heroine in Fyodor Dostoyevsky's novel The Idiot, based on Polina Suslova.	Nastasya Filipovna	The Idiot
+publication date	The Limejuice Mystery or Who Spat in Grandfather's Porridge? is a 1930 British marionette film directed by Jack Harrison.	The Limejuice Mystery or Who Spat in Grandfather's Porridge?	1930
+publication date	Italiano medio (lit. ``Average Italian Man'') is a 2015 Italian comedy film written, directed and starred by Maccio Capatonda.	Italiano medio	2015
+publication date	Dreams on Spec is a 2007 American documentary film that profiles the struggles and triumphs of emerging Hollywood screenwriters.	Dreams on Spec	2007
+publication date	Terry Pratchett's Hogfather is a two-part television adaptation of Hogfather by Terry Pratchett, produced by The Mob, and first broadcast on Sky One, and in High Definition on Sky1 HD, over Christmas 2006.	Terry Pratchett's Hogfather	2006
+publication date	Autour d'une cabine (Around A Cab), original full title Autour d'une cabine ou Mésaventures d'un copurchic aux bains de mer (Around a cabin or a copurchic Misadventures at the seaside), is an 1894 French short animated film directed by Émile Reynaud.	Autour d'une cabine	1894
+publisher	Dodd Mead and Company, 10 March 1935, 304 pp. Death in the Clouds (hardcover), London:	Death in the Clouds	Dodd Mead and Company
+publisher	Psychology in the Schools is a peer-reviewed academic journal published ten times per year by Wiley-Blackwell.	Psychology in the Schools	Wiley-Blackwell
+publisher	Freeway Fighter is a single-player roleplaying gamebook written by Ian Livingstone, illustrated by Kevin Bulmer and originally published in 1985 by Puffin Books.	Freeway Fighter	Puffin Books
+publisher	/usr/bin/god was a planned hard science fiction novel by Cory Doctorow, originally intended to be published by Tor Books.	/usr/bin/god	Tor Books
+publisher	The Real Frank Zappa Book is an autobiography/memoir by Frank Zappa, co-written by Peter Occhiogrosso, and published by Poseidon Press.	The Real Frank Zappa Book	Poseidon Press
+record label	The Moon & Antarctica is the third full-length album by American rock band Modest Mouse, first released by Epic Records on June 13, 2000.	The Moon & Antarctica	Epic Records
+record label	El Momento (English: The Moment) is the second studio album of Jowell y Randy which was released by WY Records.	El Momento	WY Records
+record label	Cosmicolor is the 5th studio album by M-Flo, released on March 28, 2007 on the Rhythm Zone label.	Cosmicolor	Rhythm Zone
+record label	Figure imposée (Compulsory routine) is the fifth album by French rocker Alain Bashung, issued in 1983 on Philips Records.	Figure imposée	Philips Records
+record label	Like all of Samhain's discography, and most of Danzig's prior work with the Misfits, Final Descent was originally released on Danzig's independent record label Plan 9, distributed by Caroline Records.	Final Descent	Caroline Records
+screenwriter	Criminal Lovers (French title: Les Amants Criminels) is a 1999 psychological thriller film by French director François Ozon.	Criminal Lovers	François Ozon
+screenwriter	Vishwaroopam (titled Vishwaroop in Hindi) is a 2013 Indian spy thriller film written, directed and co-produced by Kamal Haasan who also enacts the lead role.	Vishwaroopam	Kamal Haasan
+screenwriter	Manivathoorile Aayiram Sivarathrikal (English:The 1000 Sivarathries of Manivathoor) is 1987 Malayalam film starring Mammootty and directed by Fazil.	Manivathoorile Aayiram Sivarathrikal	Fazil
+screenwriter	The Song of Ceylon is a 1934 British documentary film directed by Basil Wright and produced by John Grierson for the Ceylon Tea Propaganda Board.	The Song of Ceylon	John Grierson
+screenwriter	Um das Menschenrecht is a 1934 German film directed by Hans Zöberlein and Ludwig Schmid-Wildy.	Um das Menschenrecht	Hans Zöberlein
+series	``Sailor Mouth'' is the first segment of the 18th episode of the second season, or the 38th overall episode of the American animated television series SpongeBob SquarePants.	Sailor Mouth	SpongeBob SquarePants
+series	Road of the Patriarch is the third book in The Sellswords series of the Forgotten Realms fantasy novel collection written by R. A. Salvatore.	Road of the Patriarch	The Sellswords
+series	``A Scandal in Belgravia'' is the first episode of the second series of the BBC crime drama series Sherlock, which follows the modern-day adventures of Sherlock Holmes, and was first broadcast by BBC One on 1 January 2012.	A Scandal in Belgravia	Sherlock
+series	``Children of a Lesser Clod'' is the 20th episode of The Simpsons' twelfth season, first airing on the Fox network in the United States on May 13, 2001.	Children of a Lesser Clod	The Simpsons
+series	``The Busboy'' is the 17th episode of Seinfeld to air, despite being the eighth produced.	The Busboy	Seinfeld
+service entry	The Tiuna was created to compete with the American-made Humvee, which was first shown to the public on July 20, 2004.	Tiuna	2004
+service entry	State testing began on 24 November 1974, and the Kh-25 entered production in 1975.	Kh-25	1975
+service entry	The Tralee and Dingle Light Railway (TDLR) locomotives 1, 2, 3, 6, and 8 were 2-6-0T locomotives manufactured by the Hunslet Engine Company of Leeds, England between 1889 and 1910.	Tralee and Dingle Light Railway	1889
+service entry	Locomotive 3642 is two-cylinder, simple, non-condensing, coal-fired superheated, 4-6-0 36 Class express passenger steam locomotive for the New South Wales Government Railways built in 1926 by Clyde Engineering.	3642	1926
+service entry	The Canon de 75 mle TR was a field gun used by Belgium during World War I and World War II. It was a license-built copy of the Krupp M 1905 gun.	Canon de 75 mle TR	1905
+service entry	British Rail 18100 was a prototype main line gas turbine-electric locomotive built for British Railways in 1951 by Metropolitan-Vickers, Manchester.	British Rail 18100	1951
+service entry	The baseline R-77 was designed in the 1980s, with development complete by around 1994.	R-77	1994
+service entry	LMS diesel shunter 7050 is an experimental 0-4-0 diesel-mechanical shunting locomotive, introduced by the London Midland and Scottish Railway (LMSR) in 1934 and which remained in service with that railway for six years.	LMS diesel shunter 7050	1934
+service entry	The T-28 tank was officially approved on 11 August 1933.	T-28	1933
+sex or gender	Tirzah Firestone is a prominent Jewish Renewal rabbi, as well as an author of books on female figures in Jewish mysticism and the Kabbalah, a Jungian psychotherapist, and spiritual leader of Congregation Nevei Kodesh in Boulder, Colorado.	Tirzah Firestone	female
+sex or gender	Anna Brandoli (born 25 July 1945) is an Italian female comic book artist.	Anna Brandoli	female
+sex or gender	Agnodice or Agnodike (Ancient Greek: Ἀγνοδίκη, (aŋnodíkɛː) c. 4th century BCE) was the first female Athenian physician, midwife, and gynaecologist, whose story was recorded by Gaius Julius Hyginus.	Agnodice	female
+sex or gender	Lee Kuo-ting (Chinese: 李國定) (born 16 November 1938) is a former male table tennis player from Taiwan.	Lee Kuo-ting	male
+sex or gender	Scott Turner Schofield is a transgender male performer.	Scott Turner Schofield	male
+sister	Ahmose I followed in the tradition of his father and married several of his sisters, making Ahmose-Nefertari his chief wife.	Ahmose I	Ahmose-Nefertari
+sister	Cordelia Frost is the younger sister of Emma and Adrienne Frost, as well as being the youngest of the four Frost siblings.	Cordelia Frost	Adrienne Frost
+sister	Nero was married to Britannicus' sister Claudia Octavia and named joint-heir with Britannicus until such time as the latter came of age.	Britannicus	Claudia Octavia
+sister	In the published version of The Silmarillion, Orodreth (IPA: (oˈrodreθ)) was an Elf of the First Age, the second son of Finarfin (with Finrod Felagund, Angrod, Aegnor, and Galadriel being his siblings), and a ruler of Nargothrond.	Orodreth	Galadriel
+sister	Gaius Julius Agrippa (Greek: Γαίος Ιούλιος Άγρίππας, about 72 -- before 150) was a Cilician Prince and the first-born son of King Gaius Julius Alexander and Queen Julia Iotapa of Cetis.	Gaius Julius Agrippa	Julia Iotapa
+sister	John Blyth Barrymore III was born to John Drew Barrymore and Cara Williams.	John Blyth Barrymore	Drew Barrymore
+sister	After the battle of Hastings, Morcar and his brother arrived at London, sent their sister Ealdgyth, Harold's widow, to Chester, and urged the citizens to raise one or other of them to the throne.	Morcar	Ealdgyth
+sister	Jan Harlan (born May 5, 1937, Karlsruhe, Germany) is an American executive producer and the brother of Christiane Kubrick, director Stanley Kubrick's widow.	Jan Harlan	Christiane Kubrick
+sister	Per Lasson (April 18, 1859 -- June 6, 1883 in Christiania) was a Norwegian composer, brother of Norwegian painter Oda Krohg.	Per Lasson	Oda Krohg
+site of astronomical discovery	7387 Malbil (1982 BS1) is a main-belt asteroid discovered on January 30, 1982 by E. Bowell at the Anderson Mesa Station of the Lowell Observatory.	7387 Malbil	Anderson Mesa Station
+site of astronomical discovery	1373 Cincinnati, provisional designation 1935 QN, is an asteroid of the outer main-belt, discovered by the famous American astronomer Edwin Hubble at Mount Wilson Observatory on August 30, 1935.	1373 Cincinnati	Mount Wilson Observatory
+site of astronomical discovery	1186 Turnera, provisional designation 1929 PL, is a main-belt asteroid discovered on August 1, 1929, by Cyril Jackson at Johannesburg Union Observatory in South Africa.	1186 Turnera	Union Observatory
+site of astronomical discovery	3689 Yeates (1981 JJ2) is a main-belt asteroid discovered on May 5, 1981 by C. Shoemaker at Palomar Observatory.	3689 Yeates	Palomar Observatory
+site of astronomical discovery	4217 Engelhardt is a main-belt asteroid, discovered on January 24, 1988 by Carolyn S. Shoemaker at Palomar Observatory.	4217 Engelhardt	Palomar Observatory
+site of astronomical discovery	878 Mildred was originally discovered in 1916 using the 1.5 m Hale Telescope at the Mount Wilson Observatory, but was subsequently lost until it was again observed on single nights in 1985 and 1991 (a lost asteroid).	878 Mildred	Mount Wilson Observatory
+site of astronomical discovery	1370 Hella (1935 QG) is a main-belt asteroid discovered on August 31, 1935, by Karl Reinmuth from the Landessternwarte Heidelberg-Königstuhl observatory in Heidelberg, Germany.	1370 Hella	Landessternwarte Heidelberg-Königstuhl
+site of astronomical discovery	15350 Naganuma (1994 VB2) is a main-belt asteroid discovered on November 3, 1994, by Yoshio Kushida and Osamu Muramatsu at the Yatsugatake South Base Observatory.	15350 Naganuma	Yatsugatake South Base Observatory
+site of astronomical discovery	3290 Azabu (1973 SZ1) is an outer main-belt asteroid discovered on September 19, 1973 by Cornelis Johannes van Houten, Ingrid van Houten-Groeneveld and Tom Gehrels at Palomar Observatory.	3290 Azabu	Palomar Observatory
+sport	Wayne Yates (born November 7, 1937) is a retired American basketball player and coach.	Wayne Yates	basketball
+sport	The 2009 CFL season was the 56th season of modern professional Canadian football.	2009 CFL season	Canadian football
+sport	Fiorella Bonicelli (born December 21, 1951) is a retired professional tennis player from Uruguay.	Fiorella Bonicelli	tennis
+sport	The Mullumbimby Giants are a rugby league side from Mullumbimby, New South Wales, Australia who compete in the Northern Rivers Regional Rugby League competition.	Mullumbimby Giants	rugby league
+sport	Antwerp Giants, named Port of Antwerp Giants for sponsorship reasons, is a Belgian professional basketball club based in Antwerp.	Antwerp Giants	basketball
+spouse	Irene Hayes (1896 -- September 16, 1975) was a Ziegfeld girl and businesswoman who owned Irene Hayes Wadley & Smythe, a leading Manhattan florist, and Gallagher's Steak House after the death of her husband, Jack Solomon.	Irene Hayes	Jack Solomon
+spouse	Abimbola Fashola (born April 6, 1965) is a former First Lady of Lagos State and spouse of Babatunde Fashola.	Abimbola Fashola	Babatunde Fashola
+spouse	Teresa Gil de Vidaure (died on 15 July 1285) was the common law wife of King James I of Aragon, but never a queen.	Teresa Gil de Vidaure	James I of Aragon
+spouse	Armgard von Cramm (German: Armgard Kunigunde Alharda Agnes Oda von Cramm; 18 December 1883 -- 27 April 1971) was the mother of Prince Bernhard of Lippe-Biesterfeld, Prince consort of Queen Juliana of the Netherlands.	Armgard von Cramm	Prince Bernhard of Lippe-Biesterfeld
+spouse	Jewna (Belarusian: Еўна, Lithuanian: Jaunė, literally, young woman; died ca. 1344) was daughter of Prince Ivan of Polatsk and wife of Gediminas, the Grand Duke of Lithuania, Ruthenia and Samogitia (1316--1341).	Jewna	Gediminas
+taxon rank	Euchemotrema fraternum is a species of air-breathing land snail, a terrestrial pulmonate gastropod mollusk in the family Polygyridae.	Euchemotrema fraternum	species
+taxon rank	The only described species Tamigalesus munnaricus is endemic to Sri Lanka.	Tamigalesus	species
+taxon rank	The One-colored Catasetum (Catasetum purum) is a species of orchid found in Brazil.	Catasetum purum	species
+taxon rank	Tuberculobasis williamsoni is a species of damselfly in the family Coenagrionidae first identified in Colombia and Venezuela.	Tuberculobasis williamsoni	species
+taxon rank	Zospeum biscaiense is a species of air-breathing land snail, a terrestrial pulmonate gastropod mollusk in the family Ellobiidae, the salt marsh snails.	Zospeum biscaiense	species
+taxon rank	Copromorphoidea, the ``fruitworm moths'' is a superfamily of insects in the lepidopteran order.	Copromorphoidea	superfamily
+taxon rank	Megacephala aptera is a species of ground beetle in the subfamily of Carabinae that was described by Chaudoir in 1862, and can be found in Mato Grosso, Brazil.	Megacephala aptera	species
+time of spacecraft launch	Proba-V was launched from ELA-1 at Guiana Space Centre on board the second launch of the Vega rocket on 7 May 2013 together with the Vietnamese VNREDSat 1A satellite, and Estonia's first satellite, ESTCube-1.	Proba-V	7 May 2013
+time of spacecraft launch	The launch occurred at 14:29:48 UTC on 21 November 1967, and resulted in Kosmos 191's successful deployment into low Earth orbit.	Kosmos 191	21 November 1967
+time of spacecraft launch	Progress M-10M (Russian: Прогресс М-10М), identified by NASA as Progress 42 or 42P, is a Progress spacecraft which was launched on 27 April 2011 to resupply the International Space Station.	Progress M-10M	27 April 2011
+time of spacecraft launch	Arabsat-1B was launched aboard Space Shuttle Discovery on mission STS-51-G. Discovery was launched from LC-39A at the Kennedy Space Center at 11:33:00 GMT on 17 June 1985.	Arabsat-1B	17 June 1985
+time of spacecraft launch	OSO 7 was launched from Cape Canaveral on 29 September 1971 by a Delta N rocket into a 33.1° inclination, low-Earth (initially 321 by 572 km) orbit, and re-entered the Earth's atmosphere on 9 July 1974.	OSO 7	29 September 1971
+time of spacecraft launch	Nilesat 201, is an Egyptian communications satellite, which was launched on 4 August 2010.	Nilesat 201	4 August 2010
+voice type	Timothy Nolen (born July 9, 1941) is an American actor and baritone who has had an active career in operas, musicals, concerts, plays, and on television for over four decades.	Timothy Nolen	baritone
+voice type	Bárbara Padilla (/pəˈdiːə/; born December 9, 1973) is a Mexican-American operatic soprano.	Bárbara Padilla	soprano
+voice type	Agostino Rovere (1804, Monza - 1865, New York City) was an Italian operatic bass.	Agostino Rovere	bass
+voice type	Hervey Alan (22 February 1910, Whitstable - 12 January 1982, Croydon) was an English operatic bass and voice teacher.	Hervey Alan	bass
+voice type	Luis Lima (born 12 September 1948 in Córdoba, Argentina) is an Argentine operatic tenor, who studied in Buenos Aires under Carlos Guichandut and in Sicily under Gina Cigna.	Luis Lima	tenor
